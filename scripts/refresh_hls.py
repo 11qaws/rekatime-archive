@@ -73,7 +73,9 @@ def chzzk_sessions():
     path = DATA / "sessions.json"
     if not path.exists():
         raise SystemExit("sessions.json 이 없습니다: %s" % path)
-    rows = json.loads(path.read_text(encoding="utf-8"))
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    # 작업본은 배열, 배포본은 {"sessions": [...]} 다. 둘 다 받는다.
+    rows = raw.get("sessions", []) if isinstance(raw, dict) else raw
     return [s for s in rows if s.get("platform") == "chzzk"]
 
 
@@ -132,7 +134,7 @@ def main():
     if not fresh:
         raise SystemExit("한 건도 받지 못했습니다. 기존 파일을 그대로 둡니다.")
 
-    ARTIFACTS.mkdir(parents=True, exist_ok=True)
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(
         {"generated_at": int(time.time()), "sessions": fresh},
         ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
