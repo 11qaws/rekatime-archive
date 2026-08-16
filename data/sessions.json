@@ -1,0 +1,44 @@
+{
+ "sessions": [
+  {
+   "date": "2026-07-14",
+   "platform": "youtube",
+   "video_id": "YzJm-mk52WM"
+  },
+  {
+   "date": "2026-07-20",
+   "platform": "youtube",
+   "video_id": "UBCB2e0Aik4"
+  },
+  {
+   "date": "2026-07-28",
+   "platform": "chzzk",
+   "video_id": "14411850"
+  },
+  {
+   "date": "2026-07-29",
+   "platform": "youtube",
+   "video_id": "ZFMg5irJJU8"
+  },
+  {
+   "date": "2026-08-04",
+   "platform": "chzzk",
+   "video_id": "14524675"
+  },
+  {
+   "date": "2026-08-07",
+   "platform": "chzzk",
+   "video_id": "14575080"
+  },
+  {
+   "date": "2026-08-09",
+   "platform": "chzzk",
+   "video_id": "14617716"
+  },
+  {
+   "date": "2026-08-14",
+   "platform": "chzzk",
+   "video_id": "14693102"
+  }
+ ]
+}
