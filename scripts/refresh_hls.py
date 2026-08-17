@@ -49,8 +49,18 @@ def describe(url, now=None):
 
 
 def chzzk_hls(video_id):
-    """로그인 없이 받는 다시보기 HLS 주소. 못 받으면 빈 문자열."""
+    """로그인 없이 받는 다시보기 HLS 주소.
+
+    돌려주는 값은 (주소, 상태) 입니다. 상태는 셋 중 하나입니다.
+      ""      받았다
+      "gone"  영상이 치지직에서 사라졌다(404) — 다시 시도해도 소용없다
+      "fail"  일시적 실패 — 다음 주기에 다시 받으면 된다
+
+    둘을 구분하는 이유: 사라진 영상은 링크를 눌러도 죽은 페이지로 간다.
+    화면에서 미리 밝혀 두려면 "못 받았다"와 "없어졌다"를 나눠야 한다.
+    """
     import urllib.request
+    import urllib.error
 
     url = "https://api.chzzk.naver.com/service/v3/videos/%s" % video_id
     request = urllib.request.Request(url, headers={
@@ -60,13 +70,19 @@ def chzzk_hls(video_id):
             content = json.loads(response.read().decode("utf-8")).get("content") or {}
         raw = content.get("liveRewindPlaybackJson")
         if not raw:
-            return ""
+            return "", "fail"
         for media in (json.loads(raw).get("media") or []):
             if media.get("protocol") == "HLS" and media.get("path"):
-                return media["path"]
+                return media["path"], ""
+        return "", "fail"
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            print("  ! %s 영상이 치지직에 없습니다 (404)" % video_id)
+            return "", "gone"
+        print("  ! %s 주소를 못 받았습니다: HTTP %d" % (video_id, exc.code))
     except Exception as exc:
         print("  ! %s 주소를 못 받았습니다: %s" % (video_id, exc))
-    return ""
+    return "", "fail"
 
 
 def chzzk_sessions():
@@ -118,14 +134,18 @@ def main():
         return
 
     print("\n주소를 다시 받는 중…")
-    fresh, failed = {}, 0
+    fresh, failed, gone = {}, 0, []
     for s in sessions:
-        url = chzzk_hls(s["video_id"])
+        url, why = chzzk_hls(s["video_id"])
         if not url:
+            if why == "gone":
+                # 사라진 영상은 기존 주소를 남겨 둘 이유가 없다 — 눌러도 죽은 페이지다.
+                gone.append({"date": s["date"], "video_id": s["video_id"]})
+                continue
             failed += 1
             keep = current.get(s["date"])
             if keep:
-                fresh[s["date"]] = keep       # 실패했으면 기존 값을 지우지 않는다
+                fresh[s["date"]] = keep       # 일시적 실패면 기존 값을 지우지 않는다
             continue
         fresh[s["date"]] = {"url": url, "exp": expires_at(url)}
         text, _ = describe(url)
@@ -136,7 +156,7 @@ def main():
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(
-        {"generated_at": int(time.time()), "sessions": fresh},
+        {"generated_at": int(time.time()), "sessions": fresh, "gone": gone},
         ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     left = min((describe(v["url"])[1] for v in fresh.values()), default=0.0)
