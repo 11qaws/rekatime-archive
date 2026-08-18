@@ -21,6 +21,12 @@ import re
 import sys
 import time
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+
 HERE = pathlib.Path(__file__).resolve().parent
 WORKSPACE = HERE.parent
 # 작업 폴더에서는 workspace/data → artifacts/hls.json 이지만,
