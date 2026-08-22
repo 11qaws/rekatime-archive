@@ -9,8 +9,9 @@
 | `/` | 최근 방송 — 대표 장면과 셋리스트 |
 | `/main.html?broadcast=<session_id>` | 선택한 방송을 최근 방송 프레임에서 보기 |
 | `/archive.html` | 월간 방송 목록과 월간 흐름 |
-| `/song.html` | 노래 카드 검색과 개별 노래 기록 |
+| `/song.html` | 노래 목록 검색과 개별 노래 기록 |
 | `/stats.html` | 방송을 겹쳐야 보이는 것 |
+| `/info.html` | 팬메이드 안내와 방송 등재·기록 원칙 |
 
 운영 주소는 Cloudflare Pages의 `https://rekatime.pages.dev`를 사용합니다.
 
