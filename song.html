@@ -347,10 +347,10 @@
       cursor: pointer; padding: 0;
     }
 
-    /* 엄지에 닿는 자리. 4개 핵심 탭 균등 배치 */
+    /* 엄지에 닿는 자리. 5개 핵심 탭 균등 배치 */
     .mtabs {
       position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(5, 1fr);
       background: var(--surface); border-top: 1px solid var(--line-soft);
       padding-bottom: env(safe-area-inset-bottom, 0);
     }
@@ -1379,6 +1379,7 @@
       { id: "archive", label: "월간 정리", label2: "월간", href: "archive.html", icon: "▦" },
       { id: "song",    label: "노래",      label2: "노래", href: "song.html",    icon: "♫" },
       { id: "stats",   label: "통계",      label2: "통계", href: "stats.html",   icon: "◫" },
+      { id: "info",    label: "사이트 정보", label2: "정보", href: "info.html",   icon: "ⓘ" },
     ];
 
     /* ── PC: 왼쪽 기둥 ── */

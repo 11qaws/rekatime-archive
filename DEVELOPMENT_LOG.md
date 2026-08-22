@@ -1,5 +1,33 @@
 # Development log
 
+## 2026-08-22 (Claude 쪽 대행) — "사이트 정보" 탭 신설 (배포 v1.1.9)
+
+- 요청: 통계 페이지 맨 아래 있던 팬메이드 저작권 안내를, 별도 "사이트 정보" 탭으로
+  옮기고 방송 등재 조건(유튜브/치지직)도 함께 설명해 달라는 요청.
+- **새 페이지 `info.html`**: `stats.html`의 head·`<style>`·`buildNav` 스크립트를
+  그대로 재사용하되, 통계 전용 CSS(kpis·genre-comp·boxplots·matrix·unknown 등)는
+  빼고 header/section/footer 뼈대만 남겼다. `main.html`·`song.html`·`archive.html`·
+  `broadcast.html`·`stats.html` 5개 파일의 내비 `ITEMS` 배열에 `{ id: "info", ... }`
+  항목을 추가하고, 모바일 탭 바 `grid-template-columns`를 `repeat(4, 1fr)` →
+  `repeat(5, 1fr)`로 맞췄다(하드코딩된 4분할이라 5번째 탭이 그냥 추가되면 안 됨).
+  `index.html`은 `main.html`과 바이트 단위로 같아야 하는 `--pages` 빌드 규칙(위
+  8/21 기록 참고)이라 동일하게 갱신했다.
+- **`stats.html` 변경**: 하단 `.copyright-info` 문단과 관련 CSS 2줄을 제거(내용은
+  `info.html`로 이동).
+- **`info.html` 내용**: (1) 팬메이드 안내 — 기존 문구를 "이 페이지는" → "이
+  사이트는"으로만 다듬어 재사용. (2) 방송 등재 조건 — 노래방송만 집계, 재생
+  가능 여부는 유튜브·치지직에 영상이 실제로 남아 있는지가 기준, 치지직↔유튜브
+  페어링 시 유튜브 우선, 한쪽이 사라지면 남은 쪽 재생·둘 다 사라지면 기록만
+  보존(실제 로직은 `player.js`/`import_rekatime.py`의 페어링·배지 판정을 근거로
+  작성). (3) 방송 제목 선정 방법 — `rekatime/content/automation/title_resolver.py`의
+  "가장 오래 걸린 노래 방송 제목 원칙"(노래 구간 동안 가장 오래 걸려 있던 제목을
+  대표 제목으로 채택)을 그대로 설명. (4) 기록 정확도 안내 — 2026년 8월까지의
+  기록은 집계 시스템 개발 중 모은 데이터라 부정확할 수 있다는 안내.
+- **검증**: 로컬 서버(`python -m http.server`)로 데스크톱·모바일(375px) 양쪽에서
+  5개 탭 렌더링·`aria-current` 하이라이트·콘솔 에러 0건 확인. `index.html`과
+  `main.html`이 diff 없이 동일함을 확인.
+- **버전**: 신규 페이지·내비 확장, SemVer Patch 상승 (`1.1.8 → 1.1.9`).
+
 ## 2026-08-22 (Claude 쪽 대행) — 인트로 카드 좌상단 드리프트 제거 (배포 v1.1.8)
 
 - "가운데로 올라오는 크기와 펼쳐지는 크기가 좀 달라서 미세하게 좌상단으로

@@ -338,8 +338,6 @@
 
   footer { color: var(--faint); font-size: 14px; border-top: 1px solid var(--line-soft); padding-top: 24px; }
   footer p { margin: 0 0 8px; }
-  .copyright-info { margin-top: 20px; max-width: 72ch; }
-  .copyright-info strong { display: block; margin-bottom: 4px; color: var(--dim); font-weight: 600; }
   a { color: inherit; }
 
   @media (prefers-reduced-motion: reduce) {
@@ -439,10 +437,10 @@
       cursor: pointer; padding: 0;
     }
 
-    /* 엄지에 닿는 자리. 4개 핵심 탭 균등 배치 */
+    /* 엄지에 닿는 자리. 5개 핵심 탭 균등 배치 */
     .mtabs {
       position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; display: grid;
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(5, 1fr);
       background: var(--surface); border-top: 1px solid var(--line-soft);
       padding-bottom: env(safe-area-inset-bottom, 0);
     }
@@ -518,10 +516,6 @@
   <footer>
     <p>곡 검출·경계 판정·노래책 매칭은 rekatime이 수행하고, 이 페이지는 그 결과를 집계만 합니다.</p>
     <p id="footer-source"></p>
-    <p class="copyright-info">
-      <strong>저작권 정보</strong>
-      이 페이지는 팬메이드 작업으로, SCON과 교환학생, 유레카의 공식 콘텐츠가 아닙니다. 또한 2차 창작 가이드라인을 준수하여 운영합니다.
-    </p>
   </footer>
 </div>
 
@@ -581,6 +575,7 @@
       { id: "archive", label: "월간 정리", label2: "월간", href: "archive.html", icon: "▦" },
       { id: "song",    label: "노래",      label2: "노래", href: "song.html",    icon: "♫" },
       { id: "stats",   label: "통계",      label2: "통계", href: "stats.html",   icon: "◫" },
+      { id: "info",    label: "사이트 정보", label2: "정보", href: "info.html",   icon: "ⓘ" },
     ];
 
     /* ── PC: 왼쪽 기둥 ── */
