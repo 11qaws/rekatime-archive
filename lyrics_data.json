@@ -3,7 +3,7 @@
     {
       "song_num": "001",
       "title": "Mela!",
-      "youtube_base": 4243.66,
+      "youtube_base": 4238.36,
       "cues": [
         {
           "start": 5.1,
@@ -367,7 +367,7 @@
     {
       "song_num": "002",
       "title": "언노운 마더 구스 (アンノウン・マザーグース)",
-      "youtube_base": 4830.2,
+      "youtube_base": 4824.9,
       "cues": [
         {
           "start": 5.3,
@@ -934,7 +934,7 @@
     {
       "song_num": "006",
       "title": "패배의 소년 (敗北の少年)",
-      "youtube_base": 6710.24,
+      "youtube_base": 6704.94,
       "cues": [
         {
           "start": 15.826,
@@ -1172,235 +1172,235 @@
     {
       "song_num": "007",
       "title": "멜트 (メルト)",
-      "youtube_base": 7155.3,
+      "youtube_base": 7150.0,
       "cues": [
         {
-          "start": 25.357,
-          "end": 31.357,
+          "start": 27.78,
+          "end": 30.52,
           "motif": "sound",
           "ja": "朝　目が覚めて",
           "ko": "아침 눈을 뜨고"
         },
         {
-          "start": 32.0,
-          "end": 35.68,
+          "start": 30.52,
+          "end": 37.62,
           "motif": "sound",
           "ja": "真っ先に思い浮かぶ　君のこと",
           "ko": "가장 먼저 떠오른 너"
         },
         {
-          "start": 35.74,
-          "end": 39.78,
+          "start": 40.24,
+          "end": 44.42,
           "motif": "sound",
           "ja": "思い切って　前髪を切った",
           "ko": "큰맘 먹고 앞머리를 잘랐어"
         },
         {
-          "start": 39.84,
-          "end": 45.84,
+          "start": 44.42,
+          "end": 48.92,
           "motif": "sound",
           "ja": "「どうしたの？」って　聞かれたくて",
           "ko": "무슨 일이야 하고 물어봐 주길 바라며"
         },
         {
-          "start": 46.26,
-          "end": 51.94,
+          "start": 50.14,
+          "end": 56.4,
           "motif": "sound",
           "ja": "ピンクのスカート　お花の髪飾り",
           "ko": "분홍 치마 꽃 모양 머리 장식"
         },
         {
-          "start": 52.0,
-          "end": 55.26,
+          "start": 56.4,
+          "end": 59.26,
           "motif": "sound",
           "ja": "さして　出かけるの",
           "ko": "꽂고 나가는 거야"
         },
         {
-          "start": 55.32,
-          "end": 61.32,
+          "start": 59.26,
+          "end": 65.28,
           "motif": "sound",
           "ja": "今日の私は かわいいのよ！",
           "ko": "오늘의 나는 귀엽거든"
         },
         {
-          "start": 62.32,
-          "end": 66.3,
+          "start": 65.28,
+          "end": 68.84,
           "motif": "sound",
           "ja": "メルト　溶けてしまいそう",
           "ko": "멜트 녹아 버릴 것 같아"
         },
         {
-          "start": 66.36,
-          "end": 71.06,
+          "start": 68.84,
+          "end": 75.0,
           "motif": "sound",
           "ja": "好きだなんて　絶対にいえない…",
           "ko": "좋아한다니 절대 말할 수 없어"
         },
         {
-          "start": 71.12,
-          "end": 76.42,
+          "start": 75.0,
+          "end": 80.58,
           "motif": "sound",
           "ja": "だけど　メルト　目も合わせられない",
           "ko": "하지만 멜트 눈도 마주칠 수 없어"
         },
         {
-          "start": 76.48,
-          "end": 82.48,
+          "start": 81.2,
+          "end": 85.94,
           "motif": "sound",
           "ja": "恋に恋なんてしないわ　わたし",
           "ko": "사랑 그 자체를 사랑하는 건 아냐 나는"
         },
         {
-          "start": 84.72,
-          "end": 90.72,
+          "start": 87.2,
+          "end": 93.76,
           "motif": "sound",
           "ja": "だって　君のことが　…好きなの",
           "ko": "왜냐하면 너를 좋아하니까"
         },
         {
-          "start": 100.5,
-          "end": 104.62,
+          "start": 104.76,
+          "end": 108.54,
           "motif": "sound",
           "ja": "天気予報が　ウソをついた",
           "ko": "일기예보가 거짓말했어"
         },
         {
-          "start": 104.68,
-          "end": 110.66,
+          "start": 108.54,
+          "end": 113.64,
           "motif": "sound",
           "ja": "土砂降りの雨が降る",
           "ko": "억수 같은 비가 내려"
         },
         {
-          "start": 110.72,
-          "end": 115.76,
+          "start": 113.64,
+          "end": 119.94,
           "motif": "sound",
           "ja": "カバンに入れたままの　オリタタミ傘",
           "ko": "가방에 넣어 둔 접이식 우산"
         },
         {
-          "start": 115.82,
-          "end": 120.88,
+          "start": 119.94,
+          "end": 124.8,
           "motif": "sound",
           "ja": "うれしくない　ためいきを　ついた",
           "ko": "기쁘지 않다는 듯 한숨을 쉬었어"
         },
         {
-          "start": 120.94,
-          "end": 123.04,
+          "start": 124.8,
+          "end": 126.96,
           "motif": "sound",
           "ja": "そんなとき",
           "ko": "그럴 때"
         },
         {
-          "start": 123.1,
-          "end": 128.7,
+          "start": 126.96,
+          "end": 132.58,
           "motif": "sound",
           "ja": "「しょうがないから入ってやる」なんて",
           "ko": "어쩔 수 없으니 같이 써 준다며"
         },
         {
-          "start": 128.76,
-          "end": 132.46,
+          "start": 132.62,
+          "end": 136.72,
           "motif": "sound",
           "ja": "隣にいる　きみが笑う",
           "ko": "곁에 선 네가 웃어"
         },
         {
-          "start": 132.52,
-          "end": 137.28,
+          "start": 136.74,
+          "end": 141.22,
           "motif": "sound",
           "ja": "恋に落ちる音がした",
           "ko": "사랑에 빠지는 소리가 났어"
         },
         {
-          "start": 137.34,
-          "end": 143.2,
+          "start": 141.22,
+          "end": 145.32,
           "motif": "sound",
           "ja": "メルト　息がつまりそう",
           "ko": "멜트 숨이 막힐 것 같아"
         },
         {
-          "start": 143.26,
-          "end": 147.72,
+          "start": 146.0,
+          "end": 151.66,
           "motif": "sound",
           "ja": "君に触れてる右手が　震える",
           "ko": "너에게 닿은 오른손이 떨려"
         },
         {
-          "start": 147.78,
-          "end": 152.88,
+          "start": 151.66,
+          "end": 156.5,
           "motif": "sound",
           "ja": "高鳴る胸　はんぶんこの傘",
           "ko": "두근대는 가슴 반씩 나눈 우산"
         },
         {
-          "start": 152.94,
-          "end": 158.88,
+          "start": 156.5,
+          "end": 162.62,
           "motif": "sound",
           "ja": "手を伸ばせば届く距離　どうしよう…！",
           "ko": "손을 뻗으면 닿을 거리 어떡해"
         },
         {
-          "start": 158.94,
-          "end": 164.88,
+          "start": 162.62,
+          "end": 168.14,
           "motif": "sound",
           "ja": "想いよ届け　君に",
           "ko": "내 마음아 네게 닿아 줘"
         },
         {
-          "start": 164.94,
-          "end": 170.94,
+          "start": 168.56,
+          "end": 174.98,
           "motif": "sound",
           "ja": "お願い　時間をとめて　泣きそうなの",
           "ko": "제발 시간을 멈춰 줘 울 것 같아"
         },
         {
-          "start": 171.1,
-          "end": 177.1,
+          "start": 174.98,
+          "end": 181.12,
           "motif": "sound",
           "ja": "でも嬉しくて　死んでしまうわ！",
           "ko": "하지만 기뻐서 죽어 버릴 것 같아"
         },
         {
-          "start": 210.76,
-          "end": 215.14,
+          "start": 214.38,
+          "end": 219.02,
           "motif": "sound",
           "ja": "メルト　駅に着いてしまう…",
           "ko": "멜트 역에 도착해 버려"
         },
         {
-          "start": 215.2,
-          "end": 221.2,
+          "start": 219.02,
+          "end": 225.04,
           "motif": "sound",
           "ja": "もう会えない　近くて　遠いよ　だから",
           "ko": "이제 만날 수 없어 가깝고도 멀어 그러니까"
         },
         {
-          "start": 221.8,
-          "end": 226.48,
+          "start": 225.04,
+          "end": 230.36,
           "motif": "sound",
           "ja": "メルト　手をつないで　歩きたい！",
           "ko": "멜트 손을 잡고 걷고 싶어"
         },
         {
-          "start": 226.54,
-          "end": 232.54,
+          "start": 230.36,
+          "end": 235.78,
           "motif": "sound",
           "ja": "もうバイバイしなくちゃいけないの？",
           "ko": "이제 바이바이해야 하는 거야"
         },
         {
-          "start": 232.86,
-          "end": 237.88,
+          "start": 236.78,
+          "end": 241.38,
           "motif": "sound",
           "ja": "今すぐ　わたしを　抱きしめて！",
           "ko": "지금 당장 나를 안아 줘"
         },
         {
-          "start": 237.94,
-          "end": 239.3,
+          "start": 241.6,
+          "end": 243.42,
           "motif": "sound",
           "ja": "…なんてね",
           "ko": "라고 해 본 말이야"
@@ -1410,7 +1410,7 @@
     {
       "song_num": "010",
       "title": "재출생 (うみなおし)",
-      "youtube_base": 8354.2,
+      "youtube_base": 8348.9,
       "cues": [
         {
           "start": 16.18,
@@ -1991,7 +1991,7 @@
     {
       "song_num": "011",
       "title": "로키 (ロキ)",
-      "youtube_base": 8681.9,
+      "youtube_base": 8676.6,
       "cues": [
         {
           "start": 21.4,
@@ -2313,7 +2313,7 @@
     {
       "song_num": "012",
       "title": "절대적대 완전 싫어 (絶対敵対メチャキライヤー)",
-      "youtube_base": 8979.1,
+      "youtube_base": 8973.8,
       "cues": [
         {
           "start": 17.98,
@@ -2621,7 +2621,7 @@
     {
       "song_num": "013",
       "title": "프러포즈 (プロポーズ)",
-      "youtube_base": 9253.4,
+      "youtube_base": 9248.1,
       "cues": [
         {
           "start": 14.12,
@@ -3027,7 +3027,7 @@
     {
       "song_num": "014",
       "title": "JANE DOE",
-      "youtube_base": 9793.4,
+      "youtube_base": 9788.1,
       "cues": [
         {
           "start": 13.88,
@@ -3181,7 +3181,7 @@
     {
       "song_num": "016",
       "title": "아이돌 (アイドル)",
-      "youtube_base": 10606.4,
+      "youtube_base": 10601.1,
       "cues": [
         {
           "start": 6.0,
@@ -3720,7 +3720,7 @@
     {
       "song_num": "017",
       "title": "괴물 (怪物)",
-      "youtube_base": 10993.6,
+      "youtube_base": 10988.3,
       "cues": [
         {
           "start": 5.0,
@@ -4119,7 +4119,7 @@
     {
       "song_num": "018",
       "title": "열등상등 (劣等上等)",
-      "youtube_base": 11649.0,
+      "youtube_base": 11643.7,
       "cues": [
         {
           "start": 16.7,
@@ -4504,7 +4504,7 @@
     {
       "song_num": "019",
       "title": "오도 (춤) (踊)",
-      "youtube_base": 12004.7,
+      "youtube_base": 11999.4,
       "cues": [
         {
           "start": 5.0,
@@ -4749,7 +4749,7 @@
     {
       "song_num": "020",
       "title": "역광 (逆光)",
-      "youtube_base": 12315.1,
+      "youtube_base": 12309.8,
       "cues": [
         {
           "start": 31.52,
@@ -5064,7 +5064,7 @@
     {
       "song_num": "021",
       "title": "스피카 (スピカ)",
-      "youtube_base": 12687.1,
+      "youtube_base": 12681.8,
       "cues": [
         {
           "start": 25.84,
@@ -5302,7 +5302,7 @@
     {
       "song_num": "022",
       "title": "내가 죽으려고 생각한 것은 (僕が死のうと思ったのは)",
-      "youtube_base": 12997.2,
+      "youtube_base": 12991.9,
       "cues": [
         {
           "start": 26.46,
@@ -5638,7 +5638,7 @@
     {
       "song_num": "023",
       "title": "점묘의 노래 (点描の唄)",
-      "youtube_base": 13561.4,
+      "youtube_base": 13556.1,
       "cues": [
         {
           "start": 30.28,
@@ -5934,7 +5934,7 @@
     {
       "song_num": "001",
       "title": "꿈을 이루어줘 도라에몽 (夢をかなえてドラえもん)",
-      "youtube_base": 4445.8,
+      "youtube_base": 4440.5,
       "cues": [
         {
           "start": 4.72,
@@ -6473,7 +6473,7 @@
     {
       "song_num": "004",
       "title": "진달래꽃",
-      "youtube_base": 5596.73,
+      "youtube_base": 5591.43,
       "cues": [
         {
           "start": 22.21,
@@ -6697,7 +6697,7 @@
     {
       "song_num": "005",
       "title": "모니터링 (モニタリング)",
-      "youtube_base": 6099.59,
+      "youtube_base": 6094.29,
       "cues": [
         {
           "start": 8.653,
@@ -7040,7 +7040,7 @@
     {
       "song_num": "006",
       "title": "Lemon",
-      "youtube_base": 6425.68,
+      "youtube_base": 6420.38,
       "cues": [
         {
           "start": 5.0,
@@ -7306,7 +7306,7 @@
     {
       "song_num": "007",
       "title": "언노운 마더 구스 (アンノウン・マザーグース)",
-      "youtube_base": 6865.88,
+      "youtube_base": 6860.58,
       "cues": [
         {
           "start": 5.3,
@@ -7873,7 +7873,7 @@
     {
       "song_num": "008",
       "title": "We Are Number One",
-      "youtube_base": 7316.01,
+      "youtube_base": 7310.71,
       "cues": [
         {
           "start": 12.086,
@@ -8111,7 +8111,7 @@
     {
       "song_num": "009",
       "title": "부엉이 ~부엉이가 손님이 왔다고 알리네~ (フクロウ ～フクロウが知らせる客が来たと～)",
-      "youtube_base": 7619.6,
+      "youtube_base": 7614.3,
       "cues": [
         {
           "start": 27.94,
@@ -8342,7 +8342,7 @@
     {
       "song_num": "010",
       "title": "Anti the EuphoriaHOLiC",
-      "youtube_base": 8083.28,
+      "youtube_base": 8077.98,
       "cues": [
         {
           "start": 32.18,
@@ -8629,7 +8629,7 @@
     {
       "song_num": "011",
       "title": "Mela!",
-      "youtube_base": 8448.68,
+      "youtube_base": 8443.38,
       "cues": [
         {
           "start": 4.12,
@@ -8993,7 +8993,7 @@
     {
       "song_num": "012",
       "title": "꽃이 되어줘 (花になって)",
-      "youtube_base": 8790.2,
+      "youtube_base": 8784.9,
       "cues": [
         {
           "start": 7.42,
@@ -9224,7 +9224,7 @@
     {
       "song_num": "013",
       "title": "아아, 훌륭한 고양이의 삶 (嗚呼、素晴らしきニャン生)",
-      "youtube_base": 9152.1,
+      "youtube_base": 9146.8,
       "cues": [
         {
           "start": 30.06,
@@ -9588,7 +9588,7 @@
     {
       "song_num": "014",
       "title": "+♂️ (+♂)",
-      "youtube_base": 9665.65,
+      "youtube_base": 9660.35,
       "cues": [
         {
           "start": 29.04,
@@ -10050,7 +10050,7 @@
     {
       "song_num": "017",
       "title": "탈옥 (脱獄)",
-      "youtube_base": 10686.9,
+      "youtube_base": 10681.6,
       "cues": [
         {
           "start": 35.14,
@@ -10239,7 +10239,7 @@
     {
       "song_num": "018",
       "title": "열이상 (熱異常)",
-      "youtube_base": 11291.1,
+      "youtube_base": 11285.8,
       "cues": [
         {
           "start": 5.426,
@@ -11149,7 +11149,7 @@
     {
       "song_num": "019",
       "title": "This game",
-      "youtube_base": 11756.3,
+      "youtube_base": 11751.0,
       "cues": [
         {
           "start": 47.0,
@@ -11457,7 +11457,7 @@
     {
       "song_num": "020",
       "title": "Only my railgun",
-      "youtube_base": 12198.04,
+      "youtube_base": 12192.74,
       "cues": [
         {
           "start": 18.043,
@@ -11765,7 +11765,7 @@
     {
       "song_num": "022",
       "title": "발묘 (抜錨)",
-      "youtube_base": 13162.7,
+      "youtube_base": 13157.4,
       "cues": [
         {
           "start": 13.78,
@@ -11989,7 +11989,7 @@
     {
       "song_num": "025",
       "title": "괴물 (怪物)",
-      "youtube_base": 14380.02,
+      "youtube_base": 14374.72,
       "cues": [
         {
           "start": 5.36,
@@ -12388,7 +12388,7 @@
     {
       "song_num": "026",
       "title": "트리플 바카 (驫麤～とりぷるばか～)",
-      "youtube_base": 14943.4,
+      "youtube_base": 14938.1,
       "cues": [
         {
           "start": 9.299,
@@ -12815,7 +12815,7 @@
     {
       "song_num": "027",
       "title": "카사네 테리토리 (重音territory ～ ずっとテトのターン)",
-      "youtube_base": 15462.0,
+      "youtube_base": 15456.7,
       "cues": [
         {
           "start": 6.62,
@@ -13214,7 +13214,7 @@
     {
       "song_num": "029",
       "title": "Battle Cry",
-      "youtube_base": 16530.64,
+      "youtube_base": 16525.34,
       "cues": [
         {
           "start": 23.14,
@@ -13571,7 +13571,7 @@
     {
       "song_num": "030",
       "title": "Beautiful Princess Disorder",
-      "youtube_base": 17046.33,
+      "youtube_base": 17041.03,
       "cues": [
         {
           "start": 15.61,
@@ -13858,7 +13858,7 @@
     {
       "song_num": "032",
       "title": "수직낙하 (垂直落下)",
-      "youtube_base": 17706.69,
+      "youtube_base": 17701.39,
       "cues": [
         {
           "start": 5.16,
@@ -14208,7 +14208,7 @@
     {
       "song_num": "033",
       "title": "Confessions of a Rotten Girl",
-      "youtube_base": 18317.93,
+      "youtube_base": 18312.63,
       "cues": [
         {
           "start": 6.71,
@@ -14614,7 +14614,7 @@
     {
       "song_num": "034",
       "title": "Monster",
-      "youtube_base": 18735.72,
+      "youtube_base": 18730.42,
       "cues": [
         {
           "start": 19.58,
@@ -15048,7 +15048,7 @@
     {
       "song_num": "038",
       "title": "점점 높아져 (だんだん高くなる)",
-      "youtube_base": 20470.2,
+      "youtube_base": 20464.9,
       "cues": [
         {
           "start": 5.62,
@@ -15258,7 +15258,7 @@
     {
       "song_num": "039",
       "title": "Pretender",
-      "youtube_base": 22682.89,
+      "youtube_base": 22677.59,
       "cues": [
         {
           "start": 36.37,
@@ -15643,7 +15643,7 @@
     {
       "song_num": "040",
       "title": "연애 서큘레이션 (恋愛サーキュレーション)",
-      "youtube_base": 23156.4,
+      "youtube_base": 23151.1,
       "cues": [
         {
           "start": 12.02,
@@ -16267,7 +16267,7 @@
     {
       "song_num": "041",
       "title": "Teeth",
-      "youtube_base": 23569.0,
+      "youtube_base": 23563.7,
       "cues": [
         {
           "start": 21.32,
@@ -16668,7 +16668,7 @@
     {
       "song_num": "043",
       "title": "사무라이 하트 (サムライハート(Some Like It Hot!!))",
-      "youtube_base": 24150.0,
+      "youtube_base": 24144.7,
       "cues": [
         {
           "start": 24.564,
@@ -17011,7 +17011,7 @@
     {
       "song_num": "044",
       "title": "생명의 유스티티아 (命のユースティティア)",
-      "youtube_base": 24657.9,
+      "youtube_base": 24652.6,
       "cues": [
         {
           "start": 5.22,
@@ -17291,7 +17291,7 @@
     {
       "song_num": "045",
       "title": "모험의 서가 사라졌습니다! (ぼうけんのしょがきえました！)",
-      "youtube_base": 25030.22,
+      "youtube_base": 25024.92,
       "cues": [
         {
           "start": 6.956,
@@ -17627,7 +17627,7 @@
     {
       "song_num": "046",
       "title": "버그 (バグ)",
-      "youtube_base": 25364.93,
+      "youtube_base": 25359.63,
       "cues": [
         {
           "start": 19.051,
@@ -17865,7 +17865,7 @@
     {
       "song_num": "049",
       "title": "논브레스 오블리쥬 (ノンブレス・オブリージュ)",
-      "youtube_base": 26712.21,
+      "youtube_base": 26706.91,
       "cues": [
         {
           "start": 13.544,
@@ -18369,7 +18369,7 @@
     {
       "song_num": "050",
       "title": "숙성 로리신 레퀴엠 (粛聖!! ロリ神レクイエム☆)",
-      "youtube_base": 27062.0,
+      "youtube_base": 27056.7,
       "cues": [
         {
           "start": 4.347,
@@ -18971,7 +18971,7 @@
     {
       "song_num": "2601",
       "title": "세븐틴 (セブンティーン)",
-      "youtube_base": 14687.05,
+      "youtube_base": 14681.75,
       "cues": [
         {
           "start": 32.81,
@@ -19295,7 +19295,7 @@
     {
       "song_num": "001",
       "title": "Stronger than you",
-      "youtube_base": 4554.02,
+      "youtube_base": 4548.72,
       "cues": [
         {
           "start": 5.0,
@@ -19701,7 +19701,7 @@
     {
       "song_num": "002",
       "title": "호시아이 (ホシアイ)",
-      "youtube_base": 4976.32,
+      "youtube_base": 4971.02,
       "cues": [
         {
           "start": 16.32,
@@ -19960,7 +19960,7 @@
     {
       "song_num": "003",
       "title": "Ahoy!! 우리는 호쇼해적단☆ (Ahoy!! 我ら宝鐘海賊団☆)",
-      "youtube_base": 5549.56,
+      "youtube_base": 5544.26,
       "cues": [
         {
           "start": 11.536,
@@ -20422,7 +20422,7 @@
     {
       "song_num": "004",
       "title": "In Hell We Live, Lament",
-      "youtube_base": 6438.12,
+      "youtube_base": 6432.82,
       "cues": [
         {
           "start": 24.436,
@@ -20863,7 +20863,7 @@
     {
       "song_num": "005",
       "title": "악마의 아이 (悪魔の子)",
-      "youtube_base": 7210.02,
+      "youtube_base": 7204.72,
       "cues": [
         {
           "start": 4.299,
@@ -21115,7 +21115,7 @@
     {
       "song_num": "006",
       "title": "Pretender",
-      "youtube_base": 8056.02,
+      "youtube_base": 8050.72,
       "cues": [
         {
           "start": 36.52,
@@ -21486,7 +21486,7 @@
     {
       "song_num": "008",
       "title": "DAYBREAK FRONTLINE",
-      "youtube_base": 9167.82,
+      "youtube_base": 9162.52,
       "cues": [
         {
           "start": 47.88,
@@ -21822,7 +21822,7 @@
     {
       "song_num": "009",
       "title": "Caramelldansen",
-      "youtube_base": 9627.45,
+      "youtube_base": 9622.15,
       "cues": [
         {
           "start": 34.65,
@@ -22158,7 +22158,7 @@
     {
       "song_num": "010",
       "title": "야라라라 (ヤラララ)",
-      "youtube_base": 9948.92,
+      "youtube_base": 9943.62,
       "cues": [
         {
           "start": 12.34,
@@ -22550,7 +22550,7 @@
     {
       "song_num": "011",
       "title": "Rasputin",
-      "youtube_base": 10244.65,
+      "youtube_base": 10239.35,
       "cues": [
         {
           "start": 8.63,
@@ -22914,7 +22914,7 @@
     {
       "song_num": "013",
       "title": "Drunken Sailor",
-      "youtube_base": 11039.5,
+      "youtube_base": 11034.2,
       "cues": [
         {
           "start": 9.8,
@@ -23250,7 +23250,7 @@
     {
       "song_num": "014",
       "title": "에일리언 에일리언 (エイリアンエイリアン)",
-      "youtube_base": 11361.8,
+      "youtube_base": 11356.5,
       "cues": [
         {
           "start": 5.26,
@@ -23509,7 +23509,7 @@
     {
       "song_num": "015",
       "title": "태양계 디스코 (太陽系デスコ)",
-      "youtube_base": 11694.14,
+      "youtube_base": 11688.84,
       "cues": [
         {
           "start": 38.06,
@@ -23852,7 +23852,7 @@
     {
       "song_num": "016",
       "title": "댄스 로봇 댄스 (ダンスロボットダンス)",
-      "youtube_base": 12140.1,
+      "youtube_base": 12134.8,
       "cues": [
         {
           "start": 15.88,
@@ -24448,7 +24448,7 @@
     {
       "song_num": "017",
       "title": "JANE DOE",
-      "youtube_base": 12462.61,
+      "youtube_base": 12457.31,
       "cues": [
         {
           "start": 18.55,
@@ -24602,7 +24602,7 @@
     {
       "song_num": "019",
       "title": "만찬가 (晩餐歌)",
-      "youtube_base": 13417.89,
+      "youtube_base": 13412.59,
       "cues": [
         {
           "start": 12.87,
@@ -24903,7 +24903,7 @@
     {
       "song_num": "020",
       "title": "Golden",
-      "youtube_base": 13778.28,
+      "youtube_base": 13772.98,
       "cues": [
         {
           "start": 20.842,
@@ -25232,7 +25232,7 @@
     {
       "song_num": "021",
       "title": "-ERROR",
-      "youtube_base": 14061.07,
+      "youtube_base": 14055.77,
       "cues": [
         {
           "start": 23.0,
@@ -25449,7 +25449,7 @@
     {
       "song_num": "022",
       "title": "How It’s Done (How it's Done)",
-      "youtube_base": 14417.51,
+      "youtube_base": 14412.21,
       "cues": [
         {
           "start": 10.886,
@@ -25841,7 +25841,7 @@
     {
       "song_num": "023",
       "title": "EZ DO DANCE",
-      "youtube_base": 14726.9,
+      "youtube_base": 14721.6,
       "cues": [
         {
           "start": 7.005,
@@ -26242,7 +26242,7 @@
     {
       "song_num": "024",
       "title": "발묘 (抜錨)",
-      "youtube_base": 15201.7,
+      "youtube_base": 15196.4,
       "cues": [
         {
           "start": 13.7,
@@ -26466,7 +26466,7 @@
     {
       "song_num": "025",
       "title": "D/N/A",
-      "youtube_base": 15743.64,
+      "youtube_base": 15738.34,
       "cues": [
         {
           "start": 20.26,
@@ -26732,7 +26732,7 @@
     {
       "song_num": "027",
       "title": "감전 (感電)",
-      "youtube_base": 16409.31,
+      "youtube_base": 16404.01,
       "cues": [
         {
           "start": 25.086,
@@ -27124,7 +27124,7 @@
     {
       "song_num": "029",
       "title": "Teeth",
-      "youtube_base": 17196.08,
+      "youtube_base": 17190.78,
       "cues": [
         {
           "start": 13.04,
@@ -27495,7 +27495,7 @@
     {
       "song_num": "030",
       "title": "프로포즈 (プロポーズ)",
-      "youtube_base": 17572.13,
+      "youtube_base": 17566.83,
       "cues": [
         {
           "start": 5.582,
@@ -27775,7 +27775,7 @@
     {
       "song_num": "031",
       "title": "프로포즈 (プロポーズ)",
-      "youtube_base": 17988.1,
+      "youtube_base": 17982.8,
       "cues": [
         {
           "start": 8.78,
@@ -28174,7 +28174,7 @@
     {
       "song_num": "032",
       "title": "프로포즈 (プロポーズ)",
-      "youtube_base": 18211.58,
+      "youtube_base": 18206.28,
       "cues": [
         {
           "start": 12.46,
@@ -28580,7 +28580,7 @@
     {
       "song_num": "035",
       "title": "바움쿠헨 엔드롤 (バゥムクゥヘン・エンドロゥル)",
-      "youtube_base": 19756.55,
+      "youtube_base": 19751.25,
       "cues": [
         {
           "start": 9.01,
@@ -28937,7 +28937,7 @@
     {
       "song_num": "037",
       "title": "우이 밀밭의 파수꾼 (うい麦畑でつかまえて)",
-      "youtube_base": 20655.89,
+      "youtube_base": 20650.59,
       "cues": [
         {
           "start": 8.586,
@@ -29525,7 +29525,7 @@
     {
       "song_num": "038",
       "title": "영웅 운명의 시 (英雄 運命の詩)",
-      "youtube_base": 21089.04,
+      "youtube_base": 21083.74,
       "cues": [
         {
           "start": 5.44,
@@ -30029,7 +30029,7 @@
     {
       "song_num": "039",
       "title": "오오카미 블루스 (オオカミブルース)",
-      "youtube_base": 21545.63,
+      "youtube_base": 21540.33,
       "cues": [
         {
           "start": 9.915,
@@ -30248,7 +30248,7 @@
     {
       "song_num": "001",
       "title": "Bunny Girl",
-      "youtube_base": 844.73,
+      "youtube_base": 839.43,
       "cues": [
         {
           "start": 5.0,
@@ -30444,7 +30444,7 @@
     {
       "song_num": "002",
       "title": "이 실없이 멋진 세계는 날 위해 있어 (このふざけた素晴らしき世界は、僕の為にある)",
-      "youtube_base": 1235.76,
+      "youtube_base": 1230.46,
       "cues": [
         {
           "start": 5.0,
@@ -30934,7 +30934,7 @@
     {
       "song_num": "003",
       "title": "로키 (ロキ)",
-      "youtube_base": 1702.64,
+      "youtube_base": 1697.34,
       "cues": [
         {
           "start": 5.0,
@@ -31337,7 +31337,7 @@
     {
       "song_num": "004",
       "title": "Vampire’s ∞ pathoS (Vampire’s ∞ pathoS ～ヴァンパイアとシスター～)",
-      "youtube_base": 2121.24,
+      "youtube_base": 2115.94,
       "cues": [
         {
           "start": 5.0,
@@ -31666,7 +31666,7 @@
     {
       "song_num": "005",
       "title": "패배의 소년 (敗北の少年)",
-      "youtube_base": 2477.46,
+      "youtube_base": 2472.16,
       "cues": [
         {
           "start": 5.0,
@@ -31904,7 +31904,7 @@
     {
       "song_num": "006",
       "title": "Monster",
-      "youtube_base": 2841.38,
+      "youtube_base": 2836.08,
       "cues": [
         {
           "start": 18.997,
@@ -32338,7 +32338,7 @@
     {
       "song_num": "009",
       "title": "하우 투 세계정복 (ハウトゥー世界征服)",
-      "youtube_base": 3759.02,
+      "youtube_base": 3753.72,
       "cues": [
         {
           "start": 10.56,
@@ -32646,7 +32646,7 @@
     {
       "song_num": "010",
       "title": "꼬맹이 전쟁 (おこちゃま戦争)",
-      "youtube_base": 4294.42,
+      "youtube_base": 4289.12,
       "cues": [
         {
           "start": 5.0,
@@ -33024,7 +33024,7 @@
     {
       "song_num": "011",
       "title": "RTRT",
-      "youtube_base": 4639.0,
+      "youtube_base": 4633.7,
       "cues": [
         {
           "start": 34.4,
@@ -33297,7 +33297,7 @@
     {
       "song_num": "012",
       "title": "세븐틴 (セブンティーン)",
-      "youtube_base": 4953.82,
+      "youtube_base": 4948.52,
       "cues": [
         {
           "start": 5.0,
@@ -33619,7 +33619,7 @@
     {
       "song_num": "013",
       "title": "나는 최강 (私は最強)",
-      "youtube_base": 5273.36,
+      "youtube_base": 5268.06,
       "cues": [
         {
           "start": 6.38,
@@ -34035,7 +34035,7 @@
     {
       "song_num": "014",
       "title": "Dragon Night",
-      "youtube_base": 5824.06,
+      "youtube_base": 5818.76,
       "cues": [
         {
           "start": 5.0,
@@ -34298,7 +34298,7 @@
     {
       "song_num": "015",
       "title": "새벽과 반딧불이 (夜明けと蛍)",
-      "youtube_base": 6197.4,
+      "youtube_base": 6192.1,
       "cues": [
         {
           "start": 37.84,
@@ -34529,7 +34529,7 @@
     {
       "song_num": "016",
       "title": "내가 죽으려고 생각한 것은 (僕が死のうと思ったのは)",
-      "youtube_base": 6734.06,
+      "youtube_base": 6728.76,
       "cues": [
         {
           "start": 27.42,
@@ -34865,7 +34865,7 @@
     {
       "song_num": "017",
       "title": "해피 신디사이저 (ハッピーシンセサイザ)",
-      "youtube_base": 7202.76,
+      "youtube_base": 7197.46,
       "cues": [
         {
           "start": 6.54,
@@ -35222,7 +35222,7 @@
     {
       "song_num": "018",
       "title": "달을 보고 있었어 (月を見ていた)",
-      "youtube_base": 7566.06,
+      "youtube_base": 7560.76,
       "cues": [
         {
           "start": 19.54,
@@ -35516,7 +35516,7 @@
     {
       "song_num": "019",
       "title": "Despacito",
-      "youtube_base": 8062.98,
+      "youtube_base": 8057.68,
       "cues": [
         {
           "start": 10.32,
@@ -36134,7 +36134,7 @@
     {
       "song_num": "022",
       "title": "지터 돌 (ジッタードール)",
-      "youtube_base": 9306.62,
+      "youtube_base": 9301.32,
       "cues": [
         {
           "start": 5.0,
@@ -36541,7 +36541,7 @@
     {
       "song_num": "023",
       "title": "처단하겠다AAAAA아! (成敗いたAAAAAす！)",
-      "youtube_base": 9665.5,
+      "youtube_base": 9660.2,
       "cues": [
         {
           "start": 5.0,
@@ -37332,7 +37332,7 @@
     {
       "song_num": "024",
       "title": "Only my railgun",
-      "youtube_base": 10066.48,
+      "youtube_base": 10061.18,
       "cues": [
         {
           "start": 18.043,
@@ -37640,7 +37640,7 @@
     {
       "song_num": "026",
       "title": "에어맨을 쓰러뜨릴 수 없어 (エアーマンが倒せない)",
-      "youtube_base": 10761.2,
+      "youtube_base": 10755.9,
       "cues": [
         {
           "start": 5.0,
@@ -37948,7 +37948,7 @@
     {
       "song_num": "027",
       "title": "어차피 너희들은 이런 노래가 좋으니까 (どうせお前らこんな曲が好きなんだろ？)",
-      "youtube_base": 11181.82,
+      "youtube_base": 11176.52,
       "cues": [
         {
           "start": 40.32,
@@ -38207,7 +38207,7 @@
     {
       "song_num": "028",
       "title": "루카루카☆나이트 피버 (ルカルカ★ナイトフィーバー)",
-      "youtube_base": 11509.14,
+      "youtube_base": 11503.84,
       "cues": [
         {
           "start": 4.34,
@@ -38536,7 +38536,7 @@
     {
       "song_num": "029",
       "title": "천성의 약함 (天ノ弱)",
-      "youtube_base": 11898.24,
+      "youtube_base": 11892.94,
       "cues": [
         {
           "start": 5.0,
@@ -38753,7 +38753,7 @@
     {
       "song_num": "031",
       "title": "숙성 로리신 레퀴엠 (粛聖!! ロリ神レクイエム☆)",
-      "youtube_base": 12594.64,
+      "youtube_base": 12589.34,
       "cues": [
         {
           "start": 5.0,
@@ -39457,7 +39457,7 @@
     {
       "song_num": "032",
       "title": "도쿄 테디 베어 (東京テディベア)",
-      "youtube_base": 12991.92,
+      "youtube_base": 12986.62,
       "cues": [
         {
           "start": 5.0,
@@ -39716,7 +39716,7 @@
     {
       "song_num": "033",
       "title": "나의 가장 귀여운 부분 (わたしの一番かわいいところ)",
-      "youtube_base": 13342.76,
+      "youtube_base": 13337.46,
       "cues": [
         {
           "start": 5.0,
@@ -40192,7 +40192,7 @@
     {
       "song_num": "034",
       "title": "Viva La Vida",
-      "youtube_base": 13741.84,
+      "youtube_base": 13736.54,
       "cues": [
         {
           "start": 5.0,
@@ -40507,7 +40507,7 @@
     {
       "song_num": "035",
       "title": "생명에게 미움받고 있어 (命に嫌われている。)",
-      "youtube_base": 14363.66,
+      "youtube_base": 14358.36,
       "cues": [
         {
           "start": 5.0,
@@ -40906,7 +40906,7 @@
     {
       "song_num": "036",
       "title": "Plazma",
-      "youtube_base": 14725.04,
+      "youtube_base": 14719.74,
       "cues": [
         {
           "start": 5.0,
@@ -41146,7 +41146,7 @@
     {
       "song_num": "037",
       "title": "Playing His Game",
-      "youtube_base": 15016.8,
+      "youtube_base": 15011.5,
       "cues": [
         {
           "start": 16.362,
@@ -41629,7 +41629,7 @@
     {
       "song_num": "038",
       "title": "계속 함께 (ずうっといっしょ！)",
-      "youtube_base": 15361.94,
+      "youtube_base": 15356.64,
       "cues": [
         {
           "start": 5.0,
@@ -41989,7 +41989,7 @@
     {
       "song_num": "040",
       "title": "I'm a mess",
-      "youtube_base": 16008.08,
+      "youtube_base": 16002.78,
       "cues": [
         {
           "start": 5.0,
@@ -42395,7 +42395,7 @@
     {
       "song_num": "042",
       "title": "언노운 마더 구스 (アンノウン・マザーグース)",
-      "youtube_base": 16831.32,
+      "youtube_base": 16826.02,
       "cues": [
         {
           "start": 5.0,
@@ -42962,7 +42962,7 @@
     {
       "song_num": "044",
       "title": "레인 (レイン)",
-      "youtube_base": 17681.62,
+      "youtube_base": 17676.32,
       "cues": [
         {
           "start": 5.0,
@@ -43214,7 +43214,7 @@
     {
       "song_num": "046",
       "title": "칸타렐라 (カンタレラ)",
-      "youtube_base": 18632.82,
+      "youtube_base": 18627.52,
       "cues": [
         {
           "start": 5.0,
@@ -43340,7 +43340,7 @@
     {
       "song_num": "047",
       "title": "베텔기우스 (ベテルギウス)",
-      "youtube_base": 19066.0,
+      "youtube_base": 19060.7,
       "cues": [
         {
           "start": 4.96,
