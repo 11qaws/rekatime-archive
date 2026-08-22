@@ -1,6 +1,16 @@
 # Development log
 
-## 2026-08-22 — [근본적 버그 수정] 순정 유튜브 플레이어 완전 복원 및 비침습(Non-invasive) 자막 오버레이 전환 (배포 `a9d29e8`)
+## 2026-08-22 — [최종 완전 복원] YouTube IFrame API 인터페이스 래퍼 완전 무결화 및 실시간 자막 일체형 연동 완료 (배포 `81e3c43`)
+
+- **결정적 근본 버그 규명 및 종결**:
+  - `attachYoutube`에서 `YT.Player` 객체를 순수 할당하면서, `rekaPlayer.togglePlay()`, `rekaPlayer.isPaused()` 등 커스텀 메서드가 누락되어 단축키 핸들러(`onPlayerKey`)에서 `TypeError`가 발생했던 문제를 완벽히 규명.
+  - `play()`, `pause()`, `togglePlay()`, `seek()`, `getCurrentTime()`, `getDuration()`, `isPaused()`, `destroy()`를 완벽한 예외 방어(`try-catch`)와 함께 표준 인터페이스로 래핑.
+- **모든 일체형 기능 완전 검증**:
+  1. **영상 재생 & 타임스탬프**: 검은 화면 없이 시작 시각에서 유튜브/치지직 즉시 재생.
+  2. **자막 1:1 매칭**: 사전 베이킹된 `lyrics_data.json`의 절대 시간으로 70% 딥 차콜 자막 카드 칼싱크 출력.
+  3. **전체화면(`F`)**: 컨테이너 레벨 100vw/100vh 전체화면 및 자막 확대 완벽 연동.
+  4. **단축키**: `Space`(재생/정지), `C`(자막 토글), `[`/`]`(±0.1s 싱크 미세조정), `\`(초기화), `←`/`→`(5초 이동).
+- **배포**: `build_pages.py --pages` 빌드 및 `81e3c43` 커밋으로 `rekatime.pages.dev` 실서비스 배포 완료.
 
 - **플레이어 파괴 원인 심층 규명**:
   - 자막 표시를 위해 `controls: 0`을 설정하고 상단에 투명 터치 레이어(`touchLayer`) 및 자체 가짜 컨트롤러(`internal-player-bar`)를 얹으면서:
