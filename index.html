@@ -3294,6 +3294,12 @@
     if (requestedSession && q.get("date")) {
       history.replaceState({ broadcast: sessionKey(requestedSession) }, "", recentBroadcastUrl(requestedSession));
     }
+    /* hls.json 의 삭제 정보는 늦게 도착한다 — gone 이 바뀌었으면 현재 화면을
+       다시 그려 플랫폼 아이콘이 곧바로 "기록만 보존"으로 바뀌게 한다. */
+    if (hlsReady) hlsReady.then(() => {
+      const cur = SESSIONS[currentIndex];
+      if (cur && cur.gone) { currentIndex = -1; showSession(cur); }
+    });
   }
 </script>
 

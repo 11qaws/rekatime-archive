@@ -3073,6 +3073,9 @@
   if (session) {
     document.title = `${session.date} 방송 · 유레카 라이브 아카이브`;
     mount.replaceChildren(dayView(session));
+    /* hls.json 의 삭제 정보는 늦게 도착한다 — gone 이 바뀌었으면 다시 그려
+       플랫폼 아이콘이 곧바로 "기록만 보존"으로 바뀌게 한다. */
+    if (hlsReady) hlsReady.then(() => { if (session.gone) mount.replaceChildren(dayView(session)); });
   } else {
     const empty = el("div", "broadcast-empty");
     empty.append(el("h2", null, "방송 기록을 찾지 못했습니다"));
