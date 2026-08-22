@@ -1,5 +1,38 @@
 # Development log
 
+## 2026-08-22 (Claude 쪽 대행) — 자막 절대시간 base 산출 버그 수정, 121곡 전체 재생성 (배포 v1.1.3)
+
+- **증상**: 사용자가 멜트 2번째 소절 기준으로 자막이 4초 먼저 뜬다고 보고. rekatime→archive
+  동기화 자체는 바이트 단위로 동일해 결백을 확인했고, 문제는 rekatime 쪽 생성 스크립트
+  (`Gemini/workspace/generate_youtube_subtitles_and_integrate.py`) 안에 있었다.
+- **근본 원인**: 233번째 줄 `measurement = data.get("measurement", {})`가 잘못된 JSON
+  경로를 본다. 실측값(`song_start`, `clip_start`)은 `data["cue_review"]["measurement"]`
+  아래에 있는데 최상위 `data["measurement"]`는 **121곡 전부 예외 없이 항상 빈 값(`{}`)**이었다
+  — 직접 대조로 확인. 그래서 `song_start`/`clip_start`가 매번 `None`이 되고, 코드는 그
+  다음 대체 경로(`elif url_youtube_start is not None`)로 떨어진다: 유튜브 영상 설명란에
+  박힌 `?t=` 딥링크 시각을 그대로 base로 쓰는데, **이 경로엔 `yt_offset`(치지직↔유튜브
+  오디오 페어링 보정치)이 아예 더해지지 않는다.** 설명란 타임스탬프는 사람이 대충 적어둔
+  안내용이라 곡마다 정밀도가 달라 오차도 제각각이었다(재출생/로키 등 -2.4s, 프로포즈
+  -9~10s, Mela! -11.94s, 수동검수한 멜트도 base 계산은 같은 경로를 타서 -3.26s).
+  `010_재출생`·`011_로키`·`001_Mela!` 세 곡에서 배포된 base가 설명란 `t=` 값과 소수점까지
+  정확히 일치하는 걸 직접 확인해 원인을 확정했다.
+- **영향 범위**: `youtube-*` 패키지 4개(`OKegqxeOarE` 17곡, `UBCB2e0Aik4` 36곡,
+  `YzJm-mk52WM` 31곡, `ZFMg5irJJU8` 37곡) = 정확히 121곡 전부가 치지직→유튜브 재업로드
+  방송이라 전부 페어링 오프셋이 필요한 대상이었고, 버그도 예외 없이 전부에 적용됐다.
+- **조치**: `measurement`를 `data["cue_review"]["measurement"]`에서 먼저 찾고(없으면
+  기존 최상위 경로로 하위호환 폴백) 121곡 전체를 재생성했다. rekatime 쪽 `.ytt`
+  두 종류(Clip/VOD)·`lyrics_baked.json`, rekatime-clips `artifacts/youtube_subtitles/`,
+  `Codex/workspace/lyrics_data.json`까지 전부 다시 구웠다. 재생성 전 121곡의 `.ytt`/
+  `lyrics_baked.json`을 스크래치패드에 백업해뒀다.
+- **검증**: `cue_review.measurement`에 실측값이 남아있는 14곡(재출생·로키·Mela! 등)을
+  전부 재계산해 배포된 base와 대조 — 전부 0.05초 미만 오차로 일치. 멜트 2번째 소절은
+  이제 정확히 `7183.78s`(=119:43.8, 13:47 커밋에서 실측 검증했던 값과 소수점까지 일치)로
+  뜬다. 로컬 재빌드 후 브라우저에서 "최근 방송 → 셋리스트 클릭 → 섬네일 재생" 흐름으로
+  확인 — 119:46 지점에 정확히 2번째 소절이 표시됨, 콘솔 에러 0건.
+- **참고**: HTML엔 자막 데이터가 인라인되지 않고 `lyrics_data.json`을 런타임에 별도
+  fetch하므로, 이번 배포는 그 파일 하나만 갱신하면 됐다(HTML 재빌드 불필요).
+- **버전**: 데이터 정확성 수정, SemVer Patch 상승 (`1.1.2 → 1.1.3`).
+
 ## 2026-08-22 (Claude 쪽 대행) — 자동재생 정책으로 인한 첫 재생 무음/멈춤 수정 (배포 v1.1.2)
 
 - **사용자 재현**: v1.1.1 배포 직후 실제 브라우저에서 `main?broadcast=chzzk-14728071`의
