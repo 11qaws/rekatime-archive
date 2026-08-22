@@ -2479,6 +2479,15 @@
           HLS_BY_DATE[date] = entry.url;
           HLS_EXP[date] = entry.exp || 0;
         }
+        /* 갱신 워크플로가 발견한 삭제 방송도 함께 받아 반영한다.
+           재굽 전에 사라진 원본이라면 영상 버튼까지 곧바로 잠근다. */
+        for (const g of Array.isArray(payload.gone) ? payload.gone : []) {
+          const session = SESSION_BY_DATE.get(g && g.date);
+          if (!session) continue;
+          session.gone = true;
+          delete HLS_BY_DATE[g.date];
+          delete HLS_EXP[g.date];
+        }
       })
       .catch(() => {});     /* 파일이 없어도 정상 — 박아둔 주소를 쓴다 */
     return hlsReady;
