@@ -2,3 +2,4 @@
 *.mp4
 *.mkv
 __pycache__/
+.wrangler/
