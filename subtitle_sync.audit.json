@@ -1,10 +1,10 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-08-30T18:20:07.603528+00:00",
+  "generated_at": "2026-08-30T18:44:06.832769+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 229,
-  "paired_waveform_song_count": 71,
+  "song_count": 230,
+  "paired_waveform_song_count": 72,
   "songs": [
     {
       "source_id": "OKegqxeOarE",
@@ -6263,6 +6263,34 @@
       "youtube_offset_seconds": 1.492,
       "youtube_first_cue": 20774.236,
       "youtube_last_cue": 20957.317,
+      "offset_source": "precise_audio_anchors",
+      "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
+      "waveform_anchor_count": 5,
+      "waveform_anchor_spread_seconds": 0.0,
+      "waveform_min_score": 0.968299,
+      "waveform_score": 0.978413,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-14756908",
+      "session_id": "chzzk-14756908",
+      "sequence": 8,
+      "title": "He Wasn't",
+      "cue_count": 49,
+      "metadata_song_start": 21782.1,
+      "metadata_song_end": 21952.2,
+      "source_first_cue": 21787.6,
+      "source_last_cue": 21948.33,
+      "youtube_offset_seconds": 1.492,
+      "youtube_first_cue": 21789.092,
+      "youtube_last_cue": 21949.822,
       "offset_source": "precise_audio_anchors",
       "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
       "waveform_anchor_count": 5,
