@@ -1,10 +1,10 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-08-30T20:27:06.280642+00:00",
+  "generated_at": "2026-08-30T20:36:03.031414+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 238,
-  "paired_waveform_song_count": 80,
+  "song_count": 239,
+  "paired_waveform_song_count": 81,
   "songs": [
     {
       "source_id": "OKegqxeOarE",
@@ -6655,6 +6655,34 @@
       "youtube_offset_seconds": 3.626,
       "youtube_first_cue": 8125.948,
       "youtube_last_cue": 8361.826,
+      "offset_source": "precise_audio_anchors",
+      "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
+      "waveform_anchor_count": 5,
+      "waveform_anchor_spread_seconds": 1e-06,
+      "waveform_min_score": 0.917186,
+      "waveform_score": 0.954602,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-14953860",
+      "session_id": "chzzk-14953860",
+      "sequence": 9,
+      "title": "익명M",
+      "cue_count": 67,
+      "metadata_song_start": 8617.4,
+      "metadata_song_end": 8772.8,
+      "source_first_cue": 8617.06,
+      "source_last_cue": 8770.04,
+      "youtube_offset_seconds": 3.626,
+      "youtube_first_cue": 8620.686,
+      "youtube_last_cue": 8773.666,
       "offset_source": "precise_audio_anchors",
       "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
       "waveform_anchor_count": 5,
