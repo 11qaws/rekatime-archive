@@ -8,6 +8,10 @@ name: HLS 주소 갱신
 # (수집·분석은 GPU와 원본 영상이 필요해 로컬에서만 돈다.)
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "data/sessions.json"
   schedule:
     - cron: "0 1,13 * * *"      # UTC 01·13시 = 한국 10·22시
   workflow_dispatch:
