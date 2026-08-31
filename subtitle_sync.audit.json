@@ -1,10 +1,10 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-08-31T09:29:00.182824+00:00",
+  "generated_at": "2026-08-31T10:32:00.559573+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 261,
-  "paired_waveform_song_count": 96,
+  "song_count": 262,
+  "paired_waveform_song_count": 97,
   "songs": [
     {
       "source_id": "OKegqxeOarE",
@@ -75,6 +75,34 @@
       "youtube_offset_seconds": 2.574,
       "youtube_first_cue": 5401.994,
       "youtube_last_cue": 5557.134,
+      "offset_source": "precise_audio_anchors",
+      "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
+      "waveform_anchor_count": 5,
+      "waveform_anchor_spread_seconds": 0.0,
+      "waveform_min_score": 0.87239,
+      "waveform_score": 0.879976,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "OKegqxeOarE",
+      "session_id": "chzzk-14728071",
+      "sequence": 5,
+      "title": "신 같네",
+      "cue_count": 76,
+      "metadata_song_start": 6295.66,
+      "metadata_song_end": 6490.44,
+      "source_first_cue": 6295.28,
+      "source_last_cue": 6490.28,
+      "youtube_offset_seconds": 2.574,
+      "youtube_first_cue": 6297.854,
+      "youtube_last_cue": 6492.854,
       "offset_source": "precise_audio_anchors",
       "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
       "waveform_anchor_count": 5,
