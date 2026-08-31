@@ -1,9 +1,9 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-08-31T02:13:59.154604+00:00",
+  "generated_at": "2026-08-31T02:24:03.204073+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 257,
+  "song_count": 258,
   "paired_waveform_song_count": 96,
   "songs": [
     {
@@ -3099,6 +3099,34 @@
       "youtube_offset_seconds": 0.0,
       "youtube_first_cue": 10077.292,
       "youtube_last_cue": 10307.404,
+      "offset_source": "native_source_clock",
+      "offset_timebase": "native_source_clock",
+      "waveform_anchor_count": null,
+      "waveform_anchor_spread_seconds": null,
+      "waveform_min_score": null,
+      "waveform_score": null,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "ZFMg5irJJU8",
+      "session_id": "youtube-ZFMg5irJJU8",
+      "sequence": 25,
+      "title": "서방님과 러브러브 러브송",
+      "cue_count": 45,
+      "metadata_song_start": 10492.22,
+      "metadata_song_end": 10660.66,
+      "source_first_cue": 10493.0,
+      "source_last_cue": 10658.72,
+      "youtube_offset_seconds": 0.0,
+      "youtube_first_cue": 10493.0,
+      "youtube_last_cue": 10658.72,
       "offset_source": "native_source_clock",
       "offset_timebase": "native_source_clock",
       "waveform_anchor_count": null,
