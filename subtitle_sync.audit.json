@@ -1,9 +1,9 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-09-02T13:28:05.081203+00:00",
+  "generated_at": "2026-09-02T13:32:00.576209+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 272,
+  "song_count": 273,
   "paired_waveform_song_count": 99,
   "songs": [
     {
@@ -7607,6 +7607,34 @@
       "youtube_offset_seconds": 0.0,
       "youtube_first_cue": 8480.405,
       "youtube_last_cue": 8671.023,
+      "offset_source": "native_source_clock",
+      "offset_timebase": "native_source_clock",
+      "waveform_anchor_count": null,
+      "waveform_anchor_spread_seconds": null,
+      "waveform_min_score": null,
+      "waveform_score": null,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-14524675",
+      "session_id": "chzzk-14524675",
+      "sequence": 21,
+      "title": "로미오와 신데렐라",
+      "cue_count": 63,
+      "metadata_song_start": 8817.2,
+      "metadata_song_end": 9094.0,
+      "source_first_cue": 8816.9,
+      "source_last_cue": 9079.7,
+      "youtube_offset_seconds": 0.0,
+      "youtube_first_cue": 8816.9,
+      "youtube_last_cue": 9079.7,
       "offset_source": "native_source_clock",
       "offset_timebase": "native_source_clock",
       "waveform_anchor_count": null,
