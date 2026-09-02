@@ -1,9 +1,9 @@
 {
   "version": 2,
   "status": "verified",
-  "generated_at": "2026-09-02T11:50:02.446571+00:00",
+  "generated_at": "2026-09-02T12:59:04.734048+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 271,
+  "song_count": 272,
   "paired_waveform_song_count": 99,
   "songs": [
     {
@@ -7579,6 +7579,34 @@
       "youtube_offset_seconds": 0.0,
       "youtube_first_cue": 8032.24,
       "youtube_last_cue": 8234.828,
+      "offset_source": "native_source_clock",
+      "offset_timebase": "native_source_clock",
+      "waveform_anchor_count": null,
+      "waveform_anchor_spread_seconds": null,
+      "waveform_min_score": null,
+      "waveform_score": null,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-14524675",
+      "session_id": "chzzk-14524675",
+      "sequence": 20,
+      "title": "Victim",
+      "cue_count": 26,
+      "metadata_song_start": 8466.98,
+      "metadata_song_end": 8682.56,
+      "source_first_cue": 8480.405,
+      "source_last_cue": 8671.023,
+      "youtube_offset_seconds": 0.0,
+      "youtube_first_cue": 8480.405,
+      "youtube_last_cue": 8671.023,
       "offset_source": "native_source_clock",
       "offset_timebase": "native_source_clock",
       "waveform_anchor_count": null,
