@@ -2,6 +2,7 @@
   "OKegqxeOarE": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "Mela!",
       "is_manual": false,
       "cues": [
@@ -315,6 +316,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "언노운 마더 구스",
       "is_manual": false,
       "cues": [
@@ -802,6 +804,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "Other Friends",
       "is_manual": false,
       "cues": [
@@ -1109,6 +1112,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "신 같네",
       "is_manual": true,
       "cues": [
@@ -1572,6 +1576,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "패배의 소년",
       "is_manual": false,
       "cues": [
@@ -1777,6 +1782,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "멜트",
       "is_manual": true,
       "cues": [
@@ -1982,6 +1988,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "뇌내혁명걸",
       "is_manual": true,
       "cues": [
@@ -2241,6 +2248,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "Rubia",
       "is_manual": false,
       "cues": [
@@ -2512,6 +2520,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "재출생",
       "is_manual": true,
       "cues": [
@@ -3017,6 +3026,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "로키",
       "is_manual": true,
       "cues": [
@@ -3312,6 +3322,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "절대적대 완전 싫어",
       "is_manual": true,
       "cues": [
@@ -3577,6 +3588,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "프로포즈",
       "is_manual": false,
       "cues": [
@@ -3925,7 +3937,8 @@
       ]
     },
     {
-      "song_num": "014",
+      "song_num": "015",
+      "production_sequence": 14,
       "title": "JANE DOE",
       "is_manual": false,
       "cues": [
@@ -4064,7 +4077,8 @@
       ]
     },
     {
-      "song_num": "015",
+      "song_num": "016",
+      "production_sequence": 15,
       "title": "버그",
       "is_manual": false,
       "cues": [
@@ -4353,7 +4367,8 @@
       ]
     },
     {
-      "song_num": "016",
+      "song_num": "017",
+      "production_sequence": 16,
       "title": "아이돌",
       "is_manual": false,
       "cues": [
@@ -4816,7 +4831,8 @@
       ]
     },
     {
-      "song_num": "017",
+      "song_num": "018",
+      "production_sequence": 17,
       "title": "괴물",
       "is_manual": false,
       "cues": [
@@ -5159,7 +5175,8 @@
       ]
     },
     {
-      "song_num": "018",
+      "song_num": "019",
+      "production_sequence": 18,
       "title": "열등상등",
       "is_manual": false,
       "cues": [
@@ -5490,7 +5507,8 @@
       ]
     },
     {
-      "song_num": "019",
+      "song_num": "020",
+      "production_sequence": 19,
       "title": "오도 (춤)",
       "is_manual": false,
       "cues": [
@@ -5701,7 +5719,8 @@
       ]
     },
     {
-      "song_num": "020",
+      "song_num": "021",
+      "production_sequence": 20,
       "title": "역광",
       "is_manual": false,
       "cues": [
@@ -5984,7 +6003,8 @@
       ]
     },
     {
-      "song_num": "021",
+      "song_num": "022",
+      "production_sequence": 21,
       "title": "스피카",
       "is_manual": false,
       "cues": [
@@ -6189,7 +6209,8 @@
       ]
     },
     {
-      "song_num": "022",
+      "song_num": "023",
+      "production_sequence": 22,
       "title": "내가 죽으려고 생각한 것은",
       "is_manual": false,
       "cues": [
@@ -6478,7 +6499,8 @@
       ]
     },
     {
-      "song_num": "023",
+      "song_num": "024",
+      "production_sequence": 23,
       "title": "점묘의 노래",
       "is_manual": false,
       "cues": [
@@ -6734,6 +6756,7 @@
   "UBCB2e0Aik4": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "꿈을 이루어줘 도라에몽",
       "is_manual": false,
       "cues": [
@@ -7197,6 +7220,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "진달래꽃",
       "is_manual": true,
       "cues": [
@@ -7390,6 +7414,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "모니터링",
       "is_manual": true,
       "cues": [
@@ -7715,6 +7740,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "Lemon",
       "is_manual": false,
       "cues": [
@@ -7944,6 +7970,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "언노운 마더 구스",
       "is_manual": false,
       "cues": [
@@ -8431,6 +8458,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "We Are Number One",
       "is_manual": false,
       "cues": [
@@ -8642,6 +8670,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "부엉이 ~부엉이가 손님이 왔다고 알리네~",
       "is_manual": true,
       "cues": [
@@ -8841,6 +8870,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "Anti the EuphoriaHOLiC",
       "is_manual": true,
       "cues": [
@@ -9112,6 +9142,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "Mela!",
       "is_manual": false,
       "cues": [
@@ -9425,6 +9456,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "꽃이 되어줘",
       "is_manual": false,
       "cues": [
@@ -9624,6 +9656,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "아아, 훌륭한 고양이의 삶",
       "is_manual": false,
       "cues": [
@@ -9937,6 +9970,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "+♂️",
       "is_manual": true,
       "cues": [
@@ -10358,6 +10392,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "탈옥",
       "is_manual": false,
       "cues": [
@@ -10527,6 +10562,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "열이상",
       "is_manual": false,
       "cues": [
@@ -11308,6 +11344,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "This game",
       "is_manual": false,
       "cues": [
@@ -11573,6 +11610,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "Only my railgun",
       "is_manual": false,
       "cues": [
@@ -11838,6 +11876,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "발묘",
       "is_manual": false,
       "cues": [
@@ -12031,6 +12070,7 @@
     },
     {
       "song_num": "025",
+      "production_sequence": 25,
       "title": "괴물",
       "is_manual": false,
       "cues": [
@@ -12374,6 +12414,7 @@
     },
     {
       "song_num": "026",
+      "production_sequence": 26,
       "title": "트리플 바카",
       "is_manual": false,
       "cues": [
@@ -12693,6 +12734,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "카사네 테리토리",
       "is_manual": true,
       "cues": [
@@ -13036,6 +13078,7 @@
     },
     {
       "song_num": "029",
+      "production_sequence": 29,
       "title": "Battle Cry",
       "is_manual": false,
       "cues": [
@@ -13343,6 +13386,7 @@
     },
     {
       "song_num": "030",
+      "production_sequence": 30,
       "title": "Beautiful Princess Disorder",
       "is_manual": true,
       "cues": [
@@ -13680,6 +13724,7 @@
     },
     {
       "song_num": "031",
+      "production_sequence": 31,
       "title": "코코로 죠죠루 1부",
       "is_manual": true,
       "cues": [
@@ -13969,6 +14014,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "수직낙하",
       "is_manual": true,
       "cues": [
@@ -14258,6 +14304,7 @@
     },
     {
       "song_num": "033",
+      "production_sequence": 33,
       "title": "Confessions of a Rotten Girl",
       "is_manual": false,
       "cues": [
@@ -14619,6 +14666,7 @@
     },
     {
       "song_num": "034",
+      "production_sequence": 34,
       "title": "Monster",
       "is_manual": false,
       "cues": [
@@ -15004,6 +15052,7 @@
     },
     {
       "song_num": "038",
+      "production_sequence": 38,
       "title": "점점 높아져",
       "is_manual": false,
       "cues": [
@@ -15185,6 +15234,7 @@
     },
     {
       "song_num": "039",
+      "production_sequence": 39,
       "title": "Pretender",
       "is_manual": false,
       "cues": [
@@ -15504,6 +15554,7 @@
     },
     {
       "song_num": "040",
+      "production_sequence": 40,
       "title": "연애 서큘레이션",
       "is_manual": false,
       "cues": [
@@ -15973,6 +16024,7 @@
     },
     {
       "song_num": "041",
+      "production_sequence": 41,
       "title": "Teeth",
       "is_manual": false,
       "cues": [
@@ -16298,6 +16350,7 @@
     },
     {
       "song_num": "042",
+      "production_sequence": 42,
       "title": "서방님과 러브러브 러브송",
       "is_manual": false,
       "cues": [
@@ -16575,6 +16628,7 @@
     },
     {
       "song_num": "043",
+      "production_sequence": 43,
       "title": "사무라이 하트",
       "is_manual": false,
       "cues": [
@@ -16876,6 +16930,7 @@
     },
     {
       "song_num": "044",
+      "production_sequence": 44,
       "title": "생명의 유스티티아",
       "is_manual": false,
       "cues": [
@@ -17135,6 +17190,7 @@
     },
     {
       "song_num": "045",
+      "production_sequence": 45,
       "title": "모험의 서가 사라졌습니다!",
       "is_manual": true,
       "cues": [
@@ -17430,6 +17486,7 @@
     },
     {
       "song_num": "046",
+      "production_sequence": 46,
       "title": "베놈",
       "is_manual": true,
       "cues": [
@@ -17713,6 +17770,7 @@
     },
     {
       "song_num": "049",
+      "production_sequence": 49,
       "title": "논브레스 오블리쥬",
       "is_manual": false,
       "cues": [
@@ -18194,6 +18252,7 @@
     },
     {
       "song_num": "050",
+      "production_sequence": 50,
       "title": "숙성 로리신 레퀴엠",
       "is_manual": false,
       "cues": [
@@ -18713,6 +18772,7 @@
   "YzJm-mk52WM": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "Stronger than you",
       "is_manual": false,
       "cues": [
@@ -19080,6 +19140,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "호시아이",
       "is_manual": false,
       "cues": [
@@ -19303,6 +19364,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "Ahoy!! 우리는 호쇼해적단☆",
       "is_manual": false,
       "cues": [
@@ -19754,6 +19816,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "In Hell We Live, Lament",
       "is_manual": false,
       "cues": [
@@ -20151,6 +20214,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "악마의 아이",
       "is_manual": false,
       "cues": [
@@ -20368,6 +20432,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "Pretender",
       "is_manual": false,
       "cues": [
@@ -20687,6 +20752,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "Rubia",
       "is_manual": false,
       "cues": [
@@ -20958,6 +21024,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "DAYBREAK FRONTLINE",
       "is_manual": false,
       "cues": [
@@ -21247,6 +21314,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "Caramelldansen",
       "is_manual": false,
       "cues": [
@@ -21536,6 +21604,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "야라라라",
       "is_manual": true,
       "cues": [
@@ -21873,6 +21942,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "Rasputin",
       "is_manual": false,
       "cues": [
@@ -22204,6 +22274,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "Drunken Sailor",
       "is_manual": false,
       "cues": [
@@ -22523,6 +22594,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "에일리언 에일리언",
       "is_manual": false,
       "cues": [
@@ -22746,6 +22818,7 @@
     },
     {
       "song_num": "015",
+      "production_sequence": 15,
       "title": "태양계 디스코",
       "is_manual": true,
       "cues": [
@@ -23077,6 +23150,7 @@
     },
     {
       "song_num": "016",
+      "production_sequence": 16,
       "title": "댄스 로봇 댄스",
       "is_manual": false,
       "cues": [
@@ -23486,6 +23560,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "JANE DOE",
       "is_manual": false,
       "cues": [
@@ -23619,6 +23694,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "만찬가",
       "is_manual": false,
       "cues": [
@@ -23878,6 +23954,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "Golden",
       "is_manual": false,
       "cues": [
@@ -24167,6 +24244,7 @@
     },
     {
       "song_num": "021",
+      "production_sequence": 21,
       "title": "-ERROR",
       "is_manual": false,
       "cues": [
@@ -24366,6 +24444,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "How It’s Done",
       "is_manual": false,
       "cues": [
@@ -24769,6 +24848,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "EZ DO DANCE",
       "is_manual": false,
       "cues": [
@@ -25076,6 +25156,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "발묘",
       "is_manual": false,
       "cues": [
@@ -25269,6 +25350,7 @@
     },
     {
       "song_num": "025",
+      "production_sequence": 25,
       "title": "D/N/A",
       "is_manual": false,
       "cues": [
@@ -25498,6 +25580,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "감전",
       "is_manual": false,
       "cues": [
@@ -25841,6 +25924,7 @@
     },
     {
       "song_num": "029",
+      "production_sequence": 29,
       "title": "Teeth",
       "is_manual": false,
       "cues": [
@@ -26172,6 +26256,7 @@
     },
     {
       "song_num": "030",
+      "production_sequence": 30,
       "title": "프로포즈",
       "is_manual": false,
       "cues": [
@@ -26419,6 +26504,7 @@
     },
     {
       "song_num": "031",
+      "production_sequence": 31,
       "title": "프로포즈",
       "is_manual": false,
       "cues": [
@@ -26762,6 +26848,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "프로포즈",
       "is_manual": false,
       "cues": [
@@ -27111,6 +27198,7 @@
     },
     {
       "song_num": "034",
+      "production_sequence": 34,
       "title": "차가운 상어 아가씨",
       "is_manual": true,
       "cues": [
@@ -27364,6 +27452,7 @@
     },
     {
       "song_num": "035",
+      "production_sequence": 35,
       "title": "바움쿠헨 엔드롤",
       "is_manual": true,
       "cues": [
@@ -27671,6 +27760,7 @@
     },
     {
       "song_num": "036",
+      "production_sequence": 36,
       "title": "서방님과 러브러브 러브송",
       "is_manual": false,
       "cues": [
@@ -27948,6 +28038,7 @@
     },
     {
       "song_num": "037",
+      "production_sequence": 37,
       "title": "우이 밀밭의 파수꾼",
       "is_manual": false,
       "cues": [
@@ -28453,6 +28544,7 @@
     },
     {
       "song_num": "038",
+      "production_sequence": 38,
       "title": "영웅 운명의 시",
       "is_manual": true,
       "cues": [
@@ -28886,6 +28978,7 @@
     },
     {
       "song_num": "039",
+      "production_sequence": 39,
       "title": "오오카미 블루스",
       "is_manual": true,
       "cues": [
@@ -29075,6 +29168,7 @@
   "ZFMg5irJJU8": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "Bunny Girl",
       "is_manual": false,
       "cues": [
@@ -29244,6 +29338,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "이 실없이 멋진 세계는 날 위해 있어",
       "is_manual": false,
       "cues": [
@@ -29611,6 +29706,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "로키",
       "is_manual": true,
       "cues": [
@@ -29924,6 +30020,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "Vampire’s ∞ pathoS",
       "is_manual": false,
       "cues": [
@@ -30207,6 +30304,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "패배의 소년",
       "is_manual": false,
       "cues": [
@@ -30412,6 +30510,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "Monster",
       "is_manual": false,
       "cues": [
@@ -30797,6 +30896,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "하우 투 세계정복",
       "is_manual": false,
       "cues": [
@@ -31062,6 +31162,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "꼬맹이 전쟁",
       "is_manual": true,
       "cues": [
@@ -31423,6 +31524,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "RTRT",
       "is_manual": false,
       "cues": [
@@ -31688,6 +31790,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "세븐틴",
       "is_manual": false,
       "cues": [
@@ -31965,6 +32068,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "나는 최강",
       "is_manual": false,
       "cues": [
@@ -32278,6 +32382,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "Dragon Night",
       "is_manual": false,
       "cues": [
@@ -32513,6 +32618,7 @@
     },
     {
       "song_num": "015",
+      "production_sequence": 15,
       "title": "새벽과 반딧불이",
       "is_manual": false,
       "cues": [
@@ -32712,6 +32818,7 @@
     },
     {
       "song_num": "016",
+      "production_sequence": 16,
       "title": "내가 죽으려고 생각한 것은",
       "is_manual": false,
       "cues": [
@@ -33001,6 +33108,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "해피 신디사이저",
       "is_manual": false,
       "cues": [
@@ -33308,6 +33416,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "달을 보고 있었어",
       "is_manual": false,
       "cues": [
@@ -33561,6 +33670,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "Despacito",
       "is_manual": false,
       "cues": [
@@ -34042,6 +34152,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "지터 돌",
       "is_manual": true,
       "cues": [
@@ -34391,6 +34502,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "처단하겠다AAAAA아!",
       "is_manual": false,
       "cues": [
@@ -35070,6 +35182,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "only my railgun",
       "is_manual": false,
       "cues": [
@@ -35335,6 +35448,7 @@
     },
     {
       "song_num": "025",
+      "production_sequence": 25,
       "title": "서방님과 러브러브 러브송",
       "is_manual": false,
       "cues": [
@@ -35612,6 +35726,7 @@
     },
     {
       "song_num": "026",
+      "production_sequence": 26,
       "title": "에어맨을 쓰러뜨릴 수 없어",
       "is_manual": true,
       "cues": [
@@ -35877,6 +35992,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "어차피 너희들은 이런 노래가 좋으니까",
       "is_manual": true,
       "cues": [
@@ -36112,6 +36228,7 @@
     },
     {
       "song_num": "028",
+      "production_sequence": 28,
       "title": "루카루카☆나이트 피버",
       "is_manual": true,
       "cues": [
@@ -36395,6 +36512,7 @@
     },
     {
       "song_num": "029",
+      "production_sequence": 29,
       "title": "천성의 약함",
       "is_manual": false,
       "cues": [
@@ -36582,6 +36700,7 @@
     },
     {
       "song_num": "031",
+      "production_sequence": 31,
       "title": "숙성 로리신 레퀴엠",
       "is_manual": false,
       "cues": [
@@ -37117,6 +37236,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "도쿄 테디 베어",
       "is_manual": false,
       "cues": [
@@ -37340,6 +37460,7 @@
     },
     {
       "song_num": "033",
+      "production_sequence": 33,
       "title": "나의 가장 귀여운 부분",
       "is_manual": false,
       "cues": [
@@ -37761,6 +37882,7 @@
     },
     {
       "song_num": "034",
+      "production_sequence": 34,
       "title": "Viva La Vida",
       "is_manual": false,
       "cues": [
@@ -38032,6 +38154,7 @@
     },
     {
       "song_num": "035",
+      "production_sequence": 35,
       "title": "생명에게 미움받고 있어",
       "is_manual": false,
       "cues": [
@@ -38381,6 +38504,7 @@
     },
     {
       "song_num": "036",
+      "production_sequence": 36,
       "title": "Plazma",
       "is_manual": false,
       "cues": [
@@ -38568,6 +38692,7 @@
     },
     {
       "song_num": "037",
+      "production_sequence": 37,
       "title": "Playing His Game",
       "is_manual": true,
       "cues": [
@@ -38845,6 +38970,7 @@
     },
     {
       "song_num": "038",
+      "production_sequence": 38,
       "title": "계속 함께",
       "is_manual": false,
       "cues": [
@@ -39116,6 +39242,7 @@
     },
     {
       "song_num": "040",
+      "production_sequence": 40,
       "title": "I'm a mess",
       "is_manual": false,
       "cues": [
@@ -39465,6 +39592,7 @@
     },
     {
       "song_num": "041",
+      "production_sequence": 41,
       "title": "Build Our Machine",
       "is_manual": false,
       "cues": [
@@ -40000,6 +40128,7 @@
     },
     {
       "song_num": "042",
+      "production_sequence": 42,
       "title": "언노운 마더 구스",
       "is_manual": false,
       "cues": [
@@ -40487,6 +40616,7 @@
     },
     {
       "song_num": "044",
+      "production_sequence": 44,
       "title": "레인",
       "is_manual": false,
       "cues": [
@@ -40704,6 +40834,7 @@
     },
     {
       "song_num": "046",
+      "production_sequence": 46,
       "title": "칸타렐라",
       "is_manual": false,
       "cues": [
@@ -40813,6 +40944,7 @@
     },
     {
       "song_num": "047",
+      "production_sequence": 47,
       "title": "베텔기우스",
       "is_manual": false,
       "cues": [
@@ -41080,6 +41212,7 @@
   "chzzk-14805053": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "백금 디스코",
       "is_manual": false,
       "cues": [
@@ -41459,6 +41592,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "물거품 자장가",
       "is_manual": false,
       "cues": [
@@ -41778,6 +41912,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "점묘의 노래",
       "is_manual": false,
       "cues": [
@@ -42031,6 +42166,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "(무)책임집합체",
       "is_manual": true,
       "cues": [
@@ -42476,6 +42612,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "FAKE LAND",
       "is_manual": false,
       "cues": [
@@ -42915,6 +43052,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "모여! 내 사랑",
       "is_manual": false,
       "cues": [
@@ -43126,6 +43264,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "멜트",
       "is_manual": true,
       "cues": [
@@ -43331,6 +43470,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "펭귄 댄스",
       "is_manual": true,
       "cues": [
@@ -43518,6 +43658,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "고음충 음역 테스트",
       "is_manual": false,
       "cues": [
@@ -43693,6 +43834,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "Golden",
       "is_manual": false,
       "cues": [
@@ -43982,6 +44124,7 @@
     },
     {
       "song_num": "015",
+      "production_sequence": 15,
       "title": "점점 빨라져",
       "is_manual": true,
       "cues": [
@@ -44157,6 +44300,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "프로포즈",
       "is_manual": false,
       "cues": [
@@ -44458,6 +44602,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "Henceforth",
       "is_manual": false,
       "cues": [
@@ -44711,6 +44856,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "슬픔의 물결에 빠져",
       "is_manual": true,
       "cues": [
@@ -44868,6 +45014,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "코코로 오도루",
       "is_manual": false,
       "cues": [
@@ -45355,6 +45502,7 @@
     },
     {
       "song_num": "021",
+      "production_sequence": 21,
       "title": "부탁해 달링",
       "is_manual": true,
       "cues": [
@@ -45722,6 +45870,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "마시멜로",
       "is_manual": true,
       "cues": [
@@ -46047,6 +46196,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "히비카세 SCREAMO REMIX",
       "is_manual": true,
       "cues": [
@@ -46348,6 +46498,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "엔비 베이비 X KING",
       "is_manual": true,
       "cues": [
@@ -46637,6 +46788,7 @@
     },
     {
       "song_num": "025",
+      "production_sequence": 25,
       "title": "엔비 베이비",
       "is_manual": true,
       "cues": [
@@ -46878,6 +47030,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "달이 아름답다고 말해줘!",
       "is_manual": true,
       "cues": [
@@ -47175,6 +47328,7 @@
   "chzzk-14411850": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "패배의 소년",
       "is_manual": false,
       "cues": [
@@ -47380,6 +47534,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "천악",
       "is_manual": true,
       "cues": [
@@ -47555,6 +47710,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "테러",
       "is_manual": false,
       "cues": [
@@ -47820,6 +47976,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "Piano Man",
       "is_manual": false,
       "cues": [
@@ -48133,6 +48290,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "Somebody That I Used To Know",
       "is_manual": false,
       "cues": [
@@ -48398,6 +48556,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "미무카와 나이스 트라이",
       "is_manual": true,
       "cues": [
@@ -48627,6 +48786,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "부엉이 ~부엉이가 손님이 왔다고 알리네~",
       "is_manual": true,
       "cues": [
@@ -48826,6 +48986,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "새벽과 반딧불이",
       "is_manual": false,
       "cues": [
@@ -49025,6 +49186,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "그저 네게 맑아라",
       "is_manual": false,
       "cues": [
@@ -49242,6 +49404,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "인터뷰어",
       "is_manual": true,
       "cues": [
@@ -49543,6 +49706,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "Mela!",
       "is_manual": false,
       "cues": [
@@ -49856,6 +50020,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "팬서비스",
       "is_manual": true,
       "cues": [
@@ -50139,6 +50304,7 @@
     },
     {
       "song_num": "015",
+      "production_sequence": 15,
       "title": "긍지 높은 아이돌",
       "is_manual": false,
       "cues": [
@@ -50500,6 +50666,7 @@
     },
     {
       "song_num": "016",
+      "production_sequence": 16,
       "title": "누덕누덕 스타카토",
       "is_manual": false,
       "cues": [
@@ -50771,6 +50938,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "호시아이",
       "is_manual": false,
       "cues": [
@@ -50994,6 +51162,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "꿈을 먹는 흑백 바쿠",
       "is_manual": true,
       "cues": [
@@ -51205,6 +51374,7 @@
     },
     {
       "song_num": "021",
+      "production_sequence": 21,
       "title": "꿈을 이루어줘 도라에몽",
       "is_manual": false,
       "cues": [
@@ -51668,6 +51838,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "사랑은 혼돈의 노예",
       "is_manual": false,
       "cues": [
@@ -52101,6 +52272,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "How Far I'll Go",
       "is_manual": false,
       "cues": [
@@ -52384,6 +52556,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "발묘",
       "is_manual": false,
       "cues": [
@@ -52577,6 +52750,7 @@
     },
     {
       "song_num": "025",
+      "production_sequence": 25,
       "title": "야라라라",
       "is_manual": true,
       "cues": [
@@ -52926,6 +53100,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "Ahoy!! 우리는 호쇼해적단☆",
       "is_manual": false,
       "cues": [
@@ -53377,6 +53552,7 @@
     },
     {
       "song_num": "029",
+      "production_sequence": 29,
       "title": "도넛 홀",
       "is_manual": true,
       "cues": [
@@ -53704,6 +53880,7 @@
   "chzzk-14489268": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "Darkside",
       "is_manual": false,
       "cues": [
@@ -53999,6 +54176,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "Ga1ahad and Scientific Witchery",
       "is_manual": false,
       "cues": [
@@ -54444,6 +54622,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "모니터링",
       "is_manual": true,
       "cues": [
@@ -54769,6 +54948,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "사랑은 혼돈의 노예",
       "is_manual": false,
       "cues": [
@@ -55208,6 +55388,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "서방님과 러브러브 러브송",
       "is_manual": false,
       "cues": [
@@ -55485,6 +55666,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "부엉이 ~부엉이가 손님이 왔다고 알리네~",
       "is_manual": true,
       "cues": [
@@ -55684,6 +55866,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "오오카미 블루스",
       "is_manual": true,
       "cues": [
@@ -55871,6 +56054,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "에어맨을 쓰러뜨릴 수 없어",
       "is_manual": true,
       "cues": [
@@ -56136,6 +56320,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "바움쿠헨 엔드롤",
       "is_manual": true,
       "cues": [
@@ -56437,6 +56622,7 @@
     },
     {
       "song_num": "014",
+      "production_sequence": 14,
       "title": "Only my railgun",
       "is_manual": false,
       "cues": [
@@ -56702,6 +56888,7 @@
     },
     {
       "song_num": "016",
+      "production_sequence": 16,
       "title": "INSANE",
       "is_manual": false,
       "cues": [
@@ -57009,6 +57196,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "Build Our Machine",
       "is_manual": false,
       "cues": [
@@ -57544,6 +57732,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "천성의 약함",
       "is_manual": false,
       "cues": [
@@ -57731,6 +57920,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "Fukouna Girl",
       "is_manual": false,
       "cues": [
@@ -58056,6 +58246,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "롤링 걸",
       "is_manual": true,
       "cues": [
@@ -58237,6 +58428,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "테러",
       "is_manual": false,
       "cues": [
@@ -58526,6 +58718,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "루카루카☆나이트 피버",
       "is_manual": true,
       "cues": [
@@ -58809,6 +59002,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "해피 신디사이저",
       "is_manual": false,
       "cues": [
@@ -59116,6 +59310,7 @@
     },
     {
       "song_num": "026",
+      "production_sequence": 26,
       "title": "Victim",
       "is_manual": false,
       "cues": [
@@ -59291,6 +59486,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "호시아이",
       "is_manual": false,
       "cues": [
@@ -59514,6 +59710,7 @@
     },
     {
       "song_num": "028",
+      "production_sequence": 28,
       "title": "-ERROR",
       "is_manual": false,
       "cues": [
@@ -59713,6 +59910,7 @@
     },
     {
       "song_num": "030",
+      "production_sequence": 30,
       "title": "Hot Limit",
       "is_manual": false,
       "cues": [
@@ -59942,6 +60140,7 @@
     },
     {
       "song_num": "031",
+      "production_sequence": 31,
       "title": "야라라라",
       "is_manual": true,
       "cues": [
@@ -60291,6 +60490,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "호랑풍류가",
       "is_manual": false,
       "cues": [
@@ -60646,6 +60846,7 @@
     },
     {
       "song_num": "033",
+      "production_sequence": 33,
       "title": "잘못된 만남",
       "is_manual": false,
       "cues": [
@@ -60845,6 +61046,7 @@
     },
     {
       "song_num": "034",
+      "production_sequence": 34,
       "title": "귀여워서 미안해",
       "is_manual": false,
       "cues": [
@@ -61224,6 +61426,7 @@
     },
     {
       "song_num": "035",
+      "production_sequence": 35,
       "title": "새벽과 반딧불이 (어쿠스틱.ver)",
       "is_manual": true,
       "cues": [
@@ -61423,6 +61626,7 @@
     },
     {
       "song_num": "036",
+      "production_sequence": 36,
       "title": "차가운 상어 아가씨",
       "is_manual": true,
       "cues": [
@@ -61676,6 +61880,7 @@
     },
     {
       "song_num": "037",
+      "production_sequence": 37,
       "title": "악의 하인",
       "is_manual": false,
       "cues": [
@@ -62007,6 +62212,7 @@
     },
     {
       "song_num": "038",
+      "production_sequence": 38,
       "title": "phony",
       "is_manual": false,
       "cues": [
@@ -62236,6 +62442,7 @@
     },
     {
       "song_num": "041",
+      "production_sequence": 41,
       "title": "심장을 바쳐라!",
       "is_manual": false,
       "cues": [
@@ -62477,6 +62684,7 @@
     },
     {
       "song_num": "043",
+      "production_sequence": 43,
       "title": "누군가의 심장이 될 수 있다면",
       "is_manual": true,
       "cues": [
@@ -62738,6 +62946,7 @@
   "chzzk-14693102": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "17살의 노래",
       "is_manual": true,
       "cues": [
@@ -63195,6 +63404,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "태엽소녀시계",
       "is_manual": true,
       "cues": [
@@ -63430,6 +63640,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "그저 목소리 하나",
       "is_manual": false,
       "cues": [
@@ -63617,6 +63828,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "Victim",
       "is_manual": false,
       "cues": [
@@ -63792,6 +64004,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "INSANE",
       "is_manual": false,
       "cues": [
@@ -64105,6 +64318,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "Only my railgun",
       "is_manual": false,
       "cues": [
@@ -64370,6 +64584,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "Bi☣hazard",
       "is_manual": true,
       "cues": [
@@ -64743,6 +64958,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "롤링 걸",
       "is_manual": true,
       "cues": [
@@ -64918,6 +65134,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "내일의 밤하늘 초계반",
       "is_manual": true,
       "cues": [
@@ -65081,6 +65298,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "Camelia",
       "is_manual": false,
       "cues": [
@@ -65472,6 +65690,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "I Really Want to Stay at Your House",
       "is_manual": true,
       "cues": [
@@ -65845,6 +66064,7 @@
     },
     {
       "song_num": "012",
+      "production_sequence": 12,
       "title": "Choose me",
       "is_manual": false,
       "cues": [
@@ -66266,6 +66486,7 @@
     },
     {
       "song_num": "015",
+      "production_sequence": 15,
       "title": "천성의 약함",
       "is_manual": false,
       "cues": [
@@ -66453,6 +66674,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "새벽과 반딧불이",
       "is_manual": false,
       "cues": [
@@ -66652,6 +66874,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "잊혀지지 못할 언어 (영어)",
       "is_manual": true,
       "cues": [
@@ -66929,6 +67152,7 @@
     },
     {
       "song_num": "019",
+      "production_sequence": 19,
       "title": "호시아이",
       "is_manual": false,
       "cues": [
@@ -67152,6 +67376,7 @@
     },
     {
       "song_num": "022",
+      "production_sequence": 22,
       "title": "Mr. Music",
       "is_manual": false,
       "cues": [
@@ -67453,6 +67678,7 @@
     },
     {
       "song_num": "023",
+      "production_sequence": 23,
       "title": "에어맨을 쓰러뜨릴 수 없어",
       "is_manual": true,
       "cues": [
@@ -67718,6 +67944,7 @@
     },
     {
       "song_num": "024",
+      "production_sequence": 24,
       "title": "7 years",
       "is_manual": false,
       "cues": [
@@ -68085,6 +68312,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "있지 윌리엄",
       "is_manual": true,
       "cues": [
@@ -68332,6 +68560,7 @@
     },
     {
       "song_num": "028",
+      "production_sequence": 28,
       "title": "손을(테오)",
       "is_manual": true,
       "cues": [
@@ -68639,6 +68868,7 @@
     },
     {
       "song_num": "030",
+      "production_sequence": 30,
       "title": "DAYBREAK FRONTLINE",
       "is_manual": false,
       "cues": [
@@ -68934,6 +69164,7 @@
     },
     {
       "song_num": "031",
+      "production_sequence": 31,
       "title": "야라라라",
       "is_manual": true,
       "cues": [
@@ -69277,6 +69508,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "KING",
       "is_manual": false,
       "cues": [
@@ -69520,6 +69752,7 @@
   "chzzk-14756908": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "펭귄 댄스",
       "is_manual": true,
       "cues": [
@@ -69707,6 +69940,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "물거품",
       "is_manual": false,
       "cues": [
@@ -70002,6 +70236,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "FRIENDS",
       "is_manual": false,
       "cues": [
@@ -70411,6 +70646,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "He Wasn't",
       "is_manual": false,
       "cues": [
@@ -70712,6 +70948,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "Somebody That I Used to Know",
       "is_manual": false,
       "cues": [
@@ -70971,6 +71208,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "Unstoppable",
       "is_manual": false,
       "cues": [
@@ -71374,6 +71612,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "How Far I'll Go",
       "is_manual": false,
       "cues": [
@@ -71657,6 +71896,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "스피카",
       "is_manual": false,
       "cues": [
@@ -71862,6 +72102,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "혼자 놀이 엔비",
       "is_manual": true,
       "cues": [
@@ -72087,6 +72328,7 @@
   "chzzk-14953860": [
     {
       "song_num": "001",
+      "production_sequence": 1,
       "title": "새벽과 반딧불이",
       "is_manual": false,
       "cues": [
@@ -72286,6 +72528,7 @@
     },
     {
       "song_num": "002",
+      "production_sequence": 2,
       "title": "바움쿠헨 엔드롤",
       "is_manual": true,
       "cues": [
@@ -72593,6 +72836,7 @@
     },
     {
       "song_num": "003",
+      "production_sequence": 3,
       "title": "RTRT",
       "is_manual": false,
       "cues": [
@@ -72846,6 +73090,7 @@
     },
     {
       "song_num": "004",
+      "production_sequence": 4,
       "title": "끝없이 잿빛으로",
       "is_manual": true,
       "cues": [
@@ -73195,6 +73440,7 @@
     },
     {
       "song_num": "005",
+      "production_sequence": 5,
       "title": "아지랑이 데이즈",
       "is_manual": false,
       "cues": [
@@ -73424,6 +73670,7 @@
     },
     {
       "song_num": "006",
+      "production_sequence": 6,
       "title": "호시아이",
       "is_manual": false,
       "cues": [
@@ -73641,6 +73888,7 @@
     },
     {
       "song_num": "007",
+      "production_sequence": 7,
       "title": "구마",
       "is_manual": true,
       "cues": [
@@ -73876,6 +74124,7 @@
     },
     {
       "song_num": "008",
+      "production_sequence": 8,
       "title": "우견의 나비 (렌.ver)",
       "is_manual": true,
       "cues": [
@@ -74051,6 +74300,7 @@
     },
     {
       "song_num": "009",
+      "production_sequence": 9,
       "title": "익명M",
       "is_manual": true,
       "cues": [
@@ -74460,6 +74710,7 @@
     },
     {
       "song_num": "010",
+      "production_sequence": 10,
       "title": "가희실격",
       "is_manual": true,
       "cues": [
@@ -74893,6 +75144,7 @@
     },
     {
       "song_num": "011",
+      "production_sequence": 11,
       "title": "비비데바",
       "is_manual": false,
       "cues": [
@@ -75272,6 +75524,7 @@
     },
     {
       "song_num": "013",
+      "production_sequence": 13,
       "title": "개쓰레기",
       "is_manual": false,
       "cues": [
@@ -75585,6 +75838,7 @@
     },
     {
       "song_num": "016",
+      "production_sequence": 16,
       "title": "발묘",
       "is_manual": false,
       "cues": [
@@ -75778,6 +76032,7 @@
     },
     {
       "song_num": "017",
+      "production_sequence": 17,
       "title": "레오",
       "is_manual": false,
       "cues": [
@@ -76013,6 +76268,7 @@
     },
     {
       "song_num": "018",
+      "production_sequence": 18,
       "title": "멜랑콜릭",
       "is_manual": true,
       "cues": [
@@ -76212,6 +76468,7 @@
     },
     {
       "song_num": "020",
+      "production_sequence": 20,
       "title": "Victim",
       "is_manual": false,
       "cues": [
@@ -76375,6 +76632,7 @@
     },
     {
       "song_num": "021",
+      "production_sequence": 21,
       "title": "새벽빛의 노래",
       "is_manual": false,
       "cues": [
@@ -76466,6 +76724,7 @@
     },
     {
       "song_num": "026",
+      "production_sequence": 26,
       "title": "라시사",
       "is_manual": false,
       "cues": [
@@ -76809,6 +77068,7 @@
     },
     {
       "song_num": "027",
+      "production_sequence": 27,
       "title": "댄스홀",
       "is_manual": false,
       "cues": [
@@ -77086,6 +77346,7 @@
     },
     {
       "song_num": "028",
+      "production_sequence": 28,
       "title": "열이상",
       "is_manual": false,
       "cues": [
@@ -77897,6 +78158,7 @@
     },
     {
       "song_num": "029",
+      "production_sequence": 29,
       "title": "래빗 홀",
       "is_manual": true,
       "cues": [
@@ -78342,6 +78604,7 @@
     },
     {
       "song_num": "030",
+      "production_sequence": 30,
       "title": "도넛 홀",
       "is_manual": true,
       "cues": [
@@ -78667,6 +78930,7 @@
     },
     {
       "song_num": "032",
+      "production_sequence": 32,
       "title": "Henceforth",
       "is_manual": false,
       "cues": [
@@ -78915,6 +79179,3694 @@
           "end": 21726.056,
           "ja": "あぁ 夏を今もう一回",
           "ko": "아아 여름을 다시 한 번"
+        }
+      ]
+    }
+  ],
+  "chzzk-14524675": [
+    {
+      "song_num": "003",
+      "production_sequence": 3,
+      "title": "Mela!",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 1931.3,
+          "end": 1932.852,
+          "ja": "今なんじゃない?",
+          "ko": "지금 아니겠어"
+        },
+        {
+          "start": 1932.852,
+          "end": 1934.739,
+          "ja": "メラメラとたぎれ",
+          "ko": "활활 끓어올라"
+        },
+        {
+          "start": 1934.739,
+          "end": 1938.03,
+          "ja": "眠っているだけの正義",
+          "ko": "그저 잠들어 있는 정의"
+        },
+        {
+          "start": 1938.03,
+          "end": 1946.038,
+          "ja": "こんな僕も君のヒーローになりたいのさ (ooh whoa)",
+          "ko": "이런 나도 너의 영웅이 되고 싶어"
+        },
+        {
+          "start": 1946.038,
+          "end": 1948.566,
+          "ja": "La la la, la la la",
+          "ko": "라라라 라라라"
+        },
+        {
+          "start": 1948.566,
+          "end": 1952.129,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        },
+        {
+          "start": 1952.129,
+          "end": 1955.601,
+          "ja": "La la la, la la la, la la la",
+          "ko": "라라라 라라라 라라라"
+        },
+        {
+          "start": 1955.601,
+          "end": 1959.966,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        },
+        {
+          "start": 1959.966,
+          "end": 1966.899,
+          "ja": "かっこいい君には 僕じゃ頼りないのかなんて",
+          "ko": "멋진 너에겐 내가 미덥지 않은 걸까"
+        },
+        {
+          "start": 1966.899,
+          "end": 1973.924,
+          "ja": "そりゃそうだよな だって今もこうして迷ってる",
+          "ko": "그렇겠지 지금도 이렇게 망설이고 있으니"
+        },
+        {
+          "start": 1973.924,
+          "end": 1977.305,
+          "ja": "(La la la, la la la) 手を取ってくれないか",
+          "ko": "라라라 라라라 내 손을 잡아 주지 않을래"
+        },
+        {
+          "start": 1977.305,
+          "end": 1980.858,
+          "ja": "(La la la, la la la) ギブとテイクさ",
+          "ko": "라라라 라라라 기브 앤 테이크야"
+        },
+        {
+          "start": 1980.858,
+          "end": 1987.239,
+          "ja": "(La la la, la la la) 君が僕のヒーローだったように",
+          "ko": "라라라 라라라 네가 나의 영웅이었던 것처럼"
+        },
+        {
+          "start": 1987.239,
+          "end": 1988.735,
+          "ja": "今なんじゃない?",
+          "ko": "지금 아니겠어"
+        },
+        {
+          "start": 1988.735,
+          "end": 1990.621,
+          "ja": "メラメラとたぎる",
+          "ko": "활활 끓어올라"
+        },
+        {
+          "start": 1990.621,
+          "end": 1994.173,
+          "ja": "こんな僕にも潜む正義が",
+          "ko": "이런 내 안에도 숨어 있던 정의가"
+        },
+        {
+          "start": 1994.173,
+          "end": 1997.595,
+          "ja": "どうしようもない衝動に駆られて",
+          "ko": "어쩔 수 없는 충동에 이끌려"
+        },
+        {
+          "start": 1997.595,
+          "end": 2001.107,
+          "ja": "ほら気付けば手を握っている",
+          "ko": "봐 정신을 차리면 네 손을 잡고 있어"
+        },
+        {
+          "start": 2001.107,
+          "end": 2002.392,
+          "ja": "いったいぜんたい",
+          "ko": "대체 어쩌려고"
+        },
+        {
+          "start": 2002.392,
+          "end": 2007.911,
+          "ja": "そんなに荷物を背負い込んでどこへ行くの",
+          "ko": "그렇게 짐을 짊어지고 어디로 가는 거야"
+        },
+        {
+          "start": 2007.911,
+          "end": 2016.037,
+          "ja": "ねえねえ待って僕にちょっと預けてみては?",
+          "ko": "있지 잠깐 내게 조금 맡겨 보지 않을래"
+        },
+        {
+          "start": 2029.706,
+          "end": 2033.127,
+          "ja": "信じてばかりの僕と",
+          "ko": "그저 믿기만 하는 나와"
+        },
+        {
+          "start": 2033.127,
+          "end": 2036.68,
+          "ja": "信じることが怖い君と",
+          "ko": "믿는 것이 두려운 너"
+        },
+        {
+          "start": 2036.68,
+          "end": 2040.192,
+          "ja": "どちらが正しいのかなんて",
+          "ko": "어느 쪽이 옳은지는"
+        },
+        {
+          "start": 2040.192,
+          "end": 2043.744,
+          "ja": "誰にも分からないさ",
+          "ko": "아무도 몰라"
+        },
+        {
+          "start": 2043.744,
+          "end": 2047.336,
+          "ja": "(La la la, la la la) 僕らだけの世界",
+          "ko": "라라라 라라라 우리만의 세계"
+        },
+        {
+          "start": 2047.336,
+          "end": 2050.718,
+          "ja": "(La la la, la la la) ギブとテイクさ",
+          "ko": "라라라 라라라 기브 앤 테이크야"
+        },
+        {
+          "start": 2050.718,
+          "end": 2061.634,
+          "ja": "(La la la, la la la) 補い合えた暁には同じ夢を見たい",
+          "ko": "라라라 라라라 서로 채워 주는 날엔 같은 꿈을 꾸고 싶어"
+        },
+        {
+          "start": 2072.272,
+          "end": 2076.567,
+          "ja": "君はかっこいいと苦しめて",
+          "ko": "너는 멋지다는 말로 괴롭히고"
+        },
+        {
+          "start": 2076.567,
+          "end": 2079.738,
+          "ja": "ひとりぼっちにさせたのは",
+          "ko": "홀로 남겨 둔 건"
+        },
+        {
+          "start": 2079.738,
+          "end": 2086.37,
+          "ja": "少し僕のせいなんだよな ごめんね",
+          "ko": "조금은 내 탓이겠지 미안해"
+        },
+        {
+          "start": 2086.37,
+          "end": 2090.093,
+          "ja": "だけど見るべきはリアルだ",
+          "ko": "하지만 봐야 할 건 현실이야"
+        },
+        {
+          "start": 2090.093,
+          "end": 2094.037,
+          "ja": "今こそ僕が救けるんだ",
+          "ko": "이제야말로 내가 구하는 거야"
+        },
+        {
+          "start": 2094.037,
+          "end": 2101.612,
+          "ja": "抱えないで信じて頼ってほしいんだ",
+          "ko": "혼자 안지 말고 믿고 기대 줬으면 해"
+        },
+        {
+          "start": 2104.142,
+          "end": 2105.597,
+          "ja": "今なんじゃない?",
+          "ko": "지금 아니겠어"
+        },
+        {
+          "start": 2105.597,
+          "end": 2107.523,
+          "ja": "メラメラとたぎる",
+          "ko": "활활 끓어올라"
+        },
+        {
+          "start": 2107.523,
+          "end": 2110.995,
+          "ja": "こんな僕にも眠る正義が",
+          "ko": "이런 내 안에도 잠들어 있던 정의가"
+        },
+        {
+          "start": 2110.995,
+          "end": 2114.497,
+          "ja": "どうしようもない衝動に駆られて",
+          "ko": "어쩔 수 없는 충동에 이끌려"
+        },
+        {
+          "start": 2114.497,
+          "end": 2117.929,
+          "ja": "ほら気付けば手を握っている",
+          "ko": "봐 정신을 차리면 네 손을 잡고 있어"
+        },
+        {
+          "start": 2117.929,
+          "end": 2119.384,
+          "ja": "ほっておけない",
+          "ko": "내버려 둘 수 없어"
+        },
+        {
+          "start": 2119.384,
+          "end": 2124.783,
+          "ja": "そんなに荷物を背負い込んでどこへ行くの",
+          "ko": "그렇게 짐을 짊어지고 어디로 가는 거야"
+        },
+        {
+          "start": 2124.783,
+          "end": 2131.716,
+          "ja": "ほんのちょっと僕にちょっと預けてみては?",
+          "ko": "아주 조금 내게 조금 맡겨 보지 않을래"
+        },
+        {
+          "start": 2131.716,
+          "end": 2139.724,
+          "ja": "こんな僕も君のヒーローになりたいのさ (ooh whoa)",
+          "ko": "이런 나도 너의 영웅이 되고 싶어"
+        },
+        {
+          "start": 2139.724,
+          "end": 2142.253,
+          "ja": "La la la, la la la",
+          "ko": "라라라 라라라"
+        },
+        {
+          "start": 2142.253,
+          "end": 2145.845,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        },
+        {
+          "start": 2145.845,
+          "end": 2149.227,
+          "ja": "La la la, la la la, la la la",
+          "ko": "라라라 라라라 라라라"
+        },
+        {
+          "start": 2149.227,
+          "end": 2153.592,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        },
+        {
+          "start": 2153.592,
+          "end": 2156.12,
+          "ja": "La la la, la la la",
+          "ko": "라라라 라라라"
+        },
+        {
+          "start": 2156.12,
+          "end": 2159.934,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        },
+        {
+          "start": 2159.934,
+          "end": 2163.145,
+          "ja": "La la la, la la la, la la la",
+          "ko": "라라라 라라라 라라라"
+        },
+        {
+          "start": 2163.145,
+          "end": 2166.304,
+          "ja": "La la la la, la la la, la la la",
+          "ko": "라라라라 라라라 라라라"
+        }
+      ]
+    },
+    {
+      "song_num": "005",
+      "production_sequence": 5,
+      "title": "Only my railgun",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 2801.534,
+          "end": 2807.977,
+          "ja": "放て! 心に刻んだ夢を 未来さえ置き去りにして",
+          "ko": "쏴버려 마음에 새긴 꿈을 미래마저 뒤에 남겨 두고"
+        },
+        {
+          "start": 2808.108,
+          "end": 2810.939,
+          "ja": "限界など知らない 意味無い!",
+          "ko": "한계 따윈 몰라 의미 없어"
+        },
+        {
+          "start": 2811.069,
+          "end": 2819.903,
+          "ja": "この能力が光散らす その先に遥かな想いを",
+          "ko": "이 능력이 빛을 흩뿌리는 그 너머에 아득한 마음을"
+        },
+        {
+          "start": 2822.274,
+          "end": 2828.567,
+          "ja": "歩いてきた この道を 振り返ることしか",
+          "ko": "걸어온 이 길을 뒤돌아보기밖에"
+        },
+        {
+          "start": 2828.697,
+          "end": 2835.41,
+          "ja": "出来ないなら 今ここで全てを壊せる",
+          "ko": "할 수 없다면 지금 여기서 모든 걸 부술 수 있어"
+        },
+        {
+          "start": 2835.541,
+          "end": 2842.074,
+          "ja": "暗闇に堕ちる街並み 人はどこまで立ち向かえるの?",
+          "ko": "어둠에 빠지는 거리 사람은 어디까지 맞설 수 있을까"
+        },
+        {
+          "start": 2842.204,
+          "end": 2849.918,
+          "ja": "加速するその痛みから 誰かをきっと守れるよ",
+          "ko": "가속하는 그 아픔으로부터 누군가를 반드시 지킬 수 있어"
+        },
+        {
+          "start": 2850.048,
+          "end": 2850.478,
+          "ja": "Looking!",
+          "ko": "Looking"
+        },
+        {
+          "start": 2850.608,
+          "end": 2853.579,
+          "ja": "The blitz loop this planet to search way.",
+          "ko": "전격이 길을 찾아 이 별을 내달려"
+        },
+        {
+          "start": 2853.709,
+          "end": 2857.331,
+          "ja": "Only my RAILGUN can shoot it 今すぐ",
+          "ko": "오직 나의 RAILGUN만이 꿰뚫을 수 있어 지금 당장"
+        },
+        {
+          "start": 2857.461,
+          "end": 2860.242,
+          "ja": "身体中を 光の速さで",
+          "ko": "온몸을 빛의 속도로"
+        },
+        {
+          "start": 2860.373,
+          "end": 2863.904,
+          "ja": "駆け巡った 確かな予感",
+          "ko": "내달린 확실한 예감"
+        },
+        {
+          "start": 2864.034,
+          "end": 2870.587,
+          "ja": "掴め! 望むものなら残さず 輝ける自分らしさで",
+          "ko": "붙잡아 원하는 것이라면 남김없이 빛나는 나다움으로"
+        },
+        {
+          "start": 2870.717,
+          "end": 2873.558,
+          "ja": "信じてるよ あの日の誓いを",
+          "ko": "믿고 있어 그날의 맹세를"
+        },
+        {
+          "start": 2876.18,
+          "end": 2882.983,
+          "ja": "この瞳に光る涙 それさえも強さになるから",
+          "ko": "이 눈동자에 빛나는 눈물 그것마저 강함이 될 테니까"
+        },
+        {
+          "start": 2884.714,
+          "end": 2891.117,
+          "ja": "立ち止まると 少しだけ 感じる切なさに",
+          "ko": "멈춰 서면 문득 느껴지는 아릿함에"
+        },
+        {
+          "start": 2891.247,
+          "end": 2897.71,
+          "ja": "戸惑う事 無いなんて嘘はつかないよ",
+          "ko": "망설인 적 없다는 거짓말은 하지 않을게"
+        },
+        {
+          "start": 2897.84,
+          "end": 2904.313,
+          "ja": "宙に舞うコインが描く 放物線が決める運命",
+          "ko": "하늘에 떠오른 코인이 그리는 포물선이 운명을 정해"
+        },
+        {
+          "start": 2904.444,
+          "end": 2912.067,
+          "ja": "打ち出した答えが今日も 私の胸を駆け巡る",
+          "ko": "쏘아 낸 대답이 오늘도 내 가슴을 내달려"
+        },
+        {
+          "start": 2912.197,
+          "end": 2912.727,
+          "ja": "Sparkling!",
+          "ko": "Sparkling"
+        },
+        {
+          "start": 2912.858,
+          "end": 2915.069,
+          "ja": "The shiny lights awake true desire.",
+          "ko": "빛나는 섬광이 진짜 소망을 깨워"
+        },
+        {
+          "start": 2915.199,
+          "end": 2918.961,
+          "ja": "Only my RAILGUN can shoot it.必ず",
+          "ko": "오직 나의 RAILGUN만이 꿰뚫을 수 있어 반드시"
+        },
+        {
+          "start": 2919.091,
+          "end": 2921.832,
+          "ja": "貫いてく 戸惑うことなく",
+          "ko": "망설임 없이 꿰뚫어 가"
+        },
+        {
+          "start": 2921.962,
+          "end": 2926.464,
+          "ja": "傷ついても 走り続ける",
+          "ko": "상처 입어도 계속 달려"
+        },
+        {
+          "start": 2926.594,
+          "end": 2933.147,
+          "ja": "狙え! 凛と煌く視線は 狂い無く闇を切り裂く",
+          "ko": "노려 의연하게 빛나는 시선은 한 치 어긋남 없이 어둠을 갈라"
+        },
+        {
+          "start": 2933.277,
+          "end": 2936.298,
+          "ja": "迷いなんて 吹き飛ばせばいい",
+          "ko": "망설임 따윈 날려 버리면 돼"
+        },
+        {
+          "start": 2936.429,
+          "end": 2946.003,
+          "ja": "この心が叫ぶ限り 誰ひとり邪魔などさせない",
+          "ko": "이 마음이 외치는 한 누구도 방해하게 두지 않아"
+        },
+        {
+          "start": 2973.146,
+          "end": 2975.767,
+          "ja": "儚く舞う 無数の願いは",
+          "ko": "덧없이 흩날리는 무수한 소원은"
+        },
+        {
+          "start": 2975.898,
+          "end": 2979.56,
+          "ja": "この両手に 積もってゆく",
+          "ko": "이 두 손에 쌓여 가"
+        },
+        {
+          "start": 2979.69,
+          "end": 2982.541,
+          "ja": "切り裂く闇に 見えてくるのは",
+          "ko": "가른 어둠 속에서 보이는 것은"
+        },
+        {
+          "start": 2982.671,
+          "end": 2986.163,
+          "ja": "重く深く 切ない記憶",
+          "ko": "무겁고 깊게 사무치는 기억"
+        },
+        {
+          "start": 2986.293,
+          "end": 2989.214,
+          "ja": "色褪せてく 現実に揺れる",
+          "ko": "빛바래는 현실에 흔들려도"
+        },
+        {
+          "start": 2989.344,
+          "end": 2993.066,
+          "ja": "絶望には 負けたくない",
+          "ko": "절망에는 지고 싶지 않아"
+        },
+        {
+          "start": 2993.196,
+          "end": 2996.988,
+          "ja": "私が今 私であること",
+          "ko": "내가 지금 나로 존재하는 것"
+        },
+        {
+          "start": 2997.118,
+          "end": 3000.269,
+          "ja": "胸を張って 全て誇れる!",
+          "ko": "가슴을 펴고 모든 걸 자랑스러워할 수 있어"
+        },
+        {
+          "start": 3000.399,
+          "end": 3000.859,
+          "ja": "Looking!",
+          "ko": "Looking"
+        },
+        {
+          "start": 3000.99,
+          "end": 3003.341,
+          "ja": "The blitz loop this planet to search way.",
+          "ko": "전격이 길을 찾아 이 별을 내달려"
+        },
+        {
+          "start": 3003.471,
+          "end": 3007.053,
+          "ja": "Only my RAILGUN can shoot it.今すぐ",
+          "ko": "오직 나의 RAILGUN만이 꿰뚫을 수 있어 지금 당장"
+        },
+        {
+          "start": 3007.183,
+          "end": 3009.814,
+          "ja": "身体中を 光の速さで",
+          "ko": "온몸을 빛의 속도로"
+        },
+        {
+          "start": 3009.944,
+          "end": 3013.796,
+          "ja": "駆け巡った 確かな予感",
+          "ko": "내달린 확실한 예감"
+        },
+        {
+          "start": 3013.926,
+          "end": 3020.159,
+          "ja": "放て! 心に刻んだ夢を 未来さえ置き去りにして",
+          "ko": "쏴버려 마음에 새긴 꿈을 미래마저 뒤에 남겨 두고"
+        },
+        {
+          "start": 3020.289,
+          "end": 3023.11,
+          "ja": "限界など知らない 意味無い!",
+          "ko": "한계 따윈 몰라 의미 없어"
+        },
+        {
+          "start": 3023.24,
+          "end": 3029.453,
+          "ja": "この能力が光散らす その先に遥かな想いを",
+          "ko": "이 능력이 빛을 흩뿌리는 그 너머에 아득한 마음을"
+        }
+      ]
+    },
+    {
+      "song_num": "007",
+      "production_sequence": 7,
+      "title": "스피카",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 3556.197,
+          "end": 3560.107,
+          "ja": "まだらな日々に 夜は長く",
+          "ko": "얼룩진 나날에 밤은 길고"
+        },
+        {
+          "start": 3560.108,
+          "end": 3563.948,
+          "ja": "エコーは仄か 声を探すの",
+          "ko": "메아리는 희미하게 목소리를 찾아"
+        },
+        {
+          "start": 3564.348,
+          "end": 3567.308,
+          "ja": "こんな夜空に まだひとつだけ",
+          "ko": "이런 밤하늘에 아직 하나뿐"
+        },
+        {
+          "start": 3567.358,
+          "end": 3569.038,
+          "ja": "灯りがあるようだ",
+          "ko": "불빛이 남아 있는 듯해"
+        },
+        {
+          "start": 3570.448,
+          "end": 3574.178,
+          "ja": "欲しい未来は そんなに無くて",
+          "ko": "바라는 미래는 그리 많지 않아"
+        },
+        {
+          "start": 3574.178,
+          "end": 3577.598,
+          "ja": "君がいるなら それくらいだよ",
+          "ko": "네가 있다면 그 정도면 돼"
+        },
+        {
+          "start": 3577.599,
+          "end": 3581.019,
+          "ja": "その次くらいに 僕がいれたら",
+          "ko": "그다음쯤에 내가 있을 수 있다면"
+        },
+        {
+          "start": 3581.019,
+          "end": 3582.819,
+          "ja": "それでいいのにな",
+          "ko": "그걸로 좋을 텐데"
+        },
+        {
+          "start": 3583.679,
+          "end": 3586.919,
+          "ja": "「会いたい」の改行と定型",
+          "ko": "보고 싶어라는 말의 줄바꿈과 정형"
+        },
+        {
+          "start": 3586.919,
+          "end": 3590.859,
+          "ja": "いたいの いたいの とんでいけ",
+          "ko": "아픈 거 아픈 거 날아가라"
+        },
+        {
+          "start": 3590.86,
+          "end": 3594.28,
+          "ja": "この感情は君がくれたの",
+          "ko": "이 감정은 네가 준 거야"
+        },
+        {
+          "start": 3594.28,
+          "end": 3597.72,
+          "ja": "その瞬間を愛と名付けた",
+          "ko": "그 순간을 사랑이라 이름 붙였어"
+        },
+        {
+          "start": 3597.72,
+          "end": 3601.2,
+          "ja": "届かぬスピカ 変われぬ僕が",
+          "ko": "닿지 않는 스피카 변하지 못하는 내가"
+        },
+        {
+          "start": 3601.2,
+          "end": 3605.1,
+          "ja": "ずっと ずっと 手を伸ばしてた 嗚呼",
+          "ko": "계속 계속 손을 뻗고 있었어 아아"
+        },
+        {
+          "start": 3618.922,
+          "end": 3622.162,
+          "ja": "願い事が増えるたびに",
+          "ko": "소원이 늘어날 때마다"
+        },
+        {
+          "start": 3622.162,
+          "end": 3625.502,
+          "ja": "ぼやける朝 星を集めた",
+          "ko": "흐려지는 아침 별을 모았어"
+        },
+        {
+          "start": 3625.502,
+          "end": 3628.902,
+          "ja": "近づくほど 辛くなるなんて",
+          "ko": "가까워질수록 괴로워진다니"
+        },
+        {
+          "start": 3628.902,
+          "end": 3633.082,
+          "ja": "どうかしてる あぁ、どうかしてる",
+          "ko": "제정신이 아니야 아아 정말 이상해"
+        },
+        {
+          "start": 3633.083,
+          "end": 3636.123,
+          "ja": "君は僕に咲いた一等星",
+          "ko": "넌 내게 피어난 일등성"
+        },
+        {
+          "start": 3636.123,
+          "end": 3639.583,
+          "ja": "眩しいからこんな心は",
+          "ko": "눈부시니까 이런 마음은"
+        },
+        {
+          "start": 3639.583,
+          "end": 3642.903,
+          "ja": "どこかへ捨ててしまおうか",
+          "ko": "어딘가에 버려 버릴까"
+        },
+        {
+          "start": 3642.903,
+          "end": 3646.323,
+          "ja": "なんてこれも馬鹿な空想だ",
+          "ko": "같은 이것도 바보 같은 공상이야"
+        },
+        {
+          "start": 3646.323,
+          "end": 3650.083,
+          "ja": "愛の体温と酩酊",
+          "ko": "사랑의 체온과 취기"
+        },
+        {
+          "start": 3650.084,
+          "end": 3653.384,
+          "ja": "「痛い」と 「居たい」を ループして",
+          "ko": "아프다와 있고 싶다를 되풀이해"
+        },
+        {
+          "start": 3653.384,
+          "end": 3656.904,
+          "ja": "この感情は君がくれたの",
+          "ko": "이 감정은 네가 준 거야"
+        },
+        {
+          "start": 3656.904,
+          "end": 3660.384,
+          "ja": "その瞬間を愛と名付けた",
+          "ko": "그 순간을 사랑이라 이름 붙였어"
+        },
+        {
+          "start": 3660.384,
+          "end": 3663.864,
+          "ja": "惑える星を 迷える僕を",
+          "ko": "헤매는 별을 길 잃은 나를"
+        },
+        {
+          "start": 3663.865,
+          "end": 3667.205,
+          "ja": "そっと そっと 照らしてくれた",
+          "ko": "살며시 살며시 비춰 줬어"
+        },
+        {
+          "start": 3667.205,
+          "end": 3670.705,
+          "ja": "この永遠を君にあげよう",
+          "ko": "이 영원을 네게 줄게"
+        },
+        {
+          "start": 3670.705,
+          "end": 3674.285,
+          "ja": "その瞬間は僕でいられる",
+          "ko": "그 순간엔 나로 있을 수 있어"
+        },
+        {
+          "start": 3674.285,
+          "end": 3677.765,
+          "ja": "彼方のスピカ 変わらず星が",
+          "ko": "저편의 스피카 변함없이 별이"
+        },
+        {
+          "start": 3677.766,
+          "end": 3681.226,
+          "ja": "今日も 明日も 輝いている 嗚呼",
+          "ko": "오늘도 내일도 빛나고 있어 아아"
+        },
+        {
+          "start": 3681.226,
+          "end": 3682.426,
+          "ja": "嗚呼",
+          "ko": "아아"
+        }
+      ]
+    },
+    {
+      "song_num": "010",
+      "production_sequence": 10,
+      "title": "그저 네게 맑아라",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 4613.3,
+          "end": 4616.62,
+          "ja": "夜に浮かんでいた",
+          "ko": "밤에 떠 있던"
+        },
+        {
+          "start": 4616.62,
+          "end": 4620.86,
+          "ja": "海月のような月が爆ぜた",
+          "ko": "해파리 같은 달이 터졌어"
+        },
+        {
+          "start": 4620.86,
+          "end": 4624.3,
+          "ja": "バス停の背を覗けば",
+          "ko": "버스 정류장 뒤를 들여다보면"
+        },
+        {
+          "start": 4624.3,
+          "end": 4628.92,
+          "ja": "あの夏の君が頭にいる",
+          "ko": "그 여름의 네가 머릿속에 있어"
+        },
+        {
+          "start": 4631.14,
+          "end": 4632.26,
+          "ja": "だけ",
+          "ko": "그것뿐"
+        },
+        {
+          "start": 4640.56,
+          "end": 4648.4,
+          "ja": "鳥居 乾いた雲 夏の匂いが頬を撫でる",
+          "ko": "토리이 마른 구름 여름 냄새가 뺨을 스쳐"
+        },
+        {
+          "start": 4648.4,
+          "end": 4654.04,
+          "ja": "大人になるまでほら、背伸びしたままで",
+          "ko": "어른이 될 때까지 봐 까치발을 든 채로"
+        },
+        {
+          "start": 4654.04,
+          "end": 4662.44,
+          "ja": "遊び疲れたらバス停裏で空でも見よう",
+          "ko": "놀다 지치면 버스 정류장 뒤에서 하늘이나 보자"
+        },
+        {
+          "start": 4662.44,
+          "end": 4665.46,
+          "ja": "じきに夏が暮れても",
+          "ko": "곧 여름이 저물어도"
+        },
+        {
+          "start": 4665.46,
+          "end": 4668.88,
+          "ja": "きっときっと覚えてるから",
+          "ko": "분명 분명 기억할 테니까"
+        },
+        {
+          "start": 4668.88,
+          "end": 4672.7,
+          "ja": "追いつけないまま大人になって",
+          "ko": "따라잡지 못한 채 어른이 되어"
+        },
+        {
+          "start": 4672.7,
+          "end": 4675.82,
+          "ja": "君のポケットに夜が咲く",
+          "ko": "네 주머니에 밤이 피어나"
+        },
+        {
+          "start": 4675.82,
+          "end": 4679.62,
+          "ja": "口に出せないなら僕は1人だ",
+          "ko": "입 밖에 낼 수 없다면 나는 혼자야"
+        },
+        {
+          "start": 4679.62,
+          "end": 4683.86,
+          "ja": "それでいいからもう諦めてる",
+          "ko": "그래도 괜찮으니까 이제 포기했어"
+        },
+        {
+          "start": 4686.04,
+          "end": 4687.06,
+          "ja": "だけ",
+          "ko": "그것뿐"
+        },
+        {
+          "start": 4700.6,
+          "end": 4706.54,
+          "ja": "夏日 乾いた雲 山桜桃海 錆びた標識",
+          "ko": "여름날 마른 구름 산앵두 녹슨 표지판"
+        },
+        {
+          "start": 4706.54,
+          "end": 4712.3,
+          "ja": "記憶の中はいつも夏の匂いがする",
+          "ko": "기억 속에는 언제나 여름 냄새가 나"
+        },
+        {
+          "start": 4712.3,
+          "end": 4716.36,
+          "ja": "写真なんて紙切れだ",
+          "ko": "사진 같은 건 종잇조각이야"
+        },
+        {
+          "start": 4716.76,
+          "end": 4720.26,
+          "ja": "思い出なんてただの塵だ",
+          "ko": "추억 같은 건 그저 먼지야"
+        },
+        {
+          "start": 4720.26,
+          "end": 4726.5,
+          "ja": "それがわからないから、口を噤んだまま",
+          "ko": "그걸 모르기에 입을 다문 채"
+        },
+        {
+          "start": 4727.1,
+          "end": 4734.16,
+          "ja": "絶えず君のいこふ 記憶に夏野の石一つ",
+          "ko": "끊임없이 네가 쉬어 가는 기억 속 여름 들판의 돌 하나"
+        },
+        {
+          "start": 4734.16,
+          "end": 4738.02,
+          "ja": "俯いたまま大人になって",
+          "ko": "고개 숙인 채 어른이 되어"
+        },
+        {
+          "start": 4738.02,
+          "end": 4741.02,
+          "ja": "追いつけない ただ君に晴れ",
+          "ko": "따라잡지 못해 그저 네게 맑아라"
+        },
+        {
+          "start": 4741.02,
+          "end": 4744.86,
+          "ja": "口に出せないまま坂を上った",
+          "ko": "입 밖에 못 낸 채 언덕을 올랐어"
+        },
+        {
+          "start": 4744.86,
+          "end": 4749.02,
+          "ja": "僕らの影に夜が咲いていく",
+          "ko": "우리 그림자에 밤이 피어나"
+        },
+        {
+          "start": 4750.1,
+          "end": 4754.34,
+          "ja": "俯いたまま大人になった",
+          "ko": "고개 숙인 채 어른이 되었어"
+        },
+        {
+          "start": 4766.86,
+          "end": 4772.64,
+          "ja": "君が思うまま手を叩け",
+          "ko": "네가 하고 싶은 대로 손뼉 쳐"
+        },
+        {
+          "start": 4772.64,
+          "end": 4775.72,
+          "ja": "陽の落ちる坂道を上って",
+          "ko": "해 지는 언덕길을 올라"
+        },
+        {
+          "start": 4775.72,
+          "end": 4777.86,
+          "ja": "僕らの影は",
+          "ko": "우리 그림자는"
+        },
+        {
+          "start": 4778.44,
+          "end": 4782.58,
+          "ja": "追いつけないまま大人になって",
+          "ko": "따라잡지 못한 채 어른이 되어"
+        },
+        {
+          "start": 4782.58,
+          "end": 4785.54,
+          "ja": "君のポケットに夜が咲く",
+          "ko": "네 주머니에 밤이 피어나"
+        },
+        {
+          "start": 4785.54,
+          "end": 4789.26,
+          "ja": "口に出せなくても僕ら一つだ",
+          "ko": "입 밖에 내지 못해도 우리는 하나야"
+        },
+        {
+          "start": 4789.26,
+          "end": 4791.6,
+          "ja": "それでいいだろう、もう",
+          "ko": "그걸로 됐잖아 이제"
+        },
+        {
+          "start": 4792.52,
+          "end": 4796.96,
+          "ja": "君の思い出を噛み締めてる",
+          "ko": "네 추억을 곱씹고 있어"
+        },
+        {
+          "start": 4802.68,
+          "end": 4806.38,
+          "ja": "だけ",
+          "ko": "그것뿐"
+        }
+      ]
+    },
+    {
+      "song_num": "011",
+      "production_sequence": 11,
+      "title": "괴수의 꽃노래",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 4990.26,
+          "end": 4993.92,
+          "ja": "思い出すのは君の歌",
+          "ko": "떠오르는 건 너의 노래"
+        },
+        {
+          "start": 4993.92,
+          "end": 4996.88,
+          "ja": "会話よりも鮮明だ",
+          "ko": "대화보다도 선명해"
+        },
+        {
+          "start": 4996.88,
+          "end": 4999.12,
+          "ja": "どこに行ってしまったの",
+          "ko": "어디로 가 버린 거야"
+        },
+        {
+          "start": 4999.12,
+          "end": 5002.7,
+          "ja": "いつも探すんだよ",
+          "ko": "언제나 찾고 있어"
+        },
+        {
+          "start": 5002.7,
+          "end": 5005.14,
+          "ja": "思い出すのは",
+          "ko": "떠오르는 건"
+        },
+        {
+          "start": 5005.14,
+          "end": 5006.7,
+          "ja": "君の歌",
+          "ko": "너의 노래"
+        },
+        {
+          "start": 5006.7,
+          "end": 5009.66,
+          "ja": "歌い笑う顔が鮮明だ",
+          "ko": "노래하며 웃는 얼굴이 선명해"
+        },
+        {
+          "start": 5009.66,
+          "end": 5012.18,
+          "ja": "君に似合うんだよ",
+          "ko": "너에게 잘 어울려"
+        },
+        {
+          "start": 5012.18,
+          "end": 5015.81,
+          "ja": "ずっと見ていたいよ",
+          "ko": "계속 보고 싶어"
+        },
+        {
+          "start": 5016.1,
+          "end": 5019.22,
+          "ja": "でも最後に見たいのは",
+          "ko": "하지만 마지막으로 보고 싶은 건"
+        },
+        {
+          "start": 5019.22,
+          "end": 5022.42,
+          "ja": "きっともう君の夢の中",
+          "ko": "분명 이제 네 꿈속에서"
+        },
+        {
+          "start": 5022.42,
+          "end": 5023.52,
+          "ja": "もう一度",
+          "ko": "한 번 더"
+        },
+        {
+          "start": 5023.52,
+          "end": 5026.78,
+          "ja": "また聞かせてくれよ",
+          "ko": "다시 들려줘"
+        },
+        {
+          "start": 5026.78,
+          "end": 5028.16,
+          "ja": "聞きたいんだ",
+          "ko": "듣고 싶어"
+        },
+        {
+          "start": 5028.16,
+          "end": 5029.48,
+          "ja": "もっと",
+          "ko": "더"
+        },
+        {
+          "start": 5029.48,
+          "end": 5032.33,
+          "ja": "騒げ怪獣の歌",
+          "ko": "울려 퍼져라 괴수의 노래"
+        },
+        {
+          "start": 5033.22,
+          "end": 5035.96,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5035.96,
+          "end": 5039.17,
+          "ja": "夢の歌唱えて",
+          "ko": "꿈의 노래를 읊조리며"
+        },
+        {
+          "start": 5039.7,
+          "end": 5042.3,
+          "ja": "君がいつも",
+          "ko": "네가 언제나"
+        },
+        {
+          "start": 5042.3,
+          "end": 5045.62,
+          "ja": "歌う怪獣の歌",
+          "ko": "부르는 괴수의 노래"
+        },
+        {
+          "start": 5045.62,
+          "end": 5048.7,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5048.7,
+          "end": 5052.47,
+          "ja": "口ずさんでしまうよ",
+          "ko": "나도 모르게 흥얼거려"
+        },
+        {
+          "start": 5054.2,
+          "end": 5056.3,
+          "ja": "思い出すのは",
+          "ko": "떠오르는 건"
+        },
+        {
+          "start": 5056.3,
+          "end": 5057.86,
+          "ja": "君がいた",
+          "ko": "네가 있었어"
+        },
+        {
+          "start": 5057.86,
+          "end": 5059.52,
+          "ja": "ギター持ってる",
+          "ko": "기타를 들고"
+        },
+        {
+          "start": 5059.52,
+          "end": 5060.92,
+          "ja": "君がいた",
+          "ko": "네가 있었어"
+        },
+        {
+          "start": 5060.92,
+          "end": 5063.26,
+          "ja": "忘れられないんだよ",
+          "ko": "잊을 수 없어"
+        },
+        {
+          "start": 5063.26,
+          "end": 5066.84,
+          "ja": "だから僕が歌うよ",
+          "ko": "그러니 내가 노래할게"
+        },
+        {
+          "start": 5066.84,
+          "end": 5070.48,
+          "ja": "でも最後に見たいのは",
+          "ko": "하지만 마지막으로 보고 싶은 건"
+        },
+        {
+          "start": 5070.48,
+          "end": 5073.89,
+          "ja": "きっともう君の夢の中",
+          "ko": "분명 이제 네 꿈속에서"
+        },
+        {
+          "start": 5073.94,
+          "end": 5074.8,
+          "ja": "もう一度",
+          "ko": "한 번 더"
+        },
+        {
+          "start": 5074.8,
+          "end": 5077.96,
+          "ja": "また聞かせてくれよ",
+          "ko": "다시 들려줘"
+        },
+        {
+          "start": 5077.96,
+          "end": 5079.34,
+          "ja": "聞きたいんだ",
+          "ko": "듣고 싶어"
+        },
+        {
+          "start": 5079.34,
+          "end": 5080.74,
+          "ja": "もっと",
+          "ko": "더"
+        },
+        {
+          "start": 5080.74,
+          "end": 5083.98,
+          "ja": "騒げ怪獣の歌",
+          "ko": "울려 퍼져라 괴수의 노래"
+        },
+        {
+          "start": 5083.98,
+          "end": 5087.16,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5087.16,
+          "end": 5090.35,
+          "ja": "夢の歌唱えて",
+          "ko": "꿈의 노래를 읊조리며"
+        },
+        {
+          "start": 5091.54,
+          "end": 5093.52,
+          "ja": "君がいつも",
+          "ko": "네가 언제나"
+        },
+        {
+          "start": 5093.52,
+          "end": 5096.68,
+          "ja": "歌う怪獣の歌",
+          "ko": "부르는 괴수의 노래"
+        },
+        {
+          "start": 5096.68,
+          "end": 5100.33,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5100.54,
+          "end": 5104.11,
+          "ja": "口ずさんでしまうよ",
+          "ko": "나도 모르게 흥얼거려"
+        },
+        {
+          "start": 5104.86,
+          "end": 5109.18,
+          "ja": "落ちてく過去は鮮明で",
+          "ko": "떨어져 가는 과거는 선명하고"
+        },
+        {
+          "start": 5109.18,
+          "end": 5112.02,
+          "ja": "見せたい未来は繊細で",
+          "ko": "보여 주고 싶은 미래는 섬세하고"
+        },
+        {
+          "start": 5112.02,
+          "end": 5117.66,
+          "ja": "すぎてく日々には鈍感な君へ",
+          "ko": "흘러가는 나날에는 둔감한 너에게"
+        },
+        {
+          "start": 5117.66,
+          "end": 5121.58,
+          "ja": "落ちてく過去は鮮明で",
+          "ko": "떨어져 가는 과거는 선명하고"
+        },
+        {
+          "start": 5121.58,
+          "end": 5123.58,
+          "ja": "見せたい未来は繊細で",
+          "ko": "보여 주고 싶은 미래는 섬세하고"
+        },
+        {
+          "start": 5123.58,
+          "end": 5128.74,
+          "ja": "すぎてく日々には鈍感な君へ",
+          "ko": "흘러가는 나날에는 둔감한 너에게"
+        },
+        {
+          "start": 5128.74,
+          "end": 5131.58,
+          "ja": "ねぇ、もっと",
+          "ko": "있잖아 더"
+        },
+        {
+          "start": 5131.58,
+          "end": 5134.93,
+          "ja": "騒げ怪獣の歌",
+          "ko": "울려 퍼져라 괴수의 노래"
+        },
+        {
+          "start": 5136.34,
+          "end": 5138.38,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5138.38,
+          "end": 5141.55,
+          "ja": "夢の歌唱えて",
+          "ko": "꿈의 노래를 읊조리며"
+        },
+        {
+          "start": 5143.22,
+          "end": 5144.68,
+          "ja": "君がいつも",
+          "ko": "네가 언제나"
+        },
+        {
+          "start": 5144.68,
+          "end": 5148.35,
+          "ja": "歌う怪獣の歌",
+          "ko": "부르는 괴수의 노래"
+        },
+        {
+          "start": 5149.14,
+          "end": 5151.47,
+          "ja": "まだ消えない",
+          "ko": "아직 사라지지 않아"
+        },
+        {
+          "start": 5152.16,
+          "end": 5156.44,
+          "ja": "口ずさんでしまうよ",
+          "ko": "나도 모르게 흥얼거려"
+        },
+        {
+          "start": 5156.44,
+          "end": 5157.76,
+          "ja": "ねぇ、僕ら",
+          "ko": "있잖아 우리"
+        },
+        {
+          "start": 5157.76,
+          "end": 5160.7,
+          "ja": "眠れない夜に手を伸ばして",
+          "ko": "잠 못 드는 밤에 손을 뻗고"
+        },
+        {
+          "start": 5160.7,
+          "end": 5164.04,
+          "ja": "眠らない夜をまた伸ばして",
+          "ko": "잠들지 않는 밤을 또 늘리고"
+        },
+        {
+          "start": 5164.04,
+          "end": 5165.66,
+          "ja": "眠くないまだね",
+          "ko": "아직 졸리지 않아"
+        },
+        {
+          "start": 5165.66,
+          "end": 5169.33,
+          "ja": "そんな日々でいたいのにな",
+          "ko": "그런 나날이고 싶은데"
+        },
+        {
+          "start": 5169.88,
+          "end": 5170.24,
+          "ja": "懲りずに",
+          "ko": "질리지도 않고"
+        },
+        {
+          "start": 5170.24,
+          "end": 5173.5,
+          "ja": "眠れない夜に手を伸ばして",
+          "ko": "잠 못 드는 밤에 손을 뻗고"
+        },
+        {
+          "start": 5173.5,
+          "end": 5176.72,
+          "ja": "眠らない夜をまた伸ばして",
+          "ko": "잠들지 않는 밤을 또 늘리고"
+        },
+        {
+          "start": 5176.72,
+          "end": 5178.42,
+          "ja": "眠くないまだね",
+          "ko": "아직 졸리지 않아"
+        },
+        {
+          "start": 5178.42,
+          "end": 5180.17,
+          "ja": "そんな夜に歌う",
+          "ko": "그런 밤에 부르는"
+        },
+        {
+          "start": 5180.4,
+          "end": 5182.97,
+          "ja": "怪獣の歌",
+          "ko": "괴수의 노래"
+        },
+        {
+          "start": 5183.24,
+          "end": 5186.09,
+          "ja": "(落ちてく過去は鮮明で)",
+          "ko": "떨어져 가는 과거는 선명하고"
+        },
+        {
+          "start": 5186.09,
+          "end": 5188.94,
+          "ja": "(見せたい未来は繊細で)",
+          "ko": "보여 주고 싶은 미래는 섬세하고"
+        },
+        {
+          "start": 5188.94,
+          "end": 5194.64,
+          "ja": "(すぎてく日々には鈍感な君へ)",
+          "ko": "흘러가는 나날에는 둔감한 너에게"
+        },
+        {
+          "start": 5194.64,
+          "end": 5198.28,
+          "ja": "(落ちてく過去は鮮明で)",
+          "ko": "떨어져 가는 과거는 선명하고"
+        },
+        {
+          "start": 5198.28,
+          "end": 5201.79,
+          "ja": "(見せたい未来は繊細で)",
+          "ko": "보여 주고 싶은 미래는 섬세하고"
+        },
+        {
+          "start": 5201.94,
+          "end": 5206.53,
+          "ja": "(すぎてく日々には鈍感な君へ)",
+          "ko": "흘러가는 나날에는 둔감한 너에게"
+        }
+      ]
+    },
+    {
+      "song_num": "018",
+      "production_sequence": 18,
+      "title": "17살의 노래",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 7559.54,
+          "end": 7565.12,
+          "ja": "こんな私の未熟なうたを",
+          "ko": "이런 나의 서툰 노래를"
+        },
+        {
+          "start": 7565.12,
+          "end": 7571.0,
+          "ja": "聴いてくれてどうも有難うね。",
+          "ko": "들어 줘서 정말 고마워"
+        },
+        {
+          "start": 7571.48,
+          "end": 7576.88,
+          "ja": "もう少しで私は未熟な大人に",
+          "ko": "이제 조금만 있으면 나는 서툰 어른이"
+        },
+        {
+          "start": 7576.88,
+          "end": 7580.26,
+          "ja": "なるみたいです。",
+          "ko": "되는 모양이야"
+        },
+        {
+          "start": 7580.26,
+          "end": 7582.96,
+          "ja": "なんか笑っちゃうね。",
+          "ko": "왠지 웃기지"
+        },
+        {
+          "start": 7583.48,
+          "end": 7585.08,
+          "ja": "本当はね、",
+          "ko": "사실은"
+        },
+        {
+          "start": 7585.08,
+          "end": 7588.7,
+          "ja": "もっと前を向けるようなうたを",
+          "ko": "좀 더 앞을 볼 수 있는 노래를"
+        },
+        {
+          "start": 7588.7,
+          "end": 7592.56,
+          "ja": "書くつもりだったけど、",
+          "ko": "쓰려고 했는데"
+        },
+        {
+          "start": 7592.56,
+          "end": 7595.02,
+          "ja": "書けなくて。",
+          "ko": "쓰지 못했어"
+        },
+        {
+          "start": 7595.48,
+          "end": 7597.08,
+          "ja": "私はまだ、",
+          "ko": "나는 아직"
+        },
+        {
+          "start": 7597.08,
+          "end": 7600.96,
+          "ja": "他の誰かを支えられるほど",
+          "ko": "다른 누군가를 떠받칠 만큼"
+        },
+        {
+          "start": 7601.48,
+          "end": 7604.56,
+          "ja": "強くなかったみたい。",
+          "ko": "강하지 않았나 봐"
+        },
+        {
+          "start": 7604.56,
+          "end": 7606.98,
+          "ja": "ごめんね。",
+          "ko": "미안해"
+        },
+        {
+          "start": 7608.3,
+          "end": 7611.66,
+          "ja": "拝啓、未来の私へ。",
+          "ko": "미래의 나에게"
+        },
+        {
+          "start": 7611.66,
+          "end": 7614.02,
+          "ja": "今そこで",
+          "ko": "지금 그곳에서"
+        },
+        {
+          "start": 7614.02,
+          "end": 7617.62,
+          "ja": "どんなことをして",
+          "ko": "어떤 일을 하며"
+        },
+        {
+          "start": 7618.48,
+          "end": 7620.12,
+          "ja": "生きていますか。",
+          "ko": "살아가고 있니"
+        },
+        {
+          "start": 7620.12,
+          "end": 7623.68,
+          "ja": "拝啓、今の私へ。",
+          "ko": "지금의 나에게"
+        },
+        {
+          "start": 7623.68,
+          "end": 7626.2,
+          "ja": "今ここで",
+          "ko": "지금 여기서"
+        },
+        {
+          "start": 7626.2,
+          "end": 7629.68,
+          "ja": "どんなことをしたら",
+          "ko": "무엇을 해야"
+        },
+        {
+          "start": 7629.68,
+          "end": 7633.18,
+          "ja": "生きていけるんでしょうか。",
+          "ko": "살아갈 수 있을까"
+        },
+        {
+          "start": 7643.84,
+          "end": 7648.48,
+          "ja": "“好きだからかっこいい”とか",
+          "ko": "좋아하니까 멋지다느니"
+        },
+        {
+          "start": 7648.48,
+          "end": 7650.48,
+          "ja": "“そばにいる”とか",
+          "ko": "곁에 있다느니"
+        },
+        {
+          "start": 7651.2,
+          "end": 7654.06,
+          "ja": "“勝手に盗んだ”とか",
+          "ko": "멋대로 훔쳤다느니"
+        },
+        {
+          "start": 7654.06,
+          "end": 7656.32,
+          "ja": "書いてた。",
+          "ko": "쓰곤 했어"
+        },
+        {
+          "start": 7657.2,
+          "end": 7660.18,
+          "ja": "“どうせだったらもうちょっと”",
+          "ko": "이왕이면 조금만 더"
+        },
+        {
+          "start": 7660.82,
+          "end": 7662.64,
+          "ja": "貴方みたいに",
+          "ko": "너처럼"
+        },
+        {
+          "start": 7663.78,
+          "end": 7668.56,
+          "ja": "やさしいうたを書けばよかったね。",
+          "ko": "다정한 노래를 쓸 걸 그랬지"
+        },
+        {
+          "start": 7669.42,
+          "end": 7670.58,
+          "ja": "本当はね、",
+          "ko": "사실은"
+        },
+        {
+          "start": 7670.58,
+          "end": 7674.16,
+          "ja": "好きなことだけして生きたいの。",
+          "ko": "좋아하는 일만 하며 살고 싶어"
+        },
+        {
+          "start": 7674.16,
+          "end": 7676.14,
+          "ja": "でもそれは",
+          "ko": "하지만 그건"
+        },
+        {
+          "start": 7676.14,
+          "end": 7680.46,
+          "ja": "上手な生き方とは言えないから。",
+          "ko": "잘 살아가는 법이라 할 수 없으니까"
+        },
+        {
+          "start": 7680.94,
+          "end": 7682.6,
+          "ja": "無駄になっても、",
+          "ko": "헛일이 되어도"
+        },
+        {
+          "start": 7682.6,
+          "end": 7684.12,
+          "ja": "意味がなくても、",
+          "ko": "의미가 없어도"
+        },
+        {
+          "start": 7684.12,
+          "end": 7686.46,
+          "ja": "今はここから",
+          "ko": "지금은 여기서"
+        },
+        {
+          "start": 7687.34,
+          "end": 7690.48,
+          "ja": "離れなきゃいけないの。",
+          "ko": "떠나야만 해"
+        },
+        {
+          "start": 7690.48,
+          "end": 7692.08,
+          "ja": "ごめんね。",
+          "ko": "미안해"
+        },
+        {
+          "start": 7692.08,
+          "end": 7695.68,
+          "ja": "拝啓、未来の私へ。",
+          "ko": "미래의 나에게"
+        },
+        {
+          "start": 7695.68,
+          "end": 7698.24,
+          "ja": "今そこで",
+          "ko": "지금 그곳에서"
+        },
+        {
+          "start": 7698.24,
+          "end": 7701.56,
+          "ja": "どんな大人になって",
+          "ko": "어떤 어른이 되어"
+        },
+        {
+          "start": 7701.56,
+          "end": 7704.12,
+          "ja": "生きていますか。",
+          "ko": "살아가고 있니"
+        },
+        {
+          "start": 7704.12,
+          "end": 7707.68,
+          "ja": "拝啓、今の私へ。",
+          "ko": "지금의 나에게"
+        },
+        {
+          "start": 7707.68,
+          "end": 7710.2,
+          "ja": "今ここで",
+          "ko": "지금 여기서"
+        },
+        {
+          "start": 7710.2,
+          "end": 7714.14,
+          "ja": "どんな大人になりたいと",
+          "ko": "어떤 어른이 되고 싶다고"
+        },
+        {
+          "start": 7714.14,
+          "end": 7716.68,
+          "ja": "言えばいいんでしょうか。",
+          "ko": "말해야 할까"
+        },
+        {
+          "start": 7716.68,
+          "end": 7718.06,
+          "ja": "「さよなら。」",
+          "ko": "안녕"
+        },
+        {
+          "start": 7718.06,
+          "end": 7722.54,
+          "ja": "は悲しくなるからさ、",
+          "ko": "은 슬퍼지니까"
+        },
+        {
+          "start": 7722.68,
+          "end": 7725.16,
+          "ja": "「またね。」",
+          "ko": "또 보자"
+        },
+        {
+          "start": 7725.16,
+          "end": 7728.26,
+          "ja": "って言わせて。",
+          "ko": "라고 말하게 해 줘"
+        },
+        {
+          "start": 7728.68,
+          "end": 7731.7,
+          "ja": "いつか私が",
+          "ko": "언젠가 내가"
+        },
+        {
+          "start": 7731.7,
+          "end": 7734.64,
+          "ja": "今みたいな",
+          "ko": "지금 같은"
+        },
+        {
+          "start": 7735.5,
+          "end": 7738.08,
+          "ja": "うたを書けなくなっても、",
+          "ko": "노래를 쓸 수 없게 되어도"
+        },
+        {
+          "start": 7738.08,
+          "end": 7740.68,
+          "ja": "怒らないでね。",
+          "ko": "화내지 말아 줘"
+        },
+        {
+          "start": 7742.28,
+          "end": 7745.18,
+          "ja": "拝啓、過去の私へ。",
+          "ko": "과거의 나에게"
+        },
+        {
+          "start": 7745.18,
+          "end": 7747.68,
+          "ja": "今の私は",
+          "ko": "지금의 나는"
+        },
+        {
+          "start": 7747.68,
+          "end": 7751.78,
+          "ja": "ずっと夢見ていたこと",
+          "ko": "줄곧 꿈꾸던 일을"
+        },
+        {
+          "start": 7751.78,
+          "end": 7753.72,
+          "ja": "叶えてるよ。",
+          "ko": "이루고 있어"
+        },
+        {
+          "start": 7753.72,
+          "end": 7757.26,
+          "ja": "拝啓、今の私へ。",
+          "ko": "지금의 나에게"
+        },
+        {
+          "start": 7757.26,
+          "end": 7760.14,
+          "ja": "こんな情けない",
+          "ko": "이렇게 한심한"
+        },
+        {
+          "start": 7760.84,
+          "end": 7763.1,
+          "ja": "うただって歌えばいいよ",
+          "ko": "노래라도 부르면 돼"
+        },
+        {
+          "start": 7763.1,
+          "end": 7765.42,
+          "ja": "それが私だから。",
+          "ko": "그게 나니까"
+        },
+        {
+          "start": 7765.42,
+          "end": 7769.18,
+          "ja": "拝啓、未来の私へ。",
+          "ko": "미래의 나에게"
+        },
+        {
+          "start": 7769.18,
+          "end": 7772.0,
+          "ja": "今そこは",
+          "ko": "지금 그곳에는"
+        },
+        {
+          "start": 7772.0,
+          "end": 7775.18,
+          "ja": "どんな綺麗な世界が",
+          "ko": "어떤 아름다운 세상이"
+        },
+        {
+          "start": 7775.18,
+          "end": 7777.66,
+          "ja": "広がっていますか。",
+          "ko": "펼쳐져 있니"
+        },
+        {
+          "start": 7777.66,
+          "end": 7781.2,
+          "ja": "拝啓、今の私へ。",
+          "ko": "지금의 나에게"
+        },
+        {
+          "start": 7781.2,
+          "end": 7784.06,
+          "ja": "今ここが",
+          "ko": "지금 이곳이"
+        },
+        {
+          "start": 7784.06,
+          "end": 7787.1,
+          "ja": "どんな世界よりも",
+          "ko": "어느 세상보다도"
+        },
+        {
+          "start": 7787.1,
+          "end": 7789.64,
+          "ja": "幸せでした。",
+          "ko": "행복했어"
+        },
+        {
+          "start": 7810.4,
+          "end": 7817.32,
+          "ja": "こんな私の未熟なうたを",
+          "ko": "이런 나의 서툰 노래를"
+        },
+        {
+          "start": 7821.92,
+          "end": 7823.8,
+          "ja": "聴いてくれて",
+          "ko": "들어 줘서"
+        },
+        {
+          "start": 7823.8,
+          "end": 7825.4,
+          "ja": "どうも有難うね。",
+          "ko": "정말 고마워"
+        },
+        {
+          "start": 7825.4,
+          "end": 7831.84,
+          "ja": "これから私は未熟な大人に",
+          "ko": "이제부터 나는 서툰 어른이"
+        },
+        {
+          "start": 7831.84,
+          "end": 7835.34,
+          "ja": "なる準備をします。",
+          "ko": "될 준비를 할게"
+        },
+        {
+          "start": 7835.34,
+          "end": 7838.06,
+          "ja": "「じゃあ、またね。」",
+          "ko": "그럼 또 보자"
+        }
+      ]
+    },
+    {
+      "song_num": "019",
+      "production_sequence": 19,
+      "title": "생명에게 미움받고 있어",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 8032.24,
+          "end": 8034.609,
+          "ja": "「死にたいなんて言うなよ」",
+          "ko": "죽고 싶다는 말 하지 마"
+        },
+        {
+          "start": 8034.609,
+          "end": 8036.529,
+          "ja": "「諦めないで生きろよ」",
+          "ko": "포기하지 말고 살아"
+        },
+        {
+          "start": 8036.529,
+          "end": 8040.589,
+          "ja": "そんな歌が正しいなんて馬鹿げてるよな",
+          "ko": "그런 노래가 옳다니 우습기 짝이 없지"
+        },
+        {
+          "start": 8041.329,
+          "end": 8046.008,
+          "ja": "実際自分は死んでもよくて周りが死んだら悲しくて",
+          "ko": "사실 자기는 죽어도 상관없고 주위 사람이 죽으면 슬퍼서"
+        },
+        {
+          "start": 8046.008,
+          "end": 8051.698,
+          "ja": "「それが嫌だから」っていうエゴなんです",
+          "ko": "그게 싫으니까 하는 이기심이에요"
+        },
+        {
+          "start": 8051.698,
+          "end": 8053.598,
+          "ja": "他人が生きてもどうでもよくて",
+          "ko": "남이 살아도 아무래도 상관없고"
+        },
+        {
+          "start": 8053.598,
+          "end": 8055.978,
+          "ja": "誰かを嫌うこともファッションで",
+          "ko": "누군가를 미워하는 것도 패션이고"
+        },
+        {
+          "start": 8055.978,
+          "end": 8058.698,
+          "ja": "それでも「平和に生きよう」",
+          "ko": "그래도 평화롭게 살자"
+        },
+        {
+          "start": 8058.698,
+          "end": 8061.398,
+          "ja": "なんて素敵なことでしょう",
+          "ko": "얼마나 멋진 일이에요"
+        },
+        {
+          "start": 8061.398,
+          "end": 8063.397,
+          "ja": "画面の先では誰かが死んで",
+          "ko": "화면 너머에선 누군가 죽고"
+        },
+        {
+          "start": 8063.397,
+          "end": 8065.757,
+          "ja": "それを嘆いて誰かが歌って",
+          "ko": "그걸 슬퍼하며 누군가 노래하고"
+        },
+        {
+          "start": 8065.757,
+          "end": 8068.597,
+          "ja": "それに感化された少年が",
+          "ko": "거기에 감화된 소년이"
+        },
+        {
+          "start": 8068.597,
+          "end": 8070.397,
+          "ja": "ナイフを持って走った",
+          "ko": "칼을 들고 달렸어"
+        },
+        {
+          "start": 8070.397,
+          "end": 8071.997,
+          "ja": "僕らは命に嫌われている",
+          "ko": "우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8072.337,
+          "end": 8078.217,
+          "ja": "価値観もエゴも押し付けていつも誰かを殺したい歌を",
+          "ko": "가치관도 이기심도 강요하며 늘 누군가를 죽이고 싶다는 노래를"
+        },
+        {
+          "start": 8078.217,
+          "end": 8079.517,
+          "ja": "簡単に電波で流した",
+          "ko": "손쉽게 전파에 흘렸어"
+        },
+        {
+          "start": 8079.517,
+          "end": 8082.076,
+          "ja": "僕らは命に嫌われている",
+          "ko": "우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8082.076,
+          "end": 8085.116,
+          "ja": "軽々しく死にたいだとか",
+          "ko": "가볍게 죽고 싶다거나"
+        },
+        {
+          "start": 8085.116,
+          "end": 8089.936,
+          "ja": "軽々しく命を見てる僕らは命に嫌われている",
+          "ko": "가볍게 생명을 보는 우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8099.415,
+          "end": 8104.495,
+          "ja": "お金がないので今日も一日中惰眠を謳歌する",
+          "ko": "돈이 없어서 오늘도 온종일 늦잠을 만끽해"
+        },
+        {
+          "start": 8104.495,
+          "end": 8109.415,
+          "ja": "生きる意味なんて見出せず、無駄を自覚して息をする",
+          "ko": "사는 의미 따윈 찾지 못한 채 헛됨을 알고도 숨을 쉬어"
+        },
+        {
+          "start": 8109.415,
+          "end": 8113.895,
+          "ja": "「寂しい」なんて言葉でこの傷が表せていいものか",
+          "ko": "외롭다는 말로 이 상처를 나타내도 되는 걸까"
+        },
+        {
+          "start": 8113.895,
+          "end": 8118.874,
+          "ja": "そんな意地ばかり抱え今日も一人ベッドに眠る",
+          "ko": "그런 고집만 끌어안고 오늘도 홀로 침대에서 잠들어"
+        },
+        {
+          "start": 8118.874,
+          "end": 8123.754,
+          "ja": "少年だった僕たちはいつか青年に変わっていく",
+          "ko": "소년이었던 우리는 언젠가 청년으로 변해 가"
+        },
+        {
+          "start": 8123.754,
+          "end": 8128.834,
+          "ja": "年老いていつか 枯れ葉のように誰にも知られず朽ちていく",
+          "ko": "늙어서 언젠가 낙엽처럼 아무도 모르게 썩어 가"
+        },
+        {
+          "start": 8128.834,
+          "end": 8133.473,
+          "ja": "不死身の身体を手に入れて一生死なずに生きていく",
+          "ko": "죽지 않는 몸을 손에 넣어 평생 죽지 않고 살아가"
+        },
+        {
+          "start": 8133.473,
+          "end": 8137.733,
+          "ja": "そんなSFを妄想してる",
+          "ko": "그런 SF를 망상하고 있어"
+        },
+        {
+          "start": 8137.733,
+          "end": 8140.573,
+          "ja": "自分が死んでもどうでもよくて",
+          "ko": "자기가 죽어도 아무래도 상관없고"
+        },
+        {
+          "start": 8140.573,
+          "end": 8143.113,
+          "ja": "それでも周りに生きて欲しくて",
+          "ko": "그래도 주위 사람은 살길 바라서"
+        },
+        {
+          "start": 8143.113,
+          "end": 8147.213,
+          "ja": "矛盾を抱えて生きてくなんて怒られてしまう",
+          "ko": "모순을 끌어안고 살아가다니 혼나고 말아"
+        },
+        {
+          "start": 8147.213,
+          "end": 8150.032,
+          "ja": "「正しいものは正しくいなさい」",
+          "ko": "옳은 것은 올바르게 있으세요"
+        },
+        {
+          "start": 8150.032,
+          "end": 8152.172,
+          "ja": "「死にたくないなら生きていなさい」",
+          "ko": "죽고 싶지 않다면 살아 있으세요"
+        },
+        {
+          "start": 8152.172,
+          "end": 8155.332,
+          "ja": "悲しくなるならそれでもいいなら",
+          "ko": "슬퍼진다면 그래도 괜찮다면"
+        },
+        {
+          "start": 8155.332,
+          "end": 8156.212,
+          "ja": "ずっと一人で笑えよ",
+          "ko": "계속 혼자 웃어"
+        },
+        {
+          "start": 8156.212,
+          "end": 8158.842,
+          "ja": "僕らは命に嫌われている",
+          "ko": "우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8158.842,
+          "end": 8163.952,
+          "ja": "幸福の意味すらわからず産まれた環境ばかり憎んで",
+          "ko": "행복의 뜻조차 모른 채 태어난 환경만 미워하고"
+        },
+        {
+          "start": 8163.952,
+          "end": 8165.912,
+          "ja": "簡単に過去ばかり呪う",
+          "ko": "손쉽게 과거만 저주해"
+        },
+        {
+          "start": 8165.912,
+          "end": 8167.692,
+          "ja": "僕らは命に嫌われている",
+          "ko": "우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8168.62,
+          "end": 8176.36,
+          "ja": "さよならばかりが好きすぎて本当の別れなど知らない僕らは命に嫌われている",
+          "ko": "작별만 너무 좋아해서 진짜 이별 따윈 모르는 우리는 생명에게 미움받고 있어"
+        },
+        {
+          "start": 8185.65,
+          "end": 8190.81,
+          "ja": "幸福も別れも愛情も友情も",
+          "ko": "행복도 이별도 애정도 우정도"
+        },
+        {
+          "start": 8193.21,
+          "end": 8195.59,
+          "ja": "滑稽な夢の戯れで全部カネで買える代物",
+          "ko": "우스운 꿈의 장난이라 전부 돈으로 살 수 있는 물건"
+        },
+        {
+          "start": 8195.59,
+          "end": 8198.43,
+          "ja": "明日死んでしまうかもしれない",
+          "ko": "내일 죽어 버릴지도 몰라"
+        },
+        {
+          "start": 8198.43,
+          "end": 8199.95,
+          "ja": "すべて無駄になるかもしれない",
+          "ko": "모든 게 헛되게 될지도 몰라"
+        },
+        {
+          "start": 8199.95,
+          "end": 8202.509,
+          "ja": "朝も夜も春も秋も",
+          "ko": "아침도 밤도 봄도 가을도"
+        },
+        {
+          "start": 8202.509,
+          "end": 8205.129,
+          "ja": "変わらず誰かがどこかで死ぬ",
+          "ko": "변함없이 누군가 어디선가 죽어"
+        },
+        {
+          "start": 8205.129,
+          "end": 8207.209,
+          "ja": "夢も明日も何もいらない",
+          "ko": "꿈도 내일도 아무것도 필요 없어"
+        },
+        {
+          "start": 8207.209,
+          "end": 8209.569,
+          "ja": "君が生きていたならそれでいい",
+          "ko": "네가 살아 있다면 그걸로 좋아"
+        },
+        {
+          "start": 8209.569,
+          "end": 8210.769,
+          "ja": "そうだ",
+          "ko": "그래"
+        },
+        {
+          "start": 8210.769,
+          "end": 8214.569,
+          "ja": "本当はそういうことが歌いたい",
+          "ko": "사실은 그런 걸 노래하고 싶어"
+        },
+        {
+          "start": 8214.569,
+          "end": 8217.229,
+          "ja": "命に嫌われている",
+          "ko": "생명에게 미움받고 있어"
+        },
+        {
+          "start": 8217.229,
+          "end": 8219.429,
+          "ja": "結局いつかは死んでいく",
+          "ko": "결국 언젠가는 죽어 가"
+        },
+        {
+          "start": 8219.429,
+          "end": 8223.968,
+          "ja": "君だって僕だっていつかは枯れ葉のように朽ちてく",
+          "ko": "너도 나도 언젠가는 낙엽처럼 썩어 가"
+        },
+        {
+          "start": 8223.968,
+          "end": 8226.368,
+          "ja": "それでも僕らは必死に生きて",
+          "ko": "그래도 우리는 필사적으로 살아"
+        },
+        {
+          "start": 8226.368,
+          "end": 8228.888,
+          "ja": "命を必死に抱えて生きて",
+          "ko": "생명을 필사적으로 끌어안고 살아"
+        },
+        {
+          "start": 8228.888,
+          "end": 8231.048,
+          "ja": "殺してあがいて笑って抱えて",
+          "ko": "죽이고 발버둥 치고 웃고 끌어안고"
+        },
+        {
+          "start": 8231.048,
+          "end": 8234.828,
+          "ja": "生きて生きて生きて生きて生きろ",
+          "ko": "살아 살아 살아 살아 살아가"
+        }
+      ]
+    },
+    {
+      "song_num": "020",
+      "production_sequence": 20,
+      "title": "Victim",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 8480.405,
+          "end": 8483.727,
+          "ja": "Isn't it funny",
+          "ko": "웃기지 않아"
+        },
+        {
+          "start": 8483.988,
+          "end": 8491.175,
+          "ja": "We worship a moon that stole its light from the sun",
+          "ko": "우린 태양에게서 빛을 훔친 달을 숭배해"
+        },
+        {
+          "start": 8491.175,
+          "end": 8493.229,
+          "ja": "Hear that?",
+          "ko": "들려"
+        },
+        {
+          "start": 8493.229,
+          "end": 8497.99,
+          "ja": "Believers, they speak",
+          "ko": "신자들이 말해"
+        },
+        {
+          "start": 8497.99,
+          "end": 8500.731,
+          "ja": "Oink Oink",
+          "ko": "꿀꿀"
+        },
+        {
+          "start": 8500.731,
+          "end": 8505.491,
+          "ja": "Like how I was so naive",
+          "ko": "내가 그토록 순진했던 것처럼"
+        },
+        {
+          "start": 8506.372,
+          "end": 8512.093,
+          "ja": "When will it be my turn, my turn",
+          "ko": "언제 내 차례가 올까 내 차례"
+        },
+        {
+          "start": 8512.513,
+          "end": 8517.694,
+          "ja": "I'm not just some tragic victim",
+          "ko": "난 그저 비극의 희생양이 아니야"
+        },
+        {
+          "start": 8517.694,
+          "end": 8524.476,
+          "ja": "But when will I learn, will I learn",
+          "ko": "하지만 언제 깨달을까 깨달을까"
+        },
+        {
+          "start": 8524.476,
+          "end": 8535.598,
+          "ja": "How many bridges do I have to burn",
+          "ko": "얼마나 많은 다리를 불태워야 할까"
+        },
+        {
+          "start": 8560.163,
+          "end": 8563.063,
+          "ja": "Isn't it pretty",
+          "ko": "아름답지 않아"
+        },
+        {
+          "start": 8563.983,
+          "end": 8570.625,
+          "ja": "All my life, all my poetry leaving me",
+          "ko": "내 모든 삶 내 모든 시가 나를 떠나"
+        },
+        {
+          "start": 8570.625,
+          "end": 8577.32,
+          "ja": "And the angel sing surrounding me put me to sleep",
+          "ko": "날 에워싼 천사들의 노래가 나를 잠재우고"
+        },
+        {
+          "start": 8577.526,
+          "end": 8580.687,
+          "ja": "Then it dawned on me that all I wanted was",
+          "ko": "그제야 깨달았어 내가 원한 건 그저"
+        },
+        {
+          "start": 8580.687,
+          "end": 8585.828,
+          "ja": "An approval that you're never willing to give",
+          "ko": "네가 끝내 내주지 않을 인정이었다는 걸"
+        },
+        {
+          "start": 8592.289,
+          "end": 8598.25,
+          "ja": "Hate to admit I've done it all for you",
+          "ko": "인정하기 싫지만 전부 너를 위해 했어"
+        },
+        {
+          "start": 8599.92,
+          "end": 8605.42,
+          "ja": "I am a wolf, I'm a crow, I'm a bat a butterfly in disguise",
+          "ko": "난 늑대 까마귀 박쥐 탈을 쓴 나비"
+        },
+        {
+          "start": 8606.28,
+          "end": 8615.04,
+          "ja": "I'm in the air, in the sea, in the moment I'm in you, in me",
+          "ko": "난 공기 속 바다 속 이 순간 속 너 안에 그리고 내 안에"
+        },
+        {
+          "start": 8615.6,
+          "end": 8621.38,
+          "ja": "When will it be my turn, my turn",
+          "ko": "언제 내 차례가 올까 내 차례"
+        },
+        {
+          "start": 8622.055,
+          "end": 8627.235,
+          "ja": "I'm not just some tragic victim",
+          "ko": "난 그저 비극의 희생양이 아니야"
+        },
+        {
+          "start": 8627.976,
+          "end": 8633.757,
+          "ja": "But when will I learn, will I learn",
+          "ko": "하지만 언제 깨달을까 깨달을까"
+        },
+        {
+          "start": 8634.277,
+          "end": 8640.919,
+          "ja": "It's just me in this world I'm alone I'm complete",
+          "ko": "이 세상엔 나뿐이야 난 홀로 완전해"
+        },
+        {
+          "start": 8640.919,
+          "end": 8647.339,
+          "ja": "Still waiting for my turn, my turn",
+          "ko": "아직 내 차례를 기다려 내 차례"
+        },
+        {
+          "start": 8648.302,
+          "end": 8653.681,
+          "ja": "Even though I'm outnumbered",
+          "ko": "내 편이 적다 해도"
+        },
+        {
+          "start": 8653.681,
+          "end": 8660.603,
+          "ja": "Now, you have me torn, you have me torn",
+          "ko": "이제 넌 날 찢어 놓았어 날 찢어 놓았어"
+        },
+        {
+          "start": 8660.883,
+          "end": 8671.023,
+          "ja": "Can't remember who I was before",
+          "ko": "과거의 내가 누구였는지 기억나지 않아"
+        }
+      ]
+    },
+    {
+      "song_num": "021",
+      "production_sequence": 21,
+      "title": "로미오와 신데렐라",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 8816.9,
+          "end": 8824.86,
+          "ja": "私の恋を悲劇のジュリエットにしないで",
+          "ko": "내 사랑을 비극의 줄리엣으로 만들지 마"
+        },
+        {
+          "start": 8824.86,
+          "end": 8828.2,
+          "ja": "ここから連れ出して...",
+          "ko": "여기서 데려가 줘"
+        },
+        {
+          "start": 8828.2,
+          "end": 8831.38,
+          "ja": "そんな気分よ",
+          "ko": "그런 기분이야"
+        },
+        {
+          "start": 8841.64,
+          "end": 8844.59,
+          "ja": "パパとママにおやすみなさい",
+          "ko": "아빠와 엄마에게 잘 자요"
+        },
+        {
+          "start": 8844.59,
+          "end": 8847.64,
+          "ja": "せいぜい いい夢をみなさい",
+          "ko": "기껏해야 좋은 꿈이나 꾸세요"
+        },
+        {
+          "start": 8847.64,
+          "end": 8851.74,
+          "ja": "大人はもう寝る時間よ",
+          "ko": "어른은 이제 잘 시간이야"
+        },
+        {
+          "start": 8853.22,
+          "end": 8856.04,
+          "ja": "咽返（むせかえ）る魅惑のキャラメル",
+          "ko": "숨 막히게 매혹적인 캐러멜"
+        },
+        {
+          "start": 8856.04,
+          "end": 8858.88,
+          "ja": "恥じらいの素足をからめる",
+          "ko": "수줍은 맨발을 얽어"
+        },
+        {
+          "start": 8858.88,
+          "end": 8863.0,
+          "ja": "今夜はどこまでいけるの？",
+          "ko": "오늘 밤은 어디까지 갈 수 있어"
+        },
+        {
+          "start": 8863.46,
+          "end": 8866.64,
+          "ja": "噛みつかないで 優しくして",
+          "ko": "깨물지 말고 다정히 해 줘"
+        },
+        {
+          "start": 8866.64,
+          "end": 8869.5,
+          "ja": "苦いものはまだ嫌いなの",
+          "ko": "쓴 건 아직 싫어"
+        },
+        {
+          "start": 8869.5,
+          "end": 8874.02,
+          "ja": "ママの作るお菓子ばかり食べたせいね",
+          "ko": "엄마가 만든 과자만 먹은 탓이겠지"
+        },
+        {
+          "start": 8874.62,
+          "end": 8878.02,
+          "ja": "知らないことがあるのならば",
+          "ko": "모르는 게 있다면"
+        },
+        {
+          "start": 8878.02,
+          "end": 8880.86,
+          "ja": "知りたいと思う 普通でしょ？",
+          "ko": "알고 싶다고 생각하는 게 당연하잖아"
+        },
+        {
+          "start": 8880.86,
+          "end": 8882.58,
+          "ja": "全部見せてよ",
+          "ko": "전부 보여 줘"
+        },
+        {
+          "start": 8882.58,
+          "end": 8886.64,
+          "ja": "あなたにならば見せてあげる私の...",
+          "ko": "너라면 보여 줄게 나의"
+        },
+        {
+          "start": 8887.94,
+          "end": 8890.66,
+          "ja": "ずっと恋しくてシンデレラ",
+          "ko": "줄곧 사랑을 그리던 신데렐라"
+        },
+        {
+          "start": 8890.66,
+          "end": 8893.8,
+          "ja": "制服だけで駆けていくわ",
+          "ko": "교복만 입고 달려갈게"
+        },
+        {
+          "start": 8893.8,
+          "end": 8896.36,
+          "ja": "魔法よ時間を止めてよ",
+          "ko": "마법아 시간을 멈춰 줘"
+        },
+        {
+          "start": 8896.36,
+          "end": 8899.44,
+          "ja": "悪い人に 邪魔されちゃうわ",
+          "ko": "나쁜 사람에게 방해받을 거야"
+        },
+        {
+          "start": 8899.56,
+          "end": 8901.9,
+          "ja": "逃げ出したいのジュリエット",
+          "ko": "달아나고 싶은 줄리엣"
+        },
+        {
+          "start": 8901.9,
+          "end": 8905.12,
+          "ja": "でもその名前で呼ばないで",
+          "ko": "하지만 그 이름으로 부르지 마"
+        },
+        {
+          "start": 8905.12,
+          "end": 8907.66,
+          "ja": "そうよね 結ばれなくちゃね",
+          "ko": "그렇지 맺어져야겠지"
+        },
+        {
+          "start": 8907.66,
+          "end": 8910.44,
+          "ja": "そうじゃないと楽しくないわ",
+          "ko": "그렇지 않으면 재미없어"
+        },
+        {
+          "start": 8910.44,
+          "end": 8914.54,
+          "ja": "ねえ 私と生きてくれる？",
+          "ko": "있지 나와 살아 줄래"
+        },
+        {
+          "start": 8927.94,
+          "end": 8930.73,
+          "ja": "背伸びをした長いマスカラ",
+          "ko": "어른인 척 길게 올린 마스카라"
+        },
+        {
+          "start": 8930.73,
+          "end": 8933.76,
+          "ja": "いい子になるよきっと明日から",
+          "ko": "착한 아이가 될게 분명 내일부터"
+        },
+        {
+          "start": 8933.76,
+          "end": 8937.76,
+          "ja": "今だけ私を許して",
+          "ko": "지금만 나를 용서해 줘"
+        },
+        {
+          "start": 8939.66,
+          "end": 8942.08,
+          "ja": "黒いレースの境界線",
+          "ko": "검은 레이스의 경계선"
+        },
+        {
+          "start": 8942.08,
+          "end": 8944.88,
+          "ja": "守る人は今日はいません",
+          "ko": "지켜 줄 사람은 오늘 없어"
+        },
+        {
+          "start": 8944.88,
+          "end": 8949.14,
+          "ja": "越えたらどこまでいけるの？",
+          "ko": "넘으면 어디까지 갈 수 있어"
+        },
+        {
+          "start": 8949.58,
+          "end": 8952.9,
+          "ja": "噛みつくほどに 痛いほどに",
+          "ko": "깨물 만큼 아플 만큼"
+        },
+        {
+          "start": 8952.9,
+          "end": 8955.66,
+          "ja": "好きになってたのは私でしょ",
+          "ko": "좋아하게 된 건 나잖아"
+        },
+        {
+          "start": 8955.66,
+          "end": 8959.98,
+          "ja": "パパはでもねあなたのこと嫌いみたい",
+          "ko": "하지만 아빠는 너를 싫어하는 것 같아"
+        },
+        {
+          "start": 8961.06,
+          "end": 8964.16,
+          "ja": "私のためと差し出す手に",
+          "ko": "나를 위해서라며 내민 손에"
+        },
+        {
+          "start": 8964.16,
+          "end": 8966.84,
+          "ja": "握ってるそれは首輪でしょ",
+          "ko": "쥔 것은 목줄이잖아"
+        },
+        {
+          "start": 8966.84,
+          "end": 8970.42,
+          "ja": "連れ出してよ 私のロミオ",
+          "ko": "나를 데려가 줘 나의 로미오"
+        },
+        {
+          "start": 8970.42,
+          "end": 8972.8,
+          "ja": "叱られるほど遠くへ",
+          "ko": "혼날 만큼 멀리"
+        },
+        {
+          "start": 8974.08,
+          "end": 8976.82,
+          "ja": "鐘が鳴り響くシンデレラ",
+          "ko": "종이 울려 퍼지는 신데렐라"
+        },
+        {
+          "start": 8976.82,
+          "end": 8980.0,
+          "ja": "ガラスの靴は置いていくわ",
+          "ko": "유리 구두는 두고 갈게"
+        },
+        {
+          "start": 8980.0,
+          "end": 8982.48,
+          "ja": "だからね 早く見つけてね",
+          "ko": "그러니 빨리 찾아내 줘"
+        },
+        {
+          "start": 8982.48,
+          "end": 8985.22,
+          "ja": "悪い夢に 焦らされちゃうわ",
+          "ko": "나쁜 꿈에 애가 탈 거야"
+        },
+        {
+          "start": 8985.22,
+          "end": 8988.14,
+          "ja": "きっとあの子もそうだった",
+          "ko": "분명 그 아이도 그랬어"
+        },
+        {
+          "start": 8988.14,
+          "end": 8991.02,
+          "ja": "落としたなんて嘘をついた",
+          "ko": "떨어뜨렸다고 거짓말했어"
+        },
+        {
+          "start": 8991.02,
+          "end": 8993.74,
+          "ja": "そうよね 私も同じよ",
+          "ko": "그렇지 나도 똑같아"
+        },
+        {
+          "start": 8993.74,
+          "end": 8996.94,
+          "ja": "だってもっと愛されたいわ",
+          "ko": "왜냐하면 더 사랑받고 싶어"
+        },
+        {
+          "start": 8997.12,
+          "end": 9001.3,
+          "ja": "ほら 私はここにいるよ",
+          "ko": "봐 나는 여기에 있어"
+        },
+        {
+          "start": 9013.82,
+          "end": 9019.88,
+          "ja": "私の心そっと覗いてみませんか",
+          "ko": "내 마음을 살며시 들여다보지 않을래"
+        },
+        {
+          "start": 9020.02,
+          "end": 9025.24,
+          "ja": "欲しいものだけあふれかえっていませんか",
+          "ko": "원하는 것만 넘쳐흐르지 않니"
+        },
+        {
+          "start": 9025.24,
+          "end": 9030.82,
+          "ja": "まだ別腹よもっともっとぎゅっと詰め込んで",
+          "ko": "아직 들어갈 자리는 있어 더 더 꽉 채워 넣어"
+        },
+        {
+          "start": 9030.82,
+          "end": 9036.36,
+          "ja": "いっそあなたの居場所までも埋めてしまおうか",
+          "ko": "차라리 네가 있을 자리까지 메워 버릴까"
+        },
+        {
+          "start": 9036.36,
+          "end": 9040.16,
+          "ja": "でもそれじゃ意味ないの",
+          "ko": "하지만 그럼 의미가 없어"
+        },
+        {
+          "start": 9042.0,
+          "end": 9047.52,
+          "ja": "大きな箱より 小さな箱に幸せはあるらしい",
+          "ko": "큰 상자보다 작은 상자에 행복이 있다나 봐"
+        },
+        {
+          "start": 9047.52,
+          "end": 9050.54,
+          "ja": "どうしよこのままじゃ私は",
+          "ko": "어떡해 이대로라면 나는"
+        },
+        {
+          "start": 9050.54,
+          "end": 9052.94,
+          "ja": "あなたに嫌われちゃうわ",
+          "ko": "네게 미움받을 거야"
+        },
+        {
+          "start": 9052.94,
+          "end": 9058.96,
+          "ja": "でも私より欲張りなパパとママは今日も変わらず",
+          "ko": "하지만 나보다 욕심 많은 아빠와 엄마는 오늘도 그대로"
+        },
+        {
+          "start": 9058.96,
+          "end": 9061.5,
+          "ja": "そうよね 素直でいいのね",
+          "ko": "그렇지 솔직하면 되는구나"
+        },
+        {
+          "start": 9061.5,
+          "end": 9064.54,
+          "ja": "落としたのは金の斧でした",
+          "ko": "떨어뜨린 건 금도끼였어요"
+        },
+        {
+          "start": 9064.54,
+          "end": 9067.14,
+          "ja": "嘘つきすぎたシンデレラ",
+          "ko": "거짓말을 너무 많이 한 신데렐라"
+        },
+        {
+          "start": 9067.14,
+          "end": 9070.1,
+          "ja": "オオカミに食べられたらしい",
+          "ko": "늑대에게 잡아먹혔다나 봐"
+        },
+        {
+          "start": 9070.1,
+          "end": 9073.16,
+          "ja": "どうしようこのままじゃ私も",
+          "ko": "어떡해 이대로라면 나도"
+        },
+        {
+          "start": 9073.16,
+          "end": 9075.92,
+          "ja": "いつかは食べられちゃうわ",
+          "ko": "언젠가 잡아먹힐 거야"
+        },
+        {
+          "start": 9076.08,
+          "end": 9079.7,
+          "ja": "その前に助けに来てね",
+          "ko": "그 전에 구하러 와 줘"
+        }
+      ]
+    },
+    {
+      "song_num": "022",
+      "production_sequence": 22,
+      "title": "롤링 걸",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 9239.82,
+          "end": 9249.54,
+          "ja": "ロンリーガールはいつまでも 届かない夢見て",
+          "ko": "외로운 소녀는 언제까지나 닿지 않는 꿈을 꾸며"
+        },
+        {
+          "start": 9249.54,
+          "end": 9259.68,
+          "ja": "騒ぐ頭の中を掻き回して、掻き回して。",
+          "ko": "소란한 머릿속을 휘저어 휘저어"
+        },
+        {
+          "start": 9270.64,
+          "end": 9279.6,
+          "ja": "「問題ない。」と呟いて、言葉は失われた？",
+          "ko": "문제없다고 중얼거리고 말은 사라졌어"
+        },
+        {
+          "start": 9279.6,
+          "end": 9282.54,
+          "ja": "もう失敗、もう失敗。",
+          "ko": "또 실패 또 실패"
+        },
+        {
+          "start": 9282.54,
+          "end": 9289.12,
+          "ja": "間違い探しに終われば、また、回るの！",
+          "ko": "틀린 그림 찾기로 끝나면 다시 도는 거야"
+        },
+        {
+          "start": 9289.12,
+          "end": 9292.36,
+          "ja": "もう一回、もう一回。",
+          "ko": "한 번 더 한 번 더"
+        },
+        {
+          "start": 9292.36,
+          "end": 9294.86,
+          "ja": "「私は今日も転がります。」と、",
+          "ko": "나는 오늘도 굴러갑니다 하고"
+        },
+        {
+          "start": 9294.86,
+          "end": 9297.28,
+          "ja": "少女は言う 少女は言う",
+          "ko": "소녀는 말해 소녀는 말해"
+        },
+        {
+          "start": 9297.28,
+          "end": 9299.0,
+          "ja": "言葉に意味を奏でながら！",
+          "ko": "말에 의미를 연주하면서"
+        },
+        {
+          "start": 9299.0,
+          "end": 9300.86,
+          "ja": "「もう良いかい？」",
+          "ko": "이제 됐니"
+        },
+        {
+          "start": 9300.86,
+          "end": 9309.86,
+          "ja": "「まだですよ、まだまだ先は見えないので。息を止めるの、今。」",
+          "ko": "아직이야 아직 앞이 보이지 않으니까 숨을 멈춰 지금"
+        },
+        {
+          "start": 9318.98,
+          "end": 9328.72,
+          "ja": "ローリンガールの成れの果て 届かない、向こうの色",
+          "ko": "롤링 걸의 끝 닿지 않는 저편의 색"
+        },
+        {
+          "start": 9329.46,
+          "end": 9338.52,
+          "ja": "重なる声と声を混ぜあわせて、混ぜあわせて。",
+          "ko": "겹치는 목소리와 목소리를 뒤섞어 뒤섞어"
+        },
+        {
+          "start": 9339.32,
+          "end": 9348.9,
+          "ja": "「問題ない。」と呟いた言葉は失われた。",
+          "ko": "문제없다고 중얼거린 말은 사라졌어"
+        },
+        {
+          "start": 9349.0,
+          "end": 9351.6,
+          "ja": "どうなったって良いんだってさ、",
+          "ko": "어떻게 되든 괜찮다더라"
+        },
+        {
+          "start": 9351.6,
+          "end": 9358.48,
+          "ja": "間違いだって起こしちゃおうと誘う、坂道。",
+          "ko": "실수도 저질러 보자고 유혹하는 비탈길"
+        },
+        {
+          "start": 9359.0,
+          "end": 9361.24,
+          "ja": "もう一回、もう一回。",
+          "ko": "한 번 더 한 번 더"
+        },
+        {
+          "start": 9361.24,
+          "end": 9363.82,
+          "ja": "私をどうか転がしてと",
+          "ko": "부디 나를 굴려 달라고"
+        },
+        {
+          "start": 9363.82,
+          "end": 9366.14,
+          "ja": "少女は言う 少女は言う",
+          "ko": "소녀는 말해 소녀는 말해"
+        },
+        {
+          "start": 9366.14,
+          "end": 9368.5,
+          "ja": "無口に意味を重ねながら！",
+          "ko": "침묵에 의미를 겹치면서"
+        },
+        {
+          "start": 9368.5,
+          "end": 9369.9,
+          "ja": "「もう良いかい？」",
+          "ko": "이제 됐니"
+        },
+        {
+          "start": 9369.9,
+          "end": 9378.4,
+          "ja": "「もう少し、もうすぐ何か見えるだろうと。息を止めるの、今。」",
+          "ko": "조금만 더 이제 곧 무언가 보이겠지 숨을 멈춰 지금"
+        },
+        {
+          "start": 9378.4,
+          "end": 9380.98,
+          "ja": "もう一回、もう一回。",
+          "ko": "한 번 더 한 번 더"
+        },
+        {
+          "start": 9380.98,
+          "end": 9383.52,
+          "ja": "「私は今日も転がります。」と、",
+          "ko": "나는 오늘도 굴러갑니다 하고"
+        },
+        {
+          "start": 9383.52,
+          "end": 9385.86,
+          "ja": "少女は言う 少女は言う",
+          "ko": "소녀는 말해 소녀는 말해"
+        },
+        {
+          "start": 9385.86,
+          "end": 9388.56,
+          "ja": "言葉に笑みを奏でながら！",
+          "ko": "말에 미소를 연주하면서"
+        },
+        {
+          "start": 9389.0,
+          "end": 9393.32,
+          "ja": "「もう良いかい？もう良いよ。そろそろ君も疲れたろう、ね。」",
+          "ko": "이제 됐니 이제 됐어 슬슬 너도 지쳤겠지 그렇지"
+        },
+        {
+          "start": 9393.32,
+          "end": 9398.98,
+          "ja": "息を止めるの、今。",
+          "ko": "숨을 멈춰 지금"
+        }
+      ]
+    },
+    {
+      "song_num": "024",
+      "production_sequence": 24,
+      "title": "창성의 아쿠에리온",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 9848.12,
+          "end": 9854.08,
+          "ja": "世界の始まりの日 生命の樹の下で",
+          "ko": "세상이 시작된 날 생명의 나무 아래서"
+        },
+        {
+          "start": 9854.48,
+          "end": 9859.42,
+          "ja": "くじらたちの声の遠い残響",
+          "ko": "고래들의 목소리가 남긴 먼 메아리"
+        },
+        {
+          "start": 9859.42,
+          "end": 9860.98,
+          "ja": "二人で聞いた",
+          "ko": "둘이서 들었어"
+        },
+        {
+          "start": 9860.98,
+          "end": 9863.26,
+          "ja": "失くしたものすべて",
+          "ko": "잃어버린 모든 것"
+        },
+        {
+          "start": 9863.26,
+          "end": 9866.76,
+          "ja": "愛したものすべて",
+          "ko": "사랑했던 모든 것"
+        },
+        {
+          "start": 9867.06,
+          "end": 9869.74,
+          "ja": "この手に抱きしめて",
+          "ko": "이 두 손에 끌어안고"
+        },
+        {
+          "start": 9869.74,
+          "end": 9873.62,
+          "ja": "現在は何処を彷徨い行くの",
+          "ko": "지금은 어디를 헤매어 가는 걸까"
+        },
+        {
+          "start": 9873.62,
+          "end": 9877.9,
+          "ja": "答えの潜む琥珀の太陽",
+          "ko": "답이 숨어 있는 호박빛 태양"
+        },
+        {
+          "start": 9879.74,
+          "end": 9886.2,
+          "ja": "出会わなければ 殺戮の天使でいられた",
+          "ko": "만나지 않았다면 살육의 천사로 있을 수 있었어"
+        },
+        {
+          "start": 9886.5,
+          "end": 9890.3,
+          "ja": "不死なる瞬き持つ魂",
+          "ko": "불멸의 눈 깜박임을 지닌 영혼"
+        },
+        {
+          "start": 9891.7,
+          "end": 9894.6,
+          "ja": "傷つかないで 僕の羽根",
+          "ko": "다치지 마 나의 날개"
+        },
+        {
+          "start": 9894.6,
+          "end": 9900.12,
+          "ja": "この気持ち知るため生まれてきた",
+          "ko": "이 마음을 알기 위해 태어났어"
+        },
+        {
+          "start": 9902.52,
+          "end": 9907.84,
+          "ja": "一万年と二千年前から愛してる",
+          "ko": "일만 이천 년 전부터 사랑하고 있어"
+        },
+        {
+          "start": 9908.34,
+          "end": 9914.58,
+          "ja": "八千年過ぎた頃からもっと恋しくなった",
+          "ko": "팔천 년이 지날 무렵부터 더 그리워졌어"
+        },
+        {
+          "start": 9914.58,
+          "end": 9920.76,
+          "ja": "一億と二千年あとも愛してる",
+          "ko": "일억 이천 년 뒤에도 사랑하고 있어"
+        },
+        {
+          "start": 9921.6,
+          "end": 9928.82,
+          "ja": "君を知ったその日から僕の地獄に音楽は絶えない",
+          "ko": "너를 알게 된 그날부터 내 지옥에는 음악이 끊이지 않아"
+        },
+        {
+          "start": 9935.66,
+          "end": 9938.82,
+          "ja": "Wow oh wow oh",
+          "ko": "Wow oh wow oh"
+        },
+        {
+          "start": 9944.38,
+          "end": 9950.94,
+          "ja": "世界が終わる前に 生命が終わる前に",
+          "ko": "세상이 끝나기 전에 생명이 끝나기 전에"
+        },
+        {
+          "start": 9950.94,
+          "end": 9959.7,
+          "ja": "眠る嘆きほどいて 君の薫り抱きしめたいよ",
+          "ko": "잠든 탄식을 풀어 네 향기를 끌어안고 싶어"
+        },
+        {
+          "start": 9959.7,
+          "end": 9963.54,
+          "ja": "耳すませた海神の記憶",
+          "ko": "귀 기울여 들은 해신의 기억"
+        },
+        {
+          "start": 9966.22,
+          "end": 9971.96,
+          "ja": "失意にのまれ立ち尽くす麗しき月",
+          "ko": "실의에 삼켜져 우두커니 선 아름다운 달"
+        },
+        {
+          "start": 9971.96,
+          "end": 9976.32,
+          "ja": "よみがえれ 永遠に涸れぬ光",
+          "ko": "되살아나라 영원히 마르지 않는 빛"
+        },
+        {
+          "start": 9977.7,
+          "end": 9980.88,
+          "ja": "汚されないで 君の夢",
+          "ko": "더럽혀지지 마 너의 꿈"
+        },
+        {
+          "start": 9981.5,
+          "end": 9985.98,
+          "ja": "祈り宿しながら生まれてきた",
+          "ko": "기도를 품은 채 태어났어"
+        },
+        {
+          "start": 9988.4,
+          "end": 9993.78,
+          "ja": "一万年と二千年前から愛してる",
+          "ko": "일만 이천 년 전부터 사랑하고 있어"
+        },
+        {
+          "start": 9995.02,
+          "end": 10000.32,
+          "ja": "八千年過ぎた頃からもっと恋しくなった",
+          "ko": "팔천 년이 지날 무렵부터 더 그리워졌어"
+        },
+        {
+          "start": 10000.32,
+          "end": 10006.62,
+          "ja": "一億と二千年あとも愛してる",
+          "ko": "일억 이천 년 뒤에도 사랑하고 있어"
+        },
+        {
+          "start": 10007.1,
+          "end": 10015.34,
+          "ja": "君を知ったその日から僕の地獄に音楽は絶えない",
+          "ko": "너를 알게 된 그날부터 내 지옥에는 음악이 끊이지 않아"
+        },
+        {
+          "start": 10019.98,
+          "end": 10023.16,
+          "ja": "君がくり返し大人になって",
+          "ko": "네가 거듭 어른이 되어"
+        },
+        {
+          "start": 10023.16,
+          "end": 10026.42,
+          "ja": "何度も何度も遠くへ行って",
+          "ko": "몇 번이고 몇 번이고 멀리 떠나"
+        },
+        {
+          "start": 10026.42,
+          "end": 10033.22,
+          "ja": "見守る僕が眠れない僕がくしゃくしゃになったとしても",
+          "ko": "지켜보는 내가 잠들지 못하는 내가 엉망이 된다 해도"
+        },
+        {
+          "start": 10035.78,
+          "end": 10041.08,
+          "ja": "Wowow oh wowow",
+          "ko": "Wowow oh wowow"
+        },
+        {
+          "start": 10042.28,
+          "end": 10046.18,
+          "ja": "君の名を歌うために",
+          "ko": "너의 이름을 노래하기 위해"
+        },
+        {
+          "start": 10048.54,
+          "end": 10054.18,
+          "ja": "一万年と二千年前から愛してる",
+          "ko": "일만 이천 년 전부터 사랑하고 있어"
+        },
+        {
+          "start": 10055.44,
+          "end": 10060.98,
+          "ja": "八千年過ぎた頃からもっと恋しくなった",
+          "ko": "팔천 년이 지날 무렵부터 더 그리워졌어"
+        },
+        {
+          "start": 10060.98,
+          "end": 10067.02,
+          "ja": "一億と二千年あとも愛してる",
+          "ko": "일억 이천 년 뒤에도 사랑하고 있어"
+        },
+        {
+          "start": 10067.44,
+          "end": 10070.92,
+          "ja": "君を知ったその日から",
+          "ko": "너를 알게 된 그날부터"
+        },
+        {
+          "start": 10073.46,
+          "end": 10078.78,
+          "ja": "一万年と二千年前から愛してる",
+          "ko": "일만 이천 년 전부터 사랑하고 있어"
+        },
+        {
+          "start": 10080.0,
+          "end": 10086.16,
+          "ja": "八千年過ぎた頃からもっと恋しくなった",
+          "ko": "팔천 년이 지날 무렵부터 더 그리워졌어"
+        },
+        {
+          "start": 10086.16,
+          "end": 10092.24,
+          "ja": "一億と二千年たっても愛してる",
+          "ko": "일억 이천 년이 지나도 사랑하고 있어"
+        },
+        {
+          "start": 10092.4,
+          "end": 10101.0,
+          "ja": "君を知ったその日から僕の地獄に音楽は絶えない",
+          "ko": "너를 알게 된 그날부터 내 지옥에는 음악이 끊이지 않아"
+        }
+      ]
+    },
+    {
+      "song_num": "025",
+      "production_sequence": 25,
+      "title": "내가 죽으려고 생각한 것은",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 10361.54,
+          "end": 10366.72,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10366.72,
+          "end": 10373.56,
+          "ja": "ウミネコが桟橋で鳴いたから",
+          "ko": "괭이갈매기가 부두에서 울었기 때문이야"
+        },
+        {
+          "start": 10373.86,
+          "end": 10376.88,
+          "ja": "波の隨に浮かんで消える",
+          "ko": "파도 흐름에 떠올랐다 사라지는"
+        },
+        {
+          "start": 10376.88,
+          "end": 10381.72,
+          "ja": "過去も啄ばんで飛んでゆけ",
+          "ko": "과거도 쪼아 먹고 날아가 줘"
+        },
+        {
+          "start": 10382.92,
+          "end": 10387.98,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10388.9,
+          "end": 10392.94,
+          "ja": "誕生日に杏の花が咲いたから",
+          "ko": "생일에 살구꽃이 피었기 때문이야"
+        },
+        {
+          "start": 10394.54,
+          "end": 10400.94,
+          "ja": "その木漏れ日でうたた寝したら",
+          "ko": "나뭇잎 사이 햇살 아래 깜빡 잠들면"
+        },
+        {
+          "start": 10401.22,
+          "end": 10406.32,
+          "ja": "虫の死骸と土になれるかな",
+          "ko": "벌레 사체와 함께 흙이 될 수 있을까"
+        },
+        {
+          "start": 10406.32,
+          "end": 10408.88,
+          "ja": "薄荷飴 漁港の灯台",
+          "ko": "박하사탕 어항의 등대"
+        },
+        {
+          "start": 10408.88,
+          "end": 10411.82,
+          "ja": "錆びたアーチ橋 捨てた自転車",
+          "ko": "녹슨 아치교 버려진 자전거"
+        },
+        {
+          "start": 10411.82,
+          "end": 10415.0,
+          "ja": "木造の駅のストーブの前で",
+          "ko": "목조 역 난로 앞에서"
+        },
+        {
+          "start": 10415.0,
+          "end": 10417.36,
+          "ja": "どこにも旅立ない心",
+          "ko": "어디로도 떠나지 못하는 마음"
+        },
+        {
+          "start": 10417.36,
+          "end": 10420.04,
+          "ja": "今日はまるで昨日みたいだ",
+          "ko": "오늘은 꼭 어제만 같아"
+        },
+        {
+          "start": 10420.04,
+          "end": 10423.46,
+          "ja": "明日を変えるには今日を変えなきゃ",
+          "ko": "내일을 바꾸려면 오늘을 바꿔야 해"
+        },
+        {
+          "start": 10423.46,
+          "end": 10426.98,
+          "ja": "分かってる 分かってる けれど",
+          "ko": "알아 알아 하지만"
+        },
+        {
+          "start": 10430.8,
+          "end": 10437.5,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10437.5,
+          "end": 10441.54,
+          "ja": "心が空っぽになったから",
+          "ko": "마음이 텅 비었기 때문이야"
+        },
+        {
+          "start": 10442.28,
+          "end": 10448.3,
+          "ja": "満たされないと泣いているのは",
+          "ko": "채워지지 않는다고 우는 건"
+        },
+        {
+          "start": 10448.3,
+          "end": 10454.7,
+          "ja": "きっと満たされたいと願うから",
+          "ko": "분명 채워지고 싶다고 바라기 때문이야"
+        },
+        {
+          "start": 10476.58,
+          "end": 10481.82,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10481.82,
+          "end": 10487.06,
+          "ja": "靴紐がほどけたから",
+          "ko": "신발끈이 풀렸기 때문이야"
+        },
+        {
+          "start": 10488.06,
+          "end": 10494.02,
+          "ja": "結び直すのは苦手なんだよ",
+          "ko": "다시 묶는 건 서툴거든"
+        },
+        {
+          "start": 10494.02,
+          "end": 10498.68,
+          "ja": "人との繋がりもまた然り",
+          "ko": "사람과의 인연도 마찬가지야"
+        },
+        {
+          "start": 10499.9,
+          "end": 10505.1,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10505.92,
+          "end": 10510.08,
+          "ja": "少年が僕を見つめていたから",
+          "ko": "소년이 나를 바라보고 있었기 때문이야"
+        },
+        {
+          "start": 10511.32,
+          "end": 10516.86,
+          "ja": "ベッドの上で土下座してるよ",
+          "ko": "침대 위에서 엎드려 사죄하고 있어"
+        },
+        {
+          "start": 10516.86,
+          "end": 10521.56,
+          "ja": "あの日の僕にごめんなさいと",
+          "ko": "그날의 나에게 미안하다고"
+        },
+        {
+          "start": 10523.18,
+          "end": 10528.96,
+          "ja": "パソコンの薄明かり 上階の部屋の生活音",
+          "ko": "컴퓨터의 희미한 불빛 위층 방의 생활 소리"
+        },
+        {
+          "start": 10528.96,
+          "end": 10531.34,
+          "ja": "インターフォンのチャイムの音",
+          "ko": "인터폰 벨 소리"
+        },
+        {
+          "start": 10531.34,
+          "end": 10535.16,
+          "ja": "耳を塞ぐ鳥籠の少年",
+          "ko": "귀를 막는 새장 속 소년"
+        },
+        {
+          "start": 10535.16,
+          "end": 10537.46,
+          "ja": "見えない敵と戦ってる",
+          "ko": "보이지 않는 적과 싸우고 있어"
+        },
+        {
+          "start": 10537.46,
+          "end": 10541.64,
+          "ja": "六畳一間のドンキホーテ",
+          "ko": "여섯 다다미 단칸방의 돈키호테"
+        },
+        {
+          "start": 10541.64,
+          "end": 10544.42,
+          "ja": "ゴールはどうせ醜いものさ",
+          "ko": "결승점은 어차피 추한 모습일 뿐"
+        },
+        {
+          "start": 10548.3,
+          "end": 10553.76,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10554.34,
+          "end": 10558.7,
+          "ja": "冷たい人と言われたから",
+          "ko": "차가운 사람이라는 말을 들었기 때문이야"
+        },
+        {
+          "start": 10559.92,
+          "end": 10565.48,
+          "ja": "愛されたいと泣いているのは",
+          "ko": "사랑받고 싶다고 우는 건"
+        },
+        {
+          "start": 10565.48,
+          "end": 10570.5,
+          "ja": "人の温もりをしってしまったから",
+          "ko": "사람의 온기를 알아 버렸기 때문이야"
+        },
+        {
+          "start": 10594.24,
+          "end": 10599.26,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10600.22,
+          "end": 10604.56,
+          "ja": "あなたが綺麗に笑うから",
+          "ko": "네가 아름답게 웃기 때문이야"
+        },
+        {
+          "start": 10605.56,
+          "end": 10611.16,
+          "ja": "死ぬことばかり考えてしまうのは",
+          "ko": "죽는 것만 생각해 버리는 건"
+        },
+        {
+          "start": 10611.16,
+          "end": 10615.9,
+          "ja": "きっと生きることに真面目すぎるから",
+          "ko": "분명 사는 일에 너무 진지하기 때문이야"
+        },
+        {
+          "start": 10617.22,
+          "end": 10622.34,
+          "ja": "僕が死のうと思ったのは",
+          "ko": "내가 죽으려고 생각한 것은"
+        },
+        {
+          "start": 10623.16,
+          "end": 10627.34,
+          "ja": "まだあなたに出会えてなかったから",
+          "ko": "아직 너를 만나지 못했기 때문이야"
+        },
+        {
+          "start": 10628.46,
+          "end": 10634.48,
+          "ja": "あなたのような人が生まれた",
+          "ko": "너 같은 사람이 태어난"
+        },
+        {
+          "start": 10634.48,
+          "end": 10638.86,
+          "ja": "世界を少し好きになったよ",
+          "ko": "이 세상을 조금 좋아하게 됐어"
+        },
+        {
+          "start": 10639.64,
+          "end": 10645.44,
+          "ja": "あなたのような人が生きてる",
+          "ko": "너 같은 사람이 살아가는"
+        },
+        {
+          "start": 10645.44,
+          "end": 10650.52,
+          "ja": "世界に少し期待するよ",
+          "ko": "이 세상에 조금 기대를 걸어"
+        }
+      ]
+    },
+    {
+      "song_num": "026",
+      "production_sequence": 26,
+      "title": "Bunny Girl",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 10831.632,
+          "end": 10838.112,
+          "ja": "夜の始まりさ bunny girl 誘惑される鼓動に",
+          "ko": "밤의 시작이야 bunny girl 유혹당하는 고동에"
+        },
+        {
+          "start": 10838.112,
+          "end": 10844.012,
+          "ja": "弾け飛ぶ葛藤に愛を乾杯 伝えられなくても",
+          "ko": "터져 나가는 갈등에 사랑으로 건배 전하지 못해도"
+        },
+        {
+          "start": 10844.013,
+          "end": 10849.953,
+          "ja": "恋の始まりさ bunny girl 誰かを穿って",
+          "ko": "사랑의 시작이야 bunny girl 누군가를 꿰뚫어 보고"
+        },
+        {
+          "start": 10849.953,
+          "end": 10854.553,
+          "ja": "澄んだ君の目を 孕んで",
+          "ko": "맑은 네 눈을 품고"
+        },
+        {
+          "start": 10862.664,
+          "end": 10869.524,
+          "ja": "さあ キザなステップを刻んで",
+          "ko": "자 느끼한 스텝을 새겨"
+        },
+        {
+          "start": 10869.524,
+          "end": 10875.424,
+          "ja": "仕事帰りの疲れは 私と、このグラスに",
+          "ko": "퇴근길의 피로는 나와 이 잔에"
+        },
+        {
+          "start": 10875.425,
+          "end": 10881.515,
+          "ja": "さあ 自分好みに縋って",
+          "ko": "자 네 취향대로 매달려"
+        },
+        {
+          "start": 10881.515,
+          "end": 10887.675,
+          "ja": "世間に対する気持ち 私に注いでみない？",
+          "ko": "세상을 향한 마음 나에게 부어 보지 않을래"
+        },
+        {
+          "start": 10887.675,
+          "end": 10895.045,
+          "ja": "ありがちなラブソングでも 愛が込められてるの",
+          "ko": "흔한 러브 송이어도 사랑이 담겨 있어"
+        },
+        {
+          "start": 10895.046,
+          "end": 10901.106,
+          "ja": "それでも汚れるのね 君を見れば分かるの",
+          "ko": "그래도 더러워지는구나 널 보면 알아"
+        },
+        {
+          "start": 10901.106,
+          "end": 10907.086,
+          "ja": "下を向く君の目を 無理矢理剥ごうとはしない",
+          "ko": "고개 숙인 네 눈을 억지로 들게 하진 않아"
+        },
+        {
+          "start": 10907.087,
+          "end": 10913.027,
+          "ja": "だからそんな顔せず手を差し伸べて ほら",
+          "ko": "그러니 그런 얼굴 말고 손을 뻗어 봐 어서"
+        },
+        {
+          "start": 10913.027,
+          "end": 10919.137,
+          "ja": "夜の始まりさ bunny girl 誘惑される鼓動に",
+          "ko": "밤의 시작이야 bunny girl 유혹당하는 고동에"
+        },
+        {
+          "start": 10919.137,
+          "end": 10924.917,
+          "ja": "弾け飛ぶ葛藤に愛を乾杯 伝えられなくても",
+          "ko": "터져 나가는 갈등에 사랑으로 건배 전하지 못해도"
+        },
+        {
+          "start": 10924.918,
+          "end": 10930.978,
+          "ja": "恋の始まりさ bunny girl 誰かを穿って",
+          "ko": "사랑의 시작이야 bunny girl 누군가를 꿰뚫어 보고"
+        },
+        {
+          "start": 10930.978,
+          "end": 10935.538,
+          "ja": "澄んだ君の目を 孕んで",
+          "ko": "맑은 네 눈을 품고"
+        },
+        {
+          "start": 10946.519,
+          "end": 10950.379,
+          "ja": "君の愛を知った気で ハイになっていて",
+          "ko": "네 사랑을 안다는 듯 들떠 있고"
+        },
+        {
+          "start": 10950.379,
+          "end": 10953.669,
+          "ja": "感度去っていて 毎度泣いていてさ",
+          "ko": "감도는 사라지고 매번 울고 있고"
+        },
+        {
+          "start": 10953.669,
+          "end": 10956.649,
+          "ja": "それくらいがいいんでしょ",
+          "ko": "그 정도가 좋은 거잖아"
+        },
+        {
+          "start": 10956.65,
+          "end": 10962.49,
+          "ja": "さあ キザなステップを刻んで",
+          "ko": "자 느끼한 스텝을 새겨"
+        },
+        {
+          "start": 10962.49,
+          "end": 10965.39,
+          "ja": "君の顔色今では",
+          "ko": "이제 네 안색은"
+        },
+        {
+          "start": 10965.39,
+          "end": 10968.77,
+          "ja": "マシになってきてるから",
+          "ko": "좀 나아지고 있으니까"
+        },
+        {
+          "start": 10992.142,
+          "end": 10995.742,
+          "ja": "君に委ねるわ bunny girl",
+          "ko": "너에게 맡길게 bunny girl"
+        },
+        {
+          "start": 10995.742,
+          "end": 11001.522,
+          "ja": "私をあげるわ bunny girl 誘惑される鼓動に",
+          "ko": "나를 줄게 bunny girl 유혹당하는 고동에"
+        },
+        {
+          "start": 11001.522,
+          "end": 11007.542,
+          "ja": "弾け飛ぶ葛藤に愛を乾杯 伝えられてるはず",
+          "ko": "터져 나가는 갈등에 사랑으로 건배 이제는 전해졌을 거야"
+        },
+        {
+          "start": 11007.543,
+          "end": 11013.463,
+          "ja": "夜の始まりさ bunny girl 誰かを穿って",
+          "ko": "밤의 시작이야 bunny girl 누군가를 꿰뚫어 보고"
+        },
+        {
+          "start": 11013.463,
+          "end": 11018.163,
+          "ja": "澄んだ君の目を 孕んで",
+          "ko": "맑은 네 눈을 품고"
         }
       ]
     }
