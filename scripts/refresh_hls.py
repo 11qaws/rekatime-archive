@@ -101,13 +101,41 @@ def chzzk_sessions():
     return [s for s in rows if s.get("platform") == "chzzk"]
 
 
+def alternate_video_ids(sessions):
+    path = DATA / "performances.json"
+    if path.exists():
+        raw = json.loads(path.read_text(encoding="utf-8"))
+        rows = raw.get("performances", []) if isinstance(raw, dict) else raw
+    else:
+        site_path = DATA.parent / "site-data.json"
+        if not site_path.exists():
+            return []
+        site = json.loads(site_path.read_text(encoding="utf-8"))
+        rows = site.get("main", {}).get("performances", [])
+    primary = {str(s.get("video_id") or "") for s in sessions}
+    found = set()
+    for row in rows:
+        video_id = str(row.get("source_video_id") or "")
+        if not video_id:
+            urls = " ".join(str(row.get(key) or "") for key in ("url", "u", "embed", "chzzk_url"))
+            match = re.search(r"chzzk\.naver\.com/video/(\d+)", urls)
+            video_id = match.group(1) if match else ""
+        if video_id and video_id not in primary:
+            found.add(video_id)
+    return sorted(found)
+
+
 def load_current():
     if not OUT.exists():
-        return {}
+        return {"sessions": {}, "videos": {}}
     try:
-        return json.loads(OUT.read_text(encoding="utf-8")).get("sessions", {})
+        payload = json.loads(OUT.read_text(encoding="utf-8"))
+        return {
+            "sessions": payload.get("sessions", {}),
+            "videos": payload.get("videos", {}),
+        }
     except (json.JSONDecodeError, OSError):
-        return {}
+        return {"sessions": {}, "videos": {}}
 
 
 def main():
@@ -124,14 +152,22 @@ def main():
 
     sessions = chzzk_sessions()
     current = load_current()
+    current_sessions = current["sessions"]
+    current_videos = current["videos"]
+    alternate_ids = alternate_video_ids(sessions)
 
     print("현재 상태 (치지직 %d개 방송)" % len(sessions))
     worst = 99.0
     for s in sessions:
-        entry = current.get(s["date"]) or {}
+        entry = current_sessions.get(s["date"]) or {}
         text, left = describe(entry.get("url"))
         worst = min(worst, left)
         print("  %s  %s" % (s["date"], text))
+    for video_id in alternate_ids:
+        entry = current_videos.get(video_id) or {}
+        text, left = describe(entry.get("url"))
+        worst = min(worst, left)
+        print("  보조 원본 %s  %s" % (video_id, text))
 
     if args.check:
         return
@@ -140,7 +176,7 @@ def main():
         return
 
     print("\n주소를 다시 받는 중…")
-    fresh, failed, gone = {}, 0, []
+    fresh, fresh_videos, failed, gone = {}, {}, 0, []
     for s in sessions:
         url, why = chzzk_hls(s["video_id"])
         if not url:
@@ -149,7 +185,7 @@ def main():
                 gone.append({"date": s["date"], "video_id": s["video_id"]})
                 continue
             failed += 1
-            keep = current.get(s["date"])
+            keep = current_sessions.get(s["date"])
             if keep:
                 fresh[s["date"]] = keep       # 일시적 실패면 기존 값을 지우지 않는다
             continue
@@ -157,12 +193,25 @@ def main():
         text, _ = describe(url)
         print("  %s  %s" % (s["date"], text))
 
+    for video_id in alternate_ids:
+        url, why = chzzk_hls(video_id)
+        if not url:
+            failed += 1
+            keep = current_videos.get(video_id)
+            if keep:
+                fresh_videos[video_id] = keep
+            continue
+        fresh_videos[video_id] = {"url": url, "exp": expires_at(url)}
+        text, _ = describe(url)
+        print("  보조 원본 %s  %s" % (video_id, text))
+
     if not fresh:
         raise SystemExit("한 건도 받지 못했습니다. 기존 파일을 그대로 둡니다.")
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(
-        {"generated_at": int(time.time()), "sessions": fresh, "gone": gone},
+        {"generated_at": int(time.time()), "sessions": fresh,
+         "videos": fresh_videos, "gone": gone},
         ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     left = min((describe(v["url"])[1] for v in fresh.values()), default=0.0)
