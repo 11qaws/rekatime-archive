@@ -3,77 +3,123 @@
   {
    "date": "2026-07-14",
    "platform": "youtube",
-   "video_id": "YzJm-mk52WM"
+   "video_id": "YzJm-mk52WM",
+   "video_ids": [
+    "YzJm-mk52WM"
+   ]
   },
   {
    "date": "2026-07-20",
    "platform": "youtube",
-   "video_id": "UBCB2e0Aik4"
+   "video_id": "UBCB2e0Aik4",
+   "video_ids": [
+    "UBCB2e0Aik4"
+   ]
   },
   {
    "date": "2026-07-28",
    "platform": "chzzk",
-   "video_id": "14411850"
+   "video_id": "14411850",
+   "video_ids": [
+    "14411850"
+   ]
   },
   {
    "date": "2026-07-29",
    "platform": "youtube",
-   "video_id": "ZFMg5irJJU8"
+   "video_id": "ZFMg5irJJU8",
+   "video_ids": [
+    "ZFMg5irJJU8"
+   ]
   },
   {
    "date": "2026-08-01",
    "platform": "chzzk",
-   "video_id": "14489268"
+   "video_id": "14489268",
+   "video_ids": [
+    "14489268"
+   ]
   },
   {
    "date": "2026-08-04",
    "platform": "chzzk",
-   "video_id": "14524675"
+   "video_id": "14524675",
+   "video_ids": [
+    "14524675"
+   ]
   },
   {
    "date": "2026-08-07",
    "platform": "chzzk",
-   "video_id": "14575080"
+   "video_id": "14575080",
+   "video_ids": [
+    "14575080"
+   ]
   },
   {
    "date": "2026-08-09",
    "platform": "chzzk",
-   "video_id": "14617716"
+   "video_id": "14617716",
+   "video_ids": [
+    "14617716"
+   ]
   },
   {
    "date": "2026-08-14",
    "platform": "chzzk",
-   "video_id": "14693102"
+   "video_id": "14693102",
+   "video_ids": [
+    "14693102"
+   ]
   },
   {
    "date": "2026-08-16",
    "platform": "chzzk",
-   "video_id": "14728071"
+   "video_id": "14728071",
+   "video_ids": [
+    "14728071"
+   ]
   },
   {
    "date": "2026-08-18",
    "platform": "chzzk",
-   "video_id": "14756908"
+   "video_id": "14756908",
+   "video_ids": [
+    "14756908"
+   ]
   },
   {
    "date": "2026-08-21",
    "platform": "chzzk",
-   "video_id": "14805053"
+   "video_id": "14805053",
+   "video_ids": [
+    "14805053"
+   ]
   },
   {
    "date": "2026-08-30",
    "platform": "chzzk",
-   "video_id": "14953860"
+   "video_id": "14953860",
+   "video_ids": [
+    "14953860"
+   ]
   },
   {
    "date": "2026-09-04",
    "platform": "chzzk",
-   "video_id": "15033796"
+   "video_id": "15033796",
+   "video_ids": [
+    "15033796"
+   ]
   },
   {
    "date": "2026-09-05",
    "platform": "chzzk",
-   "video_id": "15051325"
+   "video_id": "15051325",
+   "video_ids": [
+    "15051325",
+    "15052858"
+   ]
   }
  ]
 }
