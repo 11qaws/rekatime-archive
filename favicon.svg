@@ -7,5 +7,5 @@
   </defs>
   <circle cx="50" cy="50" r="50" fill="#ffff66"/>
   <path d="M50 50 1.70 37.06A50 50 0 0 1 37.06 1.70Z" fill="url(#rind)"/>
-  <path d="M61.1 30.6 91.7 50 61.1 69.4Z" fill="#04140f"/>
+  <path d="M45.8 30.6 76.4 50 45.8 69.4Z" fill="#04140f"/>
 </svg>
