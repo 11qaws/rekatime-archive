@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
   <defs>
-    <radialGradient id="rind">
+    <radialGradient id="rind" gradientUnits="userSpaceOnUse" cx="50" cy="50" r="50">
       <stop offset="78%" stop-color="#73c794" stop-opacity="0"/>
       <stop offset="82%" stop-color="#73c794"/>
     </radialGradient>
