@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-12T17:56:35.410187+00:00",
+  "generated_at": "2026-09-12T18:02:25.302728+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "a4313ea2d31ded3deaedc63b6e667a6607c436047c3c71d3186f9592181cb29f",
+  "lyrics_data_sha256": "0bf8eac59a215702ec8ecf07f6bfb866a7f984f4f3c19cfcef25271ca63d8a2a",
   "managed_song_count": 516,
-  "synced_verified_song_count": 269,
+  "synced_verified_song_count": 270,
   "songs": [
     {
       "youtube_job": "ZFMg5irJJU8",
@@ -1240,6 +1240,16 @@
     {
       "youtube_job": "ZFMg5irJJU8",
       "source_job": "ZFMg5irJJU8",
+      "sequence": 8,
+      "archive_sequence": 8,
+      "cue_count": 45,
+      "lyrics_sha256": "d28e52c71208280b0014b1e36b827a797d1a7a65959703826561af0ae553cfad",
+      "cue_payload_sha256": "a33072f416cc09e41018ee66b9d3020c1afb1503e9aea42ae6d786fcb09a11ef",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
       "sequence": 9,
       "archive_sequence": 9,
       "cue_count": 43,
@@ -1808,6 +1818,16 @@
       "source": "approved_canonical_cue"
     },
     {
+      "youtube_job": "chzzk-14953860",
+      "source_job": "chzzk-14953860",
+      "sequence": 4,
+      "archive_sequence": 4,
+      "cue_count": 57,
+      "lyrics_sha256": "f33151e9f41fc259ff47653e7f93761d62631026b644cf9e6d0a5f5fea602f8d",
+      "cue_payload_sha256": "6d6fb1e90bda34ca796eb8cec27beba77b0aafa3777f438869371436d8bf05b6",
+      "source": "approved_canonical_cue"
+    },
+    {
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 18,
@@ -1937,16 +1957,6 @@
       "cue_count": 51,
       "lyrics_sha256": "8f442c8ab815120fe08999083ddd5f5a0e75aeb77a110ce91d449f0220bd52bb",
       "cue_payload_sha256": "f012838b097b03262fdb7630255455ee8430ae00bbab6088fee57c9bc5ad61f7",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
-      "sequence": 8,
-      "archive_sequence": 8,
-      "cue_count": 45,
-      "lyrics_sha256": "d28e52c71208280b0014b1e36b827a797d1a7a65959703826561af0ae553cfad",
-      "cue_payload_sha256": "a33072f416cc09e41018ee66b9d3020c1afb1503e9aea42ae6d786fcb09a11ef",
       "source": "approved_canonical_cue"
     },
     {
