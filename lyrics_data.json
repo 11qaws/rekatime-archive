@@ -55929,6 +55929,380 @@
       ]
     },
     {
+      "song_num": "011",
+      "production_sequence": 11,
+      "title": "I Really Want to Stay at Your House",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 9276.27,
+          "end": 9284.01,
+          "ja": "I couldn't wait for you to come and clear the cupboard",
+          "ko": "네가 와서 찬장을 비워 주길 기다릴 수 없었어"
+        },
+        {
+          "start": 9288.95,
+          "end": 9292.19,
+          "ja": "But now you're gone and leaving nothing but a sign",
+          "ko": "하지만 이제 넌 떠났고 흔적 하나만 남겼어"
+        },
+        {
+          "start": 9297.73,
+          "end": 9298.57,
+          "ja": "Another evening I'll be sitting",
+          "ko": "또 다른 저녁이면"
+        },
+        {
+          "start": 9298.57,
+          "end": 9301.67,
+          "ja": "reading in between your lines",
+          "ko": "네 말 사이를 읽으며 앉아 있겠지"
+        },
+        {
+          "start": 9301.67,
+          "end": 9306.76,
+          "ja": "Because I miss you all the time",
+          "ko": "언제나 네가 그리우니까"
+        },
+        {
+          "start": 9309.62,
+          "end": 9312.02,
+          "ja": "So, get away",
+          "ko": "그러니 떠나"
+        },
+        {
+          "start": 9312.02,
+          "end": 9313.76,
+          "ja": "Another way to feel",
+          "ko": "네가 알고 싶지 않았던 걸 느끼는"
+        },
+        {
+          "start": 9313.76,
+          "end": 9316.38,
+          "ja": "what you didn't want yourself to know",
+          "ko": "또 다른 길"
+        },
+        {
+          "start": 9316.38,
+          "end": 9318.08,
+          "ja": "And let yourself go",
+          "ko": "그냥 너를 놓아 줘"
+        },
+        {
+          "start": 9318.08,
+          "end": 9322.54,
+          "ja": "You know you didn't lose your self-control",
+          "ko": "네가 자제력을 잃지 않았다는 걸 알잖아"
+        },
+        {
+          "start": 9323.14,
+          "end": 9325.68,
+          "ja": "There's just no end of the rainbow",
+          "ko": "무지개엔 끝이란 없으니까"
+        },
+        {
+          "start": 9325.68,
+          "end": 9327.42,
+          "ja": "Turn away",
+          "ko": "등을 돌려"
+        },
+        {
+          "start": 9327.42,
+          "end": 9331.76,
+          "ja": "Another way to be where you didn't want yourself to go",
+          "ko": "네가 가고 싶지 않았던 곳에 닿는 또 다른 길"
+        },
+        {
+          "start": 9331.76,
+          "end": 9333.88,
+          "ja": "And let yourself go",
+          "ko": "그냥 너를 놓아 줘"
+        },
+        {
+          "start": 9334.32,
+          "end": 9336.9,
+          "ja": "Is that a compromise?",
+          "ko": "그게 타협인 걸까"
+        },
+        {
+          "start": 9340.28,
+          "end": 9343.72,
+          "ja": "So, what do you wanna do, what's your point of view?",
+          "ko": "그래서 뭘 하고 싶어 넌 어떻게 생각해"
+        },
+        {
+          "start": 9343.72,
+          "end": 9348.18,
+          "ja": "There's a party, screw it, do you wanna go?",
+          "ko": "파티가 있어 다 집어치우고 갈래"
+        },
+        {
+          "start": 9348.18,
+          "end": 9351.74,
+          "ja": "A handshake with you, what's your point of view?",
+          "ko": "너와 악수를 나누고 넌 어떻게 생각해"
+        },
+        {
+          "start": 9351.74,
+          "end": 9355.16,
+          "ja": "I'm on top of you, I don't wanna go",
+          "ko": "네 위에 올라탄 채 떠나고 싶지 않아"
+        },
+        {
+          "start": 9355.16,
+          "end": 9359.06,
+          "ja": "Cos I really wanna stay at your house",
+          "ko": "정말 네 집에 머물고 싶으니까"
+        },
+        {
+          "start": 9359.06,
+          "end": 9362.77,
+          "ja": "In the palace it all works out",
+          "ko": "이 궁전에서는 모든 게 잘 풀리니까"
+        },
+        {
+          "start": 9362.77,
+          "end": 9365.59,
+          "ja": "But you know how much you fuck me up",
+          "ko": "하지만 네가 날 얼마나 망가뜨리는지 알잖아"
+        },
+        {
+          "start": 9365.67,
+          "end": 9368.89,
+          "ja": "I'm done with you, I'm ignoring you",
+          "ko": "너와는 끝났어 널 무시할 거야"
+        },
+        {
+          "start": 9368.89,
+          "end": 9370.77,
+          "ja": "I don't wanna know, ahh",
+          "ko": "알고 싶지 않아 아아"
+        },
+        {
+          "start": 9382.96,
+          "end": 9389.15,
+          "ja": "And I'm aware that you were lying in the gutter",
+          "ko": "네가 시궁창에 쓰러져 있던 것도 알아"
+        },
+        {
+          "start": 9389.15,
+          "end": 9392.19,
+          "ja": "Cos I did everything to be there by your side-ide",
+          "ko": "네 곁에 있으려고 모든 걸 했으니까"
+        },
+        {
+          "start": 9393.84,
+          "end": 9396.74,
+          "ja": "So when you tell me I'm the reason,",
+          "ko": "그러니 내가 원인이라고 말해도"
+        },
+        {
+          "start": 9396.74,
+          "end": 9398.76,
+          "ja": "I just can't believe the lies",
+          "ko": "그 거짓말을 믿을 수 없어"
+        },
+        {
+          "start": 9401.21,
+          "end": 9405.5,
+          "ja": "And why do I still wanna call you",
+          "ko": "그런데 왜 아직도 네게 전화하고 싶을까"
+        },
+        {
+          "start": 9405.5,
+          "end": 9408.72,
+          "ja": "(call you, call you, call you)",
+          "ko": "전화하고 전화하고 전화하고"
+        },
+        {
+          "start": 9409.06,
+          "end": 9413.16,
+          "ja": "So, what do you wanna do, what's your point of view?",
+          "ko": "그래서 뭘 하고 싶어 넌 어떻게 생각해"
+        },
+        {
+          "start": 9413.16,
+          "end": 9416.44,
+          "ja": "There's a party, screw it, do you wanna go?",
+          "ko": "파티가 있어 다 집어치우고 갈래"
+        },
+        {
+          "start": 9416.44,
+          "end": 9420.84,
+          "ja": "A handshake with you, what's your point of view?",
+          "ko": "너와 악수를 나누고 넌 어떻게 생각해"
+        },
+        {
+          "start": 9420.84,
+          "end": 9424.08,
+          "ja": "I'm on top of you, I don't wanna go",
+          "ko": "네 위에 올라탄 채 떠나고 싶지 않아"
+        },
+        {
+          "start": 9424.08,
+          "end": 9430.18,
+          "ja": "Cos I really wanna stay at your house",
+          "ko": "정말 네 집에 머물고 싶으니까"
+        },
+        {
+          "start": 9430.18,
+          "end": 9431.5,
+          "ja": "In the palace it all works out",
+          "ko": "이 궁전에서는 모든 게 잘 풀리니까"
+        },
+        {
+          "start": 9431.5,
+          "end": 9434.98,
+          "ja": "But you know how much you fuck me up",
+          "ko": "하지만 네가 날 얼마나 망가뜨리는지 알잖아"
+        },
+        {
+          "start": 9435.12,
+          "end": 9438.16,
+          "ja": "I'm done with you, I'm ignoring you",
+          "ko": "너와는 끝났어 널 무시할 거야"
+        },
+        {
+          "start": 9438.16,
+          "end": 9439.5,
+          "ja": "I don't wanna know",
+          "ko": "알고 싶지 않아"
+        },
+        {
+          "start": 9439.5,
+          "end": 9441.3,
+          "ja": "Ohh",
+          "ko": "오오"
+        },
+        {
+          "start": 9441.4,
+          "end": 9445.38,
+          "ja": "Oh-oh, oh-oh-oh",
+          "ko": "오 오 오 오 오"
+        },
+        {
+          "start": 9449.68,
+          "end": 9452.86,
+          "ja": "I don't know where I'm going",
+          "ko": "내가 어디로 가는지 모르겠어"
+        },
+        {
+          "start": 9455.6,
+          "end": 9457.98,
+          "ja": "So, get away",
+          "ko": "그러니 떠나"
+        },
+        {
+          "start": 9457.98,
+          "end": 9459.68,
+          "ja": "Another way to feel",
+          "ko": "네가 알고 싶지 않았던 걸 느끼는"
+        },
+        {
+          "start": 9459.68,
+          "end": 9462.3,
+          "ja": "what you didn't want yourself to know",
+          "ko": "또 다른 길"
+        },
+        {
+          "start": 9462.3,
+          "end": 9464.36,
+          "ja": "And let yourself go",
+          "ko": "그냥 너를 놓아 줘"
+        },
+        {
+          "start": 9464.82,
+          "end": 9467.46,
+          "ja": "You know you didn't lose your self-control",
+          "ko": "네가 자제력을 잃지 않았다는 걸 알잖아"
+        },
+        {
+          "start": 9467.46,
+          "end": 9471.68,
+          "ja": "There's just no end of the rainbow",
+          "ko": "무지개엔 끝이란 없으니까"
+        },
+        {
+          "start": 9471.68,
+          "end": 9473.28,
+          "ja": "Turn away",
+          "ko": "등을 돌려"
+        },
+        {
+          "start": 9473.28,
+          "end": 9477.66,
+          "ja": "Another way to be where you didn't want yourself to go",
+          "ko": "네가 가고 싶지 않았던 곳에 닿는 또 다른 길"
+        },
+        {
+          "start": 9477.66,
+          "end": 9479.9,
+          "ja": "And let yourself go",
+          "ko": "그냥 너를 놓아 줘"
+        },
+        {
+          "start": 9480.06,
+          "end": 9482.74,
+          "ja": "Is that a compromise?",
+          "ko": "그게 타협인 걸까"
+        },
+        {
+          "start": 9488.98,
+          "end": 9493.9,
+          "ja": "So what do you wanna do, what's your point of view?",
+          "ko": "그래서 뭘 하고 싶어 넌 어떻게 생각해"
+        },
+        {
+          "start": 9493.9,
+          "end": 9497.48,
+          "ja": "There's a party, screw it, do you wanna go?",
+          "ko": "파티가 있어 다 집어치우고 갈래"
+        },
+        {
+          "start": 9497.98,
+          "end": 9501.52,
+          "ja": "A handshake with you, what's your point of view?",
+          "ko": "너와 악수를 나누고 넌 어떻게 생각해"
+        },
+        {
+          "start": 9501.52,
+          "end": 9504.98,
+          "ja": "I'm on top of you, I don't wanna go",
+          "ko": "네 위에 올라탄 채 떠나고 싶지 않아"
+        },
+        {
+          "start": 9504.98,
+          "end": 9508.4,
+          "ja": "Cos I really wanna stay at your house",
+          "ko": "정말 네 집에 머물고 싶으니까"
+        },
+        {
+          "start": 9508.4,
+          "end": 9510.74,
+          "ja": "In the palace it all works out",
+          "ko": "이 궁전에서는 모든 게 잘 풀리니까"
+        },
+        {
+          "start": 9510.74,
+          "end": 9515.42,
+          "ja": "But you know how much you fuck me up",
+          "ko": "하지만 네가 날 얼마나 망가뜨리는지 알잖아"
+        },
+        {
+          "start": 9515.42,
+          "end": 9518.78,
+          "ja": "I'm done with you, I'm ignoring you",
+          "ko": "너와는 끝났어 널 무시할 거야"
+        },
+        {
+          "start": 9518.78,
+          "end": 9520.52,
+          "ja": "I don't wanna know",
+          "ko": "알고 싶지 않아"
+        }
+      ]
+    },
+    {
       "song_num": "012",
       "production_sequence": 12,
       "title": "Choose me",
