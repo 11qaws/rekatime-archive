@@ -56913,6 +56913,284 @@
       ]
     },
     {
+      "song_num": "018",
+      "production_sequence": 18,
+      "title": "잊혀지지 못할 언어 (영어)",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 13221.8,
+          "end": 13226.28,
+          "ja": "Forgotten words are spun through time",
+          "ko": "잊힌 말들은 시간을 따라 엮여 가고"
+        },
+        {
+          "start": 13226.28,
+          "end": 13231.16,
+          "ja": "As the world drowses into a daze",
+          "ko": "세상은 몽롱한 잠에 빠져들어"
+        },
+        {
+          "start": 13231.16,
+          "end": 13236.86,
+          "ja": "A lonely traveler passes by",
+          "ko": "외로운 나그네가 지나가네"
+        },
+        {
+          "start": 13236.86,
+          "end": 13241.66,
+          "ja": "Embraced in a fairy tale haze",
+          "ko": "동화 같은 안개에 감싸인 채"
+        },
+        {
+          "start": 13241.66,
+          "end": 13247.56,
+          "ja": "So gentle is the hand that seeks",
+          "ko": "무언가를 찾는 손은 참 다정해서"
+        },
+        {
+          "start": 13247.56,
+          "end": 13251.12,
+          "ja": "Reaching out to mystery",
+          "ko": "신비를 향해 뻗어 가고"
+        },
+        {
+          "start": 13251.12,
+          "end": 13257.36,
+          "ja": "And from his palm a single beam",
+          "ko": "그의 손바닥에서 한 줄기 빛이"
+        },
+        {
+          "start": 13257.66,
+          "end": 13261.9,
+          "ja": "Brims over for eternity",
+          "ko": "영원을 향해 넘쳐흐르네"
+        },
+        {
+          "start": 13271.66,
+          "end": 13276.88,
+          "ja": "As images fade into the mist",
+          "ko": "형상들이 안개 속으로 희미해지듯"
+        },
+        {
+          "start": 13276.88,
+          "end": 13280.96,
+          "ja": "Like phantom memories",
+          "ko": "환영 같은 기억처럼"
+        },
+        {
+          "start": 13282.46,
+          "end": 13287.62,
+          "ja": "To somewhere every thought goes to rest",
+          "ko": "모든 생각이 쉬어 가는 어딘가로"
+        },
+        {
+          "start": 13287.62,
+          "end": 13291.26,
+          "ja": "Far beyond our history",
+          "ko": "우리의 역사를 아득히 넘어"
+        },
+        {
+          "start": 13293.06,
+          "end": 13295.9,
+          "ja": "Ancient tales searching for a melody",
+          "ko": "옛이야기들은 선율을 찾아"
+        },
+        {
+          "start": 13295.9,
+          "end": 13298.56,
+          "ja": "For a harmony, for a place to be",
+          "ko": "조화를 찾아 머물 곳을 찾아"
+        },
+        {
+          "start": 13298.56,
+          "end": 13301.72,
+          "ja": "Over centuries, over epochs they fly",
+          "ko": "수많은 세월과 시대를 넘어 날아가"
+        },
+        {
+          "start": 13301.72,
+          "end": 13303.46,
+          "ja": "Becoming a lullaby",
+          "ko": "자장가가 되어"
+        },
+        {
+          "start": 13303.46,
+          "end": 13307.1,
+          "ja": "Fables lost, fables stolen, silence is golden",
+          "ko": "잊어버린 우화 빼앗긴 우화 침묵은 금빛"
+        },
+        {
+          "start": 13307.1,
+          "end": 13309.3,
+          "ja": "Fated to fade into the past",
+          "ko": "과거 속으로 사라질 운명을 안고"
+        },
+        {
+          "start": 13309.3,
+          "end": 13313.1,
+          "ja": "Every riddle will be resolved when we all recall",
+          "ko": "우리 모두 기억해 내면 모든 수수께끼는 풀릴 거야"
+        },
+        {
+          "start": 13313.72,
+          "end": 13315.98,
+          "ja": "– each forgotten word",
+          "ko": "잊힌 말 하나하나를"
+        },
+        {
+          "start": 13326.28,
+          "end": 13330.26,
+          "ja": "Forgotten words are spun through time",
+          "ko": "잊힌 말들은 시간을 따라 엮여 가고"
+        },
+        {
+          "start": 13330.26,
+          "end": 13335.04,
+          "ja": "As the world drowses into a daze",
+          "ko": "세상은 몽롱한 잠에 빠져들어"
+        },
+        {
+          "start": 13337.04,
+          "end": 13340.98,
+          "ja": "A traveler, his name lives on",
+          "ko": "나그네여 그의 이름은 이어지고"
+        },
+        {
+          "start": 13340.98,
+          "end": 13346.8,
+          "ja": "As a legend of our yesterdays",
+          "ko": "우리의 지난날 속 전설이 되어"
+        },
+        {
+          "start": 13347.66,
+          "end": 13350.28,
+          "ja": "Each fingertip looks to entwine",
+          "ko": "손끝마다 서로 얽히기를 바라며"
+        },
+        {
+          "start": 13350.28,
+          "end": 13355.98,
+          "ja": "Interlocking with somebody’s dreams",
+          "ko": "누군가의 꿈과 맞물리고"
+        },
+        {
+          "start": 13356.86,
+          "end": 13362.38,
+          "ja": "A distant echo rings and rhymes",
+          "ko": "먼 메아리가 울려 운을 맞추네"
+        },
+        {
+          "start": 13362.38,
+          "end": 13366.74,
+          "ja": "Engraved on the wings of belief",
+          "ko": "믿음의 날개에 새겨진 채"
+        },
+        {
+          "start": 13378.62,
+          "end": 13381.26,
+          "ja": "Ancient tales searching for a melody",
+          "ko": "옛이야기들은 선율을 찾아"
+        },
+        {
+          "start": 13381.26,
+          "end": 13383.9,
+          "ja": "For a harmony, for a place to be",
+          "ko": "조화를 찾아 머물 곳을 찾아"
+        },
+        {
+          "start": 13383.9,
+          "end": 13386.86,
+          "ja": "Over centuries, over epochs they fly",
+          "ko": "수많은 세월과 시대를 넘어 날아가"
+        },
+        {
+          "start": 13386.86,
+          "end": 13388.9,
+          "ja": "A hero will never die",
+          "ko": "영웅은 결코 죽지 않으리"
+        },
+        {
+          "start": 13388.9,
+          "end": 13392.66,
+          "ja": "Fables lost, fables stolen, silence is golden",
+          "ko": "잊어버린 우화 빼앗긴 우화 침묵은 금빛"
+        },
+        {
+          "start": 13392.66,
+          "end": 13394.62,
+          "ja": "Fated to fade into the past",
+          "ko": "과거 속으로 사라질 운명을 안고"
+        },
+        {
+          "start": 13394.62,
+          "end": 13397.98,
+          "ja": "Every riddle will be resolved when we all recall",
+          "ko": "우리 모두 기억해 내면 모든 수수께끼는 풀릴 거야"
+        },
+        {
+          "start": 13397.98,
+          "end": 13399.58,
+          "ja": "Everything we knew",
+          "ko": "우리가 알던 모든 것을"
+        },
+        {
+          "start": 13399.58,
+          "end": 13402.52,
+          "ja": "Ancient tales searching for a melody",
+          "ko": "옛이야기들은 선율을 찾아"
+        },
+        {
+          "start": 13402.52,
+          "end": 13405.22,
+          "ja": "For a harmony, for a place to be",
+          "ko": "조화를 찾아 머물 곳을 찾아"
+        },
+        {
+          "start": 13405.22,
+          "end": 13408.06,
+          "ja": "Over centuries, over epochs they fly",
+          "ko": "수많은 세월과 시대를 넘어 날아가"
+        },
+        {
+          "start": 13408.06,
+          "end": 13410.16,
+          "ja": "Becoming a lullaby",
+          "ko": "자장가가 되어"
+        },
+        {
+          "start": 13410.16,
+          "end": 13413.74,
+          "ja": "Fables lost, fables stolen, silence is golden",
+          "ko": "잊어버린 우화 빼앗긴 우화 침묵은 금빛"
+        },
+        {
+          "start": 13413.74,
+          "end": 13415.92,
+          "ja": "Fated to fade into the past",
+          "ko": "과거 속으로 사라질 운명을 안고"
+        },
+        {
+          "start": 13415.92,
+          "end": 13419.46,
+          "ja": "Every riddle will be resolved when we all recall",
+          "ko": "우리 모두 기억해 내면 모든 수수께끼는 풀릴 거야"
+        },
+        {
+          "start": 13419.46,
+          "end": 13422.6,
+          "ja": "– each forgotten word",
+          "ko": "잊힌 말 하나하나를"
+        },
+        {
+          "start": 13437.66,
+          "end": 13443.98,
+          "ja": "Na na na na na na na na na na na na na na na na na na na",
+          "ko": "나 나 나 나 나 나 나 나 나 나 나 나 나 나 나 나 나 나 나"
+        }
+      ]
+    },
+    {
       "song_num": "019",
       "production_sequence": 19,
       "title": "호시아이",
