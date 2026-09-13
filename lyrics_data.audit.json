@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-13T07:03:51.799102+00:00",
+  "generated_at": "2026-09-13T07:12:32.387512+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "385180fa68a115c73e6d496b1b57504e27fc365a502df9c8b38f4fad4eaeabc9",
+  "lyrics_data_sha256": "1444cde4e849dfafa24f9f3ec326b621d5d5982eeb203ed29df2da3ab61c121a",
   "managed_song_count": 516,
-  "synced_verified_song_count": 287,
+  "synced_verified_song_count": 289,
   "songs": [
     {
       "youtube_job": "ZFMg5irJJU8",
@@ -1808,6 +1808,16 @@
       "source": "approved_canonical_cue"
     },
     {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 17,
+      "archive_sequence": 17,
+      "cue_count": 33,
+      "lyrics_sha256": "f3fbeece7a4ddcdf44fa93b57faf6efedbada01f9401e2b2b03ef523e57eab3f",
+      "cue_payload_sha256": "d6d4b47a77df45428095072eccd3c720a35763ca30d86ee31ff222c6bf2de183",
+      "source": "approved_canonical_cue"
+    },
+    {
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 18,
@@ -2028,6 +2038,18 @@
       "lyrics_sha256": "8886c655d80a6f4aaf57894e45bcbfb7cbce66e4fc703beec6dabeee6cb7f23d",
       "cue_payload_sha256": "da6cdaa32ea0bf8d20e6195148d3304af305bf6f52eca428abcfde6255c198e7",
       "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "YzJm-mk52WM",
+      "source_job": "YzJm-mk52WM",
+      "sequence": 30,
+      "archive_sequence": 30,
+      "cue_count": 40,
+      "lyrics_sha256": "e4a77c33cbb8fd5827a473fed2d9074f5dbf2e45faba2c9c8051b1052d0c053e",
+      "cue_payload_sha256": "5f2100b8b9be79a44a8d791a482e61ce92e4984a912e968d9f4eebc77e1bcf0b",
+      "source": "approved_canonical_cue",
+      "ytt_sha256": "0511e1abe4f3e375ba27b442edd37c8a08eca1012b9f3b22a09982954ea304fb",
+      "ytt_audit_sha256": "66e69290cb24b7ec03626c9a982e7cf63fbc2f0bb4275c4ec0fe19689c8d6347"
     },
     {
       "youtube_job": "chzzk-14411850",
