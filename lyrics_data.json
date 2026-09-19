@@ -50709,6 +50709,218 @@
       ]
     },
     {
+      "song_num": "015",
+      "production_sequence": 15,
+      "title": "U.N. Owen was Her?",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 13243.035,
+          "end": 13246.26,
+          "ja": "10…  9…  8…  7…  6…  5…  4…  3-2-1!",
+          "ko": "10 9 8 7 6 5 4 3 2 1"
+        },
+        {
+          "start": 13246.26,
+          "end": 13249.32,
+          "ja": "Ready, ready, are you ready?",
+          "ko": "준비됐어 준비됐어 정말 준비됐어"
+        },
+        {
+          "start": 13249.32,
+          "end": 13252.08,
+          "ja": "One more round of hide-and-seek.",
+          "ko": "숨바꼭질 한 판 더"
+        },
+        {
+          "start": 13252.08,
+          "end": 13255.36,
+          "ja": "Make this match a good match for me.",
+          "ko": "이번 승부는 내가 즐겁게 해 줘"
+        },
+        {
+          "start": 13255.36,
+          "end": 13258.3,
+          "ja": "I don’t need a friend who’s weak.",
+          "ko": "약한 친구는 필요 없어"
+        },
+        {
+          "start": 13258.3,
+          "end": 13261.72,
+          "ja": "Oh my soldier, where are you hiding?",
+          "ko": "오 나의 병정아 어디 숨었니"
+        },
+        {
+          "start": 13261.72,
+          "end": 13264.56,
+          "ja": "Mirrors within mirrors all around, and no reflection cast.",
+          "ko": "거울 속 거울이 사방에 가득한데 비친 모습은 하나도 없어"
+        },
+        {
+          "start": 13264.56,
+          "end": 13267.42,
+          "ja": "Your misguiding makes it exciting:",
+          "ko": "네가 길을 헤매게 하니 더 신나"
+        },
+        {
+          "start": 13267.42,
+          "end": 13270.48,
+          "ja": "I can’t even tell what I’m looking at!",
+          "ko": "내가 뭘 보고 있는지도 모르겠어"
+        },
+        {
+          "start": 13270.76,
+          "end": 13274.12,
+          "ja": "Oh my soldier, where are you going?",
+          "ko": "오 나의 병정아 어디 가니"
+        },
+        {
+          "start": 13274.12,
+          "end": 13276.94,
+          "ja": "I should know that this is the kind of place that can’t be left.",
+          "ko": "여긴 떠날 수 없는 곳인 걸 알아야지"
+        },
+        {
+          "start": 13276.94,
+          "end": 13280.16,
+          "ja": "Like fresh blood, once spilt, gets to flowing:",
+          "ko": "갓 흘린 피가 흐르기 시작하듯"
+        },
+        {
+          "start": 13280.16,
+          "end": 13283.4,
+          "ja": "Our little game isn’t over yet!",
+          "ko": "우리 놀이는 아직 안 끝났어"
+        },
+        {
+          "start": 13284.4,
+          "end": 13287.9,
+          "ja": "( “Patterns… The patterns are so pretty!",
+          "ko": "무늬들 무늬가 정말 예뻐"
+        },
+        {
+          "start": 13288.04,
+          "end": 13291.56,
+          "ja": "Here’s another!  Can you find your way through this maze?",
+          "ko": "여기 또 하나 이 미로를 빠져나갈 길을 찾겠어"
+        },
+        {
+          "start": 13291.66,
+          "end": 13295.26,
+          "ja": "A maze like this sometimes gets a little tight and scary.",
+          "ko": "이런 미로는 가끔 좁고 무서울 때도 있어"
+        },
+        {
+          "start": 13295.64,
+          "end": 13297.92,
+          "ja": "And if you touch the edge, you’ll…",
+          "ko": "가장자리에 닿으면"
+        },
+        {
+          "start": 13298.98,
+          "end": 13302.46,
+          "ja": "Well, don’t touch the edge, okay?  That’s part of the game!” )",
+          "ko": "그러니까 가장자리는 건드리지 마 알았지 그것도 놀이의 일부야"
+        },
+        {
+          "start": 13303.98,
+          "end": 13305.02,
+          "ja": "Seven colors~",
+          "ko": "일곱 빛깔"
+        },
+        {
+          "start": 13305.02,
+          "end": 13308.68,
+          "ja": "My rainbow misses something still.",
+          "ko": "내 무지개엔 아직 뭔가 빠졌어"
+        },
+        {
+          "start": 13308.68,
+          "end": 13311.72,
+          "ja": "My favorite shade of scarlet will",
+          "ko": "내가 가장 좋아하는 진홍빛은"
+        },
+        {
+          "start": 13311.72,
+          "end": 13314.9,
+          "ja": "Increase until I have my fill—",
+          "ko": "내가 실컷 채울 때까지 짙어질 거야"
+        },
+        {
+          "start": 13314.9,
+          "end": 13317.78,
+          "ja": "Lonely, lonely, I’ll be lonely,",
+          "ko": "외로워 외로워 또 외로워질 거야"
+        },
+        {
+          "start": 13317.78,
+          "end": 13320.58,
+          "ja": "If you leave me like before.",
+          "ko": "예전처럼 네가 날 떠나면"
+        },
+        {
+          "start": 13320.58,
+          "end": 13323.9,
+          "ja": "All forbidden in name only,",
+          "ko": "금지라는 것도 이름뿐"
+        },
+        {
+          "start": 13323.9,
+          "end": 13326.68,
+          "ja": "There’s no limit anymore.",
+          "ko": "이제 아무런 한계도 없어"
+        },
+        {
+          "start": 13326.68,
+          "end": 13330.88,
+          "ja": "Shame, for now, this playtime is ending;",
+          "ko": "아쉬워라 이제 놀이 시간이 끝나 가"
+        },
+        {
+          "start": 13330.88,
+          "end": 13333.74,
+          "ja": "My new toy is broken again, like everything I touch.",
+          "ko": "내 새 장난감도 또 부서졌네 내가 만진 모든 것처럼"
+        },
+        {
+          "start": 13333.74,
+          "end": 13337.0,
+          "ja": "If it snaps with such easy bending:",
+          "ko": "이렇게 쉽게 휘어 부러진다면"
+        },
+        {
+          "start": 13337.0,
+          "end": 13339.86,
+          "ja": "Well, I guess it was never worth that much!",
+          "ko": "뭐 그리 값진 것도 아니었겠지"
+        },
+        {
+          "start": 13340.18,
+          "end": 13343.56,
+          "ja": "Oh my soldier, where are you going?",
+          "ko": "오 나의 병정아 어디 가니"
+        },
+        {
+          "start": 13343.56,
+          "end": 13346.3,
+          "ja": "Hungering for more, as the number dwindles down to one.",
+          "ko": "하나만 남을수록 더 허기져"
+        },
+        {
+          "start": 13346.3,
+          "end": 13349.46,
+          "ja": "No fear showing, deep in un-knowing:",
+          "ko": "겁은 보이지 않은 채 깊은 무지 속에서"
+        },
+        {
+          "start": 13349.46,
+          "end": 13352.04,
+          "ja": "Glanced again, and then…there were none?",
+          "ko": "다시 보니 아무도 없네"
+        }
+      ]
+    },
+    {
       "song_num": "016",
       "production_sequence": 16,
       "title": "INSANE",
