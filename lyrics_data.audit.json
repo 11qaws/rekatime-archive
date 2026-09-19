@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-18T20:36:44.819782+00:00",
+  "generated_at": "2026-09-19T00:14:54.580931+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "12c22150f8072babcb4508d7799e776f5f777f090ac53ac46f59d926a930dc7e",
+  "lyrics_data_sha256": "1d5f9b0c5cde59111c489dca39d2f8bf16ff9f289422e9cb4f6ed72494dbd9ec",
   "managed_song_count": 516,
-  "synced_verified_song_count": 290,
+  "synced_verified_song_count": 288,
   "songs": [
     {
       "youtube_job": "ZFMg5irJJU8",
@@ -124,6 +124,16 @@
       "source": "approved_canonical_cue"
     },
     {
+      "youtube_job": "chzzk-15084319",
+      "source_job": "chzzk-15084319",
+      "sequence": 5,
+      "archive_sequence": 5,
+      "cue_count": 32,
+      "lyrics_sha256": "7200eb03f06cc830b0034880a5013f34358c501432e7c9ba0db3bcb2691849e3",
+      "cue_payload_sha256": "81f19c10aa383c60d3f2d5b2a8947f54bf79f54a082ab7370487b0ed204bc915",
+      "source": "approved_canonical_cue"
+    },
+    {
       "youtube_job": "chzzk-14693102",
       "source_job": "chzzk-14693102",
       "sequence": 6,
@@ -144,16 +154,6 @@
       "source": "approved_canonical_cue"
     },
     {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 7,
-      "archive_sequence": 7,
-      "cue_count": 37,
-      "lyrics_sha256": "d49df7aa20b4a00ef2a4bcd6486b5be54c6c16bc28063b2f9e1bceec1812b917",
-      "cue_payload_sha256": "65fb89f535805dc77a1324a850f63885f620b78ff424d032b3c51f92ae5d0aa8",
-      "source": "approved_canonical_cue"
-    },
-    {
       "youtube_job": "chzzk-14805053",
       "source_job": "chzzk-14805053",
       "sequence": 8,
@@ -164,13 +164,13 @@
       "source": "approved_canonical_cue"
     },
     {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
+      "youtube_job": "chzzk-15084319",
+      "source_job": "chzzk-15084319",
       "sequence": 8,
       "archive_sequence": 8,
       "cue_count": 50,
-      "lyrics_sha256": "06a708d097b919d31e780fc1e4fc508d78eec8b112f02009b41729e3ef83c653",
-      "cue_payload_sha256": "9cbde4459477c4e325e7abbc22070a5e5697159d5e9a933fa696facef7c7fd60",
+      "lyrics_sha256": "ae4f86fe2ca08baccbda8712127379c40fdcacd63b4d0c591605dc613f7620fe",
+      "cue_payload_sha256": "e39c6af222f6fc3aa70e507aace5df3194d0be8aea0f5e7d9498dd2addf29a50",
       "source": "approved_canonical_cue"
     },
     {
@@ -376,16 +376,6 @@
       "source": "approved_canonical_cue"
     },
     {
-      "youtube_job": "YzJm-mk52WM",
-      "source_job": "YzJm-mk52WM",
-      "sequence": 30,
-      "archive_sequence": 30,
-      "cue_count": 40,
-      "lyrics_sha256": "e4a77c33cbb8fd5827a473fed2d9074f5dbf2e45faba2c9c8051b1052d0c053e",
-      "cue_payload_sha256": "5f2100b8b9be79a44a8d791a482e61ce92e4984a912e968d9f4eebc77e1bcf0b",
-      "source": "approved_canonical_cue"
-    },
-    {
       "youtube_job": "chzzk-14489268",
       "source_job": "chzzk-14489268",
       "sequence": 1,
@@ -413,26 +403,6 @@
       "cue_count": 72,
       "lyrics_sha256": "8cb123d55245ce306c4d7e0ca0db4c315536508256a27ac792fd12f6f787e5ac",
       "cue_payload_sha256": "0a3d7aeba639907920d5e1bf10b684d5f34663ccf2b2d90932fa9817178c14d7",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-15084319",
-      "source_job": "chzzk-15084319",
-      "sequence": 5,
-      "archive_sequence": 5,
-      "cue_count": 32,
-      "lyrics_sha256": "7200eb03f06cc830b0034880a5013f34358c501432e7c9ba0db3bcb2691849e3",
-      "cue_payload_sha256": "81f19c10aa383c60d3f2d5b2a8947f54bf79f54a082ab7370487b0ed204bc915",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 6,
-      "archive_sequence": 6,
-      "cue_count": 41,
-      "lyrics_sha256": "7860c94cdf70c9f4a6b72fc122666e7fac41d8c3a377bc42d5c05e1e57fa5c26",
-      "cue_payload_sha256": "ece4227b841045cae9189947b3e41da16994c428021c6141d7d6f68d3ed68949",
       "source": "approved_canonical_cue"
     },
     {
@@ -473,16 +443,6 @@
       "cue_count": 32,
       "lyrics_sha256": "0aa5e91028575528d788536ffff5472054090ba7f61ac79f57c0460a2f9e0a2c",
       "cue_payload_sha256": "0474a70b1739deaef5aaccf6828ad3a7571dc0202016d657d746c875cebef876",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 10,
-      "archive_sequence": 10,
-      "cue_count": 76,
-      "lyrics_sha256": "7c834079a94a73733cb820fb305d0809c8a5c86bd5898f5a9d6305ac96432a8b",
-      "cue_payload_sha256": "bcbc93019e27e07d21c1a9d9dcb0dc2d168c024295be6250a20467db40559651",
       "source": "approved_canonical_cue"
     },
     {
@@ -533,6 +493,16 @@
       "cue_count": 36,
       "lyrics_sha256": "ac85e83de044e66d324cb2d9ef75c62e79b5ac4a4cd96f27a315f51d5ac3d21f",
       "cue_payload_sha256": "0f1ab602e71637eee11b0621d8a18b30171a7ab77c22548205ca6a4145c031de",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 17,
+      "archive_sequence": 17,
+      "cue_count": 33,
+      "lyrics_sha256": "f3fbeece7a4ddcdf44fa93b57faf6efedbada01f9401e2b2b03ef523e57eab3f",
+      "cue_payload_sha256": "d6d4b47a77df45428095072eccd3c720a35763ca30d86ee31ff222c6bf2de183",
       "source": "approved_canonical_cue"
     },
     {
@@ -973,16 +943,6 @@
       "cue_count": 26,
       "lyrics_sha256": "747f7c727f8ccce96c7a6e4a2d71235f8591667249ce578abeb3459a594531c9",
       "cue_payload_sha256": "d0cdf176b8316f6471f20d53ac1c72794a32219e137a5acb5ecf4391bc13a0f5",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-14411850",
-      "source_job": "chzzk-14411850",
-      "sequence": 23,
-      "archive_sequence": 23,
-      "cue_count": 46,
-      "lyrics_sha256": "990321dbac3e02507975887bb83e7d977a82446b0123c61b7f23520036755abb",
-      "cue_payload_sha256": "4ddc23c3a9357aee274be30af9a26708658869e1b5c19fe8baad8538998898da",
       "source": "approved_canonical_cue"
     },
     {
@@ -1818,26 +1778,6 @@
       "source": "approved_canonical_cue"
     },
     {
-      "youtube_job": "chzzk-15084319",
-      "source_job": "chzzk-15084319",
-      "sequence": 8,
-      "archive_sequence": 8,
-      "cue_count": 50,
-      "lyrics_sha256": "ae4f86fe2ca08baccbda8712127379c40fdcacd63b4d0c591605dc613f7620fe",
-      "cue_payload_sha256": "e39c6af222f6fc3aa70e507aace5df3194d0be8aea0f5e7d9498dd2addf29a50",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 17,
-      "archive_sequence": 17,
-      "cue_count": 33,
-      "lyrics_sha256": "f3fbeece7a4ddcdf44fa93b57faf6efedbada01f9401e2b2b03ef523e57eab3f",
-      "cue_payload_sha256": "d6d4b47a77df45428095072eccd3c720a35763ca30d86ee31ff222c6bf2de183",
-      "source": "approved_canonical_cue"
-    },
-    {
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 18,
@@ -2230,6 +2170,16 @@
       "source": "approved_canonical_cue"
     },
     {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 6,
+      "archive_sequence": 6,
+      "cue_count": 41,
+      "lyrics_sha256": "7860c94cdf70c9f4a6b72fc122666e7fac41d8c3a377bc42d5c05e1e57fa5c26",
+      "cue_payload_sha256": "ece4227b841045cae9189947b3e41da16994c428021c6141d7d6f68d3ed68949",
+      "source": "approved_canonical_cue"
+    },
+    {
       "youtube_job": "chzzk-14805053",
       "source_job": "chzzk-14805053",
       "sequence": 7,
@@ -2247,6 +2197,16 @@
       "cue_count": 38,
       "lyrics_sha256": "fa2da912a92f06ee3981672687edd11e9cae6d9469312628d79744f61e7e2b61",
       "cue_payload_sha256": "a0399ee125721ed3033d885d0f604fc30d40dd6ed2bb52d7abbc73a3c91dc848",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 7,
+      "archive_sequence": 7,
+      "cue_count": 37,
+      "lyrics_sha256": "d49df7aa20b4a00ef2a4bcd6486b5be54c6c16bc28063b2f9e1bceec1812b917",
+      "cue_payload_sha256": "65fb89f535805dc77a1324a850f63885f620b78ff424d032b3c51f92ae5d0aa8",
       "source": "approved_canonical_cue"
     },
     {
@@ -2277,6 +2237,16 @@
       "cue_count": 28,
       "lyrics_sha256": "27cd8c938a7311c65ce5d0dadf3ae988b0b71a77fa72616fe78dfb75f92b73dd",
       "cue_payload_sha256": "f8ba1db159532f6afc156aeda30c85a31370ca05e9c327368ee17faaa856591e",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 8,
+      "archive_sequence": 8,
+      "cue_count": 50,
+      "lyrics_sha256": "06a708d097b919d31e780fc1e4fc508d78eec8b112f02009b41729e3ef83c653",
+      "cue_payload_sha256": "9cbde4459477c4e325e7abbc22070a5e5697159d5e9a933fa696facef7c7fd60",
       "source": "approved_canonical_cue"
     },
     {
@@ -2319,6 +2289,16 @@
       "cue_count": 67,
       "lyrics_sha256": "a7096bd034f27ab81860402cc7adcf4b437d77ba7f7c875f7b0b61c726c79e29",
       "cue_payload_sha256": "2cd4e0c7890bd37d7218b9f3079e3c696788e706f8a65a5a4ada2132cd9954f9",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 10,
+      "archive_sequence": 10,
+      "cue_count": 76,
+      "lyrics_sha256": "7c834079a94a73733cb820fb305d0809c8a5c86bd5898f5a9d6305ac96432a8b",
+      "cue_payload_sha256": "bcbc93019e27e07d21c1a9d9dcb0dc2d168c024295be6250a20467db40559651",
       "source": "approved_canonical_cue"
     },
     {
@@ -2396,16 +2376,6 @@
       "source": "approved_canonical_cue",
       "ytt_sha256": "69531ba4a5f155ec1cc8a78dcc4c6e72d50664654a1734dd4efc801efac45cd9",
       "ytt_audit_sha256": "aa5bcbbc21f189af4b3d39e890ee498f9d7b27fde6f238cafbe69283df3a12b2"
-    },
-    {
-      "youtube_job": "chzzk-14756908",
-      "source_job": "chzzk-14756908",
-      "sequence": 13,
-      "archive_sequence": 13,
-      "cue_count": 46,
-      "lyrics_sha256": "67ef2e507f767450e6319e377cb566c07b4400beb09089cfe6598952c540b83f",
-      "cue_payload_sha256": "74e024d3dde62cd2912f9b4c3cc0b1ae5054edef38b526c794e52d5632b6e4b1",
-      "source": "approved_canonical_cue"
     },
     {
       "youtube_job": "chzzk-14953860",
@@ -2881,6 +2851,16 @@
       "cue_count": 67,
       "lyrics_sha256": "5544aa74561c746421afc9117fadc30448189a4185d233e18226393198874240",
       "cue_payload_sha256": "f5360c399acc4668076e8e08ce2772fa8ab0e2ceec808589b8d7ffd5d4431f03",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "YzJm-mk52WM",
+      "source_job": "YzJm-mk52WM",
+      "sequence": 30,
+      "archive_sequence": 30,
+      "cue_count": 40,
+      "lyrics_sha256": "e4a77c33cbb8fd5827a473fed2d9074f5dbf2e45faba2c9c8051b1052d0c053e",
+      "cue_payload_sha256": "5f2100b8b9be79a44a8d791a482e61ce92e4984a912e968d9f4eebc77e1bcf0b",
       "source": "approved_canonical_cue"
     },
     {
