@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-20T03:29:53.755035+00:00",
+  "generated_at": "2026-09-20T03:49:03.567235+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "8d0f5a50466c16d12a2f095f428938fef5d93128037678a11b2b9ad1101b9ead",
   "managed_song_count": 516,
@@ -2103,7 +2103,7 @@
       "sequence": 60,
       "archive_sequence": 60,
       "cue_count": 54,
-      "lyrics_sha256": "bcf6228dcffbfedb414a024fbd8155ebf01c2abafb06f5712d7b2ce8ce45c135",
+      "lyrics_sha256": "c7415fb6ead1431b5c29d889310e0a4657217430aa620460ec1f459226dcaa63",
       "cue_payload_sha256": "ba87bf71e2ccd5490811cab43764c1044dc0599b6ab9b63b03059d4b94ae4dda",
       "source": "approved_canonical_cue"
     },
