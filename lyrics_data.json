@@ -9713,6 +9713,200 @@
       ]
     },
     {
+      "song_num": "022",
+      "production_sequence": 22,
+      "title": "발묘",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 13171.3,
+          "end": 13174.7,
+          "ja": "忘れられぬものだけが 美しくはないのでしょう",
+          "ko": "잊을 수 없는 것만이 아름다운 건 아니겠지요"
+        },
+        {
+          "start": 13174.7,
+          "end": 13178.1,
+          "ja": "忘れることばかりが 美しくはないでしょう",
+          "ko": "잊는 것만이 아름다운 건 아니겠지요"
+        },
+        {
+          "start": 13178.1,
+          "end": 13182.01,
+          "ja": "悲しいことばかりが 人生ではないのでしょう",
+          "ko": "슬픈 일만이 인생은 아니겠지요"
+        },
+        {
+          "start": 13182.1,
+          "end": 13184.6,
+          "ja": "さりとて喜びとは 比べ往くでしょう",
+          "ko": "그렇다 해도 기쁨과는 견주어 가겠지요"
+        },
+        {
+          "start": 13184.6,
+          "end": 13191.74,
+          "ja": "船よ 船よ 荒波の中で 流されずいられたでしょう",
+          "ko": "배여 배여 거친 파도 속에서 휩쓸리지 않을 수 있었나요"
+        },
+        {
+          "start": 13192.2,
+          "end": 13197.08,
+          "ja": "水底に根差す あなたと穿 (うが) った少女時代",
+          "ko": "물밑에 뿌리내린 당신과 뚫고 나간 소녀 시절"
+        },
+        {
+          "start": 13197.4,
+          "end": 13202.2,
+          "ja": "さよならする頃 強いられるのは抜錨 (ばつびょう)",
+          "ko": "작별할 때 강요받는 건 닻을 올리는 일"
+        },
+        {
+          "start": 13202.2,
+          "end": 13205.9,
+          "ja": "傷の数を数えて 痛みの数 指を折る",
+          "ko": "상처 수를 세고 아픔 수만큼 손가락을 접어"
+        },
+        {
+          "start": 13205.9,
+          "end": 13209.0,
+          "ja": "一つあまり 小指は 愛しさのぶんね",
+          "ko": "하나가 남아 새끼손가락은 사랑스러움의 몫이네"
+        },
+        {
+          "start": 13209.4,
+          "end": 13212.4,
+          "ja": "辛いこともありましょう あなたの所為もありましょう",
+          "ko": "괴로운 일도 있겠지요 당신 탓도 있겠지요"
+        },
+        {
+          "start": 13212.4,
+          "end": 13216.64,
+          "ja": "それでも赤い糸 結 (ゆ) わえているのでしょう",
+          "ko": "그래도 붉은 실은 묶여 있는 거겠지요"
+        },
+        {
+          "start": 13230.1,
+          "end": 13233.0,
+          "ja": "底知れぬものだけに 怯えるのではないでしょう",
+          "ko": "헤아릴 수 없는 것만을 두려워하는 건 아니겠지요"
+        },
+        {
+          "start": 13233.0,
+          "end": 13236.4,
+          "ja": "届かぬものばかりが 妬ましくはないでしょう",
+          "ko": "닿지 않는 것만이 샘나는 건 아니겠지요"
+        },
+        {
+          "start": 13236.4,
+          "end": 13239.95,
+          "ja": "優しいことばかりが 優しさではないのでしょう",
+          "ko": "다정한 것만이 다정함은 아니겠지요"
+        },
+        {
+          "start": 13239.95,
+          "end": 13242.9,
+          "ja": "さりとて赤裸々では こそばゆいでしょう",
+          "ko": "그렇다 해도 숨김없이 드러내면 간지럽겠지요"
+        },
+        {
+          "start": 13242.9,
+          "end": 13249.9,
+          "ja": "羽よ 羽よ 人並みを望み 人波に拒まれては",
+          "ko": "날개여 날개여 남들만큼을 바랐지만 사람 물결에 거부당하고"
+        },
+        {
+          "start": 13249.9,
+          "end": 13255.2,
+          "ja": "皆 (みな) そこを目指す まだ葛藤があった少女時代",
+          "ko": "모두 그곳을 향하던 아직 갈등이 있던 소녀 시절"
+        },
+        {
+          "start": 13255.2,
+          "end": 13260.5,
+          "ja": "無辜 (むこ) でいた頃を 遠ざけるのは熱病",
+          "ko": "아무 죄 없던 때를 멀어지게 하는 건 열병"
+        },
+        {
+          "start": 13260.5,
+          "end": 13263.9,
+          "ja": "髪の長さ揃えて 爪の先を塗り直す",
+          "ko": "머리 길이를 고르게 맞추고 손톱 끝을 다시 칠해"
+        },
+        {
+          "start": 13263.9,
+          "end": 13267.28,
+          "ja": "あどけない唇も 色めき立つのね",
+          "ko": "앳된 입술마저 한창 물들어 가네"
+        },
+        {
+          "start": 13267.6,
+          "end": 13270.7,
+          "ja": "叶うこともありましょう 叶わぬ人もおりましょう",
+          "ko": "이루어지는 일도 있겠지요 이루지 못한 이도 있겠지요"
+        },
+        {
+          "start": 13270.7,
+          "end": 13274.9,
+          "ja": "それゆえ慰めずにはいられないのでしょう",
+          "ko": "그렇기에 위로하지 않고는 못 배기겠지요"
+        },
+        {
+          "start": 13275.3,
+          "end": 13280.32,
+          "ja": "羽よ 花よ 水面に散って",
+          "ko": "날개여 꽃이여 수면 위로 흩어져"
+        },
+        {
+          "start": 13308.5,
+          "end": 13311.8,
+          "ja": "傷の数を数えて 痛みの数 指を折る",
+          "ko": "상처 수를 세고 아픔 수만큼 손가락을 접어"
+        },
+        {
+          "start": 13311.8,
+          "end": 13315.18,
+          "ja": "一つあまり 小指は 愛しさのぶんね",
+          "ko": "하나가 남아 새끼손가락은 사랑스러움의 몫이네"
+        },
+        {
+          "start": 13315.4,
+          "end": 13318.7,
+          "ja": "悔やむこともありましょう わたしの所為もありましょう",
+          "ko": "후회하는 일도 있겠지요 내 탓도 있겠지요"
+        },
+        {
+          "start": 13318.7,
+          "end": 13322.04,
+          "ja": "いつかは赤い糸 断ち切るのでしょう",
+          "ko": "언젠가는 붉은 실을 끊어 내겠지요"
+        },
+        {
+          "start": 13322.2,
+          "end": 13325.6,
+          "ja": "花びらにささやきを 哀れみから口づけを",
+          "ko": "꽃잎에 속삭임을 연민으로 입맞춤을"
+        },
+        {
+          "start": 13325.6,
+          "end": 13328.7,
+          "ja": "懐かしんではじめて 過ぎ行くのでしょう",
+          "ko": "그리워하고 나서야 지나가는 거겠지요"
+        },
+        {
+          "start": 13328.7,
+          "end": 13332.4,
+          "ja": "惑うこともありましょう 誰かの所為じゃないでしょう",
+          "ko": "헤매는 일도 있겠지요 누구의 탓도 아니겠지요"
+        },
+        {
+          "start": 13332.4,
+          "end": 13337.38,
+          "ja": "難しいものですね 愛するということは",
+          "ko": "어렵기만 하네요 사랑한다는 것은"
+        }
+      ]
+    },
+    {
       "song_num": "025",
       "production_sequence": 25,
       "title": "괴물",
@@ -31315,6 +31509,488 @@
           "end": 7802.22,
           "ja": "この火は消えたりしない きっと",
           "ko": "이 불은 꺼지지 않아 분명"
+        }
+      ]
+    },
+    {
+      "song_num": "019",
+      "production_sequence": 19,
+      "title": "Despacito",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 8067.84,
+          "end": 8070.78,
+          "ja": "Ohhh, oh, no, oh, no, oh",
+          "ko": "오 오 노 오 노 오"
+        },
+        {
+          "start": 8073.02,
+          "end": 8078.18,
+          "ja": "Ay, Fonsi, D.Y.",
+          "ko": "아이 폰시 DY"
+        },
+        {
+          "start": 8078.22,
+          "end": 8080.07,
+          "ja": "¡Hey, yeah",
+          "ko": "헤이 예"
+        },
+        {
+          "start": 8081.6,
+          "end": 8086.0,
+          "ja": "Sí, sabes que ya llevo un rato mirándote",
+          "ko": "그래 내가 한동안 널 바라보고 있었던 거 알잖아"
+        },
+        {
+          "start": 8086.0,
+          "end": 8090.75,
+          "ja": "Tengo que bailar contigo hoy",
+          "ko": "오늘은 너와 춤춰야 해"
+        },
+        {
+          "start": 8090.75,
+          "end": 8097.2,
+          "ja": "(¡D.Y.!) Vi que tu mirada ya estaba llamándome",
+          "ko": "DY 네 눈길이 이미 날 부르고 있는 걸 봤어"
+        },
+        {
+          "start": 8097.2,
+          "end": 8102.42,
+          "ja": "Muéstrame el camino que yo voy",
+          "ko": "내가 갈 테니 길을 보여 줘"
+        },
+        {
+          "start": 8102.42,
+          "end": 8103.46,
+          "ja": "¡Oh",
+          "ko": "오"
+        },
+        {
+          "start": 8104.22,
+          "end": 8107.28,
+          "ja": "Tú, tú eres el imán y yo soy el metal",
+          "ko": "너 너는 자석이고 나는 금속"
+        },
+        {
+          "start": 8107.28,
+          "end": 8109.14,
+          "ja": "Me voy acercando y voy armando el plan",
+          "ko": "난 다가가며 계획을 세워"
+        },
+        {
+          "start": 8109.14,
+          "end": 8115.66,
+          "ja": "Sólo con pensarlo se acelera el pulso (¡Oh, yeah!)",
+          "ko": "생각만 해도 맥박이 빨라져 오 예"
+        },
+        {
+          "start": 8115.66,
+          "end": 8117.54,
+          "ja": "Ya, ya me está gustando más de lo normal",
+          "ko": "이제 평소보다 더 좋아지기 시작해"
+        },
+        {
+          "start": 8117.56,
+          "end": 8120.12,
+          "ja": "Todos mis sentidos van pidiendo más",
+          "ko": "내 모든 감각이 더 달라고 해"
+        },
+        {
+          "start": 8120.12,
+          "end": 8122.94,
+          "ja": "Esto hay que tomarlo sin ningún apuro",
+          "ko": "서두르지 말고 받아들여야 해"
+        },
+        {
+          "start": 8122.94,
+          "end": 8126.18,
+          "ja": "Despacito",
+          "ko": "천천히"
+        },
+        {
+          "start": 8126.18,
+          "end": 8128.9,
+          "ja": "Quiero respirar tu cuello despacito",
+          "ko": "네 목덜미의 숨결을 천천히 느끼고 싶어"
+        },
+        {
+          "start": 8128.92,
+          "end": 8131.62,
+          "ja": "Deja que te diga cosas al oído",
+          "ko": "네 귓가에 속삭이게 해 줘"
+        },
+        {
+          "start": 8131.62,
+          "end": 8134.26,
+          "ja": "Para que te acuerdes si no estás conmigo",
+          "ko": "나와 함께 있지 않을 때도 기억하도록"
+        },
+        {
+          "start": 8134.26,
+          "end": 8137.15,
+          "ja": "Despacito",
+          "ko": "천천히"
+        },
+        {
+          "start": 8137.15,
+          "end": 8139.77,
+          "ja": "Quiero desnudarte a besos despacito",
+          "ko": "입맞춤으로 널 천천히 벗기고 싶어"
+        },
+        {
+          "start": 8139.77,
+          "end": 8142.53,
+          "ja": "Firmo en las paredes de tu laberinto",
+          "ko": "네 미로의 벽마다 내 이름을 새겨"
+        },
+        {
+          "start": 8142.53,
+          "end": 8145.07,
+          "ja": "Y hacer de tu cuerpo todo un manuscrito",
+          "ko": "네 몸 전체를 하나의 원고로 만들고 싶어"
+        },
+        {
+          "start": 8145.07,
+          "end": 8145.92,
+          "ja": "(Sube, sube, sube, sube, sube)",
+          "ko": "올라가 올라가 올라가 올라가 올라가"
+        },
+        {
+          "start": 8145.92,
+          "end": 8148.94,
+          "ja": "Quiero ver bailar tu pelo,",
+          "ko": "네 머리카락이 춤추는 걸 보고"
+        },
+        {
+          "start": 8148.94,
+          "end": 8150.72,
+          "ja": "quiero ser tu ritmo (Woah, woah)",
+          "ko": "네 리듬이 되고 싶어 워 워"
+        },
+        {
+          "start": 8150.72,
+          "end": 8153.12,
+          "ja": "Que le enseñes a mi boca (Woah, woah)",
+          "ko": "내 입에 가르쳐 줘 워 워"
+        },
+        {
+          "start": 8153.12,
+          "end": 8157.32,
+          "ja": "Tus lugares favoritos (Favorito, favorito, baby)",
+          "ko": "네가 가장 좋아하는 곳들을 가장 좋아하는 곳 베이비"
+        },
+        {
+          "start": 8157.98,
+          "end": 8162.02,
+          "ja": "Déjame sobrepasar tus zonas de peligro (Woah, woah)",
+          "ko": "네 위험 지대를 넘어가게 해 줘 워 워"
+        },
+        {
+          "start": 8162.02,
+          "end": 8164.0,
+          "ja": "Hasta provocar tus gritos (Woah, woah)",
+          "ko": "네가 소리 지를 때까지 워 워"
+        },
+        {
+          "start": 8164.0,
+          "end": 8167.68,
+          "ja": "Y que olvides tu apellido",
+          "ko": "네 성마저 잊게 해 줄게"
+        },
+        {
+          "start": 8167.68,
+          "end": 8170.68,
+          "ja": "Si te pido un beso, ven, dámelo,",
+          "ko": "입맞춤을 청하면 와서 내게 줘"
+        },
+        {
+          "start": 8170.68,
+          "end": 8172.2,
+          "ja": "yo sé que estás pensándolo",
+          "ko": "네가 생각 중인 걸 알아"
+        },
+        {
+          "start": 8172.2,
+          "end": 8172.81,
+          "ja": "Llevo tiempo intentándolo, mami,",
+          "ko": "오래도록 애써 왔어 자기야"
+        },
+        {
+          "start": 8172.81,
+          "end": 8173.46,
+          "ja": "esto es dando y dándolo",
+          "ko": "주고 또 주는 거야"
+        },
+        {
+          "start": 8173.46,
+          "end": 8176.26,
+          "ja": "Sabes que tu corazón conmigo te hace bang-bang",
+          "ko": "네 심장이 나와 함께면 뱅뱅 뛰는 걸 알잖아"
+        },
+        {
+          "start": 8176.26,
+          "end": 8178.94,
+          "ja": "Sabes que esa beba está buscando de mi bang-bang",
+          "ko": "그 아가씨가 내 뱅뱅을 찾는 걸 알잖아"
+        },
+        {
+          "start": 8178.94,
+          "end": 8181.48,
+          "ja": "Ven, prueba de mi boca para ver cómo te sabe",
+          "ko": "와서 내 입을 맛봐 어떤 맛인지"
+        },
+        {
+          "start": 8181.5,
+          "end": 8184.1,
+          "ja": "Quiero, quiero, quiero ver cuánto amor a ti te cabe",
+          "ko": "네 안에 사랑이 얼마나 들어가는지 보고 싶어 보고 싶어"
+        },
+        {
+          "start": 8184.1,
+          "end": 8186.86,
+          "ja": "Yo no tengo prisa, yo me quiero dar el viaje",
+          "ko": "난 서두르지 않아 이 여정을 즐기고 싶어"
+        },
+        {
+          "start": 8186.86,
+          "end": 8189.34,
+          "ja": "Empecemos lento, después salvaje",
+          "ko": "천천히 시작해서 나중엔 거칠게"
+        },
+        {
+          "start": 8189.34,
+          "end": 8192.36,
+          "ja": "Pasito a pasito, suave suavecito",
+          "ko": "한 걸음씩 한 걸음씩 부드럽고 살며시"
+        },
+        {
+          "start": 8192.36,
+          "end": 8195.04,
+          "ja": "Nos vamos pegando, poquito a poquito",
+          "ko": "우린 조금씩 조금씩 서로에게 붙어 가"
+        },
+        {
+          "start": 8195.19,
+          "end": 8197.85,
+          "ja": "Cuando tú me besas con esa destreza",
+          "ko": "그 솜씨로 네가 내게 입 맞추면"
+        },
+        {
+          "start": 8197.85,
+          "end": 8200.51,
+          "ja": "Veo que eres malicia con delicadeza",
+          "ko": "넌 섬세함 속에 짓궂음을 품었다는 걸 알아"
+        },
+        {
+          "start": 8200.51,
+          "end": 8203.29,
+          "ja": "Pasito a pasito, suave suavecito",
+          "ko": "한 걸음씩 한 걸음씩 부드럽고 살며시"
+        },
+        {
+          "start": 8203.29,
+          "end": 8205.95,
+          "ja": "Nos vamos pegando, poquito a poquito",
+          "ko": "우린 조금씩 조금씩 서로에게 붙어 가"
+        },
+        {
+          "start": 8205.95,
+          "end": 8208.27,
+          "ja": "Y es que esa belleza es un rompecabezas",
+          "ko": "그 아름다움은 하나의 퍼즐"
+        },
+        {
+          "start": 8208.27,
+          "end": 8212.05,
+          "ja": "Pero pa' montarlo aquí tengo la pieza",
+          "ko": "하지만 맞춰 넣을 조각은 여기 내게 있어"
+        },
+        {
+          "start": 8212.05,
+          "end": 8212.58,
+          "ja": "¡Oye",
+          "ko": "잘 들어"
+        },
+        {
+          "start": 8212.58,
+          "end": 8214.11,
+          "ja": "Despacito",
+          "ko": "천천히"
+        },
+        {
+          "start": 8214.11,
+          "end": 8216.63,
+          "ja": "Quiero respirar tu cuello despacito",
+          "ko": "네 목덜미의 숨결을 천천히 느끼고 싶어"
+        },
+        {
+          "start": 8216.63,
+          "end": 8219.34,
+          "ja": "Deja que te diga cosas al oído",
+          "ko": "네 귓가에 속삭이게 해 줘"
+        },
+        {
+          "start": 8219.34,
+          "end": 8221.96,
+          "ja": "Para que te acuerdes si no estás conmigo",
+          "ko": "나와 함께 있지 않을 때도 기억하도록"
+        },
+        {
+          "start": 8221.96,
+          "end": 8224.85,
+          "ja": "Despacito",
+          "ko": "천천히"
+        },
+        {
+          "start": 8224.85,
+          "end": 8227.29,
+          "ja": "Quiero desnudarte a besos despacito",
+          "ko": "입맞춤으로 널 천천히 벗기고 싶어"
+        },
+        {
+          "start": 8227.29,
+          "end": 8230.09,
+          "ja": "Firmo en las paredes de tu laberinto",
+          "ko": "네 미로의 벽마다 내 이름을 새겨"
+        },
+        {
+          "start": 8230.09,
+          "end": 8232.81,
+          "ja": "Y hacer de tu cuerpo todo un manuscrito",
+          "ko": "네 몸 전체를 하나의 원고로 만들고 싶어"
+        },
+        {
+          "start": 8232.81,
+          "end": 8235.43,
+          "ja": "(Sube, sube, sube, sube, sube)",
+          "ko": "올라가 올라가 올라가 올라가 올라가"
+        },
+        {
+          "start": 8235.43,
+          "end": 8236.57,
+          "ja": "Quiero ver bailar tu pelo,",
+          "ko": "네 머리카락이 춤추는 걸 보고"
+        },
+        {
+          "start": 8236.57,
+          "end": 8238.57,
+          "ja": "quiero ser tu ritmo (Woah, woah)",
+          "ko": "네 리듬이 되고 싶어 워 워"
+        },
+        {
+          "start": 8238.57,
+          "end": 8240.83,
+          "ja": "Que le enseñes a mi boca (Woah, woah)",
+          "ko": "내 입에 가르쳐 줘 워 워"
+        },
+        {
+          "start": 8240.83,
+          "end": 8245.52,
+          "ja": "Tus lugares favoritos (Favorito, favorito, baby)",
+          "ko": "네가 가장 좋아하는 곳들을 가장 좋아하는 곳 베이비"
+        },
+        {
+          "start": 8245.52,
+          "end": 8249.34,
+          "ja": "Déjame sobrepasar tus zonas de peligro (Woah, woah)",
+          "ko": "네 위험 지대를 넘어가게 해 줘 워 워"
+        },
+        {
+          "start": 8249.34,
+          "end": 8252.39,
+          "ja": "Hasta provocar tus gritos (Woah, woah)",
+          "ko": "네가 소리 지를 때까지 워 워"
+        },
+        {
+          "start": 8252.39,
+          "end": 8255.35,
+          "ja": "Y que olvides tu apellido",
+          "ko": "네 성마저 잊게 해 줄게"
+        },
+        {
+          "start": 8256.64,
+          "end": 8257.18,
+          "ja": "Despacito",
+          "ko": "천천히"
+        },
+        {
+          "start": 8257.28,
+          "end": 8259.78,
+          "ja": "Vamo' a hacerlo en una playa en Puerto Rico",
+          "ko": "푸에르토리코 해변에서 함께하자"
+        },
+        {
+          "start": 8259.78,
+          "end": 8262.34,
+          "ja": "Hasta que las olas griten \"¡Ay, Bendito!\"",
+          "ko": "파도마저 아이 축복이야 하고 외칠 때까지"
+        },
+        {
+          "start": 8262.34,
+          "end": 8265.16,
+          "ja": "Para que mi sello se quede contigo",
+          "ko": "내 흔적이 네게 남도록"
+        },
+        {
+          "start": 8265.16,
+          "end": 8266.62,
+          "ja": "¡Báilalo",
+          "ko": "춤춰"
+        },
+        {
+          "start": 8266.62,
+          "end": 8269.42,
+          "ja": "Pasito a pasito, suave suavecito",
+          "ko": "한 걸음씩 한 걸음씩 부드럽고 살며시"
+        },
+        {
+          "start": 8269.42,
+          "end": 8272.08,
+          "ja": "Nos vamos pegando, poquito a poquito",
+          "ko": "우린 조금씩 조금씩 서로에게 붙어 가"
+        },
+        {
+          "start": 8272.08,
+          "end": 8274.29,
+          "ja": "Que le enseñes a mi boca",
+          "ko": "내 입에 가르쳐 줘"
+        },
+        {
+          "start": 8274.29,
+          "end": 8277.4,
+          "ja": "Tus lugares favoritos (Favorito, favorito, baby)",
+          "ko": "네가 가장 좋아하는 곳들을 가장 좋아하는 곳 가장 좋아하는 곳 베이비"
+        },
+        {
+          "start": 8277.4,
+          "end": 8279.9,
+          "ja": "Pasito a pasito, suave suavecito",
+          "ko": "한 걸음씩 한 걸음씩 부드럽고 살며시"
+        },
+        {
+          "start": 8279.9,
+          "end": 8282.34,
+          "ja": "Nos vamos pegando, poquito a poquito",
+          "ko": "우린 조금씩 조금씩 서로에게 붙어 가"
+        },
+        {
+          "start": 8282.44,
+          "end": 8284.3,
+          "ja": "Hasta provocar tus gritos (Fonsi)",
+          "ko": "네가 소리 지를 때까지 폰시"
+        },
+        {
+          "start": 8284.3,
+          "end": 8286.9,
+          "ja": "Y que olvides tu apellido (D.Y.)",
+          "ko": "네 성마저 잊게 해 줄게 DY"
+        },
+        {
+          "start": 8289.16,
+          "end": 8289.94,
+          "ja": "Despacito",
+          "ko": "천천히"
         }
       ]
     },
