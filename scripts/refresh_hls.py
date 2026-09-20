@@ -196,6 +196,9 @@ def main():
     for video_id in alternate_ids:
         url, why = chzzk_hls(video_id)
         if not url:
+            if why == "gone":
+                gone.append({"video_id": video_id})
+                continue
             failed += 1
             keep = current_videos.get(video_id)
             if keep:

@@ -1581,3 +1581,7 @@ DOM 계측만으로는 통과였는데 실제 렌더링을 보니 두 가지가 
 - YouTube 임베드 준비·재생 시작 시 원본 captions 모듈과 선택 트랙을 해제해 자체 자막과 겹치지 않게 했다.
 - 자체 자막은 실제 플레이어 폭 560px 이하에서 축소하고, 원문·번역을 각각 최대 2줄과 카드 높이 44%로 제한했다.
 - 343px·728px 플레이어에서 반응형 크기, YouTube CC 옵션, 가로 넘침과 콘솔 오류를 확인했다.
+## 2026-09-21 - HLS scheduled refresh recovery
+
+- `refresh_hls.py` treated a removed alternate source as a transient failure, exited 1, and prevented the workflow from committing otherwise valid refreshed URLs.
+- Alternate-source 404s now enter `gone` like primary sessions. A live forced refresh exited 0 with seven valid sessions, and their signed URLs expire around 2026-09-21 21:19 KST.
