@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-22T10:39:07.347463+00:00",
+  "generated_at": "2026-09-22T10:44:23.237316+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "3a1ad6cbc3e5cb51e249a35fc67805642801d66630f31331b58dd7fb134f7fb6",
+  "lyrics_data_sha256": "f786771c9844251a18cb0e1651069cdaa925f1c5a71551031cc51f103a399d30",
   "managed_song_count": 531,
-  "synced_verified_song_count": 313,
+  "synced_verified_song_count": 311,
   "songs": [
     {
       "youtube_job": "ZFMg5irJJU8",
@@ -926,16 +926,6 @@
       "source": "approved_canonical_cue"
     },
     {
-      "youtube_job": "chzzk-15301699",
-      "source_job": "chzzk-15301699",
-      "sequence": 5,
-      "archive_sequence": 5,
-      "cue_count": 76,
-      "lyrics_sha256": "c6822af8f1383c24fa4dfdb57cdffea2417c24735e0c87676317d02cec7ee538",
-      "cue_payload_sha256": "45cd56f1c91e79a3a973084b34142e1f3ecaaf699554192b6adb318a2f120e04",
-      "source": "approved_canonical_cue"
-    },
-    {
       "youtube_job": "chzzk-14489268",
       "source_job": "chzzk-14489268",
       "sequence": 6,
@@ -953,16 +943,6 @@
       "cue_count": 76,
       "lyrics_sha256": "e9f9e38e4b8a4d45ad92d3972ba8ec1f5c55ef200f7913455078c134f0a1acda",
       "cue_payload_sha256": "933d3c58b61eec16fc35593bb25d995ef0ac3405f6c6955d8a0bf0760f2f465c",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "chzzk-15301699",
-      "source_job": "chzzk-15301699",
-      "sequence": 6,
-      "archive_sequence": 6,
-      "cue_count": 36,
-      "lyrics_sha256": "42901b74133d0bce8b55788d30d17bf96586221f10985fcb5ee312807c5c1bdf",
-      "cue_payload_sha256": "3bebe9a9bdde5a0b9ceed6ea03912fadd7ce52343941add8c4ca5f9b0fa516ef",
       "source": "approved_canonical_cue"
     },
     {
@@ -3190,6 +3170,18 @@
       "source_job": "chzzk-15051325",
       "sequence": 24,
       "error": "ambiguous archive performance: 15051325:024 PPPP"
+    },
+    {
+      "youtube_job": "chzzk-15301699",
+      "source_job": "chzzk-15301699",
+      "sequence": 5,
+      "error": "ambiguous archive performance: 15301699:005 꿈을 이루어줘 도라에몽"
+    },
+    {
+      "youtube_job": "chzzk-15301699",
+      "source_job": "chzzk-15301699",
+      "sequence": 6,
+      "error": "ambiguous archive performance: 15301699:006 아지랑이 데이즈"
     },
     {
       "youtube_job": "OKegqxeOarE",
