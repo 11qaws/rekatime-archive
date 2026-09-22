@@ -3,10 +3,10 @@
   "status": "verified",
   "scope": "projection_timebase_and_metadata_bounds",
   "vocal_alignment_status": "not_evaluated",
-  "generated_at": "2026-09-22T14:43:00.654161+00:00",
+  "generated_at": "2026-09-22T23:41:57.756454+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 310,
-  "paired_waveform_song_count": 104,
+  "song_count": 312,
+  "paired_waveform_song_count": 105,
   "songs": [
     {
       "source_id": "OKegqxeOarE",
@@ -7905,6 +7905,34 @@
       }
     },
     {
+      "source_id": "chzzk-14524675",
+      "session_id": "chzzk-14524675",
+      "sequence": 61,
+      "title": "점묘의 노래",
+      "cue_count": 41,
+      "metadata_song_start": 24718.28,
+      "metadata_song_end": 25014.86,
+      "source_first_cue": 24743.714,
+      "source_last_cue": 24994.309,
+      "youtube_offset_seconds": 0.0,
+      "youtube_first_cue": 24743.714,
+      "youtube_last_cue": 24994.309,
+      "offset_source": "native_source_clock",
+      "offset_timebase": "native_source_clock",
+      "waveform_anchor_count": null,
+      "waveform_anchor_spread_seconds": null,
+      "waveform_min_score": null,
+      "waveform_score": null,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
       "source_id": "chzzk-15033796",
       "session_id": "chzzk-15033796",
       "sequence": 1,
@@ -8679,6 +8707,34 @@
       "waveform_anchor_spread_seconds": null,
       "waveform_min_score": null,
       "waveform_score": null,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-15317091",
+      "session_id": "chzzk-15317091",
+      "sequence": 4,
+      "title": "잘못된 만남",
+      "cue_count": 32,
+      "metadata_song_start": 14736.7,
+      "metadata_song_end": 14967.0,
+      "source_first_cue": 14778.9,
+      "source_last_cue": 14959.02,
+      "youtube_offset_seconds": 2.474,
+      "youtube_first_cue": 14781.374,
+      "youtube_last_cue": 14961.494,
+      "offset_source": "precise_audio_anchors",
+      "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
+      "waveform_anchor_count": 5,
+      "waveform_anchor_spread_seconds": 0.0,
+      "waveform_min_score": 0.819341,
+      "waveform_score": 0.874709,
       "waveform_coverage_ratio": null,
       "checks": {
         "cue_within_song_metadata": true,
