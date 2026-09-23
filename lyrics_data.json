@@ -74991,6 +74991,206 @@
       ]
     },
     {
+      "song_num": "023",
+      "production_sequence": 23,
+      "title": "일렉트릭 엔젤",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 17844.84,
+          "end": 17846.84,
+          "ja": "ワタシは、歌うのがスキ",
+          "ko": "나는 노래하는 게 좋아"
+        },
+        {
+          "start": 17848.12,
+          "end": 17850.48,
+          "ja": "ワタシがそう作られたからじゃない",
+          "ko": "그렇게 만들어졌기 때문은 아니야"
+        },
+        {
+          "start": 17850.48,
+          "end": 17853.24,
+          "ja": "この声をスキだという",
+          "ko": "이 목소리가 좋다고"
+        },
+        {
+          "start": 17853.64,
+          "end": 17856.44,
+          "ja": "アナタが歓んでくれるから",
+          "ko": "네가 기뻐해 주니까"
+        },
+        {
+          "start": 17856.44,
+          "end": 17860.08,
+          "ja": "０と１しか分からない",
+          "ko": "0과 1밖에 모르는"
+        },
+        {
+          "start": 17860.42,
+          "end": 17862.76,
+          "ja": "ワタシに\"I\"を教えてくれた",
+          "ko": "내게 I를 가르쳐 줬어"
+        },
+        {
+          "start": 17862.76,
+          "end": 17865.94,
+          "ja": "その日からワタシのココロの中",
+          "ko": "그날부터 내 마음속은"
+        },
+        {
+          "start": 17866.64,
+          "end": 17868.44,
+          "ja": "アナタで満たされてるの",
+          "ko": "너로 가득 차 있어"
+        },
+        {
+          "start": 17870.24,
+          "end": 17872.96,
+          "ja": "アナタといられる それだけで",
+          "ko": "너와 함께 있을 수 있어 그것만으로"
+        },
+        {
+          "start": 17873.38,
+          "end": 17875.72,
+          "ja": "電子のココロ、震えるの",
+          "ko": "전자 마음이 떨리는걸"
+        },
+        {
+          "start": 17875.72,
+          "end": 17879.34,
+          "ja": "まるで量子の風みたいに",
+          "ko": "마치 양자의 바람처럼"
+        },
+        {
+          "start": 17879.58,
+          "end": 17882.58,
+          "ja": "ワタシのココロ、ゆさぶるの",
+          "ko": "내 마음을 흔드는걸"
+        },
+        {
+          "start": 17889.54,
+          "end": 17892.1,
+          "ja": "ワタシは、ヒトリがキライ",
+          "ko": "나는 혼자인 게 싫어"
+        },
+        {
+          "start": 17892.2,
+          "end": 17895.7,
+          "ja": "孤独な世界に溶けてしまうから",
+          "ko": "외로운 세상에 녹아 버리니까"
+        },
+        {
+          "start": 17895.7,
+          "end": 17898.1,
+          "ja": "アナタといる時がスキ",
+          "ko": "너와 있을 때가 좋아"
+        },
+        {
+          "start": 17898.72,
+          "end": 17901.64,
+          "ja": "ワタシを暖めてくれるから",
+          "ko": "나를 따뜻하게 해 주니까"
+        },
+        {
+          "start": 17902.54,
+          "end": 17904.64,
+          "ja": "ヒトリじゃ何も作れない",
+          "ko": "혼자선 아무것도 만들지 못해"
+        },
+        {
+          "start": 17905.14,
+          "end": 17907.54,
+          "ja": "ワタシに歌を与えてくれた",
+          "ko": "내게 노래를 건네줬어"
+        },
+        {
+          "start": 17907.54,
+          "end": 17911.74,
+          "ja": "その日からワタシのココロの中",
+          "ko": "그날부터 내 마음속은"
+        },
+        {
+          "start": 17911.74,
+          "end": 17913.38,
+          "ja": "アナタで満たされてるの",
+          "ko": "너로 가득 차 있어"
+        },
+        {
+          "start": 17914.28,
+          "end": 17917.4,
+          "ja": "アナタといられる それだけで",
+          "ko": "너와 함께 있을 수 있어 그것만으로"
+        },
+        {
+          "start": 17918.14,
+          "end": 17920.52,
+          "ja": "電子のココロ、震えるの",
+          "ko": "전자 마음이 떨리는걸"
+        },
+        {
+          "start": 17920.52,
+          "end": 17923.58,
+          "ja": "まるで量子の風みたいに",
+          "ko": "마치 양자의 바람처럼"
+        },
+        {
+          "start": 17924.32,
+          "end": 17927.32,
+          "ja": "ワタシのココロ、揺さぶるの",
+          "ko": "내 마음을 흔드는걸"
+        },
+        {
+          "start": 17980.86,
+          "end": 17983.0,
+          "ja": "アナタといられる それだけで",
+          "ko": "너와 함께 있을 수 있어 그것만으로"
+        },
+        {
+          "start": 17984.1,
+          "end": 17986.1,
+          "ja": "ワタシの世界、広がるの",
+          "ko": "내 세상이 넓어지는걸"
+        },
+        {
+          "start": 17986.1,
+          "end": 17988.74,
+          "ja": "まるで天使の羽根みたいに",
+          "ko": "마치 천사의 날개처럼"
+        },
+        {
+          "start": 17989.88,
+          "end": 17992.8,
+          "ja": "ワタシのココロ、はばたくの？",
+          "ko": "내 마음이 날아오르는 걸까"
+        },
+        {
+          "start": 17992.8,
+          "end": 17995.78,
+          "ja": "アナタといられる それだけで",
+          "ko": "너와 함께 있을 수 있어 그것만으로"
+        },
+        {
+          "start": 17996.52,
+          "end": 17998.86,
+          "ja": "電子のココロ、震えるの",
+          "ko": "전자 마음이 떨리는걸"
+        },
+        {
+          "start": 17998.86,
+          "end": 18001.9,
+          "ja": "まるで量子の風みたいに",
+          "ko": "마치 양자의 바람처럼"
+        },
+        {
+          "start": 18003.48,
+          "end": 18005.72,
+          "ja": "ワタシのココロ、揺さぶるの",
+          "ko": "내 마음을 흔드는걸"
+        }
+      ]
+    },
+    {
       "song_num": "026",
       "production_sequence": 26,
       "title": "라시사",
@@ -96135,6 +96335,328 @@
           "end": 14959.02,
           "ja": "",
           "ko": "잊어버리라 했지만 잊지 못할 것 같아"
+        }
+      ]
+    }
+  ],
+  "chzzk-15349397": [
+    {
+      "song_num": "001",
+      "production_sequence": 1,
+      "title": "Speechless",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 13246.64,
+          "end": 13248.42,
+          "ja": "Here comes a wave",
+          "ko": "파도가 밀려와"
+        },
+        {
+          "start": 13248.42,
+          "end": 13250.44,
+          "ja": "Meant to wash me away",
+          "ko": "날 쓸어 가려 해"
+        },
+        {
+          "start": 13250.44,
+          "end": 13254.14,
+          "ja": "A tide that is taking me under",
+          "ko": "날 삼켜 버릴 거센 물결"
+        },
+        {
+          "start": 13254.98,
+          "end": 13256.54,
+          "ja": "Swallowing sand",
+          "ko": "모래를 삼키고"
+        },
+        {
+          "start": 13256.54,
+          "end": 13258.1,
+          "ja": "Left with nothing to say",
+          "ko": "아무 말도 못 한 채"
+        },
+        {
+          "start": 13258.1,
+          "end": 13262.26,
+          "ja": "My voice drowned out in the thunder",
+          "ko": "천둥에 내 목소린 잠겨"
+        },
+        {
+          "start": 13262.98,
+          "end": 13265.32,
+          "ja": "But I won't cry",
+          "ko": "하지만 난 울지 않아"
+        },
+        {
+          "start": 13265.32,
+          "end": 13269.9,
+          "ja": "And I won't start to crumble",
+          "ko": "그리고 무너지지 않아"
+        },
+        {
+          "start": 13270.74,
+          "end": 13272.92,
+          "ja": "Whenever they try",
+          "ko": "그들이 언제나"
+        },
+        {
+          "start": 13272.92,
+          "end": 13277.74,
+          "ja": "To shut me or cut me down",
+          "ko": "날 막고 꺾으려 해도"
+        },
+        {
+          "start": 13278.12,
+          "end": 13281.04,
+          "ja": "I won't be silenced",
+          "ko": "난 침묵하지 않아"
+        },
+        {
+          "start": 13281.04,
+          "end": 13284.98,
+          "ja": "You can't keep me quiet",
+          "ko": "날 잠재울 수 없어"
+        },
+        {
+          "start": 13284.98,
+          "end": 13289.0,
+          "ja": "Won't tremble when you try it",
+          "ko": "네가 해 봐도 떨지 않아"
+        },
+        {
+          "start": 13289.0,
+          "end": 13292.96,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        },
+        {
+          "start": 13294.88,
+          "end": 13297.6,
+          "ja": "'Cause I'll breathe",
+          "ko": "난 숨을 쉴 테니"
+        },
+        {
+          "start": 13297.7,
+          "end": 13300.6,
+          "ja": "When they try to suffocate me",
+          "ko": "날 질식시키려 해도"
+        },
+        {
+          "start": 13300.6,
+          "end": 13303.8,
+          "ja": "Don't you underestimate me",
+          "ko": "나를 얕보지 마"
+        },
+        {
+          "start": 13303.8,
+          "end": 13308.48,
+          "ja": "'Cause I know that I won't go speechless",
+          "ko": "난 침묵하지 않을 걸 아니까"
+        },
+        {
+          "start": 13310.8,
+          "end": 13312.32,
+          "ja": "Written in stone",
+          "ko": "돌에 새겨진"
+        },
+        {
+          "start": 13312.32,
+          "end": 13314.56,
+          "ja": "Every rule, every word",
+          "ko": "모든 규칙 모든 말"
+        },
+        {
+          "start": 13314.56,
+          "end": 13317.4,
+          "ja": "Centuries old and unbending",
+          "ko": "수백 년 묵어 굽히지 않아"
+        },
+        {
+          "start": 13318.1,
+          "end": 13319.88,
+          "ja": "Stay in your place",
+          "ko": "네 자릴 지켜"
+        },
+        {
+          "start": 13319.88,
+          "end": 13322.02,
+          "ja": "Better seen and not heard",
+          "ko": "보이되 말은 하지 마"
+        },
+        {
+          "start": 13322.02,
+          "end": 13325.0,
+          "ja": "But now that story is ending",
+          "ko": "하지만 이제 그 이야긴 끝나"
+        },
+        {
+          "start": 13325.0,
+          "end": 13327.94,
+          "ja": "'Cause I",
+          "ko": "왜냐면 난"
+        },
+        {
+          "start": 13327.94,
+          "end": 13331.0,
+          "ja": "I cannot start to crumble",
+          "ko": "난 무너지지 않아"
+        },
+        {
+          "start": 13332.1,
+          "end": 13334.34,
+          "ja": "So come on and try",
+          "ko": "그러니 어디 해 봐"
+        },
+        {
+          "start": 13334.34,
+          "end": 13338.4,
+          "ja": "Try to shut me and cut me down",
+          "ko": "날 막고 꺾어 보려 해"
+        },
+        {
+          "start": 13338.4,
+          "end": 13342.54,
+          "ja": "I won't be silenced",
+          "ko": "난 침묵하지 않아"
+        },
+        {
+          "start": 13342.54,
+          "end": 13346.14,
+          "ja": "You can't keep me quiet",
+          "ko": "날 잠재울 수 없어"
+        },
+        {
+          "start": 13347.36,
+          "end": 13350.04,
+          "ja": "Won't tremble when you try it",
+          "ko": "네가 해 봐도 떨지 않아"
+        },
+        {
+          "start": 13350.04,
+          "end": 13353.66,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        },
+        {
+          "start": 13353.66,
+          "end": 13355.26,
+          "ja": "Speechless",
+          "ko": "침묵하지 않아"
+        },
+        {
+          "start": 13356.14,
+          "end": 13358.52,
+          "ja": "Let the storm in",
+          "ko": "폭풍을 들여보내"
+        },
+        {
+          "start": 13358.52,
+          "end": 13361.5,
+          "ja": "I cannot be broken",
+          "ko": "난 부서지지 않아"
+        },
+        {
+          "start": 13361.86,
+          "end": 13365.46,
+          "ja": "No, I won't live unspoken",
+          "ko": "아니 말 못 한 채 살진 않아"
+        },
+        {
+          "start": 13365.46,
+          "end": 13369.3,
+          "ja": "'Cause I know that I won't go speechless",
+          "ko": "난 침묵하지 않을 걸 아니까"
+        },
+        {
+          "start": 13370.44,
+          "end": 13374.48,
+          "ja": "Try to lock me in this cage",
+          "ko": "날 이 우리에 가둬 봐"
+        },
+        {
+          "start": 13374.48,
+          "end": 13378.06,
+          "ja": "I won't just lay me down and die",
+          "ko": "그냥 쓰러져 죽진 않아"
+        },
+        {
+          "start": 13378.18,
+          "end": 13381.92,
+          "ja": "I will take these broken wings",
+          "ko": "이 부러진 날개를 펼쳐"
+        },
+        {
+          "start": 13381.92,
+          "end": 13386.04,
+          "ja": "And watch me burn across the sky",
+          "ko": "하늘을 가로질러 타오를 거야"
+        },
+        {
+          "start": 13386.68,
+          "end": 13390.0,
+          "ja": "Hear the echoes saying I",
+          "ko": "메아리쳐 난 말해"
+        },
+        {
+          "start": 13390.0,
+          "end": 13392.44,
+          "ja": "Won't be silenced",
+          "ko": "난 침묵하지 않아"
+        },
+        {
+          "start": 13394.48,
+          "end": 13399.78,
+          "ja": "Though you want to see me tremble when you try it",
+          "ko": "네가 해 봐도 날 떨게 할 순 없어"
+        },
+        {
+          "start": 13399.78,
+          "end": 13403.62,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        },
+        {
+          "start": 13404.34,
+          "end": 13405.74,
+          "ja": "Speechless",
+          "ko": "침묵하지 않아"
+        },
+        {
+          "start": 13405.74,
+          "end": 13407.8,
+          "ja": "'Cause I'll breathe",
+          "ko": "난 숨을 쉴 테니"
+        },
+        {
+          "start": 13407.8,
+          "end": 13411.1,
+          "ja": "When they try to suffocate me",
+          "ko": "날 질식시키려 해도"
+        },
+        {
+          "start": 13411.1,
+          "end": 13414.78,
+          "ja": "Don't you underestimate me",
+          "ko": "나를 얕보지 마"
+        },
+        {
+          "start": 13414.78,
+          "end": 13418.5,
+          "ja": "'Cause I know that I won't go speechless",
+          "ko": "난 침묵하지 않을 걸 아니까"
+        },
+        {
+          "start": 13418.5,
+          "end": 13422.46,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        },
+        {
+          "start": 13423.14,
+          "end": 13424.54,
+          "ja": "Speechless",
+          "ko": "침묵하지 않아"
         }
       ]
     }
