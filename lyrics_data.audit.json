@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-23T07:11:50.383329+00:00",
+  "generated_at": "2026-09-23T07:18:58.609083+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "bcfafd426b2c7438a81d2d0cc17793ec351f5e2b6a5c70f9a3b6cafea95911ea",
+  "lyrics_data_sha256": "454c5b8ec36cffff0b030f644bfc4f64321ab9ac61271993ae0e3edf54c1f4da",
   "managed_song_count": 520,
-  "synced_verified_song_count": 311,
+  "synced_verified_song_count": 313,
   "songs": [
     {
       "youtube_job": "ZFMg5irJJU8",
@@ -15,9 +15,7 @@
       "cue_count": 45,
       "lyrics_sha256": "0193ba4ee732d66d5604821abe07d2687aec657179a17aaa5ae5af0abab3cbd0",
       "cue_payload_sha256": "a4b434b409fcbc96055f0f27ae2c0a5619c7462d742993157d035b7b9772a025",
-      "source": "approved_canonical_cue",
-      "ytt_sha256": "cf6aa5f9e6e20ae786b71f5c9904d8417de4b1d03425dc5766410714a250dbda",
-      "ytt_audit_sha256": "10e31b4076131bc8663c22bd154b34ecc38963cb0edfc899013e9434dd55deaf"
+      "source": "approved_canonical_cue"
     },
     {
       "youtube_job": "UBCB2e0Aik4",
@@ -293,6 +291,26 @@
       "cue_count": 56,
       "lyrics_sha256": "99808220424b946657cc8a3ddfdc60a200434e291231509b61c7307a5105d6cd",
       "cue_payload_sha256": "e8a936da0158b664e931d6115dde3bfe499d77a8e60036eac7c5797e1bddeeee",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "OKegqxeOarE",
+      "source_job": "OKegqxeOarE",
+      "sequence": 18,
+      "archive_sequence": 18,
+      "cue_count": 56,
+      "lyrics_sha256": "61960d3be45ab45788b472a0125354fc8e485d5a8021bbcd09d102a7534d439f",
+      "cue_payload_sha256": "5a74fce44bc8888581fc3128487be79cf8c23b0911d91061ac42a402c74c3e50",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "OKegqxeOarE",
+      "source_job": "OKegqxeOarE",
+      "sequence": 20,
+      "archive_sequence": 20,
+      "cue_count": 34,
+      "lyrics_sha256": "c2c9995346b14352b592c53a6e0c17d3906c8525657f390255bdb2c021f97ca6",
+      "cue_payload_sha256": "eb69b5ed011708c3804baa157a77aa1da2224f27997a1501367bbbd122fa98f0",
       "source": "approved_canonical_cue"
     },
     {
