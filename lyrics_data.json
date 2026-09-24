@@ -17539,6 +17539,326 @@
       ]
     },
     {
+      "song_num": "047",
+      "production_sequence": 47,
+      "title": "Villain",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 26051.39,
+          "end": 26055.3,
+          "ja": "We all pretend to be the heroes on the good side",
+          "ko": "우리 모두 선한 편의 영웅인 척해"
+        },
+        {
+          "start": 26055.3,
+          "end": 26056.2,
+          "ja": "Ooh oh oh oh",
+          "ko": "우우 우 우"
+        },
+        {
+          "start": 26057.06,
+          "end": 26060.66,
+          "ja": "Oh oh oh oh",
+          "ko": "오 오 오 오"
+        },
+        {
+          "start": 26061.54,
+          "end": 26064.48,
+          "ja": "Oh oh oh, oh oh oh, oh oh oh oh oh",
+          "ko": "오 오 오, 오 오 오, 오 오 오 오 오"
+        },
+        {
+          "start": 26064.64,
+          "end": 26067.4,
+          "ja": "Some things are black and you're sure",
+          "ko": "어떤 건 검은색이라고 확신하고"
+        },
+        {
+          "start": 26067.4,
+          "end": 26069.62,
+          "ja": "Some things are white and you're sure",
+          "ko": "어떤 건 하얀색이라고 확신하지"
+        },
+        {
+          "start": 26069.62,
+          "end": 26072.76,
+          "ja": "You never learned to see the world in colour",
+          "ko": "넌 세상을 다채롭게 보는 법을 배우지 못했어"
+        },
+        {
+          "start": 26073.78,
+          "end": 26076.24,
+          "ja": "You're such a really good man",
+          "ko": "넌 정말 착한 사람이야"
+        },
+        {
+          "start": 26076.24,
+          "end": 26078.44,
+          "ja": "However that guy is bad",
+          "ko": "하지만 저 사람은 나쁘대"
+        },
+        {
+          "start": 26078.44,
+          "end": 26080.64,
+          "ja": "Your boring world is really achromatic",
+          "ko": "네 따분한 세상은 정말 무채색이야"
+        },
+        {
+          "start": 26082.74,
+          "end": 26085.06,
+          "ja": "So many shades of grey",
+          "ko": "수많은 회색의 빛깔"
+        },
+        {
+          "start": 26085.36,
+          "end": 26088.74,
+          "ja": "Oh, how could you have lived so long and still not know?",
+          "ko": "오, 어떻게 그렇게 오래 살고도 아직 모를 수 있어?"
+        },
+        {
+          "start": 26091.3,
+          "end": 26095.04,
+          "ja": "Good easily fades away",
+          "ko": "선함은 쉽게 사라져"
+        },
+        {
+          "start": 26095.36,
+          "end": 26099.4,
+          "ja": "So don't be so inclined to like me, no, because",
+          "ko": "그러니 그렇게 쉽게 날 좋아하지 마, 안 돼, 왜냐하면"
+        },
+        {
+          "start": 26099.4,
+          "end": 26103.12,
+          "ja": "I'm a villain, why pretend that it isn't true?",
+          "ko": "난 악당이야, 왜 사실이 아닌 척해?"
+        },
+        {
+          "start": 26103.14,
+          "end": 26107.36,
+          "ja": "Didn't realise what an awful little devil I could be",
+          "ko": "내가 이렇게 지독한 꼬마 악마일 줄은 몰랐어"
+        },
+        {
+          "start": 26107.36,
+          "end": 26111.7,
+          "ja": "So what? You're a villain, why pretend that it isn't you?",
+          "ko": "그래서 뭐? 너도 악당이야, 왜 네가 아닌 척해?"
+        },
+        {
+          "start": 26111.7,
+          "end": 26116.3,
+          "ja": "It's nice to meet the demon breathing every breath you breathe",
+          "ko": "네 숨결 하나하나에 깃든 악마를 만나 반가워"
+        },
+        {
+          "start": 26116.3,
+          "end": 26118.48,
+          "ja": "Because I'm killing someone",
+          "ko": "왜냐하면 난 누군가를 죽이고 있어"
+        },
+        {
+          "start": 26118.48,
+          "end": 26120.72,
+          "ja": "Maybe you're killing someone",
+          "ko": "어쩌면 너도 누군가를 죽이고 있어"
+        },
+        {
+          "start": 26120.72,
+          "end": 26122.92,
+          "ja": "Maybe I'm killing you",
+          "ko": "어쩌면 난 널 죽이고 있고"
+        },
+        {
+          "start": 26122.92,
+          "end": 26126.0,
+          "ja": "Maybe you're killing me, maybe",
+          "ko": "어쩌면 넌 날 죽이고 있어, 어쩌면"
+        },
+        {
+          "start": 26126.0,
+          "end": 26130.66,
+          "ja": "We all pretend to be the heroes on the good side",
+          "ko": "우리 모두 선한 편의 영웅인 척해"
+        },
+        {
+          "start": 26130.66,
+          "end": 26134.1,
+          "ja": "But what if we're the villains on the other?",
+          "ko": "하지만 반대편의 악당은 우리일지도 몰라?"
+        },
+        {
+          "start": 26135.42,
+          "end": 26137.66,
+          "ja": "Am I good? Am I bad? Ay",
+          "ko": "난 선해? 난 악해? 에이"
+        },
+        {
+          "start": 26137.66,
+          "end": 26139.86,
+          "ja": "Are you good? Are you bad? Ay",
+          "ko": "넌 선해? 넌 악해? 에이"
+        },
+        {
+          "start": 26139.86,
+          "end": 26144.26,
+          "ja": "Someone that I love unconditionally is treated like a dog somewhere else, say",
+          "ko": "내가 조건 없이 사랑하는 누군가는 다른 곳에선 개처럼 취급받는대"
+        },
+        {
+          "start": 26144.26,
+          "end": 26146.56,
+          "ja": "Are we good? Are we bad? Ay",
+          "ko": "우린 선해? 우린 악해? 에이"
+        },
+        {
+          "start": 26146.56,
+          "end": 26148.72,
+          "ja": "What is good? What is bad? Ay",
+          "ko": "선이란 뭘까? 악이란 뭘까? 에이"
+        },
+        {
+          "start": 26148.72,
+          "end": 26152.98,
+          "ja": "Someone that I hate unconditionally is the child of a loving family, say",
+          "ko": "내가 조건 없이 미워하는 누군가는 사랑 넘치는 집안의 아이래"
+        },
+        {
+          "start": 26153.12,
+          "end": 26155.5,
+          "ja": "So many shades of grey",
+          "ko": "수많은 회색의 빛깔"
+        },
+        {
+          "start": 26155.92,
+          "end": 26159.14,
+          "ja": "Oh, how could you have lived so long and still not know?",
+          "ko": "오, 어떻게 그렇게 오래 살고도 아직 모를 수 있어?"
+        },
+        {
+          "start": 26162.12,
+          "end": 26165.52,
+          "ja": "Good easily fades away",
+          "ko": "선함은 쉽게 사라져"
+        },
+        {
+          "start": 26165.66,
+          "end": 26169.1,
+          "ja": "So don't be so inclined to like me, no",
+          "ko": "그러니 그렇게 쉽게 날 좋아하지 마, 안 돼"
+        },
+        {
+          "start": 26169.32,
+          "end": 26170.24,
+          "ja": "Because...",
+          "ko": "왜냐하면..."
+        },
+        {
+          "start": 26172.16,
+          "end": 26175.78,
+          "ja": "I'm a villain, why pretend that it isn't true?",
+          "ko": "난 악당이야, 왜 사실이 아닌 척해?"
+        },
+        {
+          "start": 26175.78,
+          "end": 26180.0,
+          "ja": "Didn't realise what an awful little devil I could be",
+          "ko": "내가 이렇게 지독한 꼬마 악마일 줄은 몰랐어"
+        },
+        {
+          "start": 26180.0,
+          "end": 26184.5,
+          "ja": "So what? You're a villain, why pretend that it isn't you?",
+          "ko": "그래서 뭐? 너도 악당이야, 왜 네가 아닌 척해?"
+        },
+        {
+          "start": 26184.58,
+          "end": 26188.96,
+          "ja": "It's nice to meet the demon breathing every breath you breathe",
+          "ko": "네 숨결 하나하나에 깃든 악마를 만나 반가워"
+        },
+        {
+          "start": 26188.96,
+          "end": 26193.44,
+          "ja": "Because we're all villains, why pretend that it isn't true?",
+          "ko": "왜냐하면 우린 모두 악당이니까, 왜 사실이 아닌 척해?"
+        },
+        {
+          "start": 26193.5,
+          "end": 26198.66,
+          "ja": "They don't know about the awful little devils acting up, so what?",
+          "ko": "아무도 몰라, 그 지독한 꼬마 악마들이 날뛰고 있는걸, 그래서 뭐?"
+        },
+        {
+          "start": 26198.66,
+          "end": 26202.04,
+          "ja": "We're all villains, couldn't be only me and you",
+          "ko": "우린 모두 악당이야, 너와 나뿐일 리 없잖아"
+        },
+        {
+          "start": 26202.04,
+          "end": 26206.46,
+          "ja": "Just look at all the demons coming out that we forgot",
+          "ko": "우리가 잊고 있던 악마들이 모두 튀어나오는 걸 봐"
+        },
+        {
+          "start": 26207.58,
+          "end": 26208.92,
+          "ja": "I'm killing someone",
+          "ko": "난 누군가를 죽이고 있어"
+        },
+        {
+          "start": 26208.92,
+          "end": 26211.04,
+          "ja": "Maybe you're killing someone",
+          "ko": "어쩌면 너도 누군가를 죽이고 있어"
+        },
+        {
+          "start": 26211.04,
+          "end": 26213.06,
+          "ja": "Maybe I'm killing you",
+          "ko": "어쩌면 난 널 죽이고 있고"
+        },
+        {
+          "start": 26213.06,
+          "end": 26216.34,
+          "ja": "Maybe you're killing me, maybe",
+          "ko": "어쩌면 넌 날 죽이고 있어, 어쩌면"
+        },
+        {
+          "start": 26216.34,
+          "end": 26220.94,
+          "ja": "We all pretend to be the heroes on the good side",
+          "ko": "우리 모두 선한 편의 영웅인 척해"
+        },
+        {
+          "start": 26220.94,
+          "end": 26224.42,
+          "ja": "But what if we're the villains on the other?",
+          "ko": "하지만 반대편의 악당은 우리일지도 몰라?"
+        },
+        {
+          "start": 26225.02,
+          "end": 26229.76,
+          "ja": "We all pretend to be the heroes on the good side",
+          "ko": "우리 모두 선한 편의 영웅인 척해"
+        },
+        {
+          "start": 26229.76,
+          "end": 26231.68,
+          "ja": "But what if we're the villains on the other?",
+          "ko": "하지만 반대편의 악당은 우리일지도 몰라?"
+        },
+        {
+          "start": 26231.68,
+          "end": 26238.72,
+          "ja": "We all pretend to be the heroes on the good side",
+          "ko": "우리 모두 선한 편의 영웅인 척해"
+        }
+      ]
+    },
+    {
       "song_num": "049",
       "production_sequence": 49,
       "title": "논브레스 오블리쥬",
