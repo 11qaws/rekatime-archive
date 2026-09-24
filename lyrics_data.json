@@ -96701,6 +96701,212 @@
       ]
     },
     {
+      "song_num": "020",
+      "production_sequence": 20,
+      "title": "달까지 닿아라, 불사의 연기",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 21372.44,
+          "end": 21381.5,
+          "ja": "Maybe once, I had a dream… although I can’t remember when.",
+          "ko": "언젠가 꿈을 꾼 적이 있었지 언제였는지는 기억나지 않지만"
+        },
+        {
+          "start": 21381.5,
+          "end": 21384.66,
+          "ja": "Now, only a dream… I’m rising every morning just to see it all again.",
+          "ko": "이제는 꿈만 남아 매일 아침 그 모든 것을 다시 보려 일어나"
+        },
+        {
+          "start": 21396.5,
+          "end": 21402.02,
+          "ja": "Clinging on to the cold edge, with overused and broken hands…",
+          "ko": "닳고 부서진 두 손으로 차가운 끝자락을 붙잡고"
+        },
+        {
+          "start": 21402.64,
+          "end": 21408.44,
+          "ja": "Why can’t I let go?  That’s just the sort of freedom I will never understand.",
+          "ko": "왜 놓지 못할까 내가 결코 이해하지 못할 자유인가 봐"
+        },
+        {
+          "start": 21408.44,
+          "end": 21414.34,
+          "ja": "So, life without death?  It isn’t much worth calling “life.”",
+          "ko": "죽음 없는 삶이라면 삶이라 부를 가치도 별로 없어"
+        },
+        {
+          "start": 21414.84,
+          "end": 21420.8,
+          "ja": "But, by the sharp pain still searing through my body, I can feel that I’m alive.",
+          "ko": "그래도 온몸을 태우는 날카로운 아픔으로 내가 살아 있음을 느껴"
+        },
+        {
+          "start": 21422.08,
+          "end": 21424.2,
+          "ja": "\"I don’t want to try anymore.",
+          "ko": "더는 해 보고 싶지 않아"
+        },
+        {
+          "start": 21424.44,
+          "end": 21427.8,
+          "ja": "How much longer does this have to go on?  …No.",
+          "ko": "대체 언제까지 계속되어야 하지 아니야"
+        },
+        {
+          "start": 21427.8,
+          "end": 21432.12,
+          "ja": "That’s stupid.  I already know the answer to that.",
+          "ko": "바보 같은 소리 답은 이미 알고 있잖아"
+        },
+        {
+          "start": 21432.54,
+          "end": 21437.48,
+          "ja": "If this is what you want, if this is a trial of guts,",
+          "ko": "네가 바라는 게 이것이라면 담력을 시험하는 일이라면"
+        },
+        {
+          "start": 21437.48,
+          "end": 21441.38,
+          "ja": "then I have no choice but to rise to the challenge.\"",
+          "ko": "그 도전에 맞서 일어나는 수밖에 없어"
+        },
+        {
+          "start": 21445.66,
+          "end": 21449.16,
+          "ja": "Now this maze has two ways through:",
+          "ko": "이 미로를 지나는 길은 둘"
+        },
+        {
+          "start": 21449.16,
+          "end": 21450.64,
+          "ja": "One, they call “despair”–",
+          "ko": "하나는 절망이라 부르지"
+        },
+        {
+          "start": 21450.64,
+          "end": 21453.74,
+          "ja": "To find what was lost, even knowing",
+          "ko": "잃었던 것을 찾아 나서면서도"
+        },
+        {
+          "start": 21453.74,
+          "end": 21457.34,
+          "ja": "That someday all will be lost again.",
+          "ko": "언젠가 다시 모두 잃으리란 걸 알아"
+        },
+        {
+          "start": 21457.64,
+          "end": 21460.88,
+          "ja": "This maze has two ways through:",
+          "ko": "이 미로를 지나는 길은 둘"
+        },
+        {
+          "start": 21460.88,
+          "end": 21462.6,
+          "ja": "One, they might call “hope”–",
+          "ko": "하나는 희망이라 부를지도 몰라"
+        },
+        {
+          "start": 21462.6,
+          "end": 21465.38,
+          "ja": "To lose what was found, ever knowing",
+          "ko": "찾았던 것을 잃으면서도"
+        },
+        {
+          "start": 21465.38,
+          "end": 21468.36,
+          "ja": "That someday all will be found again.",
+          "ko": "언젠가 다시 모두 찾으리란 걸 알아"
+        },
+        {
+          "start": 21468.64,
+          "end": 21474.26,
+          "ja": "Reach for the pale moon, the distance only I can reach.",
+          "ko": "창백한 달에 손을 뻗어 나만이 닿을 수 있는 거리까지"
+        },
+        {
+          "start": 21474.26,
+          "end": 21480.68,
+          "ja": "Day followed by night:  That moon is like a barrier, impossible to breach.",
+          "ko": "낮 뒤에 오는 밤 저 달은 뚫을 수 없는 장벽 같아"
+        },
+        {
+          "start": 21480.68,
+          "end": 21486.14,
+          "ja": "Flames lighting my way, into a never-ending night:",
+          "ko": "끝없는 밤으로 가는 내 길을 밝히는 불꽃"
+        },
+        {
+          "start": 21486.48,
+          "end": 21492.4,
+          "ja": "Night followed by day:  This sun will overtake again its stolen ring of light.",
+          "ko": "밤 뒤에 오는 낮 이 태양은 빼앗긴 빛의 고리를 다시 따라잡아"
+        },
+        {
+          "start": 21492.4,
+          "end": 21499.08,
+          "ja": "(…Because they’re) all that I have left, I’m going to let these feelings burn.",
+          "ko": "내게 남은 전부이기에 이 마음을 타오르게 두겠어"
+        },
+        {
+          "start": 21499.08,
+          "end": 21505.9,
+          "ja": "Once those have been quenched, in some way or another they’ll be ready to return.",
+          "ko": "그 불이 꺼지고 나면 어떤 모습으로든 다시 돌아올 준비를 하겠지"
+        },
+        {
+          "start": 21505.9,
+          "end": 21511.72,
+          "ja": "Burn, blister, and fall, and from the ashes I will rise.",
+          "ko": "불타고 물집 잡혀 쓰러져도 나는 재 속에서 일어날 거야"
+        },
+        {
+          "start": 21512.0,
+          "end": 21518.44,
+          "ja": "Smoke, leaving its trail, thins nearly into nothing but it never truly dies.",
+          "ko": "흔적을 남긴 연기는 거의 사라질 만큼 옅어져도 결코 죽지 않아"
+        },
+        {
+          "start": 21518.44,
+          "end": 21523.42,
+          "ja": "Watch as the world grows, but will I ever grow along?",
+          "ko": "세상이 자라나는 걸 봐 나도 함께 자랄 수 있을까"
+        },
+        {
+          "start": 21524.18,
+          "end": 21530.1,
+          "ja": "Each failure shows me yet another way, another reason, to be strong.",
+          "ko": "실패할 때마다 더 강해질 또 다른 길과 이유를 알게 돼"
+        },
+        {
+          "start": 21530.2,
+          "end": 21535.08,
+          "ja": "What more can I lose?  I made a reckless sacrifice…",
+          "ko": "더 잃을 게 있을까 나는 무모한 희생을 했어"
+        },
+        {
+          "start": 21535.86,
+          "end": 21541.74,
+          "ja": "Now, carry this through– there’s something that I have to do, no matter what the price.",
+          "ko": "이제 끝까지 해내 어떤 대가를 치러도 해야 할 일이 있어"
+        },
+        {
+          "start": 21541.74,
+          "end": 21547.18,
+          "ja": "Maybe once, I had a dream… although I can’t remember when.",
+          "ko": "언젠가 꿈을 꾼 적이 있었지 언제였는지는 기억나지 않지만"
+        },
+        {
+          "start": 21547.8,
+          "end": 21553.92,
+          "ja": "Now, only a dream… I’m rising every morning just to see it all again.",
+          "ko": "이제는 꿈만 남아 매일 아침 그 모든 것을 다시 보려 일어나"
+        }
+      ]
+    },
+    {
       "song_num": "021",
       "production_sequence": 21,
       "title": "두근 어질",
