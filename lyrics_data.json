@@ -76165,6 +76165,182 @@
       ]
     },
     {
+      "song_num": "012",
+      "production_sequence": 12,
+      "title": "Ashley's Song",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 10340.681,
+          "end": 10345.12,
+          "ja": "Who's the girl next door living in the haunted mansion?",
+          "ko": "옆집 유령 저택에 사는 소녀는 누구"
+        },
+        {
+          "start": 10345.12,
+          "end": 10348.34,
+          "ja": "You better learn my name 'cause it's Ashley!",
+          "ko": "내 이름 잘 외워둬 애슐리니까"
+        },
+        {
+          "start": 10348.68,
+          "end": 10352.54,
+          "ja": "She knows the darkest spells and she brews the meanest potions",
+          "ko": "가장 어두운 주문도 알고 가장 독한 물약도 만들어"
+        },
+        {
+          "start": 10352.54,
+          "end": 10355.34,
+          "ja": "You might be the ingredient I seek",
+          "ko": "네가 내가 찾는 재료일지도 몰라"
+        },
+        {
+          "start": 10355.82,
+          "end": 10360.0,
+          "ja": "Don't let yourself be fooled by her innocent demeanor",
+          "ko": "순진한 겉모습에 속지 마"
+        },
+        {
+          "start": 10360.08,
+          "end": 10363.14,
+          "ja": "You better be afraid of the great Ashley",
+          "ko": "위대한 애슐리를 두려워하는 게 좋아"
+        },
+        {
+          "start": 10363.5,
+          "end": 10367.26,
+          "ja": "She doesn't play with dolls and she never combs her hair",
+          "ko": "인형 갖고 놀지도 머리 빗지도 않아"
+        },
+        {
+          "start": 10367.26,
+          "end": 10370.44,
+          "ja": "Who has time for girly things like that?",
+          "ko": "그런 여자애 같은 일 할 시간이 어디 있어"
+        },
+        {
+          "start": 10380.12,
+          "end": 10383.96,
+          "ja": "Eye of newt - I cast a hex on you",
+          "ko": "도롱뇽 눈알로 네게 저주를 걸어"
+        },
+        {
+          "start": 10384.38,
+          "end": 10387.72,
+          "ja": "Grandma's wig - this'll make you big",
+          "ko": "할머니 가발로 널 크게 만들어"
+        },
+        {
+          "start": 10387.82,
+          "end": 10391.36,
+          "ja": "Kitten spit - soon your pants won't fit",
+          "ko": "새끼 고양이 침으로 곧 바지가 안 맞을걸"
+        },
+        {
+          "start": 10392.16,
+          "end": 10393.56,
+          "ja": "Pantalones Giganticus!",
+          "ko": "바지여 거대해져라"
+        },
+        {
+          "start": 10393.56,
+          "end": 10395.14,
+          "ja": "Oh no, not again!",
+          "ko": "이런 또 안 돼"
+        },
+        {
+          "start": 10395.16,
+          "end": 10398.5,
+          "ja": "She can rule the world and still finish all her homework",
+          "ko": "세상을 다스리고도 숙제는 다 끝낼 수 있어"
+        },
+        {
+          "start": 10398.5,
+          "end": 10401.96,
+          "ja": "Everyone knows I'm the greatest Ashley!",
+          "ko": "모두가 알아 내가 최고의 애슐리란 걸"
+        },
+        {
+          "start": 10402.6,
+          "end": 10406.0,
+          "ja": "You better watch your step or she'll cast a spell on you",
+          "ko": "발밑 조심해 안 그러면 네게 주문을 걸 테니"
+        },
+        {
+          "start": 10406.02,
+          "end": 10408.92,
+          "ja": "I turned my teacher into a spoon",
+          "ko": "선생님을 숟가락으로 바꿔 버렸어"
+        },
+        {
+          "start": 10409.78,
+          "end": 10411.74,
+          "ja": "I'm a slave to my spells",
+          "ko": "내 주문의 노예야"
+        },
+        {
+          "start": 10411.74,
+          "end": 10413.64,
+          "ja": "And yes it's true, well",
+          "ko": "그래 사실이야 음"
+        },
+        {
+          "start": 10413.7,
+          "end": 10416.84,
+          "ja": "I don't have as many friends as you",
+          "ko": "난 너만큼 친구가 많진 않아"
+        },
+        {
+          "start": 10416.84,
+          "end": 10421.38,
+          "ja": "But I think you're nice and maybe we could be friends",
+          "ko": "하지만 넌 괜찮은 애 같아 우리 친구가 될 수도 있겠지"
+        },
+        {
+          "start": 10422.4,
+          "end": 10426.02,
+          "ja": "And if you say no, you're toast",
+          "ko": "네가 싫다 하면 넌 끝장이야"
+        },
+        {
+          "start": 10441.32,
+          "end": 10445.18,
+          "ja": "Who's the girl next door living in the haunted mansion?",
+          "ko": "옆집 유령 저택에 사는 소녀는 누구"
+        },
+        {
+          "start": 10445.18,
+          "end": 10448.44,
+          "ja": "You better learn my name 'cause it's Ashley",
+          "ko": "내 이름 잘 외워둬 애슐리니까"
+        },
+        {
+          "start": 10448.84,
+          "end": 10452.01,
+          "ja": "Just remember this when you see her on the street",
+          "ko": "길에서 걔를 보거든 이것만 기억해"
+        },
+        {
+          "start": 10452.01,
+          "end": 10455.11,
+          "ja": "I'm the coolest girl you'll ever meet",
+          "ko": "내가 네가 만날 가장 멋진 여자애야"
+        },
+        {
+          "start": 10456.09,
+          "end": 10458.57,
+          "ja": "I'm the coolest girl you'll ever meet",
+          "ko": "내가 네가 만날 가장 멋진 여자애야"
+        },
+        {
+          "start": 10458.57,
+          "end": 10462.69,
+          "ja": "I'm the coolest girl you'll ever meet",
+          "ko": "내가 네가 만날 가장 멋진 여자애야"
+        }
+      ]
+    },
+    {
       "song_num": "013",
       "production_sequence": 13,
       "title": "개쓰레기",
