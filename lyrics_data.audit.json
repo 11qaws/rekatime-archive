@@ -1,20 +1,20 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-09-25T00:16:47.780132+00:00",
+  "generated_at": "2026-09-25T00:26:50.524655+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "284510c597878e8dd97d5190aecfded08f7bec8fec28e6cdf696e5b4671962a7",
   "managed_song_count": 521,
   "synced_verified_song_count": 334,
   "songs": [
     {
-      "youtube_job": "UBCB2e0Aik4",
-      "source_job": "UBCB2e0Aik4",
-      "sequence": 39,
-      "archive_sequence": 39,
-      "cue_count": 52,
-      "lyrics_sha256": "fb961db495fc498fe06eb6c2d6728dd69671c5b1865476b2db6029b79f6f5dae",
-      "cue_payload_sha256": "719dc6b69d19ec67b6cb9244b009913d325503e773d9dd7203cdf7a2e2e9e0ca",
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
+      "sequence": 37,
+      "archive_sequence": 37,
+      "cue_count": 45,
+      "lyrics_sha256": "0193ba4ee732d66d5604821abe07d2687aec657179a17aaa5ae5af0abab3cbd0",
+      "cue_payload_sha256": "a4b434b409fcbc96055f0f27ae2c0a5619c7462d742993157d035b7b9772a025",
       "source": "approved_canonical_cue"
     },
     {
@@ -470,21 +470,21 @@
     {
       "youtube_job": "ZFMg5irJJU8",
       "source_job": "ZFMg5irJJU8",
-      "sequence": 37,
-      "archive_sequence": 37,
-      "cue_count": 45,
-      "lyrics_sha256": "0193ba4ee732d66d5604821abe07d2687aec657179a17aaa5ae5af0abab3cbd0",
-      "cue_payload_sha256": "a4b434b409fcbc96055f0f27ae2c0a5619c7462d742993157d035b7b9772a025",
-      "source": "approved_canonical_cue"
-    },
-    {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
       "sequence": 40,
       "archive_sequence": 40,
       "cue_count": 57,
       "lyrics_sha256": "0f8840ed170156f6915165ecd313f47eadd548beb075f4379c542050cf038cff",
       "cue_payload_sha256": "fa73d33b398174c57311d9403bf69a3be6cd4772f5afc01654130267c56c0410",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "UBCB2e0Aik4",
+      "source_job": "UBCB2e0Aik4",
+      "sequence": 39,
+      "archive_sequence": 39,
+      "cue_count": 52,
+      "lyrics_sha256": "fb961db495fc498fe06eb6c2d6728dd69671c5b1865476b2db6029b79f6f5dae",
+      "cue_payload_sha256": "719dc6b69d19ec67b6cb9244b009913d325503e773d9dd7203cdf7a2e2e9e0ca",
       "source": "approved_canonical_cue"
     },
     {
