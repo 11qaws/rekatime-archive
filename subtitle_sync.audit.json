@@ -3,10 +3,10 @@
   "status": "verified",
   "scope": "projection_timebase_and_metadata_bounds",
   "vocal_alignment_status": "not_evaluated",
-  "generated_at": "2026-09-25T20:51:57.956220+00:00",
+  "generated_at": "2026-09-25T20:54:56.384496+00:00",
   "timebase": "youtube_audio_minus_chzzk_normalized_audio",
-  "song_count": 343,
-  "paired_waveform_song_count": 131,
+  "song_count": 344,
+  "paired_waveform_song_count": 132,
   "songs": [
     {
       "source_id": "OKegqxeOarE",
@@ -6803,6 +6803,34 @@
       "waveform_anchor_spread_seconds": 0.0,
       "waveform_min_score": 0.968299,
       "waveform_score": 0.978413,
+      "waveform_coverage_ratio": null,
+      "checks": {
+        "cue_within_song_metadata": true,
+        "display_formula_roundtrip": true,
+        "normalized_audio_timebase": true,
+        "precise_part_offset": true,
+        "embed_before_first_cue": true
+      }
+    },
+    {
+      "source_id": "chzzk-14756908",
+      "session_id": "chzzk-14756908",
+      "sequence": 16,
+      "title": "여름 축제",
+      "cue_count": 29,
+      "metadata_song_start": 24648.0,
+      "metadata_song_end": 24870.6,
+      "source_first_cue": 24648.0,
+      "source_last_cue": 24865.68,
+      "youtube_offset_seconds": -23414.324,
+      "youtube_first_cue": 1233.676,
+      "youtube_last_cue": 1451.356,
+      "offset_source": "precise_audio_anchors",
+      "offset_timebase": "youtube_audio_minus_chzzk_normalized_audio",
+      "waveform_anchor_count": 5,
+      "waveform_anchor_spread_seconds": 0.0,
+      "waveform_min_score": 0.806562,
+      "waveform_score": 0.847739,
       "waveform_coverage_ratio": null,
       "checks": {
         "cue_within_song_metadata": true,
