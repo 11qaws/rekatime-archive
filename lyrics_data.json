@@ -67403,6 +67403,326 @@
       ]
     },
     {
+      "song_num": "013",
+      "production_sequence": 13,
+      "title": "악의 하인 (피아노 영어 버전)",
+      "is_manual": true,
+      "cues": [
+        {
+          "start": 10499.46,
+          "end": 10503.36,
+          "ja": "You're the queen of the country and I'm a servant of yours",
+          "ko": "너는 이 나라의 여왕 나는 네 하인"
+        },
+        {
+          "start": 10503.36,
+          "end": 10507.52,
+          "ja": "We were twins right from the start that from fate got torn apart",
+          "ko": "우린 태어날 때부터 운명에 갈라진 쌍둥이"
+        },
+        {
+          "start": 10507.52,
+          "end": 10512.16,
+          "ja": "I will try to protect you from everything that hurts",
+          "ko": "널 아프게 하는 모든 걸 막아낼게"
+        },
+        {
+          "start": 10512.16,
+          "end": 10516.94,
+          "ja": "And I'll do as you'll say, even the evil way",
+          "ko": "네가 바라면 악한 길도 따를게"
+        },
+        {
+          "start": 10534.66,
+          "end": 10538.83,
+          "ja": "Born into a world where everyone expected the best",
+          "ko": "모두가 최고를 바라던 세상에 태어나"
+        },
+        {
+          "start": 10538.83,
+          "end": 10543.17,
+          "ja": "Blessed by all the bells that rang up in the high without rest",
+          "ko": "하늘 높이 쉬지 않고 울린 종의 축복을 받았지"
+        },
+        {
+          "start": 10543.17,
+          "end": 10547.81,
+          "ja": "But our parents planned just how we'd be of very best use",
+          "ko": "부모님은 우릴 가장 쓸모 있게 만들려 했고"
+        },
+        {
+          "start": 10548.09,
+          "end": 10552.11,
+          "ja": "Then they split our future in two, there was nothing we could do",
+          "ko": "우리 미래를 둘로 갈랐어 어쩔 수 없었지"
+        },
+        {
+          "start": 10552.27,
+          "end": 10556.27,
+          "ja": "If the world is vile and you make it your foe",
+          "ko": "세상이 사악해 네가 맞서 싸운다면"
+        },
+        {
+          "start": 10556.27,
+          "end": 10560.47,
+          "ja": "There is just one thing that I want you to know",
+          "ko": "네게 꼭 알려주고 싶은 말이 하나 있어"
+        },
+        {
+          "start": 10560.47,
+          "end": 10564.89,
+          "ja": "I'll protect you and I will do as you please",
+          "ko": "널 지키고 네 뜻대로 할게"
+        },
+        {
+          "start": 10564.89,
+          "end": 10569.85,
+          "ja": "So you'll smile, feel happy and be at peace",
+          "ko": "네가 웃고 행복하고 평안하도록"
+        },
+        {
+          "start": 10571.88,
+          "end": 10575.9,
+          "ja": "You're the queen of the country and I'm a servant of yours",
+          "ko": "너는 이 나라의 여왕 나는 네 하인"
+        },
+        {
+          "start": 10575.9,
+          "end": 10580.24,
+          "ja": "We were twins right from the start that from fate got torn apart",
+          "ko": "우린 태어날 때부터 운명에 갈라진 쌍둥이"
+        },
+        {
+          "start": 10580.24,
+          "end": 10584.78,
+          "ja": "I will try to protect you from everything that hurts",
+          "ko": "널 아프게 하는 모든 걸 막아낼게"
+        },
+        {
+          "start": 10584.78,
+          "end": 10589.54,
+          "ja": "And I'll do as you'll say, even the evil way",
+          "ko": "네가 바라면 악한 길도 따를게"
+        },
+        {
+          "start": 10589.85,
+          "end": 10593.59,
+          "ja": "Then one day I went down to the nation next to our own",
+          "ko": "그러던 어느 날 나는 이웃 나라로 갔어"
+        },
+        {
+          "start": 10593.63,
+          "end": 10598.25,
+          "ja": "There I saw a girl in green, she caught my hat that had flown",
+          "ko": "그곳에서 초록 옷 소녀가 날아간 내 모자를 잡았어"
+        },
+        {
+          "start": 10598.57,
+          "end": 10602.27,
+          "ja": "With her gentle soothing voice and tender welcoming smile",
+          "ko": "다정하고 포근한 목소리와 반기는 미소에"
+        },
+        {
+          "start": 10602.27,
+          "end": 10605.01,
+          "ja": "I could only stand and stare, I just fell in love right there",
+          "ko": "그저 넋 놓고 바라보다 그 자리에서 사랑에 빠졌어"
+        },
+        {
+          "start": 10605.01,
+          "end": 10611.11,
+          "ja": "But the queen has one wish that needs to be fulfilled",
+          "ko": "하지만 여왕에게는 이루어야 할 소원이 있어"
+        },
+        {
+          "start": 10611.11,
+          "end": 10615.51,
+          "ja": "That the girl should die even if her blood is spilled",
+          "ko": "그 소녀가 피를 흘려도 죽어야 한다는 것"
+        },
+        {
+          "start": 10615.51,
+          "end": 10619.97,
+          "ja": "I shall answer back to the wish that she speaks",
+          "ko": "네가 말한 그 소원에 따를게"
+        },
+        {
+          "start": 10619.97,
+          "end": 10624.83,
+          "ja": "Without clue why my tears here are falling down my cheeks",
+          "ko": "왜인지도 모른 채 눈물이 뺨을 타고 흘러"
+        },
+        {
+          "start": 10626.88,
+          "end": 10630.96,
+          "ja": "You're the queen of the country and I'm a servant of yours",
+          "ko": "너는 이 나라의 여왕 나는 네 하인"
+        },
+        {
+          "start": 10630.96,
+          "end": 10635.38,
+          "ja": "We were twins right from the start that from fate got torn apart",
+          "ko": "우린 태어날 때부터 운명에 갈라진 쌍둥이"
+        },
+        {
+          "start": 10635.38,
+          "end": 10639.78,
+          "ja": "I will serve you this brioche, I'm sure you'll like the taste",
+          "ko": "이 브리오슈를 드릴게 분명 맛있어할 거야"
+        },
+        {
+          "start": 10639.78,
+          "end": 10644.76,
+          "ja": "And you'll smile with no blame, but soon it won't be the same",
+          "ko": "넌 탓하지 않고 웃겠지만 곧 달라질 거야"
+        },
+        {
+          "start": 10654.04,
+          "end": 10657.4,
+          "ja": "Very soon this kingdom ends with everything that you were",
+          "ko": "머지않아 네 모든 것과 함께 이 왕국은 끝나"
+        },
+        {
+          "start": 10657.4,
+          "end": 10661.74,
+          "ja": "Cause of all the people that will chase you with their anger",
+          "ko": "분노한 모든 이들이 널 쫓을 테니까"
+        },
+        {
+          "start": 10662.65,
+          "end": 10666.09,
+          "ja": "Retribution is what they are calling what they will do",
+          "ko": "그들은 저들이 할 일을 응징이라 부르겠지"
+        },
+        {
+          "start": 10666.09,
+          "end": 10671.11,
+          "ja": "But I bet they never knew I will always try to save you",
+          "ko": "하지만 내가 늘 널 구하려 한다는 건 몰라"
+        },
+        {
+          "start": 10671.69,
+          "end": 10674.99,
+          "ja": "Come and take my clothes, this is the way that you can go",
+          "ko": "내 옷을 가져가 이 길로 떠날 수 있어"
+        },
+        {
+          "start": 10674.99,
+          "end": 10679.37,
+          "ja": "You shall wear them till you're gone and they won't ever know",
+          "ko": "네가 떠날 때까지 입고 있어 아무도 모를 거야"
+        },
+        {
+          "start": 10679.37,
+          "end": 10683.73,
+          "ja": "It is fine, we're twins and I will be here when they strike",
+          "ko": "괜찮아 우린 쌍둥이니까 그들이 덮칠 때 내가 여기 있을게"
+        },
+        {
+          "start": 10683.73,
+          "end": 10688.49,
+          "ja": "They won't know you are gone all because we look alike",
+          "ko": "우리가 닮아서 네가 떠난 걸 아무도 모를 거야"
+        },
+        {
+          "start": 10690.76,
+          "end": 10694.68,
+          "ja": "I'm the queen of the country and you're a runaway",
+          "ko": "나는 이 나라의 여왕 너는 도망자야"
+        },
+        {
+          "start": 10694.68,
+          "end": 10699.22,
+          "ja": "We were twins right from the start that from fate got torn apart",
+          "ko": "우린 태어날 때부터 운명에 갈라진 쌍둥이"
+        },
+        {
+          "start": 10699.22,
+          "end": 10703.6,
+          "ja": "If they're calling you evil, I know someone like you",
+          "ko": "네가 악하다고 불린다면 난 너 같은 이를 알아"
+        },
+        {
+          "start": 10703.6,
+          "end": 10708.12,
+          "ja": "I am evil, I take blame, cause our blood is just the same",
+          "ko": "내가 악해 내가 죄를 짊어질게 우리 피는 같으니까"
+        },
+        {
+          "start": 10708.12,
+          "end": 10712.46,
+          "ja": "Once upon a time there were two very happy twins",
+          "ko": "옛날 옛적 아주 행복한 쌍둥이 두 명이 있었어"
+        },
+        {
+          "start": 10712.46,
+          "end": 10717.14,
+          "ja": "One of them she was the queen and there the story begins",
+          "ko": "그중 한 명은 여왕이었고 이야기는 거기서 시작돼"
+        },
+        {
+          "start": 10717.5,
+          "end": 10721.22,
+          "ja": "She was sitting at the top and she used to reign",
+          "ko": "그녀는 높은 곳에 앉아 나라를 다스렸지"
+        },
+        {
+          "start": 10721.22,
+          "end": 10725.66,
+          "ja": "She was always very cute, but the kingdom it was brute",
+          "ko": "언제나 아주 귀여웠지만 그 왕국은 잔혹했어"
+        },
+        {
+          "start": 10725.66,
+          "end": 10730.46,
+          "ja": "If the world is vile and you make it your foe",
+          "ko": "세상이 사악해 네가 맞서 싸운다면"
+        },
+        {
+          "start": 10730.46,
+          "end": 10734.48,
+          "ja": "There is just one thing that I want you to know",
+          "ko": "네게 꼭 알려주고 싶은 말이 하나 있어"
+        },
+        {
+          "start": 10734.48,
+          "end": 10738.9,
+          "ja": "I'll protect you and I will do as you please",
+          "ko": "널 지키고 네 뜻대로 할게"
+        },
+        {
+          "start": 10738.9,
+          "end": 10743.7,
+          "ja": "So you'll smile, feel happy and be at peace",
+          "ko": "네가 웃고 행복하고 평안하도록"
+        },
+        {
+          "start": 10746.25,
+          "end": 10749.85,
+          "ja": "She's the queen of the country and he's a servant of hers",
+          "ko": "그녀는 이 나라의 여왕 그는 그녀의 하인"
+        },
+        {
+          "start": 10749.85,
+          "end": 10754.61,
+          "ja": "They were twins right from the start that from fate got torn apart",
+          "ko": "그들은 태어날 때부터 운명에 갈라진 쌍둥이"
+        },
+        {
+          "start": 10763.38,
+          "end": 10767.54,
+          "ja": "When the bells are ringing the queen stands to weep",
+          "ko": "종이 울리면 여왕은 서서 눈물을 흘려"
+        },
+        {
+          "start": 10767.54,
+          "end": 10773.06,
+          "ja": "She is wishing that just sometime again they will meet",
+          "ko": "언젠가 다시 만날 수 있기를 바라면서"
+        }
+      ]
+    },
+    {
       "song_num": "015",
       "production_sequence": 15,
       "title": "천성의 약함",
