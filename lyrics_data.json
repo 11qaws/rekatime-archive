@@ -95174,7 +95174,7 @@
       "song_num": "005",
       "production_sequence": 5,
       "title": "잔혹한 천사의 테제",
-      "is_manual": true,
+      "is_manual": false,
       "cues": [
         {
           "start": 10439.7,
