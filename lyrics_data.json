@@ -26115,6 +26115,356 @@
       ]
     },
     {
+      "song_num": "028",
+      "production_sequence": 28,
+      "title": "Doki Doki Forever",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 16906.959,
+          "end": 16908.439,
+          "ja": "Doki Doki!",
+          "ko": "두근두근"
+        },
+        {
+          "start": 16908.499,
+          "end": 16909.324,
+          "ja": "Hey hey!",
+          "ko": "헤이 헤이"
+        },
+        {
+          "start": 16909.384,
+          "end": 16913.292,
+          "ja": "My heart's beating when I'm hanging out with you!",
+          "ko": "너와 함께 있으면 내 심장이 뛰어"
+        },
+        {
+          "start": 16913.352,
+          "end": 16915.091,
+          "ja": "Why does my heart ache,",
+          "ko": "왜 가슴이 아픈 걸까"
+        },
+        {
+          "start": 16915.151,
+          "end": 16917.528,
+          "ja": "When I hear you feel the same way too?",
+          "ko": "너도 같은 마음이란 걸 들으면"
+        },
+        {
+          "start": 16917.588,
+          "end": 16919.496,
+          "ja": "(Eheheh)",
+          "ko": "에헤헤"
+        },
+        {
+          "start": 16919.556,
+          "end": 16921.147,
+          "ja": "Just like a sundae,",
+          "ko": "선데이처럼"
+        },
+        {
+          "start": 16921.207,
+          "end": 16924.3,
+          "ja": "It's sweet every time I teach you something new!",
+          "ko": "새로운 걸 가르쳐 줄 때마다 달콤해"
+        },
+        {
+          "start": 16924.36,
+          "end": 16925.58,
+          "ja": "Is this by chance,",
+          "ko": "이건 우연일까"
+        },
+        {
+          "start": 16925.64,
+          "end": 16926.5,
+          "ja": "Or fate?",
+          "ko": "운명일까"
+        },
+        {
+          "start": 16926.56,
+          "end": 16928.73,
+          "ja": "Whenever it's just me and you?",
+          "ko": "너와 나만 있을 때마다"
+        },
+        {
+          "start": 16928.79,
+          "end": 16930.98,
+          "ja": "(E-Eh! Don't get the wrong idea!)",
+          "ko": "에 에헴 오해하지 마"
+        },
+        {
+          "start": 16931.04,
+          "end": 16936.18,
+          "ja": "When we touch, it'll never be enough",
+          "ko": "닿아도 절대 부족할 거야"
+        },
+        {
+          "start": 16936.24,
+          "end": 16942.24,
+          "ja": "Is it way too much if you had to choose just one of us?",
+          "ko": "우리 중 하나만 골라야 한다면 너무한 걸까"
+        },
+        {
+          "start": 16942.93,
+          "end": 16945.27,
+          "ja": "Tell me, tell me, please!",
+          "ko": "말해줘 말해줘 제발"
+        },
+        {
+          "start": 16945.33,
+          "end": 16946.15,
+          "ja": "Is this what I think,",
+          "ko": "내 생각이 맞는 걸까"
+        },
+        {
+          "start": 16946.21,
+          "end": 16947.76,
+          "ja": "Or is it just me?",
+          "ko": "나만 이런 걸까"
+        },
+        {
+          "start": 16947.82,
+          "end": 16950.51,
+          "ja": "Don't wake me up from this sweet little dream!",
+          "ko": "이 달콤한 작은 꿈에서 깨우지 마"
+        },
+        {
+          "start": 16950.57,
+          "end": 16952.868,
+          "ja": "Where we'll be together forever",
+          "ko": "우린 영원히 함께할 거야"
+        },
+        {
+          "start": 16952.928,
+          "end": 16954.832,
+          "ja": "We're never gonna be apart!",
+          "ko": "절대 떨어지지 않을 거야"
+        },
+        {
+          "start": 16954.892,
+          "end": 16956.85,
+          "ja": "Will it be okay",
+          "ko": "괜찮을까"
+        },
+        {
+          "start": 16956.91,
+          "end": 16959.13,
+          "ja": "If I express my love for you this way?",
+          "ko": "이렇게 너에게 사랑을 전해도"
+        },
+        {
+          "start": 16959.19,
+          "end": 16962.229,
+          "ja": "No matter what you do or what you say,",
+          "ko": "네가 뭘 하든 무슨 말을 하든"
+        },
+        {
+          "start": 16962.289,
+          "end": 16964.133,
+          "ja": "We'll be together forever",
+          "ko": "우린 영원히 함께할 거야"
+        },
+        {
+          "start": 16964.193,
+          "end": 16969.584,
+          "ja": "We're never gonna be apart!",
+          "ko": "절대 떨어지지 않을 거야"
+        },
+        {
+          "start": 16969.644,
+          "end": 16975.644,
+          "ja": "(We're never gonna be apart)",
+          "ko": "절대 떨어지지 않을 거야"
+        },
+        {
+          "start": 16977.796,
+          "end": 16978.833,
+          "ja": "Hey hey",
+          "ko": "헤이 헤이"
+        },
+        {
+          "start": 16978.893,
+          "end": 16982.5,
+          "ja": "When I'm next to you, I don't know what to do",
+          "ko": "네 곁에 있으면 어쩔 줄 모르겠어"
+        },
+        {
+          "start": 16982.56,
+          "end": 16984.6,
+          "ja": "Why does it feel so great,",
+          "ko": "왜 이렇게 좋은 걸까"
+        },
+        {
+          "start": 16984.66,
+          "end": 16987.13,
+          "ja": "When our eyes meet out of the blue?",
+          "ko": "갑자기 눈이 마주치면"
+        },
+        {
+          "start": 16987.19,
+          "end": 16988.57,
+          "ja": "(I-I'm sorry, I said too much!)",
+          "ko": "미 미안 너무 많이 말했어"
+        },
+        {
+          "start": 16988.63,
+          "end": 16989.63,
+          "ja": "I really Lͭ̉͡'͓̣O̴̱̳̱ͭ̈́͞ͅṾ̛̤̉̉̓͡ͅȆ̿'̷͇̙—-",
+          "ko": "난 정말 사"
+        },
+        {
+          "start": 16989.69,
+          "end": 16994.8,
+          "ja": "The way you write even when you don't have a clue!",
+          "ko": "네가 아무것도 몰라도 쓰는 모습이 좋아"
+        },
+        {
+          "start": 16994.86,
+          "end": 16996.38,
+          "ja": "I wanna hear you say:",
+          "ko": "네 입으로 듣고 싶어"
+        },
+        {
+          "start": 16996.44,
+          "end": 17002.44,
+          "ja": "\"This love that I am feeling is true!\"",
+          "ko": "내가 느끼는 이 사랑은 진심이라고"
+        },
+        {
+          "start": 17002.76,
+          "end": 17005.8,
+          "ja": "Tasty love, something I want more of!",
+          "ko": "맛있는 사랑 더 원해"
+        },
+        {
+          "start": 17005.86,
+          "end": 17008.66,
+          "ja": "Will it make the cut,",
+          "ko": "우리 중 하나만 골라야 한다면"
+        },
+        {
+          "start": 17008.72,
+          "end": 17012.5,
+          "ja": "If you had to choose just one of us?",
+          "ko": "선택받을 수 있을까"
+        },
+        {
+          "start": 17012.56,
+          "end": 17014.61,
+          "ja": "Shall I leave you be?",
+          "ko": "그냥 널 내버려 둘까"
+        },
+        {
+          "start": 17014.67,
+          "end": 17017.71,
+          "ja": "Is it love if I can set you free?",
+          "ko": "널 놓아줄 수 있다면 사랑일까"
+        },
+        {
+          "start": 17017.77,
+          "end": 17020.54,
+          "ja": "But even if it's not reality,",
+          "ko": "하지만 현실이 아니어도"
+        },
+        {
+          "start": 17020.6,
+          "end": 17021.48,
+          "ja": "Let's be together forever,",
+          "ko": "우리 영원히 함께하자"
+        },
+        {
+          "start": 17021.54,
+          "end": 17024.18,
+          "ja": "We're never gonna be apart!",
+          "ko": "절대 떨어지지 않을 거야"
+        },
+        {
+          "start": 17024.24,
+          "end": 17026.04,
+          "ja": "How can I convey,",
+          "ko": "어떻게 전할까"
+        },
+        {
+          "start": 17026.1,
+          "end": 17029.44,
+          "ja": "My love for you before they fly away?",
+          "ko": "그들이 날아가기 전에 내 사랑을"
+        },
+        {
+          "start": 17029.5,
+          "end": 17032.29,
+          "ja": "I think about it all day everyday",
+          "ko": "하루 종일 매일 생각해"
+        },
+        {
+          "start": 17032.35,
+          "end": 17033.937,
+          "ja": "We'll be together forever,",
+          "ko": "우리 영원히 함께할 거야"
+        },
+        {
+          "start": 17033.997,
+          "end": 17035.86,
+          "ja": "We're never gonna be apart!",
+          "ko": "절대 떨어지지 않을 거야"
+        },
+        {
+          "start": 17035.92,
+          "end": 17038.66,
+          "ja": "One by one they only",
+          "ko": "하나씩 하나씩 모두"
+        },
+        {
+          "start": 17038.72,
+          "end": 17040.718,
+          "ja": "Fall apart",
+          "ko": "무너져 가"
+        },
+        {
+          "start": 17040.778,
+          "end": 17043.125,
+          "ja": "Can it be undone?",
+          "ko": "되돌릴 수 있을까"
+        },
+        {
+          "start": 17043.185,
+          "end": 17049.185,
+          "ja": "Why can't I just be the one for once?",
+          "ko": "왜 난 한 번쯤 선택받을 수 없을까"
+        },
+        {
+          "start": 17054.938,
+          "end": 17056.747,
+          "ja": "We'll be together forever,",
+          "ko": "우리 영원히 함께할 거야"
+        },
+        {
+          "start": 17056.807,
+          "end": 17061.54,
+          "ja": "We're never gonna be Aͯͮ'̣P͉͐A̿ͫͥ'͊͡R͚͞'͓̦̼'͖T̑'",
+          "ko": "절대 떨ㅇ"
+        },
+        {
+          "start": 17061.6,
+          "end": 17066.94,
+          "ja": "(Forever, forever)",
+          "ko": "영원히 영원히"
+        },
+        {
+          "start": 17067.0,
+          "end": 17068.58,
+          "ja": "Maybe we'll never be together,",
+          "ko": "어쩌면 우린 함께하지 못해도"
+        },
+        {
+          "start": 17068.64,
+          "end": 17071.07,
+          "ja": "But forever you'll be in my heart!",
+          "ko": "영원히 넌 내 마음속에 있을 거야"
+        }
+      ]
+    },
+    {
       "song_num": "029",
       "production_sequence": 29,
       "title": "Teeth",
