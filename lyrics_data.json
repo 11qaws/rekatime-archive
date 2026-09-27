@@ -79066,7 +79066,7 @@
       "song_num": "006",
       "production_sequence": 6,
       "title": "Legends Never Die",
-      "is_manual": true,
+      "is_manual": false,
       "cues": [
         {
           "start": 3172.954,
