@@ -803,6 +803,314 @@
       ]
     },
     {
+      "song_num": "003",
+      "production_sequence": 3,
+      "title": "Other Friends",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 5399.42,
+          "end": 5400.56,
+          "ja": "Well, well, well, well, well!",
+          "ko": "이런 이런 이런 이런 이런"
+        },
+        {
+          "start": 5400.56,
+          "end": 5404.82,
+          "ja": "Let me get a look at the menagerie!",
+          "ko": "너희 동물 친구들 좀 보자"
+        },
+        {
+          "start": 5405.15,
+          "end": 5406.64,
+          "ja": "You must be Amethyst!",
+          "ko": "네가 애머시스트구나"
+        },
+        {
+          "start": 5406.64,
+          "end": 5408.76,
+          "ja": "You must be Garnet!",
+          "ko": "네가 가넷이구나"
+        },
+        {
+          "start": 5408.76,
+          "end": 5413.34,
+          "ja": "And Pink Diamond's Pearl, well, she took you with her",
+          "ko": "핑크 다이아몬드의 펄 그녀가 널 데려갔구나"
+        },
+        {
+          "start": 5413.34,
+          "end": 5415.82,
+          "ja": "Isn't that just swell?",
+          "ko": "정말 끝내주지 않아"
+        },
+        {
+          "start": 5415.86,
+          "end": 5416.62,
+          "ja": "It can't be",
+          "ko": "말도 안 돼"
+        },
+        {
+          "start": 5416.62,
+          "end": 5418.88,
+          "ja": "Oh but it can be, and it is",
+          "ko": "아니 될 수 있고 이미 됐어"
+        },
+        {
+          "start": 5418.88,
+          "end": 5423.74,
+          "ja": "I got a new style and a few new toys",
+          "ko": "새로운 모습에 새 장난감도 몇 개 생겼지"
+        },
+        {
+          "start": 5423.74,
+          "end": 5426.66,
+          "ja": "That are gonna put an end",
+          "ko": "너희 해피 엔딩을"
+        },
+        {
+          "start": 5426.66,
+          "end": 5429.9,
+          "ja": "to your happily ever after, once and for all!",
+          "ko": "아주 끝장내 줄 거야"
+        },
+        {
+          "start": 5429.9,
+          "end": 5433.0,
+          "ja": "Woah, woah, this has gotta be a misunderstanding",
+          "ko": "워 워 이건 분명 오해야"
+        },
+        {
+          "start": 5433.58,
+          "end": 5434.76,
+          "ja": "In case you haven't heard,",
+          "ko": "못 들었을까 봐 말하는데"
+        },
+        {
+          "start": 5434.76,
+          "end": 5437.0,
+          "ja": "I've established peace across the-",
+          "ko": "난 전 우주에 평화를 세웠단 말이-"
+        },
+        {
+          "start": 5437.0,
+          "end": 5438.27,
+          "ja": "Yeah, yeah, I've heard",
+          "ko": "그래 그래 들었어"
+        },
+        {
+          "start": 5438.27,
+          "end": 5442.86,
+          "ja": "I've had your little message to the universe on loop!",
+          "ko": "네 작은 우주 메시지를 계속 틀어 놨지"
+        },
+        {
+          "start": 5442.86,
+          "end": 5445.7,
+          "ja": "I just love that part",
+          "ko": "핑크 다이아몬드가 남은 날들을 보낸다는"
+        },
+        {
+          "start": 5446.4,
+          "end": 5449.52,
+          "ja": "where Pink Diamond spends the rest of her days",
+          "ko": "그 부분이 난 정말 좋아"
+        },
+        {
+          "start": 5449.52,
+          "end": 5455.82,
+          "ja": "On this nowhere planet, with a bunch of nobodies!",
+          "ko": "아무것도 아닌 것들과 이 보잘것없는 행성에서"
+        },
+        {
+          "start": 5455.82,
+          "end": 5459.36,
+          "ja": "That's right I heard the story over and over again",
+          "ko": "그래 맞아 그 얘기 수도 없이 들었어"
+        },
+        {
+          "start": 5459.36,
+          "end": 5463.6,
+          "ja": "Gee, it's swell to finally meet her other friends",
+          "ko": "드디어 그녀의 다른 친구들을 만나니 참 좋네"
+        },
+        {
+          "start": 5463.6,
+          "end": 5466.26,
+          "ja": "That's right I heard the story,",
+          "ko": "그래 맞아 그 얘긴 들었지만"
+        },
+        {
+          "start": 5466.26,
+          "end": 5467.9,
+          "ja": "don't really like how it ends",
+          "ko": "결말은 영 마음에 안 들어"
+        },
+        {
+          "start": 5467.9,
+          "end": 5472.02,
+          "ja": "Gee, it's swell to finally meet her other friends",
+          "ko": "드디어 그녀의 다른 친구들을 만나니 참 좋네"
+        },
+        {
+          "start": 5472.02,
+          "end": 5476.06,
+          "ja": "What did she say about me? What did she say?",
+          "ko": "내 얘긴 뭐랬어 내 얘긴 뭐랬어"
+        },
+        {
+          "start": 5476.06,
+          "end": 5480.36,
+          "ja": "What did you do without me? What did you do?",
+          "ko": "나 없이 뭘 했어 나 없이 뭘 했어"
+        },
+        {
+          "start": 5480.36,
+          "end": 5483.96,
+          "ja": "Did you play games without me? What did you play?",
+          "ko": "나 없이 게임은 했어 뭘 했어"
+        },
+        {
+          "start": 5483.96,
+          "end": 5485.34,
+          "ja": "Did you think all this time that I",
+          "ko": "내가 너희 일을"
+        },
+        {
+          "start": 5485.34,
+          "end": 5487.12,
+          "ja": "wouldn't find out about you?",
+          "ko": "모를 줄 알았어"
+        },
+        {
+          "start": 5490.16,
+          "end": 5494.06,
+          "ja": "Oh that's right I heard the story over and over again",
+          "ko": "아 그래 맞아 그 얘기 수도 없이 들었어"
+        },
+        {
+          "start": 5494.06,
+          "end": 5498.8,
+          "ja": "Gee, it's swell to finally meet her other friends",
+          "ko": "드디어 그녀의 다른 친구들을 만나니 참 좋네"
+        },
+        {
+          "start": 5502.55,
+          "end": 5503.73,
+          "ja": "She's running circles around us!",
+          "ko": "우릴 가지고 놀고 있어"
+        },
+        {
+          "start": 5503.73,
+          "end": 5506.4,
+          "ja": "I'm rusty, give me a break!",
+          "ko": "너무 오랜만이잖아 좀 봐줘"
+        },
+        {
+          "start": 5506.4,
+          "end": 5510.5,
+          "ja": "It really is her, but she can't be serious!",
+          "ko": "정말 그녀가 맞아 하지만 제정신일 리 없어"
+        },
+        {
+          "start": 5510.5,
+          "end": 5515.56,
+          "ja": "You know her, Pearl? Can you tell us who she is?",
+          "ko": "펄 넌 그녀를 알아 누군지 말해 줄래"
+        },
+        {
+          "start": 5515.56,
+          "end": 5518.86,
+          "ja": "Who am I? Who am I? What are you even saying?",
+          "ko": "내가 누구냐고 내가 누구냐고 대체 무슨 소릴 하는 거야"
+        },
+        {
+          "start": 5519.1,
+          "end": 5520.88,
+          "ja": "I'm the loser of the game",
+          "ko": "너희가 하는 줄도 몰랐던 게임에서"
+        },
+        {
+          "start": 5520.88,
+          "end": 5523.14,
+          "ja": "you didn't know you were playing!",
+          "ko": "진 패자야"
+        },
+        {
+          "start": 5523.44,
+          "end": 5526.86,
+          "ja": "Let's play another game, this time I get to win",
+          "ko": "다른 게임을 하자 이번엔 내가 이겨"
+        },
+        {
+          "start": 5527.12,
+          "end": 5528.08,
+          "ja": "Lives on the line",
+          "ko": "목숨을 걸고"
+        },
+        {
+          "start": 5528.08,
+          "end": 5529.08,
+          "ja": "Winner takes all",
+          "ko": "이긴 쪽이 다 가져"
+        },
+        {
+          "start": 5529.08,
+          "end": 5530.04,
+          "ja": "Ready or not",
+          "ko": "준비됐든 아니든"
+        },
+        {
+          "start": 5530.04,
+          "end": 5531.36,
+          "ja": "Let's begin!",
+          "ko": "시작하자"
+        },
+        {
+          "start": 5532.06,
+          "end": 5535.71,
+          "ja": "Oh, that's right I heard the story over and over again",
+          "ko": "아 그래 맞아 그 얘기 수도 없이 들었어"
+        },
+        {
+          "start": 5535.71,
+          "end": 5539.77,
+          "ja": "Gee, it's swell to finally beat her other friends",
+          "ko": "드디어 그녀의 다른 친구들을 이기니 참 좋네"
+        },
+        {
+          "start": 5539.77,
+          "end": 5541.53,
+          "ja": "Oh, that's right I heard the story,",
+          "ko": "아 그래 맞아 그 얘긴 들었지만"
+        },
+        {
+          "start": 5541.53,
+          "end": 5542.96,
+          "ja": "don't really like how it ends",
+          "ko": "결말은 영 마음에 안 들어"
+        },
+        {
+          "start": 5542.96,
+          "end": 5546.92,
+          "ja": "Gee, it's swell to finally beat her other",
+          "ko": "드디어 그녀의 다른 친구들을 이기니 참"
+        },
+        {
+          "start": 5547.8,
+          "end": 5548.84,
+          "ja": "Other",
+          "ko": "다른"
+        },
+        {
+          "start": 5550.08,
+          "end": 5554.56,
+          "ja": "Other friends",
+          "ko": "다른 친구들"
+        }
+      ]
+    },
+    {
       "song_num": "005",
       "production_sequence": 5,
       "title": "신 같네",
@@ -92257,6 +92565,230 @@
           "end": 9343.98,
           "ja": "だけ",
           "ko": "그것뿐"
+        }
+      ]
+    },
+    {
+      "song_num": "004",
+      "production_sequence": 4,
+      "title": "SOS",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 9915.464,
+          "end": 9917.464,
+          "ja": "キミに fall in love",
+          "ko": "너에게 fall in love"
+        },
+        {
+          "start": 9917.544,
+          "end": 9922.814,
+          "ja": "恋の SOS ずっと胸が苦しいんです",
+          "ko": "사랑의 SOS 계속 가슴이 아파"
+        },
+        {
+          "start": 9922.894,
+          "end": 9924.574,
+          "ja": "ハヤク rescue",
+          "ko": "어서 rescue"
+        },
+        {
+          "start": 9924.654,
+          "end": 9933.605,
+          "ja": "「好き」のテレパシーに早く気づいて!",
+          "ko": "좋아한다는 텔레파시를 어서 알아채 줘"
+        },
+        {
+          "start": 9946.296,
+          "end": 9953.236,
+          "ja": "初めて出逢ったときから ハートが震えてたんだよ",
+          "ko": "처음 만났을 때부터 심장이 떨렸어"
+        },
+        {
+          "start": 9953.316,
+          "end": 9960.437,
+          "ja": "無意識に意識しちゃう この感じはきっと (重症です)",
+          "ko": "무의식중에 의식하게 돼 이 느낌은 분명 중증이야"
+        },
+        {
+          "start": 9960.517,
+          "end": 9964.047,
+          "ja": "目と目合うだけで顔が熱いの",
+          "ko": "눈만 마주쳐도 얼굴이 뜨거워져"
+        },
+        {
+          "start": 9964.127,
+          "end": 9967.647,
+          "ja": "話しかけられて頭がパニック",
+          "ko": "말을 걸어오면 머릿속이 패닉"
+        },
+        {
+          "start": 9967.727,
+          "end": 9971.338,
+          "ja": "ドキドキし過ぎて会話続かない",
+          "ko": "너무 두근거려서 대화가 이어지지 않아"
+        },
+        {
+          "start": 9971.418,
+          "end": 9974.648,
+          "ja": "どうすればいいの? こんな気持ちを",
+          "ko": "어떻게 하면 좋을까 이런 마음을"
+        },
+        {
+          "start": 9974.728,
+          "end": 9982.068,
+          "ja": "(キミとの相性診断) 星占いなら so good so good",
+          "ko": "너와의 궁합 진단 별자리 운세라면 so good so good"
+        },
+        {
+          "start": 9982.148,
+          "end": 9987.939,
+          "ja": "(トモダチなんかじゃないよ) ときめいてる",
+          "ko": "친구 같은 게 아니야 설레고 있어"
+        },
+        {
+          "start": 9988.019,
+          "end": 9990.039,
+          "ja": "キミに fall in love",
+          "ko": "너에게 fall in love"
+        },
+        {
+          "start": 9990.119,
+          "end": 9995.169,
+          "ja": "恋の SOS ずっと胸が苦しいんです",
+          "ko": "사랑의 SOS 계속 가슴이 아파"
+        },
+        {
+          "start": 9995.249,
+          "end": 9996.969,
+          "ja": "ハヤク rescue",
+          "ko": "어서 rescue"
+        },
+        {
+          "start": 9997.049,
+          "end": 10001.88,
+          "ja": "「好き」のテレパシーに早く気づいて!",
+          "ko": "좋아한다는 텔레파시를 어서 알아채 줘"
+        },
+        {
+          "start": 10001.96,
+          "end": 10004.01,
+          "ja": "これは fall in love",
+          "ko": "이건 fall in love"
+        },
+        {
+          "start": 10004.09,
+          "end": 10009.25,
+          "ja": "恋の SOS もっとキミに近づきたい",
+          "ko": "사랑의 SOS 네게 더 가까이 가고 싶어"
+        },
+        {
+          "start": 10009.33,
+          "end": 10014.961,
+          "ja": "終わらせて 片想い my heart",
+          "ko": "끝내 줘 짝사랑 my heart"
+        },
+        {
+          "start": 10015.041,
+          "end": 10020.031,
+          "ja": "全部抱きしめて",
+          "ko": "전부 끌어안아 줘"
+        },
+        {
+          "start": 10031.002,
+          "end": 10038.042,
+          "ja": "キミが好きな音楽や 映画のことリサーチして",
+          "ko": "네가 좋아하는 음악과 영화도 찾아보고"
+        },
+        {
+          "start": 10038.122,
+          "end": 10045.063,
+          "ja": "SNS見るたびに イイネ押すの (アピールだよ)",
+          "ko": "SNS를 볼 때마다 좋아요를 눌러 어필하는 거야"
+        },
+        {
+          "start": 10045.143,
+          "end": 10048.813,
+          "ja": "四六時中キミのこと考えて",
+          "ko": "온종일 네 생각만 하고"
+        },
+        {
+          "start": 10048.893,
+          "end": 10052.373,
+          "ja": "妄想しながら枕ギュってした",
+          "ko": "상상하면서 베개를 꼭 끌어안았어"
+        },
+        {
+          "start": 10052.453,
+          "end": 10055.773,
+          "ja": "明日はどんな服着ていこうかな",
+          "ko": "내일은 어떤 옷을 입고 갈까"
+        },
+        {
+          "start": 10055.853,
+          "end": 10059.674,
+          "ja": "キミ想うだけでなんか照れる",
+          "ko": "널 생각하는 것만으로도 왠지 부끄러워"
+        },
+        {
+          "start": 10059.754,
+          "end": 10066.794,
+          "ja": "(キミの名前を呼べば) ただそれだけでも dreaming dreaming",
+          "ko": "네 이름을 부르면 그것만으로도 dreaming dreaming"
+        },
+        {
+          "start": 10066.874,
+          "end": 10074.765,
+          "ja": "(溺れそうな私を) 助け出して",
+          "ko": "빠질 듯한 나를 구해 줘"
+        },
+        {
+          "start": 10102.907,
+          "end": 10104.667,
+          "ja": "キミに fall in love",
+          "ko": "너에게 fall in love"
+        },
+        {
+          "start": 10104.747,
+          "end": 10109.777,
+          "ja": "恋の SOS ずっと胸が苦しいんです",
+          "ko": "사랑의 SOS 계속 가슴이 아파"
+        },
+        {
+          "start": 10109.857,
+          "end": 10111.597,
+          "ja": "ハヤク rescue",
+          "ko": "어서 rescue"
+        },
+        {
+          "start": 10111.677,
+          "end": 10117.097,
+          "ja": "「好き」のテレパシーに早く気づいて!",
+          "ko": "좋아한다는 텔레파시를 어서 알아채 줘"
+        },
+        {
+          "start": 10117.177,
+          "end": 10118.898,
+          "ja": "これは fall in love",
+          "ko": "이건 fall in love"
+        },
+        {
+          "start": 10118.978,
+          "end": 10123.958,
+          "ja": "恋の SOS もっとキミに近づきたい",
+          "ko": "사랑의 SOS 네게 더 가까이 가고 싶어"
+        },
+        {
+          "start": 10124.038,
+          "end": 10129.818,
+          "ja": "終わらせて 片想い my heart",
+          "ko": "끝내 줘 짝사랑 my heart"
+        },
+        {
+          "start": 10129.898,
+          "end": 10135.019,
+          "ja": "全部抱きしめて",
+          "ko": "전부 끌어안아 줘"
         }
       ]
     },
