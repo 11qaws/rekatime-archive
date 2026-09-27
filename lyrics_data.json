@@ -48453,6 +48453,284 @@
       ]
     },
     {
+      "song_num": "007",
+      "production_sequence": 7,
+      "title": "Legends Never Die",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 2782.105,
+          "end": 2785.898,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2785.978,
+          "end": 2789.395,
+          "ja": "When the world is calling you",
+          "ko": "세상이 널 부를 때"
+        },
+        {
+          "start": 2789.475,
+          "end": 2795.73,
+          "ja": "Can you hear them screaming out your name?",
+          "ko": "그들이 네 이름을 외치는 게 들리니"
+        },
+        {
+          "start": 2795.81,
+          "end": 2799.731,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2799.811,
+          "end": 2803.191,
+          "ja": "They become a part of you",
+          "ko": "그들은 네 일부가 돼"
+        },
+        {
+          "start": 2803.27,
+          "end": 2809.317,
+          "ja": "Every time you bleed for reaching greatness",
+          "ko": "위대함에 닿으려 피 흘릴 때마다"
+        },
+        {
+          "start": 2809.397,
+          "end": 2813.621,
+          "ja": "Relentless you survive",
+          "ko": "굽히지 않고 넌 살아남아"
+        },
+        {
+          "start": 2813.701,
+          "end": 2816.86,
+          "ja": "They never lose hope when everything's cold",
+          "ko": "모든 것이 차갑게 식어도 그들은 희망을 잃지 않아"
+        },
+        {
+          "start": 2816.94,
+          "end": 2820.543,
+          "ja": "And the fighting's near",
+          "ko": "싸움이 가까워져도"
+        },
+        {
+          "start": 2820.623,
+          "end": 2823.631,
+          "ja": "It's deep in their bones, they'll run into smoke",
+          "ko": "뼛속 깊이 새겨져 있어 연기 속으로 뛰어들지"
+        },
+        {
+          "start": 2823.711,
+          "end": 2826.908,
+          "ja": "When the fire is fierce",
+          "ko": "불길이 거세질 때"
+        },
+        {
+          "start": 2826.988,
+          "end": 2830.101,
+          "ja": "Oh, pick yourself up, 'cause",
+          "ko": "자 다시 일어서 왜냐하면"
+        },
+        {
+          "start": 2830.181,
+          "end": 2833.865,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2833.945,
+          "end": 2837.42,
+          "ja": "When the world is calling you (the world is calling you)",
+          "ko": "세상이 널 부를 때 세상이 널 부를 때"
+        },
+        {
+          "start": 2837.5,
+          "end": 2843.803,
+          "ja": "Can you hear them screaming out your name?",
+          "ko": "그들이 네 이름을 외치는 게 들리니"
+        },
+        {
+          "start": 2843.883,
+          "end": 2847.618,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2847.698,
+          "end": 2851.053,
+          "ja": "They become a part of you (they become a part of you)",
+          "ko": "그들은 네 일부가 돼 그들은 네 일부가 돼"
+        },
+        {
+          "start": 2851.133,
+          "end": 2857.514,
+          "ja": "Every time you bleed for reaching greatness",
+          "ko": "위대함에 닿으려 피 흘릴 때마다"
+        },
+        {
+          "start": 2857.594,
+          "end": 2861.154,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2861.234,
+          "end": 2864.917,
+          "ja": "They're written down in eternity",
+          "ko": "그들은 영원 속에 새겨져"
+        },
+        {
+          "start": 2864.997,
+          "end": 2870.134,
+          "ja": "But you'll never see the price it costs",
+          "ko": "하지만 그 대가가 무엇인지는 결코 보이지 않아"
+        },
+        {
+          "start": 2870.214,
+          "end": 2875.356,
+          "ja": "The scars collected all of their lives",
+          "ko": "평생 쌓여 온 상처들"
+        },
+        {
+          "start": 2875.436,
+          "end": 2878.606,
+          "ja": "When everything's lost, they pick up their hearts",
+          "ko": "모든 것을 잃으면 그들은 다시 마음을 다잡아"
+        },
+        {
+          "start": 2878.686,
+          "end": 2882.158,
+          "ja": "And avenge defeat",
+          "ko": "패배를 되갚아"
+        },
+        {
+          "start": 2882.237,
+          "end": 2885.376,
+          "ja": "Before it all starts, they suffer through harm",
+          "ko": "모든 것이 시작되기도 전에 고통을 견뎌"
+        },
+        {
+          "start": 2885.456,
+          "end": 2888.627,
+          "ja": "Just to touch a dream",
+          "ko": "그저 꿈에 손을 대기 위해"
+        },
+        {
+          "start": 2888.707,
+          "end": 2891.797,
+          "ja": "Oh, pick yourself up, 'cause",
+          "ko": "자 다시 일어서 왜냐하면"
+        },
+        {
+          "start": 2891.877,
+          "end": 2895.604,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2895.683,
+          "end": 2899.058,
+          "ja": "When the world is calling you (when the world is calling you)",
+          "ko": "세상이 널 부를 때 세상이 널 부를 때"
+        },
+        {
+          "start": 2899.138,
+          "end": 2905.451,
+          "ja": "Can you hear them screaming out your name?",
+          "ko": "그들이 네 이름을 외치는 게 들리니"
+        },
+        {
+          "start": 2905.531,
+          "end": 2909.393,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2909.473,
+          "end": 2912.914,
+          "ja": "They become a part of you (they become a part of you)",
+          "ko": "그들은 네 일부가 돼 그들은 네 일부가 돼"
+        },
+        {
+          "start": 2912.994,
+          "end": 2919.222,
+          "ja": "Every time you bleed for reaching greatness",
+          "ko": "위대함에 닿으려 피 흘릴 때마다"
+        },
+        {
+          "start": 2919.302,
+          "end": 2923.325,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2925.531,
+          "end": 2932.892,
+          "ja": "When the world is calling out your name",
+          "ko": "세상이 네 이름을 외쳐 부를 때"
+        },
+        {
+          "start": 2932.971,
+          "end": 2936.868,
+          "ja": "Begging you to fight",
+          "ko": "네게 싸우라고 애원할 때"
+        },
+        {
+          "start": 2940.689,
+          "end": 2944.064,
+          "ja": "Pick yourself up once more",
+          "ko": "다시 한번 일어서"
+        },
+        {
+          "start": 2944.144,
+          "end": 2946.646,
+          "ja": "Pick yourself up, 'cause",
+          "ko": "다시 일어서 왜냐하면"
+        },
+        {
+          "start": 2946.726,
+          "end": 2950.429,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2950.509,
+          "end": 2953.795,
+          "ja": "When the world is calling you (when the world is calling you)",
+          "ko": "세상이 널 부를 때 세상이 널 부를 때"
+        },
+        {
+          "start": 2953.875,
+          "end": 2960.946,
+          "ja": "Can you hear them screaming out your name?",
+          "ko": "그들이 네 이름을 외치는 게 들리니"
+        },
+        {
+          "start": 2961.026,
+          "end": 2964.11,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        },
+        {
+          "start": 2964.189,
+          "end": 2967.761,
+          "ja": "They become a part of you (they become a part of you)",
+          "ko": "그들은 네 일부가 돼 그들은 네 일부가 돼"
+        },
+        {
+          "start": 2967.841,
+          "end": 2974.021,
+          "ja": "Every time you bleed for reaching greatness",
+          "ko": "위대함에 닿으려 피 흘릴 때마다"
+        },
+        {
+          "start": 2974.101,
+          "end": 2976.063,
+          "ja": "Legends never die",
+          "ko": "전설은 죽지 않아"
+        }
+      ]
+    },
+    {
       "song_num": "009",
       "production_sequence": 9,
       "title": "부엉이 ~부엉이가 손님이 왔다고 알리네~",
