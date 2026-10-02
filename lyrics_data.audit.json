@@ -1,11 +1,11 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-02T15:41:07.289878+00:00",
+  "generated_at": "2026-10-02T15:51:48.742791+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
-  "lyrics_data_sha256": "33423d65a43fc63e6ff1c95182a98b7bc4aafa34ff33b80c7b5de2182e00e32b",
+  "lyrics_data_sha256": "1af64f9c1f1cd7950d93778c39dd9ace38dd9868d460e28dfd125f325e830ac9",
   "managed_song_count": 505,
-  "synced_verified_song_count": 406,
+  "synced_verified_song_count": 407,
   "excluded_archive_song_count": 22,
   "excluded_archive_broadcasts": [
     "15101264"
@@ -931,6 +931,16 @@
       "cue_count": 44,
       "lyrics_sha256": "00bd0b088d7de83ab41dcfd29d8f6f6b3f6fe1666cb0c12612b527a6c674d3af",
       "cue_payload_sha256": "b6cbca187fbd350aae8357775953b1e4ed486adc6697e69170ecb1d9b08b061d",
+      "source": "approved_canonical_cue"
+    },
+    {
+      "youtube_job": "chzzk-15084319",
+      "source_job": "chzzk-15084319",
+      "sequence": 18,
+      "archive_sequence": 18,
+      "cue_count": 84,
+      "lyrics_sha256": "6fdd6d7d662be63114d67f88a2958c11a4ff7d8228db1ff31b7a08983e0d54bb",
+      "cue_payload_sha256": "5ad7b869bb78d81d2f7bbf948d8f0a1969fc326f60d6e5fe1c764cb55477a119",
       "source": "approved_canonical_cue"
     },
     {
