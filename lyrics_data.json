@@ -20441,6 +20441,278 @@
       ]
     },
     {
+      "song_num": "007",
+      "production_sequence": 7,
+      "title": "Rubia",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 8847.308,
+          "end": 8851.229,
+          "ja": "Life blooms like a flower",
+          "ko": "삶은 꽃처럼 피어나"
+        },
+        {
+          "start": 8851.229,
+          "end": 8854.726,
+          "ja": "Far away or by the road",
+          "ko": "멀리서든 길가에서든"
+        },
+        {
+          "start": 8854.726,
+          "end": 8857.772,
+          "ja": "Waiting for the one",
+          "ko": "그 한 사람을 기다려"
+        },
+        {
+          "start": 8857.772,
+          "end": 8860.819,
+          "ja": "To find the way back home",
+          "ko": "집으로 돌아갈 길을 찾게"
+        },
+        {
+          "start": 8860.819,
+          "end": 8863.217,
+          "ja": "Rain falls a thousand times",
+          "ko": "비는 천 번이나 내려"
+        },
+        {
+          "start": 8863.217,
+          "end": 8866.055,
+          "ja": "No footprints of come-and-go",
+          "ko": "오간 발자국은 없어"
+        },
+        {
+          "start": 8866.055,
+          "end": 8869.492,
+          "ja": "You who once went by",
+          "ko": "한때 스쳐 간 너는"
+        },
+        {
+          "start": 8869.492,
+          "end": 8872.59,
+          "ja": "Where will you belong?",
+          "ko": "어디에 머물까"
+        },
+        {
+          "start": 8872.59,
+          "end": 8875.667,
+          "ja": "I feel your sigh and breath",
+          "ko": "네 한숨과 숨결이 느껴져"
+        },
+        {
+          "start": 8875.667,
+          "end": 8880.823,
+          "ja": "In the last blow of wind",
+          "ko": "마지막 바람결에"
+        },
+        {
+          "start": 8880.823,
+          "end": 8884.36,
+          "ja": "Not yet for the story on the last page",
+          "ko": "마지막 페이지의 이야긴 아직"
+        },
+        {
+          "start": 8884.361,
+          "end": 8887.558,
+          "ja": "It's not the end",
+          "ko": "끝이 아니야"
+        },
+        {
+          "start": 8887.558,
+          "end": 8891.555,
+          "ja": "Life blooms like a flower",
+          "ko": "삶은 꽃처럼 피어나"
+        },
+        {
+          "start": 8891.555,
+          "end": 8894.752,
+          "ja": "Far away or by the road",
+          "ko": "멀리서든 길가에서든"
+        },
+        {
+          "start": 8894.752,
+          "end": 8897.969,
+          "ja": "Waiting for the one",
+          "ko": "그 한 사람을 기다려"
+        },
+        {
+          "start": 8897.97,
+          "end": 8901.547,
+          "ja": "To find the way back home",
+          "ko": "집으로 돌아갈 길을 찾게"
+        },
+        {
+          "start": 8901.547,
+          "end": 8904.944,
+          "ja": "Time flows across the world",
+          "ko": "시간은 세상을 가로질러 흘러"
+        },
+        {
+          "start": 8904.944,
+          "end": 8909.391,
+          "ja": "There is always a longer way to go",
+          "ko": "가야 할 길은 늘 더 멀어"
+        },
+        {
+          "start": 8909.391,
+          "end": 8912.089,
+          "ja": "'Til I reach your arms",
+          "ko": "네 품에 닿을 때까지"
+        },
+        {
+          "start": 8912.089,
+          "end": 8916.316,
+          "ja": "A madder there for you",
+          "ko": "너를 위한 꼭두서니가 있어"
+        },
+        {
+          "start": 8916.316,
+          "end": 8919.52,
+          "ja": "Up against the stream",
+          "ko": "물결을 거슬러"
+        },
+        {
+          "start": 8919.52,
+          "end": 8922.93,
+          "ja": "Waterways will join as one",
+          "ko": "물길은 하나로 만나"
+        },
+        {
+          "start": 8922.93,
+          "end": 8926.396,
+          "ja": "Tracing to the source",
+          "ko": "근원을 따라가며"
+        },
+        {
+          "start": 8926.397,
+          "end": 8929.111,
+          "ja": "No more strayed or lost",
+          "ko": "더는 헤매거나 길 잃지 않아"
+        },
+        {
+          "start": 8929.111,
+          "end": 8932.276,
+          "ja": "You will see petals fly",
+          "ko": "꽃잎이 흩날리는 걸 보게 될 거야"
+        },
+        {
+          "start": 8932.276,
+          "end": 8936.4,
+          "ja": "When lament becomes carol",
+          "ko": "애도가 노래가 될 때"
+        },
+        {
+          "start": 8936.4,
+          "end": 8939.787,
+          "ja": "Could you please hear my voice",
+          "ko": "내 목소리를 들어줄래"
+        },
+        {
+          "start": 8939.787,
+          "end": 8943.624,
+          "ja": "That hungers for a duo?",
+          "ko": "함께 부를 이를 갈망해"
+        },
+        {
+          "start": 8943.624,
+          "end": 8947.481,
+          "ja": "Life blooms like a flower",
+          "ko": "삶은 꽃처럼 피어나"
+        },
+        {
+          "start": 8947.481,
+          "end": 8951.788,
+          "ja": "Far away or by the road",
+          "ko": "멀리서든 길가에서든"
+        },
+        {
+          "start": 8951.788,
+          "end": 8954.236,
+          "ja": "Waiting for the one",
+          "ko": "그 한 사람을 기다려"
+        },
+        {
+          "start": 8954.236,
+          "end": 8957.763,
+          "ja": "To find the way back home",
+          "ko": "집으로 돌아갈 길을 찾게"
+        },
+        {
+          "start": 8957.763,
+          "end": 8961.43,
+          "ja": "Time flows across the world",
+          "ko": "시간은 세상을 가로질러 흘러"
+        },
+        {
+          "start": 8961.43,
+          "end": 8966.206,
+          "ja": "There is always a longer way to go",
+          "ko": "가야 할 길은 늘 더 멀어"
+        },
+        {
+          "start": 8966.206,
+          "end": 8968.634,
+          "ja": "'Til I reach your arms",
+          "ko": "네 품에 닿을 때까지"
+        },
+        {
+          "start": 8968.634,
+          "end": 8971.332,
+          "ja": "A madder there for you",
+          "ko": "너를 위한 꼭두서니가 있어"
+        },
+        {
+          "start": 8998.211,
+          "end": 9001.788,
+          "ja": "Life blooms like a flower",
+          "ko": "삶은 꽃처럼 피어나"
+        },
+        {
+          "start": 9001.788,
+          "end": 9005.485,
+          "ja": "Far away or by the road",
+          "ko": "멀리서든 길가에서든"
+        },
+        {
+          "start": 9005.486,
+          "end": 9008.863,
+          "ja": "Waiting for the one",
+          "ko": "그 한 사람을 기다려"
+        },
+        {
+          "start": 9008.863,
+          "end": 9012.32,
+          "ja": "To find the way back home",
+          "ko": "집으로 돌아갈 길을 찾게"
+        },
+        {
+          "start": 9012.32,
+          "end": 9015.897,
+          "ja": "Time flows across the world",
+          "ko": "시간은 세상을 가로질러 흘러"
+        },
+        {
+          "start": 9015.897,
+          "end": 9020.294,
+          "ja": "There is always a longer way to go",
+          "ko": "가야 할 길은 늘 더 멀어"
+        },
+        {
+          "start": 9020.294,
+          "end": 9022.992,
+          "ja": "'Til I reach your arms",
+          "ko": "네 품에 닿을 때까지"
+        },
+        {
+          "start": 9022.992,
+          "end": 9027.848,
+          "ja": "A madder there for you",
+          "ko": "너를 위한 꼭두서니가 있어"
+        }
+      ]
+    },
+    {
       "song_num": "008",
       "production_sequence": 8,
       "title": "DAYBREAK FRONTLINE",
