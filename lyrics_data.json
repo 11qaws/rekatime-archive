@@ -80203,6 +80203,206 @@
       ]
     },
     {
+      "song_num": "010",
+      "production_sequence": 10,
+      "title": "Speechless",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 22702.16,
+          "end": 22702.88,
+          "ja": "Here comes a wave",
+          "ko": "파도가 밀려와"
+        },
+        {
+          "start": 22702.92,
+          "end": 22704.77,
+          "ja": "Meant to wash me away",
+          "ko": "날 쓸어 가려 해"
+        },
+        {
+          "start": 22705.76,
+          "end": 22707.81,
+          "ja": "A tide that is taking me under",
+          "ko": "날 삼켜 버릴 거센 물결"
+        },
+        {
+          "start": 22708.94,
+          "end": 22710.09,
+          "ja": "Swallowing sand",
+          "ko": "모래를 삼키고"
+        },
+        {
+          "start": 22710.85,
+          "end": 22712.7,
+          "ja": "Left with nothing to say",
+          "ko": "아무 말도 못 한 채"
+        },
+        {
+          "start": 22712.74,
+          "end": 22716.12,
+          "ja": "My voice drowned out in the thunder",
+          "ko": "천둥에 내 목소린 잠겨"
+        },
+        {
+          "start": 22716.16,
+          "end": 22719.54,
+          "ja": "But I won't cry",
+          "ko": "하지만 난 울지 않아"
+        },
+        {
+          "start": 22719.58,
+          "end": 22723.99,
+          "ja": "And I won't start to crumble",
+          "ko": "그리고 무너지지 않아"
+        },
+        {
+          "start": 22724.14,
+          "end": 22727.12,
+          "ja": "Whenever they try",
+          "ko": "그들이 언제나"
+        },
+        {
+          "start": 22727.16,
+          "end": 22731.67,
+          "ja": "To shut me or cut me down",
+          "ko": "날 막고 꺾으려 해도"
+        },
+        {
+          "start": 22732.81,
+          "end": 22734.12,
+          "ja": "I won't be silenced",
+          "ko": "난 침묵하지 않아"
+        },
+        {
+          "start": 22735.23,
+          "end": 22738.9,
+          "ja": "You can't keep me quiet",
+          "ko": "날 잠재울 수 없어"
+        },
+        {
+          "start": 22740.58,
+          "end": 22743.33,
+          "ja": "Won't tremble when you try it",
+          "ko": "네가 해 봐도 떨지 않아"
+        },
+        {
+          "start": 22743.37,
+          "end": 22746.84,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        },
+        {
+          "start": 22749.19,
+          "end": 22751.448,
+          "ja": "'Cause I'll breathe",
+          "ko": "난 숨을 쉴 테니"
+        },
+        {
+          "start": 22752.21,
+          "end": 22752.97,
+          "ja": "When they try to suffocate me",
+          "ko": "날 질식시키려 해도"
+        },
+        {
+          "start": 22755.15,
+          "end": 22758.58,
+          "ja": "Don't you underestimate me",
+          "ko": "나를 얕보지 마"
+        },
+        {
+          "start": 22758.66,
+          "end": 22762.16,
+          "ja": "'Cause I know that I won't go speechless",
+          "ko": "난 침묵하지 않을 걸 아니까"
+        },
+        {
+          "start": 22764.2,
+          "end": 22765.77,
+          "ja": "Written in stone",
+          "ko": "돌에 새겨진"
+        },
+        {
+          "start": 22766.75,
+          "end": 22768.9,
+          "ja": "Every rule, every word",
+          "ko": "모든 규칙 모든 말"
+        },
+        {
+          "start": 22768.94,
+          "end": 22772.16,
+          "ja": "Centuries old and unbending",
+          "ko": "수백 년 묵어 굽히지 않아"
+        },
+        {
+          "start": 22772.2,
+          "end": 22774.5,
+          "ja": "Stay in your place",
+          "ko": "네 자릴 지켜"
+        },
+        {
+          "start": 22774.54,
+          "end": 22776.43,
+          "ja": "Better seen and not heard",
+          "ko": "보이되 말은 하지 마"
+        },
+        {
+          "start": 22776.47,
+          "end": 22779.29,
+          "ja": "But now that story is ending",
+          "ko": "하지만 이제 그 이야긴 끝나"
+        },
+        {
+          "start": 22779.33,
+          "end": 22781.8,
+          "ja": "'Cause I",
+          "ko": "왜냐면 난"
+        },
+        {
+          "start": 22781.93,
+          "end": 22785.2,
+          "ja": "I cannot start to crumble",
+          "ko": "난 무너지지 않아"
+        },
+        {
+          "start": 22787.4,
+          "end": 22788.74,
+          "ja": "So come on and try",
+          "ko": "그러니 어디 해 봐"
+        },
+        {
+          "start": 22789.03,
+          "end": 22792.69,
+          "ja": "Try to shut me and cut me down",
+          "ko": "날 막고 꺾어 보려 해"
+        },
+        {
+          "start": 22794.51,
+          "end": 22797.533,
+          "ja": "I won't be silenced",
+          "ko": "난 침묵하지 않아"
+        },
+        {
+          "start": 22797.88,
+          "end": 22800.2,
+          "ja": "You can't keep me quiet",
+          "ko": "날 잠재울 수 없어"
+        },
+        {
+          "start": 22800.67,
+          "end": 22804.05,
+          "ja": "Won't tremble when you try it",
+          "ko": "네가 해 봐도 떨지 않아"
+        },
+        {
+          "start": 22804.09,
+          "end": 22808.17,
+          "ja": "All I know is I won't go speechless",
+          "ko": "내가 아는 건 난 침묵하지 않는단 것"
+        }
+      ]
+    },
+    {
       "song_num": "011",
       "production_sequence": 11,
       "title": "Unstoppable",
