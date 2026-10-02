@@ -114343,6 +114343,260 @@
       ]
     },
     {
+      "song_num": "016",
+      "production_sequence": 16,
+      "title": "완전감각 Dreamer",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 15063.73,
+          "end": 15066.08,
+          "ja": "So now my time is up",
+          "ko": "이제 내 시간은 끝났어"
+        },
+        {
+          "start": 15066.27,
+          "end": 15067.27,
+          "ja": "Your game starts,",
+          "ko": "네 게임이 시작돼"
+        },
+        {
+          "start": 15067.31,
+          "end": 15068.52,
+          "ja": "My heart moving?",
+          "ko": "내 심장이 뛰는 걸까"
+        },
+        {
+          "start": 15068.64,
+          "end": 15072.46,
+          "ja": "Past time has no meaning for us,",
+          "ko": "지나간 시간은 우리에게 의미 없어"
+        },
+        {
+          "start": 15072.6,
+          "end": 15074.13,
+          "ja": "It's not enough!",
+          "ko": "아직 부족해"
+        },
+        {
+          "start": 15074.17,
+          "end": 15076.48,
+          "ja": "Will we make it better",
+          "ko": "우린 더 낫게 만들까"
+        },
+        {
+          "start": 15076.69,
+          "end": 15078.324,
+          "ja": "Or just stand here longer",
+          "ko": "아니면 여기 더 오래 서 있을까"
+        },
+        {
+          "start": 15078.53,
+          "end": 15079.21,
+          "ja": "Say it,",
+          "ko": "말해"
+        },
+        {
+          "start": 15079.25,
+          "end": 15082.54,
+          "ja": "\"We can't end here till we can get it enough\"",
+          "ko": "충분히 얻을 때까지 여기서 끝낼 순 없어"
+        },
+        {
+          "start": 15082.58,
+          "end": 15088.0,
+          "ja": "絶対的根拠はウソだらけ",
+          "ko": "절대적 근거는 거짓투성이"
+        },
+        {
+          "start": 15088.04,
+          "end": 15093.32,
+          "ja": "いつだってあるのは僕の",
+          "ko": "언제나 있는 건 나의"
+        },
+        {
+          "start": 15093.42,
+          "end": 15098.224,
+          "ja": "自信や不安をかき混ぜた",
+          "ko": "자신감과 불안을 뒤섞은"
+        },
+        {
+          "start": 15098.3,
+          "end": 15103.47,
+          "ja": "弱いようで強い僕",
+          "ko": "약한 듯 강한 나"
+        },
+        {
+          "start": 15103.51,
+          "end": 15106.08,
+          "ja": "This is my own judgement!!",
+          "ko": "이건 나 자신의 판단"
+        },
+        {
+          "start": 15106.21,
+          "end": 15108.03,
+          "ja": "Got nothing to say!!",
+          "ko": "할 말 없어"
+        },
+        {
+          "start": 15108.07,
+          "end": 15114.22,
+          "ja": "もしも他に何か思いつきゃ 速攻言うさ",
+          "ko": "혹시 다른 게 떠오르면 바로 말할게"
+        },
+        {
+          "start": 15114.91,
+          "end": 15119.26,
+          "ja": "「完全感覚Dreamerが僕の名さ」",
+          "ko": "완전감각 Dreamer가 내 이름이야"
+        },
+        {
+          "start": 15119.3,
+          "end": 15121.15,
+          "ja": "Will say it?",
+          "ko": "말할래"
+        },
+        {
+          "start": 15121.19,
+          "end": 15123.07,
+          "ja": "Will say it!",
+          "ko": "말할 거야"
+        },
+        {
+          "start": 15123.11,
+          "end": 15126.54,
+          "ja": "あればあるで聞くが今は",
+          "ko": "있다면야 듣겠지만 지금은"
+        },
+        {
+          "start": 15126.58,
+          "end": 15132.64,
+          "ja": "Hold on!",
+          "ko": "기다려"
+        },
+        {
+          "start": 15144.6,
+          "end": 15146.86,
+          "ja": "Yeah when I'm caught in fire",
+          "ko": "불길에 휩싸일 때"
+        },
+        {
+          "start": 15147.01,
+          "end": 15149.55,
+          "ja": "When I rise up higher",
+          "ko": "더 높이 일어설 때"
+        },
+        {
+          "start": 15149.59,
+          "end": 15152.14,
+          "ja": "Do you see me out there",
+          "ko": "저기 있는 내가 보여"
+        },
+        {
+          "start": 15152.18,
+          "end": 15154.52,
+          "ja": "Waiting for the next chance we get",
+          "ko": "다음 기회를 기다리고 있어"
+        },
+        {
+          "start": 15154.65,
+          "end": 15156.72,
+          "ja": "Will we make it,",
+          "ko": "우리가 해낼까"
+        },
+        {
+          "start": 15156.93,
+          "end": 15157.48,
+          "ja": "IT'S NOT ENOUGH!",
+          "ko": "아직 부족해"
+        },
+        {
+          "start": 15157.52,
+          "end": 15159.43,
+          "ja": "Or just stand here longer",
+          "ko": "아니면 여기 더 오래 서 있을까"
+        },
+        {
+          "start": 15159.47,
+          "end": 15160.33,
+          "ja": "Say it,",
+          "ko": "말해"
+        },
+        {
+          "start": 15160.37,
+          "end": 15164.45,
+          "ja": "\"We can't end here till we can get it enough\"",
+          "ko": "충분히 얻을 때까지 여기서 끝낼 순 없어"
+        },
+        {
+          "start": 15164.49,
+          "end": 15169.14,
+          "ja": "確信犯? 知能犯? NO NO NO!",
+          "ko": "확신범 지능범 아니 아니 아니야"
+        },
+        {
+          "start": 15169.3,
+          "end": 15175.16,
+          "ja": "いつだってその場しのぎの",
+          "ko": "언제나 그때뿐인"
+        },
+        {
+          "start": 15175.23,
+          "end": 15179.57,
+          "ja": "持論や理論を織り交ぜた",
+          "ko": "지론과 이론을 뒤섞은"
+        },
+        {
+          "start": 15179.61,
+          "end": 15184.58,
+          "ja": "自由さユニークさもなく",
+          "ko": "자유도 개성도 없이"
+        },
+        {
+          "start": 15184.67,
+          "end": 15186.92,
+          "ja": "This is my own judgement!",
+          "ko": "이건 나 자신의 판단"
+        },
+        {
+          "start": 15187.06,
+          "end": 15188.91,
+          "ja": "Got nothing to say!",
+          "ko": "할 말 없어"
+        },
+        {
+          "start": 15188.95,
+          "end": 15195.1,
+          "ja": "もしも他に何か思いつきゃ 速攻言うさ",
+          "ko": "혹시 다른 게 떠오르면 바로 말할게"
+        },
+        {
+          "start": 15196.06,
+          "end": 15199.46,
+          "ja": "「完全感覚Dreamerが僕の名さ」",
+          "ko": "완전감각 Dreamer가 내 이름이야"
+        },
+        {
+          "start": 15199.5,
+          "end": 15200.7,
+          "ja": "Will say it?",
+          "ko": "말할래"
+        },
+        {
+          "start": 15200.76,
+          "end": 15202.273,
+          "ja": "Will say it!",
+          "ko": "말할 거야"
+        },
+        {
+          "start": 15202.33,
+          "end": 15208.333,
+          "ja": "You know I've got to be NUMBER ONE!!",
+          "ko": "너도 알잖아 나는 1등이 되어야 해"
+        }
+      ]
+    },
+    {
       "song_num": "017",
       "production_sequence": 17,
       "title": "멜트",
