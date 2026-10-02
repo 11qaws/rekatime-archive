@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-02T11:23:13.319849+00:00",
+  "generated_at": "2026-10-02T11:28:29.269217+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "87b7b5c915da68a1a8cd9e03b5e4d8be6e5a298bf2e2604093246532af688e0e",
   "managed_song_count": 505,
@@ -3962,12 +3962,6 @@
       "source_job": "chzzk-15051325",
       "sequence": 22,
       "error": "ambiguous archive performance: 15051325:022 천천천국지옥국"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 21,
-      "error": "ambiguous archive performance: 15051325:021 열등상등"
     },
     {
       "youtube_job": "chzzk-15051325",
