@@ -81261,6 +81261,314 @@
       ]
     },
     {
+      "song_num": "014",
+      "production_sequence": 14,
+      "title": "Prince Ali",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 24026.62,
+          "end": 24029.087,
+          "ja": "Make way",
+          "ko": "길을 비켜"
+        },
+        {
+          "start": 24029.127,
+          "end": 24031.27,
+          "ja": "For Prince Ali!",
+          "ko": "알리 왕자님"
+        },
+        {
+          "start": 24031.31,
+          "end": 24033.383,
+          "ja": "Say: \"Hey!",
+          "ko": "말해"
+        },
+        {
+          "start": 24033.423,
+          "end": 24038.027,
+          "ja": "It's Prince Ali!\"",
+          "ko": "알리 왕자님이야"
+        },
+        {
+          "start": 24038.067,
+          "end": 24040.303,
+          "ja": "Hey clear the way in the ol' bazaar",
+          "ko": "이봐 낡은 시장 길을 비켜"
+        },
+        {
+          "start": 24040.343,
+          "end": 24041.429,
+          "ja": "Hey you! Let us through-",
+          "ko": "이봐 너희 우리를 지나가게 해"
+        },
+        {
+          "start": 24041.469,
+          "end": 24043.054,
+          "ja": "It's a bright new star",
+          "ko": "찬란한 새 별이 왔어"
+        },
+        {
+          "start": 24043.094,
+          "end": 24047.744,
+          "ja": "Oh come be the first on your block to meet his eye!",
+          "ko": "어서 네 동네에서 처음으로 그의 눈을 마주해 봐"
+        },
+        {
+          "start": 24047.785,
+          "end": 24049.033,
+          "ja": "Make way! Here he comes!",
+          "ko": "길을 비켜 그가 온다"
+        },
+        {
+          "start": 24049.073,
+          "end": 24050.484,
+          "ja": "Ring bells! Bang the drums!",
+          "ko": "종을 울려 북을 쳐"
+        },
+        {
+          "start": 24050.524,
+          "end": 24052.342,
+          "ja": "Ah! You're gonna love this guy!",
+          "ko": "아 넌 이 멋진 사내를 좋아할 거야"
+        },
+        {
+          "start": 24052.382,
+          "end": 24057.485,
+          "ja": "Prince Ali - fabulous he - Ali Ababwa",
+          "ko": "알리 왕자님 눈부신 그 알리 아바브와"
+        },
+        {
+          "start": 24057.525,
+          "end": 24059.819,
+          "ja": "Genuflect, show some respect:",
+          "ko": "무릎 꿇고 경의를 보여"
+        },
+        {
+          "start": 24059.859,
+          "end": 24062.629,
+          "ja": "Down on one knee.",
+          "ko": "한쪽 무릎을 꿇어"
+        },
+        {
+          "start": 24062.669,
+          "end": 24064.974,
+          "ja": "Now try your best to stay calm",
+          "ko": "자 이제 진정하려 애써 봐"
+        },
+        {
+          "start": 24065.014,
+          "end": 24067.319,
+          "ja": "Brush off your sunday salaam",
+          "ko": "일요일 인사도 털고"
+        },
+        {
+          "start": 24067.359,
+          "end": 24072.3,
+          "ja": "Then come and meet his spectacular coterie!",
+          "ko": "그의 화려한 수행단을 만나 봐"
+        },
+        {
+          "start": 24072.34,
+          "end": 24077.803,
+          "ja": "Prince Ali - mighty is he - Ali Ababwa",
+          "ko": "알리 왕자님 위대한 그 알리 아바브와"
+        },
+        {
+          "start": 24077.843,
+          "end": 24083.329,
+          "ja": "Strong as ten regular men definitely",
+          "ko": "보통 사내 열 명만큼 강해 정말로"
+        },
+        {
+          "start": 24083.369,
+          "end": 24085.326,
+          "ja": "He faced the galloping hordes!",
+          "ko": "질주하는 무리를 맞섰어"
+        },
+        {
+          "start": 24085.366,
+          "end": 24087.16,
+          "ja": "A hundred bad guys with swords!",
+          "ko": "검 든 악당 백 명을"
+        },
+        {
+          "start": 24087.2,
+          "end": 24089.319,
+          "ja": "Who sent those goons to their lords?",
+          "ko": "그 깡패들을 주인에게 보낸 건 누구"
+        },
+        {
+          "start": 24089.36,
+          "end": 24091.561,
+          "ja": "Why- Prince Ali!",
+          "ko": "왜 알리 왕자님이지"
+        },
+        {
+          "start": 24091.601,
+          "end": 24091.701,
+          "ja": "(Men)",
+          "ko": "남자들"
+        },
+        {
+          "start": 24091.717,
+          "end": 24094.881,
+          "ja": "He's got seventy-five golden camels",
+          "ko": "그에겐 황금 낙타 일흔다섯 마리가 있어"
+        },
+        {
+          "start": 24094.921,
+          "end": 24096.541,
+          "ja": "(Don't they look lovely June?)",
+          "ko": "정말 사랑스럽지 않니 준"
+        },
+        {
+          "start": 24096.581,
+          "end": 24097.075,
+          "ja": "(Girls)",
+          "ko": "여자들"
+        },
+        {
+          "start": 24097.115,
+          "end": 24099.803,
+          "ja": "Purple peacocks he's got fifty-three!",
+          "ko": "자주빛 공작도 쉰세 마리나 있어"
+        },
+        {
+          "start": 24099.844,
+          "end": 24101.15,
+          "ja": "(Fabulous Harry, I love the feathers)",
+          "ko": "근사해 해리 깃털이 정말 좋아"
+        },
+        {
+          "start": 24101.19,
+          "end": 24106.433,
+          "ja": "When it comes to exotic type mammals...",
+          "ko": "이국적인 포유류라면"
+        },
+        {
+          "start": 24106.473,
+          "end": 24107.78,
+          "ja": "Has he gotta zoo-",
+          "ko": "동물원을 가졌어"
+        },
+        {
+          "start": 24107.82,
+          "end": 24108.674,
+          "ja": "I'm tellin' you!",
+          "ko": "내 말이야"
+        },
+        {
+          "start": 24108.714,
+          "end": 24110.984,
+          "ja": "It's a world class menagerie!",
+          "ko": "세계적인 동물원이야"
+        },
+        {
+          "start": 24111.024,
+          "end": 24115.732,
+          "ja": "Prince Ali - handsome as he - Ali Ababwa",
+          "ko": "알리 왕자님 잘생긴 그 알리 아바브와"
+        },
+        {
+          "start": 24115.773,
+          "end": 24120.992,
+          "ja": "That physique! How can I speak? Weak at the knee...",
+          "ko": "저 몸매 말이 나와 무릎이 풀려"
+        },
+        {
+          "start": 24121.032,
+          "end": 24124.405,
+          "ja": "Well get on out in that square",
+          "ko": "자 저 광장으로 나가"
+        },
+        {
+          "start": 24124.445,
+          "end": 24129.513,
+          "ja": "Adjust your veil and prepare",
+          "ko": "베일을 고쳐 쓰고 준비해"
+        },
+        {
+          "start": 24129.554,
+          "end": 24129.966,
+          "ja": "To gawk and grovel and stare at Prince Ali!",
+          "ko": "알리 왕자님을 넋 놓고 우러러보고 바라봐"
+        },
+        {
+          "start": 24130.006,
+          "end": 24132.509,
+          "ja": "He's got ninety-five white Persian monkeys",
+          "ko": "흰 페르시아 원숭이도 아흔다섯 마리나 있어"
+        },
+        {
+          "start": 24132.549,
+          "end": 24133.867,
+          "ja": "He's got the monkeys!",
+          "ko": "원숭이도 있어"
+        },
+        {
+          "start": 24133.907,
+          "end": 24134.691,
+          "ja": "Lets see the monkeys!",
+          "ko": "원숭이를 보자"
+        },
+        {
+          "start": 24134.732,
+          "end": 24137.385,
+          "ja": "And to view them he charges no fee!",
+          "ko": "보는 데 돈도 받지 않아"
+        },
+        {
+          "start": 24137.425,
+          "end": 24139.196,
+          "ja": "(He's generous! So generous!)",
+          "ko": "그는 관대해 정말 관대해"
+        },
+        {
+          "start": 24139.236,
+          "end": 24142.783,
+          "ja": "He's got slaves, he's got servants and flunkies.",
+          "ko": "노예도 하인도 부하도 있어"
+        },
+        {
+          "start": 24142.824,
+          "end": 24143.782,
+          "ja": "Proud to work for him-",
+          "ko": "그를 위해 일하는 걸 자랑스러워해"
+        },
+        {
+          "start": 24143.822,
+          "end": 24145.338,
+          "ja": "They bow to his whim-",
+          "ko": "그의 뜻에 고개 숙이고"
+        },
+        {
+          "start": 24145.378,
+          "end": 24145.918,
+          "ja": "Love serving him!",
+          "ko": "그를 모시는 걸 사랑해"
+        },
+        {
+          "start": 24145.959,
+          "end": 24147.706,
+          "ja": "They're just lousy with loyalty",
+          "ko": "충성심이 넘쳐나"
+        },
+        {
+          "start": 24147.746,
+          "end": 24150.109,
+          "ja": "To Ali!",
+          "ko": "알리에게"
+        },
+        {
+          "start": 24150.15,
+          "end": 24152.978,
+          "ja": "Prince Ali!",
+          "ko": "알리 왕자님"
+        }
+      ]
+    },
+    {
       "song_num": "015",
       "production_sequence": 15,
       "title": "The Other Side",
