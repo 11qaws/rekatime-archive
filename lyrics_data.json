@@ -80607,6 +80607,176 @@
       ]
     },
     {
+      "song_num": "012",
+      "production_sequence": 12,
+      "title": "Waiting in the Wings",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 23457.07,
+          "end": 23461.43,
+          "ja": "Guess we all are born with parts to play",
+          "ko": "우린 모두 맡을 배역을 타고나"
+        },
+        {
+          "start": 23461.47,
+          "end": 23468.663,
+          "ja": "Some of us are stars, and some are just in the way",
+          "ko": "누구는 별이 되고 누구는 그저 방해일 뿐이지"
+        },
+        {
+          "start": 23468.703,
+          "end": 23472.982,
+          "ja": "I know I was meant for glory",
+          "ko": "난 영광을 위해 태어난 걸 알아"
+        },
+        {
+          "start": 23473.022,
+          "end": 23477.127,
+          "ja": "But that's never what my story brings",
+          "ko": "하지만 내 이야긴 늘 그렇지 않아"
+        },
+        {
+          "start": 23477.167,
+          "end": 23483.35,
+          "ja": "And yet I keep on waiting",
+          "ko": "그래도 난 계속 기다려"
+        },
+        {
+          "start": 23483.39,
+          "end": 23486.276,
+          "ja": "When you have the passion and the drive",
+          "ko": "열정과 의지가 있다면"
+        },
+        {
+          "start": 23486.316,
+          "end": 23497.561,
+          "ja": "You expect your moment center stage to arrive",
+          "ko": "무대 한가운데 설 순간이 오길 바라지"
+        },
+        {
+          "start": 23497.601,
+          "end": 23500.277,
+          "ja": "I show up with heart a blazing",
+          "ko": "타오르는 마음 안고 나서"
+        },
+        {
+          "start": 23500.317,
+          "end": 23507.754,
+          "ja": "Ready to achieve amazing things",
+          "ko": "놀라운 일을 해낼 준비를 해"
+        },
+        {
+          "start": 23507.794,
+          "end": 23511.492,
+          "ja": "But I'm left waiting in the wings",
+          "ko": "하지만 난 무대 뒤에서 기다려"
+        },
+        {
+          "start": 23511.533,
+          "end": 23514.569,
+          "ja": "I hear my cue",
+          "ko": "내 차례 신호는 들려"
+        },
+        {
+          "start": 23514.609,
+          "end": 23517.576,
+          "ja": "And yet I'm kept there, waiting",
+          "ko": "그런데도 난 거기서 기다려"
+        },
+        {
+          "start": 23517.616,
+          "end": 23523.683,
+          "ja": "Know what to do",
+          "ko": "뭘 해야 할지 알아"
+        },
+        {
+          "start": 23523.723,
+          "end": 23534.712,
+          "ja": "It's always someone else who sings",
+          "ko": "늘 다른 누군가가 노래해"
+        },
+        {
+          "start": 23534.753,
+          "end": 23538.718,
+          "ja": "While I'm left waiting in the wings",
+          "ko": "난 무대 뒤에서 기다려"
+        },
+        {
+          "start": 23538.758,
+          "end": 23546.067,
+          "ja": "And so I keep on keeping on",
+          "ko": "그래서 난 계속 나아가"
+        },
+        {
+          "start": 23546.107,
+          "end": 23552.29,
+          "ja": "My chances come and then I blink and they're gone",
+          "ko": "기회는 오고 난 눈 깜빡이면 사라져"
+        },
+        {
+          "start": 23552.33,
+          "end": 23555.703,
+          "ja": "Always overlooked unfairly",
+          "ko": "늘 부당하게 외면당해"
+        },
+        {
+          "start": 23555.743,
+          "end": 23560.858,
+          "ja": "While pretending that it barely stings",
+          "ko": "별로 아프지 않은 척하면서"
+        },
+        {
+          "start": 23560.898,
+          "end": 23564.921,
+          "ja": "But it stings, yes it stings",
+          "ko": "하지만 아파 그래 아파"
+        },
+        {
+          "start": 23564.962,
+          "end": 23569.426,
+          "ja": "And I'll shed no tears",
+          "ko": "그래도 난 눈물은 안 흘려"
+        },
+        {
+          "start": 23569.466,
+          "end": 23572.642,
+          "ja": "I'll only keep on waiting",
+          "ko": "그저 계속 기다릴 뿐이야"
+        },
+        {
+          "start": 23572.682,
+          "end": 23576.346,
+          "ja": "If no one cheers",
+          "ko": "아무도 환호하지 않아도"
+        },
+        {
+          "start": 23576.386,
+          "end": 23579.492,
+          "ja": "Well, I can keep on waiting",
+          "ko": "그래도 난 계속 기다릴 수 있어"
+        },
+        {
+          "start": 23579.532,
+          "end": 23585.309,
+          "ja": "Who cares how loud",
+          "ko": "누가 상관해 얼마나 크게"
+        },
+        {
+          "start": 23585.349,
+          "end": 23590.649,
+          "ja": "The silence rings",
+          "ko": "침묵이 울려 퍼져도"
+        },
+        {
+          "start": 23590.689,
+          "end": 23594.4,
+          "ja": "You'll find me waiting in the wings",
+          "ko": "날 보게 될 거야 무대 뒤에서 기다리는"
+        }
+      ]
+    },
+    {
       "song_num": "013",
       "production_sequence": 13,
       "title": "How Far I'll Go",
