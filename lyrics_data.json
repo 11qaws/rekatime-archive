@@ -45105,194 +45105,6 @@
       ]
     },
     {
-      "song_num": "012",
-      "production_sequence": 12,
-      "title": "펭귄 댄스",
-      "is_manual": true,
-      "cues": [
-        {
-          "start": 9078.66,
-          "end": 9082.68,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9082.68,
-          "end": 9086.34,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9086.34,
-          "end": 9089.64,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9089.64,
-          "end": 9093.88,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9093.88,
-          "end": 9094.84,
-          "ja": "오른손!",
-          "ko": "오른손"
-        },
-        {
-          "start": 9094.84,
-          "end": 9098.4,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9098.4,
-          "end": 9101.68,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9101.68,
-          "end": 9105.72,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9105.72,
-          "end": 9107.86,
-          "ja": "오른손! 왼손!",
-          "ko": "오른손 왼손"
-        },
-        {
-          "start": 9107.86,
-          "end": 9111.24,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9111.24,
-          "end": 9114.58,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9114.58,
-          "end": 9118.42,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9118.42,
-          "end": 9121.66,
-          "ja": "오른손! 왼손! 오른발!",
-          "ko": "오른손 왼손 오른발"
-        },
-        {
-          "start": 9121.66,
-          "end": 9125.1,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9125.1,
-          "end": 9128.5,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9128.5,
-          "end": 9132.48,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9132.48,
-          "end": 9136.4,
-          "ja": "오른손! 왼손! 오른발! 왼발!",
-          "ko": "오른손 왼손 오른발 왼발"
-        },
-        {
-          "start": 9136.4,
-          "end": 9139.74,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9139.74,
-          "end": 9143.26,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9143.26,
-          "end": 9147.26,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9147.26,
-          "end": 9151.06,
-          "ja": "오른손! 왼손! 오른발! 왼발!",
-          "ko": "오른손 왼손 오른발 왼발"
-        },
-        {
-          "start": 9151.06,
-          "end": 9152.1,
-          "ja": "고개 끄덕!",
-          "ko": "고개 끄덕"
-        },
-        {
-          "start": 9152.1,
-          "end": 9155.56,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9155.56,
-          "end": 9159.3,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9159.52,
-          "end": 9163.02,
-          "ja": "펭귄 차렷! 펭귄 인사!",
-          "ko": "펭귄 차렷 펭귄 인사"
-        },
-        {
-          "start": 9163.02,
-          "end": 9166.82,
-          "ja": "오른손! 왼손! 오른발! 왼발!",
-          "ko": "오른손 왼손 오른발 왼발"
-        },
-        {
-          "start": 9166.82,
-          "end": 9168.88,
-          "ja": "고개 끄덕! 빙글 돌아!",
-          "ko": "고개 끄덕 빙글 돌아"
-        },
-        {
-          "start": 9168.88,
-          "end": 9172.22,
-          "ja": "펭귄과 함께 신나는 펭귄 댄스!",
-          "ko": "펭귄과 함께 신나는 펭귄 댄스"
-        },
-        {
-          "start": 9172.22,
-          "end": 9175.52,
-          "ja": "음악에 맞춰 귀엽게 춤춰요.",
-          "ko": "음악에 맞춰 귀엽게 춤춰요"
-        },
-        {
-          "start": 9175.52,
-          "end": 9180.64,
-          "ja": "펭귄 차렷! 펭귄 인사, 끝!",
-          "ko": "펭귄 차렷 펭귄 인사 끝"
-        }
-      ]
-    },
-    {
       "song_num": "013",
       "production_sequence": 13,
       "title": "고음충 음역 테스트",
@@ -61573,218 +61385,6 @@
       ]
     },
     {
-      "song_num": "015",
-      "production_sequence": 15,
-      "title": "U.N. Owen was Her?",
-      "is_manual": true,
-      "cues": [
-        {
-          "start": 13243.035,
-          "end": 13246.26,
-          "ja": "10…  9…  8…  7…  6…  5…  4…  3-2-1!",
-          "ko": "10 9 8 7 6 5 4 3 2 1"
-        },
-        {
-          "start": 13246.26,
-          "end": 13249.32,
-          "ja": "Ready, ready, are you ready?",
-          "ko": "준비됐어 준비됐어 정말 준비됐어"
-        },
-        {
-          "start": 13249.32,
-          "end": 13252.08,
-          "ja": "One more round of hide-and-seek.",
-          "ko": "숨바꼭질 한 판 더"
-        },
-        {
-          "start": 13252.08,
-          "end": 13255.36,
-          "ja": "Make this match a good match for me.",
-          "ko": "이번 승부는 내가 즐겁게 해 줘"
-        },
-        {
-          "start": 13255.36,
-          "end": 13258.3,
-          "ja": "I don’t need a friend who’s weak.",
-          "ko": "약한 친구는 필요 없어"
-        },
-        {
-          "start": 13258.3,
-          "end": 13261.72,
-          "ja": "Oh my soldier, where are you hiding?",
-          "ko": "오 나의 병정아 어디 숨었니"
-        },
-        {
-          "start": 13261.72,
-          "end": 13264.56,
-          "ja": "Mirrors within mirrors all around, and no reflection cast.",
-          "ko": "거울 속 거울이 사방에 가득한데 비친 모습은 하나도 없어"
-        },
-        {
-          "start": 13264.56,
-          "end": 13267.42,
-          "ja": "Your misguiding makes it exciting:",
-          "ko": "네가 길을 헤매게 하니 더 신나"
-        },
-        {
-          "start": 13267.42,
-          "end": 13270.48,
-          "ja": "I can’t even tell what I’m looking at!",
-          "ko": "내가 뭘 보고 있는지도 모르겠어"
-        },
-        {
-          "start": 13270.76,
-          "end": 13274.12,
-          "ja": "Oh my soldier, where are you going?",
-          "ko": "오 나의 병정아 어디 가니"
-        },
-        {
-          "start": 13274.12,
-          "end": 13276.94,
-          "ja": "I should know that this is the kind of place that can’t be left.",
-          "ko": "여긴 떠날 수 없는 곳인 걸 알아야지"
-        },
-        {
-          "start": 13276.94,
-          "end": 13280.16,
-          "ja": "Like fresh blood, once spilt, gets to flowing:",
-          "ko": "갓 흘린 피가 흐르기 시작하듯"
-        },
-        {
-          "start": 13280.16,
-          "end": 13283.4,
-          "ja": "Our little game isn’t over yet!",
-          "ko": "우리 놀이는 아직 안 끝났어"
-        },
-        {
-          "start": 13284.4,
-          "end": 13287.9,
-          "ja": "( “Patterns… The patterns are so pretty!",
-          "ko": "무늬들 무늬가 정말 예뻐"
-        },
-        {
-          "start": 13288.04,
-          "end": 13291.56,
-          "ja": "Here’s another!  Can you find your way through this maze?",
-          "ko": "여기 또 하나 이 미로를 빠져나갈 길을 찾겠어"
-        },
-        {
-          "start": 13291.66,
-          "end": 13295.26,
-          "ja": "A maze like this sometimes gets a little tight and scary.",
-          "ko": "이런 미로는 가끔 좁고 무서울 때도 있어"
-        },
-        {
-          "start": 13295.64,
-          "end": 13297.92,
-          "ja": "And if you touch the edge, you’ll…",
-          "ko": "가장자리에 닿으면"
-        },
-        {
-          "start": 13298.98,
-          "end": 13302.46,
-          "ja": "Well, don’t touch the edge, okay?  That’s part of the game!” )",
-          "ko": "그러니까 가장자리는 건드리지 마 알았지 그것도 놀이의 일부야"
-        },
-        {
-          "start": 13303.98,
-          "end": 13305.02,
-          "ja": "Seven colors~",
-          "ko": "일곱 빛깔"
-        },
-        {
-          "start": 13305.02,
-          "end": 13308.68,
-          "ja": "My rainbow misses something still.",
-          "ko": "내 무지개엔 아직 뭔가 빠졌어"
-        },
-        {
-          "start": 13308.68,
-          "end": 13311.72,
-          "ja": "My favorite shade of scarlet will",
-          "ko": "내가 가장 좋아하는 진홍빛은"
-        },
-        {
-          "start": 13311.72,
-          "end": 13314.9,
-          "ja": "Increase until I have my fill—",
-          "ko": "내가 실컷 채울 때까지 짙어질 거야"
-        },
-        {
-          "start": 13314.9,
-          "end": 13317.78,
-          "ja": "Lonely, lonely, I’ll be lonely,",
-          "ko": "외로워 외로워 또 외로워질 거야"
-        },
-        {
-          "start": 13317.78,
-          "end": 13320.58,
-          "ja": "If you leave me like before.",
-          "ko": "예전처럼 네가 날 떠나면"
-        },
-        {
-          "start": 13320.58,
-          "end": 13323.9,
-          "ja": "All forbidden in name only,",
-          "ko": "금지라는 것도 이름뿐"
-        },
-        {
-          "start": 13323.9,
-          "end": 13326.68,
-          "ja": "There’s no limit anymore.",
-          "ko": "이제 아무런 한계도 없어"
-        },
-        {
-          "start": 13326.68,
-          "end": 13330.88,
-          "ja": "Shame, for now, this playtime is ending;",
-          "ko": "아쉬워라 이제 놀이 시간이 끝나 가"
-        },
-        {
-          "start": 13330.88,
-          "end": 13333.74,
-          "ja": "My new toy is broken again, like everything I touch.",
-          "ko": "내 새 장난감도 또 부서졌네 내가 만진 모든 것처럼"
-        },
-        {
-          "start": 13333.74,
-          "end": 13337.0,
-          "ja": "If it snaps with such easy bending:",
-          "ko": "이렇게 쉽게 휘어 부러진다면"
-        },
-        {
-          "start": 13337.0,
-          "end": 13339.86,
-          "ja": "Well, I guess it was never worth that much!",
-          "ko": "뭐 그리 값진 것도 아니었겠지"
-        },
-        {
-          "start": 13340.18,
-          "end": 13343.56,
-          "ja": "Oh my soldier, where are you going?",
-          "ko": "오 나의 병정아 어디 가니"
-        },
-        {
-          "start": 13343.56,
-          "end": 13346.3,
-          "ja": "Hungering for more, as the number dwindles down to one.",
-          "ko": "하나만 남을수록 더 허기져"
-        },
-        {
-          "start": 13346.3,
-          "end": 13349.46,
-          "ja": "No fear showing, deep in un-knowing:",
-          "ko": "겁은 보이지 않은 채 깊은 무지 속에서"
-        },
-        {
-          "start": 13349.46,
-          "end": 13352.04,
-          "ja": "Glanced again, and then…there were none?",
-          "ko": "다시 보니 아무도 없네"
-        }
-      ]
-    },
-    {
       "song_num": "016",
       "production_sequence": 16,
       "title": "INSANE",
@@ -76577,6 +76177,374 @@
       ]
     },
     {
+      "song_num": "024",
+      "production_sequence": 24,
+      "title": "7 years",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 15971.3,
+          "end": 15976.04,
+          "ja": "Once, I was seven years old, my mama told me",
+          "ko": "그때 난 일곱 살이었고 엄마는 말했지"
+        },
+        {
+          "start": 15976.04,
+          "end": 15979.22,
+          "ja": "\"Go make yourself some friends, or you'll be lonely\"",
+          "ko": "친구를 좀 사귀렴 안 그러면 외로울 거야"
+        },
+        {
+          "start": 15979.22,
+          "end": 15982.54,
+          "ja": "Once, I was seven years old",
+          "ko": "그때 난 일곱 살이었어"
+        },
+        {
+          "start": 15986.9,
+          "end": 15991.98,
+          "ja": "It was a big-big world, but we thought we were bigger",
+          "ko": "세상은 아주 컸지만 우린 우리가 더 큰 줄 알았어"
+        },
+        {
+          "start": 15992.34,
+          "end": 15994.28,
+          "ja": "Pushing each other to the limits,",
+          "ko": "서로를 한계까지 밀어붙이며"
+        },
+        {
+          "start": 15994.28,
+          "end": 15995.68,
+          "ja": "we were learning quicker",
+          "ko": "더 빨리 배웠지"
+        },
+        {
+          "start": 15995.68,
+          "end": 15999.82,
+          "ja": "By 11, smoking herb and drinking burning liquor",
+          "ko": "열한 살엔 대마초를 피우고 독한 술을 마셨어"
+        },
+        {
+          "start": 15999.82,
+          "end": 16003.76,
+          "ja": "Never rich, so we were out to make that steady figure",
+          "ko": "부자가 아니었기에 꾸준히 돈 벌 길을 찾았지"
+        },
+        {
+          "start": 16003.76,
+          "end": 16008.06,
+          "ja": "Once, I was 11 years old, my daddy told me",
+          "ko": "그때 난 열한 살이었고 아빠는 말했지"
+        },
+        {
+          "start": 16008.06,
+          "end": 16011.3,
+          "ja": "\"Go get yourself a wife, or you'll be lonely\"",
+          "ko": "아내를 맞이하렴 안 그러면 외로울 거야"
+        },
+        {
+          "start": 16011.3,
+          "end": 16014.54,
+          "ja": "Once, I was 11 years old",
+          "ko": "그때 난 열한 살이었어"
+        },
+        {
+          "start": 16020.12,
+          "end": 16023.82,
+          "ja": "I always had that dream like my daddy before me",
+          "ko": "늘 아빠가 그랬듯 나도 그런 꿈을 꿨어"
+        },
+        {
+          "start": 16023.82,
+          "end": 16027.58,
+          "ja": "So I started writing songs, I started writing stories",
+          "ko": "그래서 노래를 쓰고 이야기를 쓰기 시작했지"
+        },
+        {
+          "start": 16027.58,
+          "end": 16029.66,
+          "ja": "Something about the glory",
+          "ko": "명예란 건"
+        },
+        {
+          "start": 16029.66,
+          "end": 16031.84,
+          "ja": "just always seemed to bore me",
+          "ko": "늘 따분하게만 느껴졌어"
+        },
+        {
+          "start": 16031.84,
+          "end": 16034.12,
+          "ja": "'Cause only those I really love",
+          "ko": "내가 정말 사랑하는 사람들만이"
+        },
+        {
+          "start": 16034.12,
+          "end": 16035.82,
+          "ja": "will ever really know me",
+          "ko": "진짜 나를 알 테니까"
+        },
+        {
+          "start": 16035.82,
+          "end": 16040.02,
+          "ja": "Once, I was 20 years old, my story got told",
+          "ko": "스무 살이던 때 내 이야기가 세상에 알려졌어"
+        },
+        {
+          "start": 16040.02,
+          "end": 16043.38,
+          "ja": "Before the morning sun, when life was lonely",
+          "ko": "동트기 전 외롭던 삶 속에서"
+        },
+        {
+          "start": 16043.38,
+          "end": 16046.72,
+          "ja": "Once, I was 20 years old",
+          "ko": "그때 난 스무 살이었어"
+        },
+        {
+          "start": 16047.0,
+          "end": 16049.15,
+          "ja": "(Lukas Graham!)",
+          "ko": "루카스 그레이엄"
+        },
+        {
+          "start": 16052.15,
+          "end": 16055.77,
+          "ja": "I only see my goals, I don't believe in failure",
+          "ko": "목표만 바라봐 실패는 믿지 않아"
+        },
+        {
+          "start": 16055.77,
+          "end": 16058.25,
+          "ja": "'Cause I know the smallest voices,",
+          "ko": "가장 작은 목소리도"
+        },
+        {
+          "start": 16058.25,
+          "end": 16059.83,
+          "ja": "they can make it major",
+          "ko": "크게 울릴 수 있다는 걸 아니까"
+        },
+        {
+          "start": 16059.83,
+          "end": 16063.67,
+          "ja": "I got my boys with me, at least those in favor",
+          "ko": "내 편인 녀석들만큼은 곁에 있어"
+        },
+        {
+          "start": 16063.67,
+          "end": 16066.15,
+          "ja": "And if we don't meet before I leave,",
+          "ko": "내가 떠나기 전에 못 만나면"
+        },
+        {
+          "start": 16066.15,
+          "end": 16067.73,
+          "ja": "I hope I'll see you later",
+          "ko": "나중에는 보길 바라"
+        },
+        {
+          "start": 16067.73,
+          "end": 16072.19,
+          "ja": "Once, I was 20 years old, my story got told",
+          "ko": "스무 살이던 때 내 이야기가 세상에 알려졌어"
+        },
+        {
+          "start": 16072.19,
+          "end": 16075.51,
+          "ja": "I was writing 'bout everything, I saw before me",
+          "ko": "눈앞에서 본 모든 걸 글로 쓰고 있었어"
+        },
+        {
+          "start": 16075.51,
+          "end": 16078.79,
+          "ja": "Once, I was 20 years old",
+          "ko": "그때 난 스무 살이었어"
+        },
+        {
+          "start": 16083.32,
+          "end": 16088.07,
+          "ja": "Soon, we'll be 30 years old, our songs have been sold",
+          "ko": "머잖아 우린 서른 살이 되고 우리 노래는 팔리겠지"
+        },
+        {
+          "start": 16088.07,
+          "end": 16090.11,
+          "ja": "We've traveled around the world,",
+          "ko": "세계를 돌았지만"
+        },
+        {
+          "start": 16090.11,
+          "end": 16091.39,
+          "ja": "and we're still roaming",
+          "ko": "여전히 떠돌고 있어"
+        },
+        {
+          "start": 16091.39,
+          "end": 16094.41,
+          "ja": "Soon, we'll be 30 years old",
+          "ko": "머잖아 우린 서른 살이 될 거야"
+        },
+        {
+          "start": 16100.25,
+          "end": 16102.03,
+          "ja": "I'm still learning about life,",
+          "ko": "아직 삶을 배우는 중이고"
+        },
+        {
+          "start": 16102.03,
+          "end": 16103.87,
+          "ja": "my woman brought children for me",
+          "ko": "내 여자는 내게 아이들을 안겨 줬어"
+        },
+        {
+          "start": 16103.87,
+          "end": 16106.15,
+          "ja": "So I can sing them all my songs,",
+          "ko": "그래서 내 노래를 모두 들려주고"
+        },
+        {
+          "start": 16106.15,
+          "end": 16107.77,
+          "ja": "and I can tell them stories",
+          "ko": "이야기도 해 줄 수 있어"
+        },
+        {
+          "start": 16107.77,
+          "end": 16109.93,
+          "ja": "Most of my boys are with me,",
+          "ko": "친구들 대부분은 곁에 있고"
+        },
+        {
+          "start": 16109.93,
+          "end": 16111.71,
+          "ja": "some are still out seeking glory",
+          "ko": "몇은 아직 영광을 좇아"
+        },
+        {
+          "start": 16111.71,
+          "end": 16114.03,
+          "ja": "And some I had to leave behind,",
+          "ko": "몇은 뒤에 두고 와야 했어"
+        },
+        {
+          "start": 16114.03,
+          "end": 16115.69,
+          "ja": "my brother, I'm still sorry",
+          "ko": "형제여 아직도 미안해"
+        },
+        {
+          "start": 16115.69,
+          "end": 16119.89,
+          "ja": "Soon, I'll be 60 years old, my daddy got 61",
+          "ko": "머잖아 난 예순이 되고 아빠는 예순한 살이 됐지"
+        },
+        {
+          "start": 16119.89,
+          "end": 16123.6,
+          "ja": "Remember life and then your life becomes a better one",
+          "ko": "삶을 기억해 그러면 네 삶은 더 나은 것이 돼"
+        },
+        {
+          "start": 16123.6,
+          "end": 16125.8,
+          "ja": "I made the man so happy",
+          "ko": "한 번 편지를 썼을 때 아버지를"
+        },
+        {
+          "start": 16125.8,
+          "end": 16127.66,
+          "ja": "when I wrote a letter once",
+          "ko": "정말 기쁘게 했어"
+        },
+        {
+          "start": 16127.66,
+          "end": 16130.12,
+          "ja": "I hope my children come and visit,",
+          "ko": "아이들이 찾아오면 좋겠어"
+        },
+        {
+          "start": 16130.12,
+          "end": 16131.58,
+          "ja": "once or twice a month",
+          "ko": "한 달에 한두 번"
+        },
+        {
+          "start": 16131.58,
+          "end": 16134.34,
+          "ja": "Soon, I'll be 60 years old,",
+          "ko": "머잖아 난 예순이 돼"
+        },
+        {
+          "start": 16134.34,
+          "end": 16136.14,
+          "ja": "will I think the world is cold?",
+          "ko": "세상이 차갑다고 생각할까"
+        },
+        {
+          "start": 16136.14,
+          "end": 16139.56,
+          "ja": "Or will I have a lot of children who can warm me?",
+          "ko": "아니면 나를 따뜻하게 해 줄 아이들이 많을까"
+        },
+        {
+          "start": 16139.56,
+          "end": 16142.96,
+          "ja": "Soon, I'll be 60 years old",
+          "ko": "머잖아 난 예순이 될 거야"
+        },
+        {
+          "start": 16147.34,
+          "end": 16150.24,
+          "ja": "Soon, I'll be 60 years old,",
+          "ko": "머잖아 난 예순이 돼"
+        },
+        {
+          "start": 16150.24,
+          "end": 16152.14,
+          "ja": "will I think the world is cold?",
+          "ko": "세상이 차갑다고 생각할까"
+        },
+        {
+          "start": 16152.14,
+          "end": 16155.6,
+          "ja": "Or will I have a lot of children who can hold me?",
+          "ko": "아니면 나를 안아 줄 아이들이 많을까"
+        },
+        {
+          "start": 16155.6,
+          "end": 16159.04,
+          "ja": "Soon, I'll be 60 years old",
+          "ko": "머잖아 난 예순이 될 거야"
+        },
+        {
+          "start": 16163.74,
+          "end": 16168.06,
+          "ja": "Once, I was seven years old, my mama told me",
+          "ko": "그때 난 일곱 살이었고 엄마는 말했지"
+        },
+        {
+          "start": 16168.06,
+          "end": 16171.56,
+          "ja": "\"Go make yourself some friends, or you'll be lonely\"",
+          "ko": "친구를 좀 사귀렴 안 그러면 외로울 거야"
+        },
+        {
+          "start": 16171.86,
+          "end": 16174.74,
+          "ja": "Once, I was seven years old",
+          "ko": "그때 난 일곱 살이었어"
+        },
+        {
+          "start": 16179.82,
+          "end": 16183.275,
+          "ja": "Once, I was seven years old",
+          "ko": "그때 난 일곱 살이었어"
+        }
+      ]
+    },
+    {
       "song_num": "027",
       "production_sequence": 27,
       "title": "있지 윌리엄",
@@ -88691,6 +88659,140 @@
           "end": 20966.44,
           "ja": "あなたの名前は",
           "ko": "너의 이름은"
+        }
+      ]
+    },
+    {
+      "song_num": "031",
+      "production_sequence": 31,
+      "title": "한국을 빛낸 100명의 위인들",
+      "is_manual": false,
+      "cues": [
+        {
+          "start": 21183.261,
+          "end": 21187.49,
+          "ja": "",
+          "ko": "말 목 자른 김유신 통일 문무왕"
+        },
+        {
+          "start": 21187.51,
+          "end": 21191.797,
+          "ja": "",
+          "ko": "원효대사 해골 물 혜초 천축국"
+        },
+        {
+          "start": 21191.817,
+          "end": 21196.131,
+          "ja": "",
+          "ko": "바다의 왕자 장보고 발해 대조영"
+        },
+        {
+          "start": 21196.287,
+          "end": 21200.6,
+          "ja": "",
+          "ko": "귀주대첩 강감찬 서희 거란족"
+        },
+        {
+          "start": 21200.722,
+          "end": 21205.035,
+          "ja": "",
+          "ko": "무단 정치 정중부 화포 최무선"
+        },
+        {
+          "start": 21205.122,
+          "end": 21209.435,
+          "ja": "",
+          "ko": "죽림칠현 김부식"
+        },
+        {
+          "start": 21209.499,
+          "end": 21213.813,
+          "ja": "",
+          "ko": "지눌 국사 조계종 의천 천태종"
+        },
+        {
+          "start": 21213.865,
+          "end": 21218.164,
+          "ja": "",
+          "ko": "대마도 정벌 이종무"
+        },
+        {
+          "start": 21218.184,
+          "end": 21222.497,
+          "ja": "",
+          "ko": "일편단심 정몽주"
+        },
+        {
+          "start": 21222.619,
+          "end": 21226.932,
+          "ja": "",
+          "ko": "목화씨는 문익점"
+        },
+        {
+          "start": 21226.996,
+          "end": 21231.225,
+          "ja": "",
+          "ko": "해동공자 최충"
+        },
+        {
+          "start": 21231.245,
+          "end": 21235.559,
+          "ja": "",
+          "ko": "삼국유사 일연"
+        },
+        {
+          "start": 21235.749,
+          "end": 21239.979,
+          "ja": "",
+          "ko": "역사는 흐른다"
+        },
+        {
+          "start": 21239.999,
+          "end": 21244.263,
+          "ja": "",
+          "ko": "황금을 보기를 돌같이 하라"
+        },
+        {
+          "start": 21244.283,
+          "end": 21248.596,
+          "ja": "",
+          "ko": "최영 장군의 말씀 받들자"
+        },
+        {
+          "start": 21248.927,
+          "end": 21253.156,
+          "ja": "",
+          "ko": "황희 정승 맹사성 과학 장영실"
+        },
+        {
+          "start": 21253.176,
+          "end": 21257.489,
+          "ja": "",
+          "ko": "신숙주와 한명회 역사는 안다"
+        },
+        {
+          "start": 21257.669,
+          "end": 21261.84,
+          "ja": "",
+          "ko": "십만 양병 이율곡 주리 이퇴계"
+        },
+        {
+          "start": 21261.86,
+          "end": 21266.173,
+          "ja": "",
+          "ko": "신사임당 오죽헌"
+        },
+        {
+          "start": 21266.272,
+          "end": 21270.583,
+          "ja": "",
+          "ko": "잘 싸운다 곽재우 조헌 김시민"
+        },
+        {
+          "start": 21270.603,
+          "end": 21274.917,
+          "ja": "",
+          "ko": "나라 구한 이순신"
         }
       ]
     },
@@ -106715,266 +106817,6 @@
           "end": 19784.26,
           "ja": "正しさとは 自分のこと 強く信じることだ",
           "ko": "올바름이란 자신을 굳게 믿는 것"
-        }
-      ]
-    },
-    {
-      "song_num": "013",
-      "production_sequence": 13,
-      "title": "Tot Musica",
-      "is_manual": false,
-      "cues": [
-        {
-          "start": 20711.027,
-          "end": 20718.162,
-          "ja": "ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᚲ ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᛏ ᛏᚨᛏ ᛒᚱᚨᚲ",
-          "ko": "가 잔 타크 가 잔 탓 탓 브라크"
-        },
-        {
-          "start": 20718.162,
-          "end": 20725.55,
-          "ja": "ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᚲ ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᛏ ᛏᚨᛏ ᛒᚱᚨᚲ",
-          "ko": "가 잔 타크 가 잔 탓 탓 브라크"
-        },
-        {
-          "start": 20726.647,
-          "end": 20732.991,
-          "ja": "雨打つ心 彷徨う何処",
-          "ko": "비에 얻어맞는 마음은 어디를 헤매나"
-        },
-        {
-          "start": 20732.991,
-          "end": 20736.383,
-          "ja": "枯れ果てず湧く願いと涙",
-          "ko": "마르지 않고 솟는 소원과 눈물"
-        },
-        {
-          "start": 20736.383,
-          "end": 20741.236,
-          "ja": "解き放つ 呪を紡ぐ言の葉",
-          "ko": "해방하라 저주를 엮는 말들을"
-        },
-        {
-          "start": 20741.236,
-          "end": 20742.767,
-          "ja": "ᛗᛁᛖ ᚾᛖᚷ ᛟᚾ ᚷᛁᛖᚲ ᚷᛁᛖᚲ",
-          "ko": "미에 네그 온 기에크 기에크"
-        },
-        {
-          "start": 20742.767,
-          "end": 20745.309,
-          "ja": "ᚾᚨᚺ ᛈᚺᚨᛋ ᛏᛖᛉᛉᛖ ᛚᚨᚺ",
-          "ko": "나 파스 테제 라"
-        },
-        {
-          "start": 20745.309,
-          "end": 20748.581,
-          "ja": "Wow-hey-wow",
-          "ko": "워 헤이 워"
-        },
-        {
-          "start": 20748.581,
-          "end": 20751.993,
-          "ja": "死をも転がす救いの讃歌",
-          "ko": "죽음마저 뒤엎는 구원의 찬가"
-        },
-        {
-          "start": 20751.993,
-          "end": 20754.824,
-          "ja": "求められたる救世主",
-          "ko": "갈구해 온 구세주"
-        },
-        {
-          "start": 20754.824,
-          "end": 20762.289,
-          "ja": "祈りの間で惑う",
-          "ko": "기도 사이에서 헤매"
-        },
-        {
-          "start": 20762.289,
-          "end": 20769.023,
-          "ja": "唯 海の凪ぐ未来を乞う",
-          "ko": "오직 바다가 잔잔해질 미래를 빌어"
-        },
-        {
-          "start": 20769.023,
-          "end": 20772.575,
-          "ja": "その傲岸無礼な慟哭を",
-          "ko": "그 오만불손한 통곡을"
-        },
-        {
-          "start": 20772.575,
-          "end": 20776.468,
-          "ja": "惰性なき愁いには忘却を",
-          "ko": "타성 없는 슬픔에는 망각을"
-        },
-        {
-          "start": 20776.468,
-          "end": 20779.79,
-          "ja": "さあ 混沌の時代には終止符を",
-          "ko": "자 혼돈의 시대에 종지부를"
-        },
-        {
-          "start": 20779.79,
-          "end": 20784.103,
-          "ja": "いざ無礙に blah blah blah!",
-          "ko": "자 거침없이 blah blah blah"
-        },
-        {
-          "start": 20784.103,
-          "end": 20788.105,
-          "ja": "無条件 絶対 激昂なら singing the song",
-          "ko": "무조건 절대 격앙이라면 singing the song"
-        },
-        {
-          "start": 20788.105,
-          "end": 20791.877,
-          "ja": "如何せん罵詈雑言でも singing the song",
-          "ko": "아무리 온갖 욕설이어도 singing the song"
-        },
-        {
-          "start": 20791.877,
-          "end": 20795.409,
-          "ja": "有象無象の Big Bang 慈しみ深く",
-          "ko": "온갖 군상의 Big Bang 자비롭게"
-        },
-        {
-          "start": 20795.409,
-          "end": 20801.08,
-          "ja": "怒れ 集え 謳え 破滅の譜を",
-          "ko": "분노하라 모여라 노래하라 파멸의 악보를"
-        },
-        {
-          "start": 20803.615,
-          "end": 20805.426,
-          "ja": "ᛗᛁᛖ ᚾᛖᚷ ᛟᚾ ᚷᛁᛖᚲ ᚷᛁᛖᚲ",
-          "ko": "미에 네그 온 기에크 기에크"
-        },
-        {
-          "start": 20805.426,
-          "end": 20808.077,
-          "ja": "ᚾᚨᚺ ᛈᚺᚨᛋ ᛏᛖᛉᛉᛖ ᛚᚨᚺ",
-          "ko": "나 파스 테제 라"
-        },
-        {
-          "start": 20808.077,
-          "end": 20810.979,
-          "ja": "Wow-hey-wow",
-          "ko": "워 헤이 워"
-        },
-        {
-          "start": 20810.979,
-          "end": 20814.531,
-          "ja": "誓い立てし自由 手にして謳歌",
-          "ko": "맹세해 세운 자유를 손에 넣고 구가해"
-        },
-        {
-          "start": 20814.531,
-          "end": 20817.613,
-          "ja": "平伏されたる救世主",
-          "ko": "모두가 엎드린 구세주"
-        },
-        {
-          "start": 20817.613,
-          "end": 20824.878,
-          "ja": "逃亡の果て望む希望",
-          "ko": "도피의 끝에 바라는 희망"
-        },
-        {
-          "start": 20824.878,
-          "end": 20831.532,
-          "ja": "忘れじの灯火を纏う",
-          "ko": "잊지 못할 등불을 두르고"
-        },
-        {
-          "start": 20831.532,
-          "end": 20835.384,
-          "ja": "その身が尽きるまで奏でよ",
-          "ko": "그 몸이 다할 때까지 연주하라"
-        },
-        {
-          "start": 20835.384,
-          "end": 20838.926,
-          "ja": "夢見うつつ崇めよ",
-          "ko": "꿈과 현실 사이 숭배하라"
-        },
-        {
-          "start": 20838.926,
-          "end": 20842.468,
-          "ja": "全てを照らし出す光を",
-          "ko": "모든 것을 비추는 빛을"
-        },
-        {
-          "start": 20842.468,
-          "end": 20846.241,
-          "ja": "いざ無礙に blah blah blah!",
-          "ko": "자 거침없이 blah blah blah"
-        },
-        {
-          "start": 20846.241,
-          "end": 20850.003,
-          "ja": "その傲岸無礼な慟哭を",
-          "ko": "그 오만불손한 통곡을"
-        },
-        {
-          "start": 20850.003,
-          "end": 20853.846,
-          "ja": "残響激励すら忘却を",
-          "ko": "울려 퍼진 격려마저 망각을"
-        },
-        {
-          "start": 20853.846,
-          "end": 20857.338,
-          "ja": "さあ 混沌の時代には終止符を",
-          "ko": "자 혼돈의 시대에 종지부를"
-        },
-        {
-          "start": 20857.338,
-          "end": 20861.59,
-          "ja": "いざ無礙に blah blah blah!",
-          "ko": "자 거침없이 blah blah blah"
-        },
-        {
-          "start": 20861.59,
-          "end": 20865.373,
-          "ja": "無条件 絶対 激昂なら singing the song",
-          "ko": "무조건 절대 격앙이라면 singing the song"
-        },
-        {
-          "start": 20865.373,
-          "end": 20869.015,
-          "ja": "如何せん罵詈雑言でも singing the song",
-          "ko": "아무리 온갖 욕설이어도 singing the song"
-        },
-        {
-          "start": 20869.015,
-          "end": 20872.807,
-          "ja": "有象無象の Big Bang 慈しみ深く",
-          "ko": "온갖 군상의 Big Bang 자비롭게"
-        },
-        {
-          "start": 20872.807,
-          "end": 20879.261,
-          "ja": "怒れ 集え 謳え 破滅の譜を",
-          "ko": "분노하라 모여라 노래하라 파멸의 악보를"
-        },
-        {
-          "start": 20879.261,
-          "end": 20884.514,
-          "ja": "Oh-oh-oh, ah-ah",
-          "ko": "오 오 오 아 아"
-        },
-        {
-          "start": 20884.514,
-          "end": 20892.229,
-          "ja": "ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᚲ ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᛏ ᛏᚨᛏ ᛒᚱᚨᚲ",
-          "ko": "가 잔 타크 가 잔 탓 탓 브라크"
-        },
-        {
-          "start": 20892.229,
-          "end": 20895.7,
-          "ja": "ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᚲ ᚷᚨᚺ ᛉᚨᚾ ᛏᚨᛏ ᛏᚨᛏ ᛒᚱᚨᚲ",
-          "ko": "가 잔 타크 가 잔 탓 탓 브라크"
         }
       ]
     }
