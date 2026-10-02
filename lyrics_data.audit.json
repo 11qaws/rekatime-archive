@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-02T19:17:14.268923+00:00",
+  "generated_at": "2026-10-02T19:21:38.450875+00:00",
   "lyrics_data_path": "D:\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "927fa7edaa4151ec883f70861afc037674881bf6b6048af35619656caa6e41cc",
   "managed_song_count": 505,
@@ -4162,6 +4162,12 @@
       "source_job": "chzzk-15051325",
       "sequence": 21,
       "error": "ambiguous archive performance: 15051325:021 열등상등"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 23,
+      "error": "ambiguous archive performance: 15051325:023 답장 아직일까? 아저씨 구문!"
     },
     {
       "youtube_job": "chzzk-15051325",
