@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-15T19:03:01.306064+00:00",
+  "generated_at": "2026-10-15T19:08:10.162940+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
   "managed_song_count": 556,
@@ -25,6 +25,12 @@
       "error": "archive classification is not audited: 14524675"
     },
     {
+      "youtube_job": "chzzk-15033796",
+      "source_job": "chzzk-15033796",
+      "sequence": 2,
+      "error": "archive classification is not audited: 15033796"
+    },
+    {
       "youtube_job": "chzzk-14756908",
       "source_job": "chzzk-14756908",
       "sequence": 2,
@@ -35,12 +41,6 @@
       "source_job": "chzzk-14756908",
       "sequence": 18,
       "error": "archive classification is not audited: 14756908"
-    },
-    {
-      "youtube_job": "chzzk-15033796",
-      "source_job": "chzzk-15033796",
-      "sequence": 2,
-      "error": "archive classification is not audited: 15033796"
     },
     {
       "youtube_job": "OKegqxeOarE",
