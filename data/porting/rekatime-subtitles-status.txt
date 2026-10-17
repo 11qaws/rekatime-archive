@@ -16,6 +16,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-001_Stronger than you.srt
+곡 그룹ID: songbook:lcCJfB08VDF5FLNsu72G
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -33,6 +34,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-002_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: Ahoy!! 우리는 호쇼해적단☆
@@ -50,6 +52,7 @@ cue 수: 74
 가사 cue 수: 74
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-003_Ahoy!! 우리는 호쇼해적단☆.srt
+곡 그룹ID: songbook:XjhES25W2sX4C0ItKn00
 
 자료 유형: 노래 기록
 곡명: In Hell We Live, Lament
@@ -67,6 +70,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-004_In Hell We Live, Lament.srt
+곡 그룹ID: songbook:Mi9R2WaPiwsa6hrfDrx1
 
 자료 유형: 노래 기록
 곡명: 악마의 아이
@@ -84,6 +88,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-005_악마의 아이.srt
+곡 그룹ID: songbook:wXCYCkAKxsxQwclLIHPp
 
 자료 유형: 노래 기록
 곡명: Pretender
@@ -101,6 +106,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-006_Pretender.srt
+곡 그룹ID: songbook:4FhpW3YP2PQzGXmATCKU
 
 자료 유형: 노래 기록
 곡명: Rubia
@@ -118,6 +124,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-007_Rubia.srt
+곡 그룹ID: songbook:lZqTBIHNpF52XvqtmxXD
 
 자료 유형: 노래 기록
 곡명: DAYBREAK FRONTLINE
@@ -135,6 +142,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-008_DAYBREAK FRONTLINE.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 노래 기록
 곡명: Caramelldansen
@@ -152,6 +160,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-009_Caramelldansen.srt
+곡 그룹ID: songbook:jBkz28jyvo2FqzbOeAaB
 
 자료 유형: 노래 기록
 곡명: 야라라라
@@ -169,6 +178,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-010_야라라라.srt
+곡 그룹ID: songbook:oUwUKPIks3qUWd1rkhhX
 
 자료 유형: 노래 기록
 곡명: Rasputin
@@ -186,6 +196,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-011_Rasputin.srt
+곡 그룹ID: songbook:yyLLCTMBpMbK4Kp87CAP
 
 자료 유형: 노래 기록
 곡명: Drunken Sailor
@@ -203,6 +214,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-013_Drunken Sailor.srt
+곡 그룹ID: songbook:ohI1o7sEvuZaGrAypYKI
 
 자료 유형: 노래 기록
 곡명: 에일리언 에일리언
@@ -220,6 +232,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-014_에일리언 에일리언.srt
+곡 그룹ID: songbook:jgJ87moTOTdCLB9sOTwq
 
 자료 유형: 노래 기록
 곡명: 태양계 디스코
@@ -237,6 +250,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-015_태양계 디스코.srt
+곡 그룹ID: songbook:SsvJrICZYCPzU57dR1gt
 
 자료 유형: 노래 기록
 곡명: 댄스 로봇 댄스
@@ -254,6 +268,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 13
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-016_댄스 로봇 댄스.srt
+곡 그룹ID: songbook:lysxbzX1TjWauo83MNdj
 
 자료 유형: 노래 기록
 곡명: JANE DOE
@@ -271,6 +286,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-017_JANE DOE.srt
+곡 그룹ID: songbook:JBn7wMZVGTwZADIgEtBp
 
 자료 유형: 노래 기록
 곡명: 빙고
@@ -288,6 +304,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-018_빙고.srt
+곡 그룹ID: songbook:mALtVrCwmsDudsP8B4yf
 
 자료 유형: 노래 기록
 곡명: 만찬가
@@ -305,6 +322,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-019_만찬가.srt
+곡 그룹ID: songbook:C89StwnlXFvj0XPO4bGW
 
 자료 유형: 노래 기록
 곡명: Golden
@@ -322,6 +340,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-020_Golden.srt
+곡 그룹ID: songbook:jWi7kZq1ZKOa8022a2oB
 
 자료 유형: 노래 기록
 곡명: -ERROR
@@ -339,6 +358,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-021_-ERROR.srt
+곡 그룹ID: songbook:9aMDJHl7v0mfeYkuefNc
 
 자료 유형: 노래 기록
 곡명: How It’s Done
@@ -356,6 +376,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-022_How It’s Done.srt
+곡 그룹ID: songbook:PfkX92HB7ZfwAE40E3ck
 
 자료 유형: 노래 기록
 곡명: EZ DO DANCE
@@ -373,6 +394,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-023_EZ DO DANCE.srt
+곡 그룹ID: songbook:EmxfDMXNMQcG0CHZ30f0
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -390,6 +412,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-024_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: D/N/A
@@ -407,6 +430,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-025_D_N_A.srt
+곡 그룹ID: songbook:NChjb4rGnHwDp45yybQN
 
 자료 유형: 노래 기록
 곡명: 레인의 세계
@@ -424,6 +448,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-026_레인의 세계.srt
+곡 그룹ID: songbook:zd72wU1FgDODA0CKJJs3
 
 자료 유형: 노래 기록
 곡명: 감전
@@ -441,6 +466,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-027_감전.srt
+곡 그룹ID: songbook:3oZGWFc3W6V8mxBoMCXw
 
 자료 유형: 노래 기록
 곡명: Doki Doki Forever
@@ -458,6 +484,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-028_Doki Doki Forever.srt
+곡 그룹ID: songbook:9GzUyIwhEEfflS58GqZN
 
 자료 유형: 노래 기록
 곡명: Teeth
@@ -475,6 +502,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-029_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 노래 기록
 곡명: 프로포즈
@@ -492,6 +520,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-030_프로포즈.srt
+곡 그룹ID: songbook:3vOogwB4KsxlqYzib7Wt
 
 자료 유형: 노래 기록
 곡명: 프로포즈
@@ -509,6 +538,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-031_프로포즈.srt
+곡 그룹ID: songbook:AiUo7pgnIaA7bWQfYoj8
 
 자료 유형: 노래 기록
 곡명: 프로포즈
@@ -526,6 +556,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-032_프로포즈.srt
+곡 그룹ID: songbook:AiUo7pgnIaA7bWQfYoj8
 
 자료 유형: 노래 기록
 곡명: STAND PROUD
@@ -543,6 +574,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-033_STAND PROUD.srt
+곡 그룹ID: songbook:vp1YwGXCFtNris12pPAa
 
 자료 유형: 노래 기록
 곡명: 차가운 상어 아가씨
@@ -560,6 +592,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-034_차가운 상어 아가씨.srt
+곡 그룹ID: songbook:LoqPiEaon2A1u6fb2cHo
 
 자료 유형: 노래 기록
 곡명: 바움쿠헨 엔드롤
@@ -577,6 +610,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-035_바움쿠헨 엔드롤.srt
+곡 그룹ID: songbook:JzGZYdW9FSMp1L2bwHhU
 
 자료 유형: 노래 기록
 곡명: 서방님과 러브러브 러브송
@@ -594,6 +628,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-036_서방님과 러브러브 러브송.srt
+곡 그룹ID: songbook:n1fHCWsT5EXxSIHKAAsM
 
 자료 유형: 노래 기록
 곡명: 우이 밀밭의 파수꾼
@@ -611,6 +646,7 @@ cue 수: 83
 가사 cue 수: 83
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-037_우이 밀밭의 파수꾼.srt
+곡 그룹ID: songbook:557n9UqQ9Byl8TxFPnwg
 
 자료 유형: 노래 기록
 곡명: 영웅 운명의 시
@@ -628,6 +664,7 @@ cue 수: 71
 가사 cue 수: 71
 번역 없는 가사 cue 수: 2
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-038_영웅 운명의 시.srt
+곡 그룹ID: songbook:dXwbRKDMtMWSGUXHcAqE
 
 자료 유형: 노래 기록
 곡명: 오오카미 블루스
@@ -645,6 +682,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-14_YzJm-mk52WM-039_오오카미 블루스.srt
+곡 그룹ID: songbook:d00DKGwvSqNqle3oqiBr
 
 자료 유형: 노래 기록
 곡명: 꿈을 이루어줘 도라에몽
@@ -662,6 +700,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-001_꿈을 이루어줘 도라에몽.srt
+곡 그룹ID: songbook:Ye9sO1jiJxvBpZr0GoLz
 
 자료 유형: 노래 기록
 곡명: 진달래꽃
@@ -679,6 +718,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-004_진달래꽃.srt
+곡 그룹ID: songbook:IlIUyPHD4pVCwxhysmj1
 
 자료 유형: 노래 기록
 곡명: 모니터링
@@ -696,6 +736,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-005_모니터링.srt
+곡 그룹ID: songbook:RFQaEouFoKDoBP3VOTCU
 
 자료 유형: 노래 기록
 곡명: Lemon
@@ -713,6 +754,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-006_Lemon.srt
+곡 그룹ID: songbook:ntGfgZSTohqATGppqPKQ
 
 자료 유형: 노래 기록
 곡명: 언노운 마더 구스
@@ -730,6 +772,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-007_언노운 마더 구스.srt
+곡 그룹ID: songbook:0MvCyF5Zwgf9FznBNHQE
 
 자료 유형: 노래 기록
 곡명: We Are Number One
@@ -747,6 +790,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-008_We Are Number One.srt
+곡 그룹ID: songbook:fTO2urhziF6TJt1JpAQE
 
 자료 유형: 노래 기록
 곡명: 부엉이 ~부엉이가 손님이 왔다고 알리네~
@@ -764,6 +808,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-009_부엉이 ~부엉이가 손님이 왔다고 알리네~.srt
+곡 그룹ID: songbook:LCmEKXiwTFCE9otDPfDb
 
 자료 유형: 노래 기록
 곡명: Anti the EuphoriaHOLiC
@@ -781,6 +826,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-010_Anti the EuphoriaHOLiC.srt
+곡 그룹ID: songbook:r3NNvlw8ASYMVkt6uosb
 
 자료 유형: 노래 기록
 곡명: Mela!
@@ -798,6 +844,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-011_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 노래 기록
 곡명: 꽃이 되어줘
@@ -815,6 +862,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-012_꽃이 되어줘.srt
+곡 그룹ID: songbook:GQVUCaTP8tAJfL2K4e5E
 
 자료 유형: 노래 기록
 곡명: 아아, 훌륭한 고양이의 삶
@@ -832,6 +880,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-013_아아, 훌륭한 고양이의 삶.srt
+곡 그룹ID: songbook:OW5l5VzV5U4p7rALt5rD
 
 자료 유형: 노래 기록
 곡명: +♂️
@@ -849,6 +898,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-014_+♂️.srt
+곡 그룹ID: songbook:nAoK2MNaNTXq8hhNMsKR
 
 자료 유형: 노래 기록
 곡명: 탈옥
@@ -866,6 +916,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-017_탈옥.srt
+곡 그룹ID: songbook:oELY8RkmZAANzjmU8g0I
 
 자료 유형: 노래 기록
 곡명: 열이상
@@ -883,6 +934,7 @@ cue 수: 129
 가사 cue 수: 129
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-018_열이상.srt
+곡 그룹ID: songbook:jPB5rJjTOPRQWtKidMPp
 
 자료 유형: 노래 기록
 곡명: This game
@@ -900,6 +952,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 2
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-019_This game.srt
+곡 그룹ID: songbook:zoCj9mcDb3EbgvbQbtXv
 
 자료 유형: 노래 기록
 곡명: Only my railgun
@@ -917,6 +970,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-020_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -934,6 +988,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-022_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: 괴물
@@ -951,6 +1006,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-025_괴물.srt
+곡 그룹ID: songbook:Hz5cwz3y3jyVy6PkZKzQ
 
 자료 유형: 노래 기록
 곡명: 트리플 바카
@@ -968,6 +1024,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-026_트리플 바카.srt
+곡 그룹ID: songbook:XRqNLfkrE3zG2999NXF3
 
 자료 유형: 노래 기록
 곡명: 카사네 테리토리
@@ -985,6 +1042,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-027_카사네 테리토리.srt
+곡 그룹ID: songbook:3AMGOrIJeNrWJl0QOnVX
 
 자료 유형: 노래 기록
 곡명: 불꽃
@@ -1002,6 +1060,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-028_불꽃.srt
+곡 그룹ID: songbook:JKewXSw5ZkaWjz3V4sdR
 
 자료 유형: 노래 기록
 곡명: Battle Cry
@@ -1019,6 +1078,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-029_Battle Cry.srt
+곡 그룹ID: songbook:eBL2STPjtpHDStUO1Qmv
 
 자료 유형: 노래 기록
 곡명: Beautiful Princess Disorder
@@ -1036,6 +1096,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-030_Beautiful Princess Disorder.srt
+곡 그룹ID: songbook:J3VPzEXFlqfqiciIeOO6
 
 자료 유형: 노래 기록
 곡명: 코코로 죠죠루 1부
@@ -1053,6 +1114,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-031_코코로 죠죠루 1부.srt
+곡 그룹ID: songbook:7IrJoc4mEG8sgv6mZMSk
 
 자료 유형: 노래 기록
 곡명: 수직낙하
@@ -1070,6 +1132,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-032_수직낙하.srt
+곡 그룹ID: songbook:opvfYJk84wfIniXig7ht
 
 자료 유형: 노래 기록
 곡명: Confessions of a Rotten Girl
@@ -1087,6 +1150,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-033_Confessions of a Rotten Girl.srt
+곡 그룹ID: songbook:YfhDxKDJl1rDIjZXxe3T
 
 자료 유형: 노래 기록
 곡명: Monster
@@ -1104,6 +1168,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-034_Monster.srt
+곡 그룹ID: songbook:iN6gBWFKQGJV8CQxL7Lx
 
 자료 유형: 노래 기록
 곡명: For Those Who Come After
@@ -1121,6 +1186,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-035_For Those Who Come After.srt
+곡 그룹ID: songbook:yx7PVYBbbbrGCNsWyGHV
 
 자료 유형: 노래 기록
 곡명: 점점 높아져
@@ -1138,6 +1204,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-038_점점 높아져.srt
+곡 그룹ID: songbook:izef7P0QxYxLPCRyJCAm
 
 자료 유형: 노래 기록
 곡명: Pretender
@@ -1155,6 +1222,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-039_Pretender.srt
+곡 그룹ID: songbook:4FhpW3YP2PQzGXmATCKU
 
 자료 유형: 노래 기록
 곡명: 연애 서큘레이션
@@ -1172,6 +1240,7 @@ cue 수: 77
 가사 cue 수: 77
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-040_연애 서큘레이션.srt
+곡 그룹ID: songbook:4KztSVesD6bTZGPShPZF
 
 자료 유형: 노래 기록
 곡명: Teeth
@@ -1189,6 +1258,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-041_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 노래 기록
 곡명: 서방님과 러브러브 러브송
@@ -1206,6 +1276,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-042_서방님과 러브러브 러브송.srt
+곡 그룹ID: songbook:n1fHCWsT5EXxSIHKAAsM
 
 자료 유형: 노래 기록
 곡명: 사무라이 하트
@@ -1223,6 +1294,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-043_사무라이 하트.srt
+곡 그룹ID: songbook:fDkAm7vHZe59eiAzGE1E
 
 자료 유형: 노래 기록
 곡명: 생명의 유스티티아
@@ -1240,6 +1312,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 1
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-044_생명의 유스티티아.srt
+곡 그룹ID: songbook:bxLf86ciNPstpAQOuoFj
 
 자료 유형: 노래 기록
 곡명: 모험의 서가 사라졌습니다!
@@ -1257,6 +1330,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-045_모험의 서가 사라졌습니다!.srt
+곡 그룹ID: songbook:D6QxvePp5vMXXnHS72ED
 
 자료 유형: 노래 기록
 곡명: 베놈
@@ -1274,6 +1348,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-046_베놈.srt
+곡 그룹ID: songbook:Cg9lN1QEk4xeXwtZk66d
 
 자료 유형: 노래 기록
 곡명: Villain
@@ -1291,6 +1366,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-047_Villain.srt
+곡 그룹ID: songbook:tp853KGvAW4gK4aYp3uH
 
 자료 유형: 노래 기록
 곡명: 논브레스 오블리쥬
@@ -1308,6 +1384,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-049_논브레스 오블리쥬.srt
+곡 그룹ID: songbook:u1uN5Cr4cvMG2sBDSXvm
 
 자료 유형: 노래 기록
 곡명: 숙성 로리신 레퀴엠
@@ -1325,6 +1402,7 @@ cue 수: 85
 가사 cue 수: 85
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-050_숙성 로리신 레퀴엠.srt
+곡 그룹ID: songbook:jD4lMfibJ7ZxUnnm60l3
 
 자료 유형: 노래 기록
 곡명: Help me, ERINNNNNN!!
@@ -1342,6 +1420,7 @@ cue 수: 141
 가사 cue 수: 141
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-051_Help me, ERINNNNNN!!.srt
+곡 그룹ID: songbook:DBxt4Cf69XUDHTzBycDK
 
 자료 유형: 노래 기록
 곡명: Last Stardust
@@ -1359,6 +1438,7 @@ cue 수: 13
 가사 cue 수: 13
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-20_UBCB2e0Aik4-052_Last Stardust.srt
+곡 그룹ID: songbook:ZzitPOP23dCZw2WljnoF
 
 자료 유형: 노래 기록
 곡명: 패배의 소년
@@ -1376,6 +1456,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-001_패배의 소년.srt
+곡 그룹ID: songbook:HQf78IigApVqQiNVjrNq
 
 자료 유형: 노래 기록
 곡명: 천악
@@ -1393,6 +1474,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-002_천악.srt
+곡 그룹ID: songbook:OpI5Jdu1PwXNcgJ1HqKV
 
 자료 유형: 노래 기록
 곡명: 테러
@@ -1410,6 +1492,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-003_테러.srt
+곡 그룹ID: songbook:Ynst7rG8ZHGzHr2nxxy0
 
 자료 유형: 노래 기록
 곡명: Piano Man
@@ -1427,6 +1510,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-004_Piano Man.srt
+곡 그룹ID: songbook:Fz1ueVryXQ7ojffCDMus
 
 자료 유형: 노래 기록
 곡명: Somebody That I Used To Know
@@ -1444,6 +1528,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-005_Somebody That I Used To Know.srt
+곡 그룹ID: songbook:kS8oyZF9vi2WIyaiOQrc
 
 자료 유형: 노래 기록
 곡명: 미무카와 나이스 트라이
@@ -1461,6 +1546,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-006_미무카와 나이스 트라이.srt
+곡 그룹ID: songbook:3htaW8NflUoJBdAmf3yF
 
 자료 유형: 노래 기록
 곡명: Legends Never Die
@@ -1478,6 +1564,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-007_Legends Never Die.srt
+곡 그룹ID: songbook:bHpijLSWu3FSZctmbbTd
 
 자료 유형: 노래 기록
 곡명: Whiskey and Morphine
@@ -1495,6 +1582,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-008_Whiskey and Morphine.srt
+곡 그룹ID: songbook:oJgJ4DfEFpzurXSEXS9a
 
 자료 유형: 노래 기록
 곡명: 부엉이 ~부엉이가 손님이 왔다고 알리네~
@@ -1512,6 +1600,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-009_부엉이 ~부엉이가 손님이 왔다고 알리네~.srt
+곡 그룹ID: songbook:LCmEKXiwTFCE9otDPfDb
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -1529,6 +1618,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-010_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: 그저 네게 맑아라
@@ -1546,6 +1636,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-011_그저 네게 맑아라.srt
+곡 그룹ID: songbook:Y0KtrCWJg7Nw4TheIgf5
 
 자료 유형: 노래 기록
 곡명: 인터뷰어
@@ -1563,6 +1654,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-012_인터뷰어.srt
+곡 그룹ID: songbook:P3MCOQ2GAN3rpL07eFMZ
 
 자료 유형: 노래 기록
 곡명: Mela!
@@ -1580,6 +1672,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-013_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 노래 기록
 곡명: 팬서비스
@@ -1597,6 +1690,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-014_팬서비스.srt
+곡 그룹ID: songbook:Iw9R526XHSC3WyRGdwG5
 
 자료 유형: 노래 기록
 곡명: 긍지 높은 아이돌
@@ -1614,6 +1708,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-015_긍지 높은 아이돌.srt
+곡 그룹ID: songbook:Nojh9TaOFwoLFE4eGtp2
 
 자료 유형: 노래 기록
 곡명: 누덕누덕 스타카토
@@ -1631,6 +1726,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 1
 SRT 파일: SRT/노래기록/2026-07-28_14411850-016_누덕누덕 스타카토.srt
+곡 그룹ID: songbook:BpzjMsXCEY5Igr5UEeOF
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -1648,6 +1744,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-017_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 꿈을 먹는 흑백 바쿠
@@ -1665,6 +1762,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-018_꿈을 먹는 흑백 바쿠.srt
+곡 그룹ID: songbook:Qt2Wq4iGhWv0DALa6tgr
 
 자료 유형: 노래 기록
 곡명: Help me, ERINNNNNN!!
@@ -1682,6 +1780,7 @@ cue 수: 92
 가사 cue 수: 92
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-019_Help me, ERINNNNNN!!.srt
+곡 그룹ID: songbook:DBxt4Cf69XUDHTzBycDK
 
 자료 유형: 노래 기록
 곡명: 로스트 원의 호곡
@@ -1699,6 +1798,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-020_로스트 원의 호곡.srt
+곡 그룹ID: songbook:kIelvPoIRED1HqH6Y4Q1
 
 자료 유형: 노래 기록
 곡명: 꿈을 이루어줘 도라에몽
@@ -1716,6 +1816,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-021_꿈을 이루어줘 도라에몽.srt
+곡 그룹ID: songbook:Ye9sO1jiJxvBpZr0GoLz
 
 자료 유형: 노래 기록
 곡명: 사랑은 혼돈의 노예
@@ -1733,6 +1834,7 @@ cue 수: 71
 가사 cue 수: 71
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-022_사랑은 혼돈의 노예.srt
+곡 그룹ID: songbook:Uzbimg3dYXpePhYYFkXX
 
 자료 유형: 노래 기록
 곡명: How Far I'll Go
@@ -1750,6 +1852,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-023_How Far I'll Go.srt
+곡 그룹ID: songbook:O4QZlpg9hBPKrTWXBwE3
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -1767,6 +1870,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-024_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: 야라라라
@@ -1784,6 +1888,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-025_야라라라.srt
+곡 그룹ID: songbook:oUwUKPIks3qUWd1rkhhX
 
 자료 유형: 노래 기록
 곡명: Popular
@@ -1801,6 +1906,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-026_Popular.srt
+곡 그룹ID: songbook:special_popular_wicked_obc
 
 자료 유형: 노래 기록
 곡명: Ahoy!! 우리는 호쇼해적단☆
@@ -1818,6 +1924,7 @@ cue 수: 74
 가사 cue 수: 74
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-027_Ahoy!! 우리는 호쇼해적단☆.srt
+곡 그룹ID: songbook:XjhES25W2sX4C0ItKn00
 
 자료 유형: 노래 기록
 곡명: DAYBREAK FRONTLINE
@@ -1835,6 +1942,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-028_DAYBREAK FRONTLINE.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 노래 기록
 곡명: 도넛 홀
@@ -1852,6 +1960,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-28_14411850-029_도넛 홀.srt
+곡 그룹ID: songbook:om7rjFIudW4cUqCzwHAK
 
 자료 유형: 노래 기록
 곡명: Bunny Girl
@@ -1869,6 +1978,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-001_Bunny Girl.srt
+곡 그룹ID: songbook:ibJy3uUnEO36EuIZHjpA
 
 자료 유형: 노래 기록
 곡명: 이 실없이 멋진 세계는 날 위해 있어
@@ -1886,6 +1996,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-002_이 실없이 멋진 세계는 날 위해 있어.srt
+곡 그룹ID: songbook:Liq3fMoy7EC6PXmT0G3G
 
 자료 유형: 노래 기록
 곡명: 로키
@@ -1903,6 +2014,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-003_로키.srt
+곡 그룹ID: songbook:J4aydC6A1Pfp1GWjFPXH
 
 자료 유형: 노래 기록
 곡명: Vampire’s ∞ pathoS
@@ -1920,6 +2032,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-004_Vampire’s ∞ pathoS.srt
+곡 그룹ID: songbook:Y3QerKuLx4XEBWvVxqMD
 
 자료 유형: 노래 기록
 곡명: 패배의 소년
@@ -1937,6 +2050,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-005_패배의 소년.srt
+곡 그룹ID: songbook:HQf78IigApVqQiNVjrNq
 
 자료 유형: 노래 기록
 곡명: Monster
@@ -1954,6 +2068,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-006_Monster.srt
+곡 그룹ID: songbook:iN6gBWFKQGJV8CQxL7Lx
 
 자료 유형: 노래 기록
 곡명: Toxic
@@ -1971,6 +2086,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-007_Toxic.srt
+곡 그룹ID: songbook:IPnH58pheZRBDo97KwF5
 
 자료 유형: 노래 기록
 곡명: 유레카
@@ -1988,6 +2104,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-008_유레카.srt
+곡 그룹ID: songbook:fRZuaZfZY0zn4uxcT0RJ
 
 자료 유형: 노래 기록
 곡명: 하우 투 세계정복
@@ -2005,6 +2122,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-009_하우 투 세계정복.srt
+곡 그룹ID: songbook:58IS6F3RfEvELExPW47D
 
 자료 유형: 노래 기록
 곡명: 꼬맹이 전쟁
@@ -2022,6 +2140,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-010_꼬맹이 전쟁.srt
+곡 그룹ID: songbook:TXAvERcrq2FoxPsd1PWR
 
 자료 유형: 노래 기록
 곡명: RTRT
@@ -2039,6 +2158,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-011_RTRT.srt
+곡 그룹ID: songbook:PAqgvKhiUgqxtyGPAj5W
 
 자료 유형: 노래 기록
 곡명: 세븐틴
@@ -2056,6 +2176,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-012_세븐틴.srt
+곡 그룹ID: songbook:CuunYD9PRO9gmgfyBMWZ
 
 자료 유형: 노래 기록
 곡명: 나는 최강
@@ -2073,6 +2194,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-013_나는 최강.srt
+곡 그룹ID: songbook:ZX7HAgr6p4zEuhBAyYA4
 
 자료 유형: 노래 기록
 곡명: Dragon Night
@@ -2090,6 +2212,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-014_Dragon Night.srt
+곡 그룹ID: songbook:Vt29zvmG3bPNuOaNJ5Ch
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -2107,6 +2230,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-015_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: 내가 죽으려고 생각한 것은
@@ -2124,6 +2248,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-016_내가 죽으려고 생각한 것은.srt
+곡 그룹ID: songbook:SIE2BkMlNfMJwRwqdGtT
 
 자료 유형: 노래 기록
 곡명: 해피 신디사이저
@@ -2141,6 +2266,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-017_해피 신디사이저.srt
+곡 그룹ID: songbook:zMS6IEEtt0fEcMXDLuHb
 
 자료 유형: 노래 기록
 곡명: 달을 보고 있었어
@@ -2158,6 +2284,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-018_달을 보고 있었어.srt
+곡 그룹ID: songbook:WnoyzF7OmkEgfZ1QkFad
 
 자료 유형: 노래 기록
 곡명: Despacito
@@ -2175,6 +2302,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-019_Despacito.srt
+곡 그룹ID: songbook:8wH35D3vKHJpN9yBrDOY
 
 자료 유형: 노래 기록
 곡명: BLOODY STREAM
@@ -2192,6 +2320,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-020_BLOODY STREAM.srt
+곡 그룹ID: songbook:4RgBki8xWzl91Oy4xrY8
 
 자료 유형: 노래 기록
 곡명: BAD APPLE!!!
@@ -2209,6 +2338,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-021_BAD APPLE!!!.srt
+곡 그룹ID: songbook:qIk3sXOGCDpoOMYIinKJ
 
 자료 유형: 노래 기록
 곡명: 지터 돌
@@ -2226,6 +2356,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-022_지터 돌.srt
+곡 그룹ID: songbook:jlciNa7QiKLtB1HPml5m
 
 자료 유형: 노래 기록
 곡명: 처단하겠다AAAAA아!
@@ -2243,6 +2374,7 @@ cue 수: 112
 가사 cue 수: 112
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-023_처단하겠다AAAAA아!.srt
+곡 그룹ID: songbook:mMq9hGayAozy7JOdyihu
 
 자료 유형: 노래 기록
 곡명: Only my railgun
@@ -2260,6 +2392,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-024_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 노래 기록
 곡명: 서방님과 러브러브 러브송
@@ -2277,6 +2410,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-025_서방님과 러브러브 러브송.srt
+곡 그룹ID: songbook:n1fHCWsT5EXxSIHKAAsM
 
 자료 유형: 노래 기록
 곡명: 에어맨을 쓰러뜨릴 수 없어
@@ -2294,6 +2428,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-026_에어맨을 쓰러뜨릴 수 없어.srt
+곡 그룹ID: songbook:LVsVAWGA17OiCyEtjoJU
 
 자료 유형: 노래 기록
 곡명: 어차피 너희들은 이런 노래가 좋으니까
@@ -2311,6 +2446,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-027_어차피 너희들은 이런 노래가 좋으니까.srt
+곡 그룹ID: songbook:euBHJTQbxgrckf7Shrg9
 
 자료 유형: 노래 기록
 곡명: 루카루카☆나이트 피버
@@ -2328,6 +2464,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-028_루카루카☆나이트 피버.srt
+곡 그룹ID: songbook:peqrRkZMc7qYhA9JsUhX
 
 자료 유형: 노래 기록
 곡명: 천성의 약함
@@ -2345,6 +2482,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-029_천성의 약함.srt
+곡 그룹ID: songbook:tuGH4GOVQbe4d7Mdv7kf
 
 자료 유형: 노래 기록
 곡명: 잔혹한 천사의 테제
@@ -2362,6 +2500,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-030_잔혹한 천사의 테제.srt
+곡 그룹ID: songbook:eU4TTAaulge5K3FNtSYO
 
 자료 유형: 노래 기록
 곡명: 숙성 로리신 레퀴엠
@@ -2379,6 +2518,7 @@ cue 수: 88
 가사 cue 수: 88
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-031_숙성 로리신 레퀴엠.srt
+곡 그룹ID: songbook:jD4lMfibJ7ZxUnnm60l3
 
 자료 유형: 노래 기록
 곡명: 도쿄 테디 베어
@@ -2396,6 +2536,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-032_도쿄 테디 베어.srt
+곡 그룹ID: songbook:gZY4Esj0uP7vs9JTGDIP
 
 자료 유형: 노래 기록
 곡명: 나의 가장 귀여운 부분
@@ -2413,6 +2554,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-033_나의 가장 귀여운 부분.srt
+곡 그룹ID: songbook:zh03lbGfc6d2nHLdPpdF
 
 자료 유형: 노래 기록
 곡명: Viva La Vida
@@ -2430,6 +2572,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-034_Viva La Vida.srt
+곡 그룹ID: songbook:UoLYcOMfVod7FGYUsms4
 
 자료 유형: 노래 기록
 곡명: 생명에게 미움받고 있어
@@ -2447,6 +2590,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-035_생명에게 미움받고 있어.srt
+곡 그룹ID: songbook:pdDc6xmGQOs3AQiUrl5x
 
 자료 유형: 노래 기록
 곡명: Plazma
@@ -2464,6 +2608,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-036_Plazma.srt
+곡 그룹ID: songbook:OyXNEqyl3IMVH645I8HW
 
 자료 유형: 노래 기록
 곡명: Playing His Game
@@ -2481,6 +2626,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-037_Playing His Game.srt
+곡 그룹ID: songbook:j8f1EZpjhsPRCPpGsX5T
 
 자료 유형: 노래 기록
 곡명: 계속 함께
@@ -2498,6 +2644,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-038_계속 함께.srt
+곡 그룹ID: songbook:Bchoi8dTrHFq79qCJ3Ex
 
 자료 유형: 노래 기록
 곡명: Legends Never Die
@@ -2515,6 +2662,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-039_Legends Never Die.srt
+곡 그룹ID: songbook:bHpijLSWu3FSZctmbbTd
 
 자료 유형: 노래 기록
 곡명: I'm a mess
@@ -2532,6 +2680,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-040_I'm a mess.srt
+곡 그룹ID: songbook:3IWypehgqOvx807zVJpc
 
 자료 유형: 노래 기록
 곡명: Build Our Machine
@@ -2549,6 +2698,7 @@ cue 수: 88
 가사 cue 수: 88
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-041_Build Our Machine.srt
+곡 그룹ID: songbook:l7Vx1NNED4u7hoIMwK9w
 
 자료 유형: 노래 기록
 곡명: 언노운 마더 구스
@@ -2566,6 +2716,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-042_언노운 마더 구스.srt
+곡 그룹ID: songbook:0MvCyF5Zwgf9FznBNHQE
 
 자료 유형: 노래 기록
 곡명: Departure!
@@ -2583,6 +2734,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-043_Departure!.srt
+곡 그룹ID: songbook:BtsaE0r9eYhSDH477wY4
 
 자료 유형: 노래 기록
 곡명: 레인
@@ -2600,6 +2752,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-044_레인.srt
+곡 그룹ID: songbook:nkWSLFb0wdhbnB5txKyZ
 
 자료 유형: 노래 기록
 곡명: 칸타렐라
@@ -2617,6 +2770,7 @@ cue 수: 17
 가사 cue 수: 17
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-046_칸타렐라.srt
+곡 그룹ID: songbook:RHHta5fSHht8PkOVPiAz
 
 자료 유형: 노래 기록
 곡명: 베텔기우스
@@ -2634,6 +2788,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-07-29_ZFMg5irJJU8-047_베텔기우스.srt
+곡 그룹ID: songbook:mYxDDwkY8Q0EGUIk43dT
 
 자료 유형: 노래 기록
 곡명: Darkside
@@ -2651,6 +2806,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-001_Darkside.srt
+곡 그룹ID: songbook:Jh4Ob1amjxyv8BnI0Gj3
 
 자료 유형: 노래 기록
 곡명: Ga1ahad and Scientific Witchery
@@ -2668,6 +2824,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 5
 SRT 파일: SRT/노래기록/2026-08-01_14489268-002_Ga1ahad and Scientific Witchery.srt
+곡 그룹ID: songbook:B03QLL73bwseWxiL6FLE
 
 자료 유형: 노래 기록
 곡명: Ga1ahad and Scientific Witchery
@@ -2685,6 +2842,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 6
 SRT 파일: SRT/노래기록/2026-08-01_14489268-003_Ga1ahad and Scientific Witchery.srt
+곡 그룹ID: songbook:B03QLL73bwseWxiL6FLE
 
 자료 유형: 노래 기록
 곡명: 모니터링
@@ -2702,6 +2860,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-004_모니터링.srt
+곡 그룹ID: songbook:RFQaEouFoKDoBP3VOTCU
 
 자료 유형: 노래 기록
 곡명: 사랑은 혼돈의 노예
@@ -2719,6 +2878,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-005_사랑은 혼돈의 노예.srt
+곡 그룹ID: songbook:Uzbimg3dYXpePhYYFkXX
 
 자료 유형: 노래 기록
 곡명: 서방님과 러브러브 러브송
@@ -2736,6 +2896,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-006_서방님과 러브러브 러브송.srt
+곡 그룹ID: songbook:n1fHCWsT5EXxSIHKAAsM
 
 자료 유형: 노래 기록
 곡명: 부엉이 ~부엉이가 손님이 왔다고 알리네~
@@ -2753,6 +2914,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-007_부엉이 ~부엉이가 손님이 왔다고 알리네~.srt
+곡 그룹ID: songbook:LCmEKXiwTFCE9otDPfDb
 
 자료 유형: 노래 기록
 곡명: 오오카미 블루스
@@ -2770,6 +2932,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-008_오오카미 블루스.srt
+곡 그룹ID: songbook:d00DKGwvSqNqle3oqiBr
 
 자료 유형: 노래 기록
 곡명: 에어맨을 쓰러뜨릴 수 없어
@@ -2787,6 +2950,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-009_에어맨을 쓰러뜨릴 수 없어.srt
+곡 그룹ID: songbook:LVsVAWGA17OiCyEtjoJU
 
 자료 유형: 노래 기록
 곡명: ECHO
@@ -2804,6 +2968,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-010_ECHO.srt
+곡 그룹ID: songbook:Ll8SDmfkJLqlHaOr0WY4
 
 자료 유형: 노래 기록
 곡명: 바움쿠헨 엔드롤
@@ -2821,6 +2986,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-011_바움쿠헨 엔드롤.srt
+곡 그룹ID: songbook:JzGZYdW9FSMp1L2bwHhU
 
 자료 유형: 노래 기록
 곡명: 하츠네 미쿠의 소실
@@ -2838,6 +3004,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-012_하츠네 미쿠의 소실.srt
+곡 그룹ID: songbook:kAIKmQEZ4GlwjBxoRuoj
 
 자료 유형: 노래 기록
 곡명: 로스트 원의 호곡
@@ -2855,6 +3022,7 @@ cue 수: 18
 가사 cue 수: 18
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-013_로스트 원의 호곡.srt
+곡 그룹ID: songbook:kIelvPoIRED1HqH6Y4Q1
 
 자료 유형: 노래 기록
 곡명: Only my railgun
@@ -2872,6 +3040,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-014_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 노래 기록
 곡명: U.N. 오웬은 그녀인가?
@@ -2889,6 +3058,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-015_U.N. 오웬은 그녀인가_.srt
+곡 그룹ID: songbook:4LBOUeNB5Mm7OQSSxDKh
 
 자료 유형: 노래 기록
 곡명: INSANE
@@ -2906,6 +3076,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-016_INSANE.srt
+곡 그룹ID: songbook:6y9uSV6pppClOompITss
 
 자료 유형: 노래 기록
 곡명: Build Our Machine
@@ -2923,6 +3094,7 @@ cue 수: 84
 가사 cue 수: 84
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-017_Build Our Machine.srt
+곡 그룹ID: songbook:l7Vx1NNED4u7hoIMwK9w
 
 자료 유형: 노래 기록
 곡명: 천성의 약함
@@ -2940,6 +3112,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-018_천성의 약함.srt
+곡 그룹ID: songbook:tuGH4GOVQbe4d7Mdv7kf
 
 자료 유형: 노래 기록
 곡명: Fukouna Girl
@@ -2957,6 +3130,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-019_Fukouna Girl.srt
+곡 그룹ID: songbook:dGN8XNaxn4WKnFBPbpAO
 
 자료 유형: 노래 기록
 곡명: 롤링 걸
@@ -2974,6 +3148,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-020_롤링 걸.srt
+곡 그룹ID: songbook:LCwmvzppxcjtWyn7yz0p
 
 자료 유형: 노래 기록
 곡명: 키즈나 아이 vs 카구야 루나 랩 배틀
@@ -2991,6 +3166,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-08-01_14489268-021_키즈나 아이 vs 카구야 루나 랩 배틀.srt
+곡 그룹ID: songbook:N0oeVSKiihUbIONbEcAo
 
 자료 유형: 노래 기록
 곡명: 테러
@@ -3008,6 +3184,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-022_테러.srt
+곡 그룹ID: songbook:Ynst7rG8ZHGzHr2nxxy0
 
 자료 유형: 노래 기록
 곡명: 루카루카☆나이트 피버
@@ -3025,6 +3202,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-023_루카루카☆나이트 피버.srt
+곡 그룹ID: songbook:peqrRkZMc7qYhA9JsUhX
 
 자료 유형: 노래 기록
 곡명: 해피 신디사이저
@@ -3042,6 +3220,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-024_해피 신디사이저.srt
+곡 그룹ID: songbook:zMS6IEEtt0fEcMXDLuHb
 
 자료 유형: 노래 기록
 곡명: 글루카곤
@@ -3059,6 +3238,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-025_글루카곤.srt
+곡 그룹ID: songbook:GRuUgLgI30c9b5BqxA5T
 
 자료 유형: 노래 기록
 곡명: Victim
@@ -3076,6 +3256,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-026_Victim.srt
+곡 그룹ID: songbook:24D9PDz2zWFn0r9wz0BK
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -3093,6 +3274,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-027_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: -ERROR
@@ -3110,6 +3292,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-028_-ERROR.srt
+곡 그룹ID: songbook:9aMDJHl7v0mfeYkuefNc
 
 자료 유형: 노래 기록
 곡명: 죽은 영웅들의 싸움 -이로마키아-
@@ -3127,6 +3310,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-029_죽은 영웅들의 싸움 -이로마키아-.srt
+곡 그룹ID: songbook:LABXfXX1NfsF0rTYHTKd
 
 자료 유형: 노래 기록
 곡명: Hot Limit
@@ -3144,6 +3328,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-030_Hot Limit.srt
+곡 그룹ID: songbook:l8IvTz4XZe1KUarXUCa7
 
 자료 유형: 노래 기록
 곡명: 야라라라
@@ -3161,6 +3346,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-031_야라라라.srt
+곡 그룹ID: songbook:oUwUKPIks3qUWd1rkhhX
 
 자료 유형: 노래 기록
 곡명: 호랑풍류가
@@ -3178,6 +3364,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-032_호랑풍류가.srt
+곡 그룹ID: songbook:X1Z6SfxCnLGeauoI5RjG
 
 자료 유형: 노래 기록
 곡명: 잘못된 만남
@@ -3195,6 +3382,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-033_잘못된 만남.srt
+곡 그룹ID: songbook:0n8AaRXsH6Rt5o10G7X9
 
 자료 유형: 노래 기록
 곡명: 귀여워서 미안해
@@ -3212,6 +3400,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-034_귀여워서 미안해.srt
+곡 그룹ID: songbook:DFdLZaDzGzr2QhChF52c
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이 (어쿠스틱.ver)
@@ -3229,6 +3418,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-035_새벽과 반딧불이 (어쿠스틱.ver).srt
+곡 그룹ID: songbook:hl1HvWR81fq6Uu4Uuru6
 
 자료 유형: 노래 기록
 곡명: 차가운 상어 아가씨
@@ -3246,6 +3436,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-08-01_14489268-036_차가운 상어 아가씨.srt
+곡 그룹ID: songbook:LoqPiEaon2A1u6fb2cHo
 
 자료 유형: 노래 기록
 곡명: 악의 하인
@@ -3263,6 +3454,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-037_악의 하인.srt
+곡 그룹ID: songbook:7joJM9PZl2ewskcE92Gh
 
 자료 유형: 노래 기록
 곡명: phony
@@ -3280,6 +3472,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 1
 SRT 파일: SRT/노래기록/2026-08-01_14489268-038_phony.srt
+곡 그룹ID: songbook:HzC48Nylnfk8mCGXPrl8
 
 자료 유형: 노래 기록
 곡명: Magia
@@ -3297,6 +3490,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-039_Magia.srt
+곡 그룹ID: songbook:RfMMWjCqy51oDnO95Yoh
 
 자료 유형: 노래 기록
 곡명: Let it Go
@@ -3314,6 +3508,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-040_Let it Go.srt
+곡 그룹ID: songbook:2MJpvpfJrgBWKaQXDIvc
 
 자료 유형: 노래 기록
 곡명: 심장을 바쳐라!
@@ -3331,6 +3526,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-041_심장을 바쳐라!.srt
+곡 그룹ID: songbook:zH8XA3lnpLhrFMeqedDv
 
 자료 유형: 노래 기록
 곡명: Paintër
@@ -3348,6 +3544,7 @@ cue 수: 94
 가사 cue 수: 94
 번역 없는 가사 cue 수: 20
 SRT 파일: SRT/노래기록/2026-08-01_14489268-042_Paintër.srt
+곡 그룹ID: songbook:Zf5wgaF5HUF1Fg3R6bZB
 
 자료 유형: 노래 기록
 곡명: 누군가의 심장이 될 수 있다면
@@ -3365,6 +3562,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-01_14489268-043_누군가의 심장이 될 수 있다면.srt
+곡 그룹ID: songbook:ch1d3WrMQbcpHxRU0udq
 
 자료 유형: 노래 기록
 곡명: 후루리라 팟파
@@ -3382,6 +3580,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-001_후루리라 팟파.srt
+곡 그룹ID: songbook:9lQjgyE4S9LgxzYEVDpj
 
 자료 유형: 노래 기록
 곡명: GODS
@@ -3399,6 +3598,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-002_GODS.srt
+곡 그룹ID: songbook:72wVzKahoDB2w7ZnVhd8
 
 자료 유형: 노래 기록
 곡명: Mela!
@@ -3416,6 +3616,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-003_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 노래 기록
 곡명: 생명의 등불
@@ -3433,6 +3634,7 @@ cue 수: 20
 가사 cue 수: 20
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-004_생명의 등불.srt
+곡 그룹ID: songbook:G6Vuqby3m45Y0pdOFGE1
 
 자료 유형: 노래 기록
 곡명: Only my railgun
@@ -3450,6 +3652,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-005_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 노래 기록
 곡명: Legends Never Die
@@ -3467,6 +3670,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-006_Legends Never Die.srt
+곡 그룹ID: songbook:bHpijLSWu3FSZctmbbTd
 
 자료 유형: 노래 기록
 곡명: 스피카
@@ -3484,6 +3688,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-007_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 노래 기록
 곡명: Overdose
@@ -3501,6 +3706,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-008_Overdose.srt
+곡 그룹ID: songbook:gVoXr4nMEZPCZdD3Kh4C
 
 자료 유형: 노래 기록
 곡명: 악의 하인 (클래식)
@@ -3518,6 +3724,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-009_악의 하인 (클래식).srt
+곡 그룹ID: songbook:qZg0zSvbvbA6uypbE2xl
 
 자료 유형: 노래 기록
 곡명: 그저 네게 맑아라
@@ -3535,6 +3742,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-010_그저 네게 맑아라.srt
+곡 그룹ID: songbook:Y0KtrCWJg7Nw4TheIgf5
 
 자료 유형: 노래 기록
 곡명: 괴수의 꽃노래
@@ -3552,6 +3760,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-011_괴수의 꽃노래.srt
+곡 그룹ID: songbook:iQlgMtXo8RjrD44g8xPg
 
 자료 유형: 노래 기록
 곡명: 신의 뜻대로
@@ -3569,6 +3778,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-012_신의 뜻대로.srt
+곡 그룹ID: songbook:jsniJJoquXPB7HYeUfyu
 
 자료 유형: 노래 기록
 곡명: Departure!
@@ -3586,6 +3796,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-013_Departure!.srt
+곡 그룹ID: songbook:BtsaE0r9eYhSDH477wY4
 
 자료 유형: 노래 기록
 곡명: 레카레카하게 해줄게
@@ -3603,6 +3814,7 @@ cue 수: 19
 가사 cue 수: 19
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-014_레카레카하게 해줄게.srt
+곡 그룹ID: songbook:A04BfBPiXxktFexROUdn
 
 자료 유형: 노래 기록
 곡명: 진달래꽃
@@ -3620,6 +3832,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-015_진달래꽃.srt
+곡 그룹ID: songbook:IlIUyPHD4pVCwxhysmj1
 
 자료 유형: 노래 기록
 곡명: 웃세와
@@ -3637,6 +3850,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-016_웃세와.srt
+곡 그룹ID: songbook:7o9fAyqZRSEslHzySibI
 
 자료 유형: 노래 기록
 곡명: ㅎㅅ00
@@ -3654,6 +3868,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-017_ㅎㅅ00.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 17살의 노래
@@ -3671,6 +3886,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-018_17살의 노래.srt
+곡 그룹ID: songbook:xdiCzyIEbhCucTSAkXqs
 
 자료 유형: 노래 기록
 곡명: 생명에게 미움받고 있어
@@ -3688,6 +3904,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-019_생명에게 미움받고 있어.srt
+곡 그룹ID: songbook:pdDc6xmGQOs3AQiUrl5x
 
 자료 유형: 노래 기록
 곡명: Victim
@@ -3705,6 +3922,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-020_Victim.srt
+곡 그룹ID: songbook:24D9PDz2zWFn0r9wz0BK
 
 자료 유형: 노래 기록
 곡명: 로미오와 신데렐라
@@ -3722,6 +3940,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-021_로미오와 신데렐라.srt
+곡 그룹ID: songbook:sLaHdK4Tu6suzc1T7PEv
 
 자료 유형: 노래 기록
 곡명: 롤링 걸
@@ -3739,6 +3958,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-022_롤링 걸.srt
+곡 그룹ID: songbook:LCwmvzppxcjtWyn7yz0p
 
 자료 유형: 노래 기록
 곡명: 데이브레이크 프론트라인
@@ -3756,6 +3976,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-023_데이브레이크 프론트라인.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 노래 기록
 곡명: 창성의 아쿠에리온
@@ -3773,6 +3994,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 2
 SRT 파일: SRT/노래기록/2026-08-04_14524675-024_창성의 아쿠에리온.srt
+곡 그룹ID: songbook:BUKZqdLPtx8JHK1yx0oN
 
 자료 유형: 노래 기록
 곡명: 내가 죽으려고 생각한 것은
@@ -3790,6 +4012,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-025_내가 죽으려고 생각한 것은.srt
+곡 그룹ID: songbook:SIE2BkMlNfMJwRwqdGtT
 
 자료 유형: 노래 기록
 곡명: Bunny Girl
@@ -3807,6 +4030,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-026_Bunny Girl.srt
+곡 그룹ID: songbook:ibJy3uUnEO36EuIZHjpA
 
 자료 유형: 노래 기록
 곡명: 래빗 홀
@@ -3824,6 +4048,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-027_래빗 홀.srt
+곡 그룹ID: songbook:PY5gug2O9xgnKXnAXDDB
 
 자료 유형: 노래 기록
 곡명: 괴수의 꽃노래
@@ -3841,6 +4066,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-028_괴수의 꽃노래.srt
+곡 그룹ID: songbook:iQlgMtXo8RjrD44g8xPg
 
 자료 유형: 노래 기록
 곡명: 내일의 밤하늘 초계반
@@ -3858,6 +4084,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-029_내일의 밤하늘 초계반.srt
+곡 그룹ID: songbook:CMXKW2CDi23YRv7AdFEe
 
 자료 유형: 노래 기록
 곡명: 육조년과 하룻밤 이야기
@@ -3875,6 +4102,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-030_육조년과 하룻밤 이야기.srt
+곡 그룹ID: songbook:aXzuwetVah0V0MiVheKc
 
 자료 유형: 노래 기록
 곡명: 논브레스 오블리쥬
@@ -3892,6 +4120,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-031_논브레스 오블리쥬.srt
+곡 그룹ID: songbook:u1uN5Cr4cvMG2sBDSXvm
 
 자료 유형: 노래 기록
 곡명: 비비데바
@@ -3909,6 +4138,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 8
 SRT 파일: SRT/노래기록/2026-08-04_14524675-032_비비데바.srt
+곡 그룹ID: songbook:lkh8bkatV99bbdTHS9uJ
 
 자료 유형: 노래 기록
 곡명: All Falls Down
@@ -3926,6 +4156,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-033_All Falls Down.srt
+곡 그룹ID: songbook:RS9qrRaVT6sGxxHCnTgR
 
 자료 유형: 노래 기록
 곡명: Lazenca, Save Us
@@ -3943,6 +4174,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-034_Lazenca, Save Us.srt
+곡 그룹ID: songbook:GJ0qpqnA8kirAWmYx157
 
 자료 유형: 노래 기록
 곡명: Ahoy!! 우리는 호쇼해적단☆
@@ -3960,6 +4192,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-035_Ahoy!! 우리는 호쇼해적단☆.srt
+곡 그룹ID: songbook:XjhES25W2sX4C0ItKn00
 
 자료 유형: 노래 기록
 곡명: Viva La Vida
@@ -3977,6 +4210,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-036_Viva La Vida.srt
+곡 그룹ID: songbook:UoLYcOMfVod7FGYUsms4
 
 자료 유형: 노래 기록
 곡명: Stronger Than You
@@ -3994,6 +4228,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-037_Stronger Than You.srt
+곡 그룹ID: songbook:lcCJfB08VDF5FLNsu72G
 
 자료 유형: 노래 기록
 곡명: Other Friends
@@ -4011,6 +4246,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-038_Other Friends.srt
+곡 그룹ID: songbook:nsmeKTNwFH3pZVvyP1Uq
 
 자료 유형: 노래 기록
 곡명: 베텔기우스
@@ -4028,6 +4264,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-039_베텔기우스.srt
+곡 그룹ID: songbook:mYxDDwkY8Q0EGUIk43dT
 
 자료 유형: 노래 기록
 곡명: Battle Cry
@@ -4045,6 +4282,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-040_Battle Cry.srt
+곡 그룹ID: songbook:eBL2STPjtpHDStUO1Qmv
 
 자료 유형: 노래 기록
 곡명: INSANE
@@ -4062,6 +4300,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-041_INSANE.srt
+곡 그룹ID: songbook:6y9uSV6pppClOompITss
 
 자료 유형: 노래 기록
 곡명: 그저 목소리 하나
@@ -4079,6 +4318,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-042_그저 목소리 하나.srt
+곡 그룹ID: songbook:BJ5lcI89n2NCLixEsrGj
 
 자료 유형: 노래 기록
 곡명: Utopiosphere
@@ -4096,6 +4336,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-043_Utopiosphere.srt
+곡 그룹ID: songbook:FS4dwA0aRENXBhCHDAJ9
 
 자료 유형: 노래 기록
 곡명: Toxic
@@ -4113,6 +4354,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-044_Toxic.srt
+곡 그룹ID: songbook:IPnH58pheZRBDo97KwF5
 
 자료 유형: 노래 기록
 곡명: 오렌지
@@ -4130,6 +4372,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-045_오렌지.srt
+곡 그룹ID: songbook:dqbYH347EQN3HQGOP8i1
 
 자료 유형: 노래 기록
 곡명: 사신
@@ -4147,6 +4390,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-046_사신.srt
+곡 그룹ID: songbook:3I2gmGqpTjOKISBVoL95
 
 자료 유형: 노래 기록
 곡명: 거절하겠습니다
@@ -4164,6 +4408,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-047_거절하겠습니다.srt
+곡 그룹ID: songbook:f5H0qeUlVYmBEwxN3lku
 
 자료 유형: 노래 기록
 곡명: 리드 컨트롤
@@ -4181,6 +4426,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-048_리드 컨트롤.srt
+곡 그룹ID: songbook:Z60dz3wPB4lvYnsFyKpa
 
 자료 유형: 노래 기록
 곡명: 계속 함께
@@ -4198,6 +4444,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-049_계속 함께.srt
+곡 그룹ID: songbook:Bchoi8dTrHFq79qCJ3Ex
 
 자료 유형: 노래 기록
 곡명: Overdose
@@ -4215,6 +4462,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-050_Overdose.srt
+곡 그룹ID: songbook:gVoXr4nMEZPCZdD3Kh4C
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -4232,6 +4480,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-051_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: again
@@ -4249,6 +4498,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-052_again.srt
+곡 그룹ID: songbook:1dIvSBzNYWRqOEVY2t0E
 
 자료 유형: 노래 기록
 곡명: 미쿠미쿠하게 해줄게
@@ -4266,6 +4516,7 @@ cue 수: 19
 가사 cue 수: 19
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-053_미쿠미쿠하게 해줄게.srt
+곡 그룹ID: songbook:A04BfBPiXxktFexROUdn
 
 자료 유형: 노래 기록
 곡명: 연애 서큘레이션
@@ -4283,6 +4534,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-054_연애 서큘레이션.srt
+곡 그룹ID: songbook:4KztSVesD6bTZGPShPZF
 
 자료 유형: 노래 기록
 곡명: The Game Begins
@@ -4300,6 +4552,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-055_The Game Begins.srt
+곡 그룹ID: songbook:DNp0wmvHheIYIeaZGEU9
 
 자료 유형: 노래 기록
 곡명: Stalemate
@@ -4317,6 +4570,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-056_Stalemate.srt
+곡 그룹ID: songbook:KkxDXR8MjQoCNTfU1dUz
 
 자료 유형: 노래 기록
 곡명: Lascia ch'io pianga (울게 하소서)
@@ -4334,6 +4588,7 @@ cue 수: 9
 가사 cue 수: 9
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-057_Lascia ch'io pianga (울게 하소서).srt
+곡 그룹ID: songbook:b43HeCxboN1qwvtOdtAK
 
 자료 유형: 노래 기록
 곡명: Golden
@@ -4351,6 +4606,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-08-04_14524675-058_Golden.srt
+곡 그룹ID: songbook:jWi7kZq1ZKOa8022a2oB
 
 자료 유형: 노래 기록
 곡명: 호랑수월가
@@ -4368,6 +4624,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-059_호랑수월가.srt
+곡 그룹ID: songbook:5uihNz5yLQwo8rL8jZCa
 
 자료 유형: 노래 기록
 곡명: 팬서비스
@@ -4385,6 +4642,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-060_팬서비스.srt
+곡 그룹ID: songbook:Iw9R526XHSC3WyRGdwG5
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -4402,6 +4660,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-04_14524675-061_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: 17살의 노래
@@ -4419,6 +4678,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-001_17살의 노래.srt
+곡 그룹ID: songbook:xdiCzyIEbhCucTSAkXqs
 
 자료 유형: 노래 기록
 곡명: 태엽소녀시계
@@ -4436,6 +4696,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-002_태엽소녀시계.srt
+곡 그룹ID: songbook:y5oChSTr3iHdvWlleogQ
 
 자료 유형: 노래 기록
 곡명: 그저 목소리 하나
@@ -4453,6 +4714,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-003_그저 목소리 하나.srt
+곡 그룹ID: songbook:BJ5lcI89n2NCLixEsrGj
 
 자료 유형: 노래 기록
 곡명: Victim
@@ -4470,6 +4732,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-004_Victim.srt
+곡 그룹ID: songbook:24D9PDz2zWFn0r9wz0BK
 
 자료 유형: 노래 기록
 곡명: INSANE
@@ -4487,6 +4750,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-005_INSANE.srt
+곡 그룹ID: songbook:6y9uSV6pppClOompITss
 
 자료 유형: 노래 기록
 곡명: Only my railgun
@@ -4504,6 +4768,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-006_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 노래 기록
 곡명: Bi☣hazard
@@ -4521,6 +4786,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-007_Bi☣hazard.srt
+곡 그룹ID: songbook:blGhqNjbLqFrtiXWao2b
 
 자료 유형: 노래 기록
 곡명: 롤링 걸
@@ -4538,6 +4804,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-008_롤링 걸.srt
+곡 그룹ID: songbook:LCwmvzppxcjtWyn7yz0p
 
 자료 유형: 노래 기록
 곡명: 내일의 밤하늘 초계반
@@ -4555,6 +4822,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-009_내일의 밤하늘 초계반.srt
+곡 그룹ID: songbook:CMXKW2CDi23YRv7AdFEe
 
 자료 유형: 노래 기록
 곡명: Camelia
@@ -4572,6 +4840,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-010_Camelia.srt
+곡 그룹ID: songbook:JApPZDhQbhKqCz9A5udW
 
 자료 유형: 노래 기록
 곡명: I Really Want to Stay at Your House
@@ -4589,6 +4858,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-011_I Really Want to Stay at Your House.srt
+곡 그룹ID: songbook:LEAhwGC7L98DG1C7Lu4x
 
 자료 유형: 노래 기록
 곡명: Choose me
@@ -4606,6 +4876,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-012_Choose me.srt
+곡 그룹ID: songbook:k4tzqMvhypSvrEMeZAEd
 
 자료 유형: 노래 기록
 곡명: 악의 하인 (피아노 영어 버전)
@@ -4623,6 +4894,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-013_악의 하인 (피아노 영어 버전).srt
+곡 그룹ID: songbook:special_servant_of_evil_piano_english_joydreamer
 
 자료 유형: 노래 기록
 곡명: 창성의 아쿠에리온
@@ -4640,6 +4912,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 2
 SRT 파일: SRT/노래기록/2026-08-14_14693102-014_창성의 아쿠에리온.srt
+곡 그룹ID: songbook:BUKZqdLPtx8JHK1yx0oN
 
 자료 유형: 노래 기록
 곡명: 천성의 약함
@@ -4657,6 +4930,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-015_천성의 약함.srt
+곡 그룹ID: songbook:tuGH4GOVQbe4d7Mdv7kf
 
 자료 유형: 노래 기록
 곡명: moonlit bear
@@ -4674,6 +4948,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-016_moonlit bear.srt
+곡 그룹ID: songbook:SLmnFaofBOEhS12VXPlq
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -4691,6 +4966,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-017_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: 잊혀지지 못할 언어 (영어)
@@ -4708,6 +4984,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-018_잊혀지지 못할 언어 (영어).srt
+곡 그룹ID: songbook:Gi1LuFy97nniVMnNcVei
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -4725,6 +5002,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-019_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 빙그레^^ 조사대의 테마
@@ -4742,6 +5020,7 @@ cue 수: 121
 가사 cue 수: 121
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-020_빙그레^^ 조사대의 테마.srt
+곡 그룹ID: songbook:3VgGiGezY5oFxCI8jWkQ
 
 자료 유형: 노래 기록
 곡명: Paintër
@@ -4759,6 +5038,7 @@ cue 수: 94
 가사 cue 수: 94
 번역 없는 가사 cue 수: 20
 SRT 파일: SRT/노래기록/2026-08-14_14693102-021_Paintër.srt
+곡 그룹ID: songbook:Zf5wgaF5HUF1Fg3R6bZB
 
 자료 유형: 노래 기록
 곡명: Mr. Music
@@ -4776,6 +5056,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-022_Mr. Music.srt
+곡 그룹ID: songbook:hH4pwwy2YcvQiStxt9TV
 
 자료 유형: 노래 기록
 곡명: 에어맨을 쓰러뜨릴 수 없어
@@ -4793,6 +5074,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-023_에어맨을 쓰러뜨릴 수 없어.srt
+곡 그룹ID: songbook:LVsVAWGA17OiCyEtjoJU
 
 자료 유형: 노래 기록
 곡명: 7 years
@@ -4810,6 +5092,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-024_7 years.srt
+곡 그룹ID: songbook:QknfdtYM009Ha0zdokAJ
 
 자료 유형: 노래 기록
 곡명: 물거품
@@ -4827,6 +5110,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-026_물거품.srt
+곡 그룹ID: songbook:F13ukibQX93iEDJy7C0R
 
 자료 유형: 노래 기록
 곡명: 있지 윌리엄
@@ -4844,6 +5128,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-027_있지 윌리엄.srt
+곡 그룹ID: songbook:BIdomaBEAmMNbx8DJQHs
 
 자료 유형: 노래 기록
 곡명: 손을(테오)
@@ -4861,6 +5146,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-028_손을(테오).srt
+곡 그룹ID: songbook:mwOeNvkhV4wNNEWrdn4r
 
 자료 유형: 노래 기록
 곡명: 빛과 어둠의 동화
@@ -4878,6 +5164,7 @@ cue 수: 13
 가사 cue 수: 13
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-029_빛과 어둠의 동화.srt
+곡 그룹ID: songbook:nYMz5w7YPocRP0BPFAB6
 
 자료 유형: 노래 기록
 곡명: DAYBREAK FRONTLINE
@@ -4895,6 +5182,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-030_DAYBREAK FRONTLINE.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 노래 기록
 곡명: 야라라라
@@ -4912,6 +5200,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-031_야라라라.srt
+곡 그룹ID: songbook:oUwUKPIks3qUWd1rkhhX
 
 자료 유형: 노래 기록
 곡명: KING
@@ -4929,6 +5218,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-032_KING.srt
+곡 그룹ID: songbook:3p0rfXfhkK2SCJgY7wdh
 
 자료 유형: 노래 기록
 곡명: ANTI THE∞HOLiC
@@ -4946,6 +5236,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-14_14693102-033_ANTI THE∞HOLiC.srt
+곡 그룹ID: songbook:1ThD3Zl4Myo3tFIAa1gI
 
 자료 유형: 노래 기록
 곡명: Mela!
@@ -4963,6 +5254,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-001_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 노래 기록
 곡명: 언노운 마더 구스
@@ -4980,6 +5272,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-002_언노운 마더 구스.srt
+곡 그룹ID: songbook:0MvCyF5Zwgf9FznBNHQE
 
 자료 유형: 노래 기록
 곡명: Other Friends
@@ -4997,6 +5290,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-003_Other Friends.srt
+곡 그룹ID: songbook:nsmeKTNwFH3pZVvyP1Uq
 
 자료 유형: 노래 기록
 곡명: GETCHA!
@@ -5014,6 +5308,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-004_GETCHA!.srt
+곡 그룹ID: songbook:xPridEUT6Xi47OYdYnX1
 
 자료 유형: 노래 기록
 곡명: 신 같네
@@ -5031,6 +5326,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-005_신 같네.srt
+곡 그룹ID: songbook:9BiZT7xuh3Mu0EXILMzp
 
 자료 유형: 노래 기록
 곡명: 패배의 소년
@@ -5048,6 +5344,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-006_패배의 소년.srt
+곡 그룹ID: songbook:HQf78IigApVqQiNVjrNq
 
 자료 유형: 노래 기록
 곡명: 멜트
@@ -5065,6 +5362,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-007_멜트.srt
+곡 그룹ID: songbook:cCuR19D1OaedrfLiZnas
 
 자료 유형: 노래 기록
 곡명: 뇌내혁명걸
@@ -5082,6 +5380,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-008_뇌내혁명걸.srt
+곡 그룹ID: songbook:d8PbVHRB8Xk0fYppKXtR
 
 자료 유형: 노래 기록
 곡명: Rubia
@@ -5099,6 +5398,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-009_Rubia.srt
+곡 그룹ID: songbook:lZqTBIHNpF52XvqtmxXD
 
 자료 유형: 노래 기록
 곡명: 재출생
@@ -5116,6 +5416,7 @@ cue 수: 83
 가사 cue 수: 83
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-010_재출생.srt
+곡 그룹ID: songbook:ziYDuXUfWRHuJrIoRpLv
 
 자료 유형: 노래 기록
 곡명: 로키
@@ -5133,6 +5434,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-011_로키.srt
+곡 그룹ID: songbook:J4aydC6A1Pfp1GWjFPXH
 
 자료 유형: 노래 기록
 곡명: 절대적대 완전 싫어
@@ -5150,6 +5452,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-012_절대적대 완전 싫어.srt
+곡 그룹ID: songbook:bqfDOmPJbgllNUgK5OBg
 
 자료 유형: 노래 기록
 곡명: 프러포즈
@@ -5167,6 +5470,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-013_프러포즈.srt
+곡 그룹ID: songbook:AiUo7pgnIaA7bWQfYoj8
 
 자료 유형: 노래 기록
 곡명: IRIS OUT
@@ -5184,6 +5488,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-014_IRIS OUT.srt
+곡 그룹ID: songbook:3h8v9BLDtKmeery9FYHa
 
 자료 유형: 노래 기록
 곡명: JANE DOE
@@ -5201,6 +5506,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-015_JANE DOE.srt
+곡 그룹ID: songbook:JBn7wMZVGTwZADIgEtBp
 
 자료 유형: 노래 기록
 곡명: 버그
@@ -5218,6 +5524,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-016_버그.srt
+곡 그룹ID: songbook:Al5AGzi0teuut7Jo9Qm7
 
 자료 유형: 노래 기록
 곡명: 아이돌
@@ -5235,6 +5542,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-017_아이돌.srt
+곡 그룹ID: songbook:ZAK4zxfD5iZL8wdJGx9a
 
 자료 유형: 노래 기록
 곡명: 괴물
@@ -5252,6 +5560,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-018_괴물.srt
+곡 그룹ID: songbook:Hz5cwz3y3jyVy6PkZKzQ
 
 자료 유형: 노래 기록
 곡명: 열등상등
@@ -5269,6 +5578,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-019_열등상등.srt
+곡 그룹ID: songbook:SVsndw6RLHkWAOmeF91O
 
 자료 유형: 노래 기록
 곡명: 오도 (춤)
@@ -5286,6 +5596,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-020_오도 (춤).srt
+곡 그룹ID: songbook:RfOstxVuM58HDmrWMMOn
 
 자료 유형: 노래 기록
 곡명: 역광
@@ -5303,6 +5614,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-021_역광.srt
+곡 그룹ID: songbook:UF0toMBWlsUfOzpqqsjy
 
 자료 유형: 노래 기록
 곡명: 스피카
@@ -5320,6 +5632,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-022_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 노래 기록
 곡명: 내가 죽으려고 생각한 것은
@@ -5337,6 +5650,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-023_내가 죽으려고 생각한 것은.srt
+곡 그룹ID: songbook:SIE2BkMlNfMJwRwqdGtT
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -5354,6 +5668,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-16_14728071-024_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: 펭귄 댄스
@@ -5371,6 +5686,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-001_펭귄 댄스.srt
+곡 그룹ID: songbook:u4uhGB8CJ98uNgXCx4Bq
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -5388,6 +5704,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-002_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: Henceforth
@@ -5405,6 +5722,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-003_Henceforth.srt
+곡 그룹ID: songbook:yGG5GSWcAqNfIfBwMH7l
 
 자료 유형: 노래 기록
 곡명: 물거품
@@ -5422,6 +5740,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-004_물거품.srt
+곡 그룹ID: songbook:F13ukibQX93iEDJy7C0R
 
 자료 유형: 노래 기록
 곡명: FRIENDS
@@ -5439,6 +5758,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 11
 SRT 파일: SRT/노래기록/2026-08-18_14756908-005_FRIENDS.srt
+곡 그룹ID: songbook:uO72oHaEclQMA04ywWyr
 
 자료 유형: 노래 기록
 곡명: Rockabye
@@ -5456,6 +5776,7 @@ cue 수: 101
 가사 cue 수: 101
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-006_Rockabye.srt
+곡 그룹ID: songbook:NGPNye9fJdf0eRlJNJZA
 
 자료 유형: 노래 기록
 곡명: Good in Goodbye
@@ -5473,6 +5794,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-007_Good in Goodbye.srt
+곡 그룹ID: songbook:Yw4CyQ2dHEaEzZJnTeSd
 
 자료 유형: 노래 기록
 곡명: He Wasn't
@@ -5490,6 +5812,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-008_He Wasn't.srt
+곡 그룹ID: songbook:kUMkhSvxeVfW9bVXJprW
 
 자료 유형: 노래 기록
 곡명: Somebody That I Used to Know
@@ -5507,6 +5830,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-009_Somebody That I Used to Know.srt
+곡 그룹ID: songbook:kS8oyZF9vi2WIyaiOQrc
 
 자료 유형: 노래 기록
 곡명: Speechless
@@ -5524,6 +5848,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-010_Speechless.srt
+곡 그룹ID: songbook:wPXukfI5FRL9HnXAvzcn
 
 자료 유형: 노래 기록
 곡명: Unstoppable
@@ -5541,6 +5866,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-011_Unstoppable.srt
+곡 그룹ID: songbook:Z0V92GcWpcuwP5bEKMYx
 
 자료 유형: 노래 기록
 곡명: Waiting in the Wings
@@ -5558,6 +5884,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-012_Waiting in the Wings.srt
+곡 그룹ID: songbook:oOnTcpSyFiBbal6uL4fz
 
 자료 유형: 노래 기록
 곡명: How Far I'll Go
@@ -5575,6 +5902,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-013_How Far I'll Go.srt
+곡 그룹ID: songbook:O4QZlpg9hBPKrTWXBwE3
 
 자료 유형: 노래 기록
 곡명: Prince Ali
@@ -5592,6 +5920,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-014_Prince Ali.srt
+곡 그룹ID: songbook:GW1lqwJOJ661pklNWyW4
 
 자료 유형: 노래 기록
 곡명: The Other Side
@@ -5609,6 +5938,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-015_The Other Side.srt
+곡 그룹ID: songbook:uJoDuTEGN17D5FQ7vJo6
 
 자료 유형: 노래 기록
 곡명: 여름 축제
@@ -5626,6 +5956,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-016_여름 축제.srt
+곡 그룹ID: songbook:XztiMKR4d4acx712HT00
 
 자료 유형: 노래 기록
 곡명: 여름 축제 (잼민레카 ver.)
@@ -5643,6 +5974,7 @@ cue 수: 10
 가사 cue 수: 10
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-017_여름 축제 (잼민레카 ver.).srt
+곡 그룹ID: songbook:special_summer_festival_child_eureka
 
 자료 유형: 노래 기록
 곡명: 스피카
@@ -5660,6 +5992,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-018_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 노래 기록
 곡명: 유레카
@@ -5677,6 +6010,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-019_유레카.srt
+곡 그룹ID: songbook:fRZuaZfZY0zn4uxcT0RJ
 
 자료 유형: 노래 기록
 곡명: 혼자 놀이 엔비
@@ -5694,6 +6028,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-020_혼자 놀이 엔비.srt
+곡 그룹ID: songbook:CkiL2VwyHoNrMfhX4EKb
 
 자료 유형: 노래 기록
 곡명: 카사네 테토는 이런 파티를 둘이서 빠져나올 수 있을까
@@ -5711,6 +6046,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-021_카사네 테토는 이런 파티를 둘이서 빠져나올 수 있을까.srt
+곡 그룹ID: songbook:VuGxGq8EmdtsHcepLa8g
 
 자료 유형: 노래 기록
 곡명: 보컬로이드 보사노바 메들리
@@ -5728,6 +6064,7 @@ cue 수: 100
 가사 cue 수: 100
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-18_14756908-022_보컬로이드 보사노바 메들리.srt
+곡 그룹ID: songbook:dGcLpmRy81GyRobAWpWv
 
 자료 유형: 노래 기록
 곡명: 백금 디스코
@@ -5745,6 +6082,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-001_백금 디스코.srt
+곡 그룹ID: songbook:9fBf5W1AR0GQodXwC3BO
 
 자료 유형: 노래 기록
 곡명: 물거품 자장가
@@ -5762,6 +6100,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 1
 SRT 파일: SRT/노래기록/2026-08-21_14805053-002_물거품 자장가.srt
+곡 그룹ID: songbook:s6oqpuMtNND72kDo3Itw
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -5779,6 +6118,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-003_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: 카츄샤
@@ -5796,6 +6136,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-004_카츄샤.srt
+곡 그룹ID: songbook:aGNoeXurLJdpURYvvc4I
 
 자료 유형: 노래 기록
 곡명: ⑨destiny ~영원히 치르노의 턴~
@@ -5813,6 +6154,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-005_⑨destiny ~영원히 치르노의 턴~.srt
+곡 그룹ID: songbook:xqost2rFx4Reu1ey7fjo
 
 자료 유형: 노래 기록
 곡명: (무)책임집합체
@@ -5830,6 +6172,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-006_(무)책임집합체.srt
+곡 그룹ID: songbook:j0Js14LxtaVRwPzyKIPo
 
 자료 유형: 노래 기록
 곡명: FAKE LAND
@@ -5847,6 +6190,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 2
 SRT 파일: SRT/노래기록/2026-08-21_14805053-007_FAKE LAND.srt
+곡 그룹ID: songbook:5IBU8IB0KY3f8NFcP040
 
 자료 유형: 노래 기록
 곡명: 모여! 내 사랑
@@ -5864,6 +6208,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-008_모여! 내 사랑.srt
+곡 그룹ID: songbook:azv3Cd5fnU9yRbrmyEzA
 
 자료 유형: 노래 기록
 곡명: 멜트
@@ -5881,6 +6226,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-009_멜트.srt
+곡 그룹ID: songbook:cCuR19D1OaedrfLiZnas
 
 자료 유형: 노래 기록
 곡명: 월드 이즈 마인 (카구야 ver.)
@@ -5898,6 +6244,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-010_월드 이즈 마인 (카구야 ver.).srt
+곡 그룹ID: songbook:mt5obqltClwi882YykXa
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -5915,6 +6262,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-011_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 펭귄 댄스
@@ -5932,6 +6280,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-012_펭귄 댄스.srt
+곡 그룹ID: songbook:u4uhGB8CJ98uNgXCx4Bq
 
 자료 유형: 노래 기록
 곡명: 고음충 음역 테스트
@@ -5949,6 +6298,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-013_고음충 음역 테스트.srt
+곡 그룹ID: songbook:TFL5PRKOMefkclPcBLKt
 
 자료 유형: 노래 기록
 곡명: Golden
@@ -5966,6 +6316,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-08-21_14805053-014_Golden.srt
+곡 그룹ID: songbook:jWi7kZq1ZKOa8022a2oB
 
 자료 유형: 노래 기록
 곡명: 점점 빨라져
@@ -5983,6 +6334,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-015_점점 빨라져.srt
+곡 그룹ID: songbook:JJUVuVWzzZYEtTNAHab0
 
 자료 유형: 노래 기록
 곡명: DAYBREAK FRONTLINE
@@ -6000,6 +6352,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-016_DAYBREAK FRONTLINE.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 노래 기록
 곡명: 프로포즈
@@ -6017,6 +6370,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-017_프로포즈.srt
+곡 그룹ID: songbook:3vOogwB4KsxlqYzib7Wt
 
 자료 유형: 노래 기록
 곡명: Henceforth
@@ -6034,6 +6388,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-018_Henceforth.srt
+곡 그룹ID: songbook:yGG5GSWcAqNfIfBwMH7l
 
 자료 유형: 노래 기록
 곡명: 슬픔의 물결에 빠져
@@ -6051,6 +6406,7 @@ cue 수: 25
 가사 cue 수: 25
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-019_슬픔의 물결에 빠져.srt
+곡 그룹ID: songbook:EGb4B0uR3dyLPFarlALD
 
 자료 유형: 노래 기록
 곡명: 코코로 오도루
@@ -6068,6 +6424,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 3
 SRT 파일: SRT/노래기록/2026-08-21_14805053-020_코코로 오도루.srt
+곡 그룹ID: songbook:S9LfbzA1nk81jIWAsvzk
 
 자료 유형: 노래 기록
 곡명: 부탁해 달링
@@ -6085,6 +6442,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-021_부탁해 달링.srt
+곡 그룹ID: songbook:ldLlWdPamfIGFTdvr7A1
 
 자료 유형: 노래 기록
 곡명: 마시멜로
@@ -6102,6 +6460,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 10
 SRT 파일: SRT/노래기록/2026-08-21_14805053-022_마시멜로.srt
+곡 그룹ID: songbook:sFibAauc2s2qNGCf9bZZ
 
 자료 유형: 노래 기록
 곡명: 히비카세 SCREAMO REMIX
@@ -6119,6 +6478,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-023_히비카세 SCREAMO REMIX.srt
+곡 그룹ID: songbook:WWT9lzVxWqOfJcWphJDL
 
 자료 유형: 노래 기록
 곡명: 엔비 베이비 X KING
@@ -6136,6 +6496,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-024_엔비 베이비 X KING.srt
+곡 그룹ID: songbook:zF5Qhc2sGKDpuNtL6b1V
 
 자료 유형: 노래 기록
 곡명: 엔비 베이비
@@ -6153,6 +6514,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-025_엔비 베이비.srt
+곡 그룹ID: songbook:hyQkUqzuntT5RWpWpOjC
 
 자료 유형: 노래 기록
 곡명: QUEEN
@@ -6170,6 +6532,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-026_QUEEN.srt
+곡 그룹ID: songbook:Btgdr9jdGm6u4c99QSH2
 
 자료 유형: 노래 기록
 곡명: 달이 아름답다고 말해줘!
@@ -6187,6 +6550,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-027_달이 아름답다고 말해줘!.srt
+곡 그룹ID: songbook:ePlbnL111OBungTlqCcs
 
 자료 유형: 노래 기록
 곡명: 사랑해줘 사랑해줘 사랑해줘 (아이시테 아이시테 아이시테)
@@ -6204,6 +6568,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-21_14805053-028_사랑해줘 사랑해줘 사랑해줘 (아이시테 아이시테 아이시테).srt
+곡 그룹ID: songbook:special_aishite_aishite_aishite
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -6221,6 +6586,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-001_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: 바움쿠헨 엔드롤
@@ -6238,6 +6604,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-002_바움쿠헨 엔드롤.srt
+곡 그룹ID: songbook:JzGZYdW9FSMp1L2bwHhU
 
 자료 유형: 노래 기록
 곡명: RTRT
@@ -6255,6 +6622,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-003_RTRT.srt
+곡 그룹ID: songbook:PAqgvKhiUgqxtyGPAj5W
 
 자료 유형: 노래 기록
 곡명: 끝없이 잿빛으로
@@ -6272,6 +6640,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-004_끝없이 잿빛으로.srt
+곡 그룹ID: songbook:SODTDUcSYDwOFmZR5lrO
 
 자료 유형: 노래 기록
 곡명: 아지랑이 데이즈
@@ -6289,6 +6658,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-005_아지랑이 데이즈.srt
+곡 그룹ID: songbook:kzwKhyOschRZa1YonHrF
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -6306,6 +6676,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-006_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 구마
@@ -6323,6 +6694,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-007_구마.srt
+곡 그룹ID: songbook:HdpaPtey3SLtaq3B4FWc
 
 자료 유형: 노래 기록
 곡명: 우견의 나비 (렌.ver)
@@ -6340,6 +6712,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-008_우견의 나비 (렌.ver).srt
+곡 그룹ID: songbook:wFesbG6JpdjKwAfFXHvW
 
 자료 유형: 노래 기록
 곡명: 익명M
@@ -6357,6 +6730,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-009_익명M.srt
+곡 그룹ID: songbook:ITf1auG4ZcZFtxA5uWGd
 
 자료 유형: 노래 기록
 곡명: 가희실격
@@ -6374,6 +6748,7 @@ cue 수: 71
 가사 cue 수: 71
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-010_가희실격.srt
+곡 그룹ID: songbook:QUL1dwryuDzfzbywfzZz
 
 자료 유형: 노래 기록
 곡명: 비비데바
@@ -6391,6 +6766,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 8
 SRT 파일: SRT/노래기록/2026-08-30_14953860-011_비비데바.srt
+곡 그룹ID: songbook:lkh8bkatV99bbdTHS9uJ
 
 자료 유형: 노래 기록
 곡명: Ashley's Song
@@ -6408,6 +6784,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-012_Ashley's Song.srt
+곡 그룹ID: songbook:LifvRjFhUWvdVp2MkaW3
 
 자료 유형: 노래 기록
 곡명: 개쓰레기
@@ -6425,6 +6802,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-013_개쓰레기.srt
+곡 그룹ID: songbook:b2Srhs7ZRkwZsPtTCgdb
 
 자료 유형: 노래 기록
 곡명: 니 팔자야
@@ -6442,6 +6820,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-014_니 팔자야.srt
+곡 그룹ID: songbook:BXvkL02Sn2lPM8x54qUY
 
 자료 유형: 노래 기록
 곡명: 광기의 눈동자
@@ -6459,6 +6838,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-015_광기의 눈동자.srt
+곡 그룹ID: songbook:3JL0cgpvUxncov9mRYzv
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -6476,6 +6856,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-016_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: 레오
@@ -6493,6 +6874,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-017_레오.srt
+곡 그룹ID: songbook:n82yjChnkUQh5EfvHVIN
 
 자료 유형: 노래 기록
 곡명: 멜랑콜릭
@@ -6510,6 +6892,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-018_멜랑콜릭.srt
+곡 그룹ID: songbook:Khd8oaVyKCb4trbBvdOK
 
 자료 유형: 노래 기록
 곡명: Victim
@@ -6527,6 +6910,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-020_Victim.srt
+곡 그룹ID: songbook:24D9PDz2zWFn0r9wz0BK
 
 자료 유형: 노래 기록
 곡명: 새벽빛의 노래
@@ -6544,6 +6928,7 @@ cue 수: 14
 가사 cue 수: 14
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-021_새벽빛의 노래.srt
+곡 그룹ID: songbook:8bcin8AJNNhWLSoX99ea
 
 자료 유형: 노래 기록
 곡명: 도망쳐! 현실이다
@@ -6561,6 +6946,7 @@ cue 수: 94
 가사 cue 수: 94
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-022_도망쳐! 현실이다.srt
+곡 그룹ID: songbook:SaCpmTwhuSgYjr92UtIk
 
 자료 유형: 노래 기록
 곡명: 일렉트릭 엔젤
@@ -6578,6 +6964,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-023_일렉트릭 엔젤.srt
+곡 그룹ID: songbook:M3TlfgBwSMusHMUdiKrx
 
 자료 유형: 노래 기록
 곡명: 마트료시카
@@ -6595,6 +6982,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-024_마트료시카.srt
+곡 그룹ID: songbook:Yftmyg4catnjAFHIuW6a
 
 자료 유형: 노래 기록
 곡명: 격! 제국화격단
@@ -6612,6 +7000,7 @@ cue 수: 18
 가사 cue 수: 18
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-025_격! 제국화격단.srt
+곡 그룹ID: songbook:9u9euEjLryK1yoyUB9DL
 
 자료 유형: 노래 기록
 곡명: 라시사
@@ -6629,6 +7018,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-026_라시사.srt
+곡 그룹ID: songbook:MdDUYbM75liGDrF09aCs
 
 자료 유형: 노래 기록
 곡명: 댄스홀
@@ -6646,6 +7036,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-027_댄스홀.srt
+곡 그룹ID: songbook:DI2pHFfMJGFcAmFby31c
 
 자료 유형: 노래 기록
 곡명: 열이상
@@ -6663,6 +7054,7 @@ cue 수: 134
 가사 cue 수: 134
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-028_열이상.srt
+곡 그룹ID: songbook:jPB5rJjTOPRQWtKidMPp
 
 자료 유형: 노래 기록
 곡명: 래빗 홀
@@ -6680,6 +7072,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-029_래빗 홀.srt
+곡 그룹ID: songbook:PY5gug2O9xgnKXnAXDDB
 
 자료 유형: 노래 기록
 곡명: 도넛 홀
@@ -6697,6 +7090,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-030_도넛 홀.srt
+곡 그룹ID: songbook:om7rjFIudW4cUqCzwHAK
 
 자료 유형: 노래 기록
 곡명: 한국을 빛낸 100명의 위인들
@@ -6714,6 +7108,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-031_한국을 빛낸 100명의 위인들.srt
+곡 그룹ID: songbook:1kUzDeF4G10QwLzArCKi
 
 자료 유형: 노래 기록
 곡명: Henceforth
@@ -6731,6 +7126,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-032_Henceforth.srt
+곡 그룹ID: songbook:yGG5GSWcAqNfIfBwMH7l
 
 자료 유형: 노래 기록
 곡명: 잔혹한 천사의 테제
@@ -6748,6 +7144,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-08-30_14953860-033_잔혹한 천사의 테제.srt
+곡 그룹ID: songbook:eU4TTAaulge5K3FNtSYO
 
 자료 유형: 노래 기록
 곡명: 세븐틴
@@ -6765,6 +7162,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-001_세븐틴.srt
+곡 그룹ID: songbook:CuunYD9PRO9gmgfyBMWZ
 
 자료 유형: 노래 기록
 곡명: Bunny Girl
@@ -6782,6 +7180,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-002_Bunny Girl.srt
+곡 그룹ID: songbook:ibJy3uUnEO36EuIZHjpA
 
 자료 유형: 노래 기록
 곡명: 히로인
@@ -6799,6 +7198,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-003_히로인.srt
+곡 그룹ID: songbook:yPeONzQGhdGmbA5njdwf
 
 자료 유형: 노래 기록
 곡명: 귀여워서 미안해
@@ -6816,6 +7216,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-004_귀여워서 미안해.srt
+곡 그룹ID: songbook:DFdLZaDzGzr2QhChF52c
 
 자료 유형: 노래 기록
 곡명: 패배의 소년
@@ -6833,6 +7234,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-005_패배의 소년.srt
+곡 그룹ID: songbook:HQf78IigApVqQiNVjrNq
 
 자료 유형: 노래 기록
 곡명: 연애 서큘레이션
@@ -6850,6 +7252,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-006_연애 서큘레이션.srt
+곡 그룹ID: songbook:4KztSVesD6bTZGPShPZF
 
 자료 유형: 노래 기록
 곡명: 스즈메
@@ -6867,6 +7270,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-007_스즈메.srt
+곡 그룹ID: songbook:NLVYrdB5ie5MVaeZwV9z
 
 자료 유형: 노래 기록
 곡명: 장난기 기능
@@ -6884,6 +7288,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-008_장난기 기능.srt
+곡 그룹ID: songbook:WeWYMmlI5l48eZwy1TPH
 
 자료 유형: 노래 기록
 곡명: 밝아오지 않는 밤의 릴리
@@ -6901,6 +7306,7 @@ cue 수: 4
 가사 cue 수: 4
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-009_밝아오지 않는 밤의 릴리.srt
+곡 그룹ID: songbook:JSjEPQkENxGQqcTWsaG1
 
 자료 유형: 노래 기록
 곡명: 천본앵
@@ -6918,6 +7324,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-010_천본앵.srt
+곡 그룹ID: songbook:hE5LSaGxnEv5oI9sTBoX
 
 자료 유형: 노래 기록
 곡명: 악의 딸
@@ -6935,6 +7342,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-011_악의 딸.srt
+곡 그룹ID: songbook:TLFMtPzqnzigEgMp1Z9Z
 
 자료 유형: 노래 기록
 곡명: 악의 하인
@@ -6952,6 +7360,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-012_악의 하인.srt
+곡 그룹ID: songbook:7joJM9PZl2ewskcE92Gh
 
 자료 유형: 노래 기록
 곡명: 타상연화
@@ -6969,6 +7378,7 @@ cue 수: 16
 가사 cue 수: 16
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-013_타상연화.srt
+곡 그룹ID: songbook:mCfsVhrMmvjpRcn9dONk
 
 자료 유형: 노래 기록
 곡명: 타상연화
@@ -6986,6 +7396,7 @@ cue 수: 7
 가사 cue 수: 7
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-04_15033796-014_타상연화.srt
+곡 그룹ID: songbook:mCfsVhrMmvjpRcn9dONk
 
 자료 유형: 노래 기록
 곡명: 그저 네게 맑아라
@@ -7003,6 +7414,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-001_그저 네게 맑아라.srt
+곡 그룹ID: songbook:Y0KtrCWJg7Nw4TheIgf5
 
 자료 유형: 노래 기록
 곡명: REDRED
@@ -7020,6 +7432,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-002_REDRED.srt
+곡 그룹ID: songbook:special_redred_cortis
 
 자료 유형: 노래 기록
 곡명: 시니컬 나이트 플랜
@@ -7037,6 +7450,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 6
 SRT 파일: SRT/노래기록/2026-09-05_15051325-003_시니컬 나이트 플랜.srt
+곡 그룹ID: songbook:9RGxZkvchzDXvpYq0g5M
 
 자료 유형: 노래 기록
 곡명: SOS
@@ -7054,6 +7468,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-004_SOS.srt
+곡 그룹ID: songbook:special_sos_fuyuko
 
 자료 유형: 노래 기록
 곡명: 잔혹한 천사의 테제
@@ -7071,6 +7486,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-005_잔혹한 천사의 테제.srt
+곡 그룹ID: songbook:eU4TTAaulge5K3FNtSYO
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -7088,6 +7504,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-006_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: Lemon
@@ -7105,6 +7522,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-007_Lemon.srt
+곡 그룹ID: songbook:ntGfgZSTohqATGppqPKQ
 
 자료 유형: 노래 기록
 곡명: 해피 신디사이저
@@ -7122,6 +7540,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-008_해피 신디사이저.srt
+곡 그룹ID: songbook:zMS6IEEtt0fEcMXDLuHb
 
 자료 유형: 노래 기록
 곡명: Overdose
@@ -7139,6 +7558,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-009_Overdose.srt
+곡 그룹ID: songbook:gVoXr4nMEZPCZdD3Kh4C
 
 자료 유형: 노래 기록
 곡명: 연애 서큘레이션
@@ -7156,6 +7576,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-010_연애 서큘레이션.srt
+곡 그룹ID: songbook:4KztSVesD6bTZGPShPZF
 
 자료 유형: 노래 기록
 곡명: 악의 하인
@@ -7173,6 +7594,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-011_악의 하인.srt
+곡 그룹ID: songbook:7joJM9PZl2ewskcE92Gh
 
 자료 유형: 노래 기록
 곡명: 귀신의 잔치
@@ -7190,6 +7612,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-012_귀신의 잔치.srt
+곡 그룹ID: songbook:D3BjZQwWJFbfP8OXopnI
 
 자료 유형: 노래 기록
 곡명: Bunny Girl
@@ -7207,6 +7630,7 @@ cue 수: 16
 가사 cue 수: 16
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-013_Bunny Girl.srt
+곡 그룹ID: songbook:ibJy3uUnEO36EuIZHjpA
 
 자료 유형: 노래 기록
 곡명: God knows...
@@ -7224,6 +7648,7 @@ cue 수: 7
 가사 cue 수: 7
 번역 없는 가사 cue 수: 1
 SRT 파일: SRT/노래기록/2026-09-05_15051325-014_God knows.srt
+곡 그룹ID: songbook:special_god_knows_haruhi
 
 자료 유형: 노래 기록
 곡명: 아지랑이 데이즈
@@ -7241,6 +7666,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-015_아지랑이 데이즈.srt
+곡 그룹ID: songbook:kzwKhyOschRZa1YonHrF
 
 자료 유형: 노래 기록
 곡명: 완전감각 Dreamer
@@ -7258,6 +7684,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-016_완전감각 Dreamer.srt
+곡 그룹ID: songbook:A9MAVQQvRUJTtyViZlJ1
 
 자료 유형: 노래 기록
 곡명: 멜트
@@ -7275,6 +7702,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-017_멜트.srt
+곡 그룹ID: songbook:cCuR19D1OaedrfLiZnas
 
 자료 유형: 노래 기록
 곡명: 로스트 원의 호곡
@@ -7292,6 +7720,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-018_로스트 원의 호곡.srt
+곡 그룹ID: songbook:kIelvPoIRED1HqH6Y4Q1
 
 자료 유형: 노래 기록
 곡명: 도쿄 테디베어
@@ -7309,6 +7738,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-019_도쿄 테디베어.srt
+곡 그룹ID: songbook:gZY4Esj0uP7vs9JTGDIP
 
 자료 유형: 노래 기록
 곡명: 데빌이 아닌걸
@@ -7326,6 +7756,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-020_데빌이 아닌걸.srt
+곡 그룹ID: songbook:zeQYTrZc6tadk3LJokmb
 
 자료 유형: 노래 기록
 곡명: 열등상등
@@ -7343,6 +7774,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-021_열등상등.srt
+곡 그룹ID: songbook:SVsndw6RLHkWAOmeF91O
 
 자료 유형: 노래 기록
 곡명: 천천천국지옥국
@@ -7360,6 +7792,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-022_천천천국지옥국.srt
+곡 그룹ID: songbook:1oU3hty7BeiQhcegUr2F
 
 자료 유형: 노래 기록
 곡명: 답장 아직일까? 아저씨 구문!
@@ -7377,6 +7810,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-023_답장 아직일까_ 아저씨 구문!.srt
+곡 그룹ID: songbook:JgDzbC37hLoVsCLyaXdi
 
 자료 유형: 노래 기록
 곡명: PPPP
@@ -7394,6 +7828,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-05_15051325-024_PPPP.srt
+곡 그룹ID: songbook:yANeLKDGQBQBUQfkZYQQ
 
 자료 유형: 노래 기록
 곡명: 생명에게 미움받고 있어
@@ -7411,6 +7846,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-001_생명에게 미움받고 있어.srt
+곡 그룹ID: songbook:pdDc6xmGQOs3AQiUrl5x
 
 자료 유형: 노래 기록
 곡명: 천본앵
@@ -7428,6 +7864,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-002_천본앵.srt
+곡 그룹ID: songbook:hE5LSaGxnEv5oI9sTBoX
 
 자료 유형: 노래 기록
 곡명: 넷게임 폐인 슈프레히콜
@@ -7445,6 +7882,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-003_넷게임 폐인 슈프레히콜.srt
+곡 그룹ID: songbook:PFBA4igHWZtY4cfEjSyS
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -7462,6 +7900,7 @@ cue 수: 6
 가사 cue 수: 6
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-004_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -7479,6 +7918,7 @@ cue 수: 8
 가사 cue 수: 8
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-005_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: 감전
@@ -7496,6 +7936,7 @@ cue 수: 18
 가사 cue 수: 18
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-006_감전.srt
+곡 그룹ID: songbook:3oZGWFc3W6V8mxBoMCXw
 
 자료 유형: 노래 기록
 곡명: 루루
@@ -7513,6 +7954,7 @@ cue 수: 14
 가사 cue 수: 14
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-007_루루.srt
+곡 그룹ID: songbook:nPPzqLnttC32mn5SRjV6
 
 자료 유형: 노래 기록
 곡명: 레디메이드
@@ -7530,6 +7972,7 @@ cue 수: 23
 가사 cue 수: 23
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-008_레디메이드.srt
+곡 그룹ID: songbook:hv1M4St06UlQeauv4y8z
 
 자료 유형: 노래 기록
 곡명: 아지랑이 데이즈
@@ -7547,6 +7990,7 @@ cue 수: 13
 가사 cue 수: 13
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-009_아지랑이 데이즈.srt
+곡 그룹ID: songbook:kzwKhyOschRZa1YonHrF
 
 자료 유형: 노래 기록
 곡명: 악마의 아이
@@ -7564,6 +8008,7 @@ cue 수: 17
 가사 cue 수: 17
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-010_악마의 아이.srt
+곡 그룹ID: songbook:wXCYCkAKxsxQwclLIHPp
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -7581,6 +8026,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-011_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: This Is the Moment
@@ -7598,6 +8044,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-012_This Is the Moment.srt
+곡 그룹ID: title_artist:this is the moment|jekyll & hyde (musical)
 
 자료 유형: 노래 기록
 곡명: Tot Musica
@@ -7615,6 +8062,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-06_15069207-013_Tot Musica.srt
+곡 그룹ID: songbook:ztwP9xiRALgmfXCUAyoF
 
 자료 유형: 노래 기록
 곡명: 사인은 B
@@ -7632,6 +8080,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-001_사인은 B.srt
+곡 그룹ID: songbook:special_sign_is_b_new_arrange
 
 자료 유형: 노래 기록
 곡명: 구마
@@ -7649,6 +8098,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-002_구마.srt
+곡 그룹ID: songbook:HdpaPtey3SLtaq3B4FWc
 
 자료 유형: 노래 기록
 곡명: 잊혀지지 못할 언어 (영어)
@@ -7666,6 +8116,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-003_잊혀지지 못할 언어 (영어).srt
+곡 그룹ID: songbook:Gi1LuFy97nniVMnNcVei
 
 자료 유형: 노래 기록
 곡명: 귀여워서 미안해
@@ -7683,6 +8134,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-004_귀여워서 미안해.srt
+곡 그룹ID: songbook:DFdLZaDzGzr2QhChF52c
 
 자료 유형: 노래 기록
 곡명: 새벽과 반딧불이
@@ -7700,6 +8152,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-005_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 노래 기록
 곡명: BAD APPLE!!!
@@ -7717,6 +8170,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-006_BAD APPLE!!!.srt
+곡 그룹ID: songbook:qIk3sXOGCDpoOMYIinKJ
 
 자료 유형: 노래 기록
 곡명: Teeth
@@ -7734,6 +8188,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-007_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 노래 기록
 곡명: 바움쿠헨 엔드롤
@@ -7751,6 +8206,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-008_바움쿠헨 엔드롤.srt
+곡 그룹ID: songbook:JzGZYdW9FSMp1L2bwHhU
 
 자료 유형: 노래 기록
 곡명: 생명의 유스티티아
@@ -7768,6 +8224,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-009_생명의 유스티티아.srt
+곡 그룹ID: songbook:bxLf86ciNPstpAQOuoFj
 
 자료 유형: 노래 기록
 곡명: 인도어계라면 트랙메이커
@@ -7785,6 +8242,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-010_인도어계라면 트랙메이커.srt
+곡 그룹ID: songbook:808qbzF49bCyxgA0JYHv
 
 자료 유형: 노래 기록
 곡명: We Are Japanese Goblin × Unwelcome School
@@ -7802,6 +8260,7 @@ cue 수: 20
 가사 cue 수: 20
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-011_We Are Japanese Goblin × Unwelcome School.srt
+곡 그룹ID: songbook:Ek7QgAQgotUkwlIeoXCl
 
 자료 유형: 노래 기록
 곡명: PPPP
@@ -7819,6 +8278,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-012_PPPP.srt
+곡 그룹ID: songbook:yANeLKDGQBQBUQfkZYQQ
 
 자료 유형: 노래 기록
 곡명: 향기로운 꽃도 언젠간 지는 법
@@ -7836,6 +8296,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-013_향기로운 꽃도 언젠간 지는 법.srt
+곡 그룹ID: songbook:special_iroha_nihoedo_chirinuruwo
 
 자료 유형: 노래 기록
 곡명: 수족관에서 물고기 봐라
@@ -7853,6 +8314,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-014_수족관에서 물고기 봐라.srt
+곡 그룹ID: songbook:HtLstS9ur92Jh4Gkf5uV
 
 자료 유형: 노래 기록
 곡명: 지금 바로 윤회
@@ -7870,6 +8332,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-015_지금 바로 윤회.srt
+곡 그룹ID: songbook:z3zBVjL2UrrlgRMaa7VR
 
 자료 유형: 노래 기록
 곡명: 발랄라이카
@@ -7887,6 +8350,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-016_발랄라이카.srt
+곡 그룹ID: songbook:HL8PiXnLZ4kVggJ5dByH
 
 자료 유형: 노래 기록
 곡명: I'm a mess
@@ -7904,6 +8368,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-017_I'm a mess.srt
+곡 그룹ID: songbook:3IWypehgqOvx807zVJpc
 
 자료 유형: 노래 기록
 곡명: 미무카와 나이스 트라이
@@ -7921,6 +8386,7 @@ cue 수: 84
 가사 cue 수: 84
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-018_미무카와 나이스 트라이.srt
+곡 그룹ID: songbook:3htaW8NflUoJBdAmf3yF
 
 자료 유형: 노래 기록
 곡명: 래빗 홀
@@ -7938,6 +8404,7 @@ cue 수: 71
 가사 cue 수: 71
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-019_래빗 홀.srt
+곡 그룹ID: songbook:PY5gug2O9xgnKXnAXDDB
 
 자료 유형: 노래 기록
 곡명: 달까지 닿아라, 불사의 연기
@@ -7955,6 +8422,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-020_달까지 닿아라, 불사의 연기.srt
+곡 그룹ID: songbook:jxRuKPA4lQFFfxBW8Veu
 
 자료 유형: 노래 기록
 곡명: 두근 어질
@@ -7972,6 +8440,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-021_두근 어질.srt
+곡 그룹ID: songbook:0mF8hqUboia2C0TMJBXV
 
 자료 유형: 노래 기록
 곡명: 완전감각Dreamer
@@ -7989,6 +8458,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-022_완전감각Dreamer.srt
+곡 그룹ID: songbook:A9MAVQQvRUJTtyViZlJ1
 
 자료 유형: 노래 기록
 곡명: 락스타
@@ -8006,6 +8476,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-023_락스타.srt
+곡 그룹ID: songbook:33OZCGVZxt8DuSnHvnK3
 
 자료 유형: 노래 기록
 곡명: -ERROR
@@ -8023,6 +8494,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-07_15084319-024_-ERROR.srt
+곡 그룹ID: songbook:9aMDJHl7v0mfeYkuefNc
 
 자료 유형: 노래 기록
 곡명: 최종화
@@ -8040,6 +8512,7 @@ cue 수: 6
 가사 cue 수: 6
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-001_최종화.srt
+곡 그룹ID: title_artist:최종화|아이리 칸나
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8057,6 +8530,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-002_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야화
@@ -8074,6 +8548,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-003_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 노래 기록
 곡명: 시작의 아이
@@ -8091,6 +8566,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-004_시작의 아이.srt
+곡 그룹ID: songbook:special_starting_with_you_maktub
 
 자료 유형: 노래 기록
 곡명: 시작의 아이
@@ -8108,6 +8584,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-005_시작의 아이.srt
+곡 그룹ID: songbook:special_starting_with_you_maktub
 
 자료 유형: 노래 기록
 곡명: 시작의 아이
@@ -8125,6 +8602,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-006_시작의 아이.srt
+곡 그룹ID: songbook:special_starting_with_you_maktub
 
 자료 유형: 노래 기록
 곡명: 타임캡슐
@@ -8142,6 +8620,7 @@ cue 수: 20
 가사 cue 수: 20
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-007_타임캡슐.srt
+곡 그룹ID: title_artist:타임캡슐|다비치
 
 자료 유형: 노래 기록
 곡명: 타임캡슐
@@ -8159,6 +8638,7 @@ cue 수: 14
 가사 cue 수: 14
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-008_타임캡슐.srt
+곡 그룹ID: title_artist:타임캡슐|다비치
 
 자료 유형: 노래 기록
 곡명: 최종화
@@ -8176,6 +8656,7 @@ cue 수: 8
 가사 cue 수: 8
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-009_최종화.srt
+곡 그룹ID: title_artist:최종화|아이리 칸나
 
 자료 유형: 노래 기록
 곡명: 최종화
@@ -8193,6 +8674,7 @@ cue 수: 6
 가사 cue 수: 6
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-010_최종화.srt
+곡 그룹ID: title_artist:최종화|아이리 칸나
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8210,6 +8692,7 @@ cue 수: 10
 가사 cue 수: 10
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-011_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8227,6 +8710,7 @@ cue 수: 11
 가사 cue 수: 11
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-012_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8244,6 +8728,7 @@ cue 수: 12
 가사 cue 수: 12
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-013_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8261,6 +8746,7 @@ cue 수: 12
 가사 cue 수: 12
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-014_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8278,6 +8764,7 @@ cue 수: 11
 가사 cue 수: 11
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-015_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야생화
@@ -8295,6 +8782,7 @@ cue 수: 11
 가사 cue 수: 11
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-016_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 노래 기록
 곡명: 야화
@@ -8312,6 +8800,7 @@ cue 수: 5
 가사 cue 수: 5
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-017_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 노래 기록
 곡명: 야화
@@ -8329,6 +8818,7 @@ cue 수: 6
 가사 cue 수: 6
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-018_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 노래 기록
 곡명: 야화
@@ -8346,6 +8836,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-019_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 노래 기록
 곡명: 야화
@@ -8363,6 +8854,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-020_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 노래 기록
 곡명: 타임캡슐
@@ -8380,6 +8872,7 @@ cue 수: 10
 가사 cue 수: 10
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-021_타임캡슐.srt
+곡 그룹ID: title_artist:타임캡슐|다비치
 
 자료 유형: 노래 기록
 곡명: 타임캡슐
@@ -8397,6 +8890,7 @@ cue 수: 8
 가사 cue 수: 8
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-08_15101264-022_타임캡슐.srt
+곡 그룹ID: title_artist:타임캡슐|다비치
 
 자료 유형: 노래 기록
 곡명: 치르노의 퍼펙트 산수교실
@@ -8414,6 +8908,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-001_치르노의 퍼펙트 산수교실.srt
+곡 그룹ID: songbook:ZKlT65oRK4nS1K8BiqDx
 
 자료 유형: 노래 기록
 곡명: 플랑돌
@@ -8431,6 +8926,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-002_플랑돌.srt
+곡 그룹ID: songbook:JXvTPkLbQ61Yr6XoiGQW
 
 자료 유형: 노래 기록
 곡명: 인터넷 서바이버
@@ -8448,6 +8944,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-003_인터넷 서바이버.srt
+곡 그룹ID: songbook:drePXriBe73Uk2a0Fzkj
 
 자료 유형: 노래 기록
 곡명: KILLOVE FIREPROOF!
@@ -8465,6 +8962,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-004_KILLOVE FIREPROOF!.srt
+곡 그룹ID: songbook:lKyZN3MzzudcZAnB93kP
 
 자료 유형: 노래 기록
 곡명: 메이드 그만둘까요? 인간 그만둘까요?
@@ -8482,6 +8980,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-005_메이드 그만둘까요_ 인간 그만둘까요_.srt
+곡 그룹ID: songbook:6ihAqwBeWK8fkBIKdNO1
 
 자료 유형: 노래 기록
 곡명: Who Killed U.N.Owen
@@ -8499,6 +8998,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-006_Who Killed U.N.Owen.srt
+곡 그룹ID: songbook:DgkRdSYg76DiusLPAKLH
 
 자료 유형: 노래 기록
 곡명: 무의식 레퀴엠
@@ -8516,6 +9016,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-007_무의식 레퀴엠.srt
+곡 그룹ID: songbook:yXe8M90jGYRM2MDETk1H
 
 자료 유형: 노래 기록
 곡명: 단죄 야마자나두!
@@ -8533,6 +9034,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-008_단죄 야마자나두!.srt
+곡 그룹ID: songbook:t7nXYmPL3vANf9Bf5nWx
 
 자료 유형: 노래 기록
 곡명: 환부에서 멈춰서 바로 녹는다~광기의 우동게인
@@ -8550,6 +9052,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-009_환부에서 멈춰서 바로 녹는다~광기의 우동게인.srt
+곡 그룹ID: songbook:7YoRBdzNAlbXOi3HtVVC
 
 자료 유형: 노래 기록
 곡명: 동방 말할 수 있을까
@@ -8567,6 +9070,7 @@ cue 수: 199
 가사 cue 수: 199
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-10_15134820-010_동방 말할 수 있을까.srt
+곡 그룹ID: songbook:d9CYyPLs5okjqD1SsZBU
 
 자료 유형: 노래 기록
 곡명: 상어 가족
@@ -8584,6 +9088,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-20_15301699-001_상어 가족.srt
+곡 그룹ID: title_artist:상어 가족|핑크퐁
 
 자료 유형: 노래 기록
 곡명: 아지랑이 데이즈
@@ -8601,6 +9106,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-20_15301699-006_아지랑이 데이즈.srt
+곡 그룹ID: songbook:kzwKhyOschRZa1YonHrF
 
 자료 유형: 노래 기록
 곡명: 잘못된 만남
@@ -8618,6 +9124,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-21_15317091-004_잘못된 만남.srt
+곡 그룹ID: songbook:0n8AaRXsH6Rt5o10G7X9
 
 자료 유형: 노래 기록
 곡명: How it's Done
@@ -8635,6 +9142,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-21_15317091-008_How it's Done.srt
+곡 그룹ID: songbook:PfkX92HB7ZfwAE40E3ck
 
 자료 유형: 노래 기록
 곡명: Speechless
@@ -8652,6 +9160,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-23_15349397-001_Speechless.srt
+곡 그룹ID: songbook:wPXukfI5FRL9HnXAvzcn
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -8669,6 +9178,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-24_15364603-001_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: BLOODY STREAM
@@ -8686,6 +9196,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-26_15394048-001_BLOODY STREAM.srt
+곡 그룹ID: songbook:4RgBki8xWzl91Oy4xrY8
 
 자료 유형: 노래 기록
 곡명: 배신자의 레퀴엠
@@ -8703,6 +9214,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-26_15394048-002_배신자의 레퀴엠.srt
+곡 그룹ID: songbook:VsGxzJseH53aV7KxBIHi
 
 자료 유형: 노래 기록
 곡명: Great Days
@@ -8720,6 +9232,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-26_15394048-003_Great Days.srt
+곡 그룹ID: songbook:MsxVd3trvBN0wtvXvhW6
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -8737,6 +9250,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-26_15394048-004_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: Teeth
@@ -8754,6 +9268,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-09-28_15426167-002_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 노래 기록
 곡명: 스피카
@@ -8771,6 +9286,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-01_15474204-001_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 노래 기록
 곡명: 물거품
@@ -8788,6 +9304,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-01_15474204-002_물거품.srt
+곡 그룹ID: songbook:F13ukibQX93iEDJy7C0R
 
 자료 유형: 노래 기록
 곡명: IRIS OUT
@@ -8805,6 +9322,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-01_15474204-003_IRIS OUT.srt
+곡 그룹ID: songbook:3h8v9BLDtKmeery9FYHa
 
 자료 유형: 노래 기록
 곡명: 댄스홀
@@ -8822,6 +9340,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-02_15481771-001_댄스홀.srt
+곡 그룹ID: songbook:DI2pHFfMJGFcAmFby31c
 
 자료 유형: 노래 기록
 곡명: 에어맨을 쓰러뜨릴 수 없어
@@ -8839,6 +9358,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-02_15481771-002_에어맨을 쓰러뜨릴 수 없어.srt
+곡 그룹ID: songbook:LVsVAWGA17OiCyEtjoJU
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -8856,6 +9376,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-02_15481771-003_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: JANE DOE
@@ -8873,6 +9394,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-03_15509266-002_JANE DOE.srt
+곡 그룹ID: songbook:JBn7wMZVGTwZADIgEtBp
 
 자료 유형: 노래 기록
 곡명: Mela!
@@ -8890,6 +9412,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-03_15509266-004_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 노래 기록
 곡명: 스피카
@@ -8907,6 +9430,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-03_15509266-005_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 노래 기록
 곡명: 도넛 홀
@@ -8924,6 +9448,7 @@ cue 수: 3
 가사 cue 수: 3
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-03_15509266-007_도넛 홀.srt
+곡 그룹ID: songbook:om7rjFIudW4cUqCzwHAK
 
 자료 유형: 노래 기록
 곡명: 해피 신디사이저
@@ -8941,6 +9466,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-03_15509266-008_해피 신디사이저.srt
+곡 그룹ID: songbook:zMS6IEEtt0fEcMXDLuHb
 
 자료 유형: 노래 기록
 곡명: 백금 디스코
@@ -8958,6 +9484,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-001_백금 디스코.srt
+곡 그룹ID: songbook:9fBf5W1AR0GQodXwC3BO
 
 자료 유형: 노래 기록
 곡명: 괴수의 꽃노래
@@ -8975,6 +9502,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-002_괴수의 꽃노래.srt
+곡 그룹ID: songbook:iQlgMtXo8RjrD44g8xPg
 
 자료 유형: 노래 기록
 곡명: RTRT
@@ -8992,6 +9520,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-003_RTRT.srt
+곡 그룹ID: songbook:PAqgvKhiUgqxtyGPAj5W
 
 자료 유형: 노래 기록
 곡명: 호시아이
@@ -9009,6 +9538,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-004_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 노래 기록
 곡명: 귀여워서 미안해
@@ -9026,6 +9556,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-005_귀여워서 미안해.srt
+곡 그룹ID: songbook:DFdLZaDzGzr2QhChF52c
 
 자료 유형: 노래 기록
 곡명: Henceforth
@@ -9043,6 +9574,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-006_Henceforth.srt
+곡 그룹ID: songbook:yGG5GSWcAqNfIfBwMH7l
 
 자료 유형: 노래 기록
 곡명: Teeth
@@ -9060,6 +9592,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-008_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 노래 기록
 곡명: 사랑은 혼돈의 노예
@@ -9077,6 +9610,7 @@ cue 수: 70
 가사 cue 수: 70
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-009_사랑은 혼돈의 노예.srt
+곡 그룹ID: songbook:Uzbimg3dYXpePhYYFkXX
 
 자료 유형: 노래 기록
 곡명: Piano Man
@@ -9094,6 +9628,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-010_Piano Man.srt
+곡 그룹ID: songbook:Fz1ueVryXQ7ojffCDMus
 
 자료 유형: 노래 기록
 곡명: 점묘의 노래
@@ -9111,6 +9646,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-012_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 노래 기록
 곡명: 잊혀지지 못할 언어 (영어)
@@ -9128,6 +9664,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-013_잊혀지지 못할 언어 (영어).srt
+곡 그룹ID: songbook:Gi1LuFy97nniVMnNcVei
 
 자료 유형: 노래 기록
 곡명: 태엽소녀시계
@@ -9145,6 +9682,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-014_태엽소녀시계.srt
+곡 그룹ID: songbook:y5oChSTr3iHdvWlleogQ
 
 자료 유형: 노래 기록
 곡명: HAMELN
@@ -9162,6 +9700,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-015_HAMELN.srt
+곡 그룹ID: songbook:ppfawuu3KRf4KoUnC7R5
 
 자료 유형: 노래 기록
 곡명: 가짜 용사
@@ -9179,6 +9718,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-016_가짜 용사.srt
+곡 그룹ID: songbook:TFo3cgJtqOlfmxvSvwYa
 
 자료 유형: 노래 기록
 곡명: 신 같네
@@ -9196,6 +9736,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-017_신 같네.srt
+곡 그룹ID: songbook:9BiZT7xuh3Mu0EXILMzp
 
 자료 유형: 노래 기록
 곡명: A지 않은가
@@ -9213,6 +9754,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-018_A지 않은가.srt
+곡 그룹ID: songbook:bO6W0n80ijNDP4jWuRD2
 
 자료 유형: 노래 기록
 곡명: 용사
@@ -9230,6 +9772,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-019_용사.srt
+곡 그룹ID: songbook:yw755lIlv1Bj1y8Ge60j
 
 자료 유형: 노래 기록
 곡명: 야라라라
@@ -9247,6 +9790,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-020_야라라라.srt
+곡 그룹ID: songbook:oUwUKPIks3qUWd1rkhhX
 
 자료 유형: 노래 기록
 곡명: 친애하는 도플갱어에게
@@ -9264,6 +9808,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 7
 SRT 파일: SRT/노래기록/2026-10-11_15631910-022_친애하는 도플갱어에게.srt
+곡 그룹ID: songbook:xZGAE8zrmDNM9twUg0N2
 
 자료 유형: 노래 기록
 곡명: 악의 하인
@@ -9281,6 +9826,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-023_악의 하인.srt
+곡 그룹ID: songbook:7joJM9PZl2ewskcE92Gh
 
 자료 유형: 노래 기록
 곡명: Viva La Vida
@@ -9298,6 +9844,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-024_Viva La Vida.srt
+곡 그룹ID: songbook:UoLYcOMfVod7FGYUsms4
 
 자료 유형: 노래 기록
 곡명: 굿바이 선언
@@ -9315,6 +9862,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-026_굿바이 선언.srt
+곡 그룹ID: songbook:Q7blbLV48EJeAqxTjLqI
 
 자료 유형: 노래 기록
 곡명: 발묘
@@ -9332,6 +9880,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-027_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 노래 기록
 곡명: Confessions of a Rotten Girl
@@ -9349,6 +9898,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-028_Confessions of a Rotten Girl.srt
+곡 그룹ID: songbook:YfhDxKDJl1rDIjZXxe3T
 
 자료 유형: 노래 기록
 곡명: 자상무색
@@ -9366,6 +9916,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-029_자상무색.srt
+곡 그룹ID: songbook:d8JJhNcdPC9USr8iPQIT
 
 자료 유형: 노래 기록
 곡명: 도쿄 테디 베어
@@ -9383,6 +9934,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-030_도쿄 테디 베어.srt
+곡 그룹ID: songbook:gZY4Esj0uP7vs9JTGDIP
 
 자료 유형: 노래 기록
 곡명: How it's Done
@@ -9400,6 +9952,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-032_How it's Done.srt
+곡 그룹ID: songbook:PfkX92HB7ZfwAE40E3ck
 
 자료 유형: 노래 기록
 곡명: 쓰레기의 방은 녹빛에 잠긴다
@@ -9417,6 +9970,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-033_쓰레기의 방은 녹빛에 잠긴다.srt
+곡 그룹ID: songbook:Kpna5mXfjtWKyZ9At7d9
 
 자료 유형: 노래 기록
 곡명: 너의 밤이 밝아올 때까지
@@ -9434,6 +9988,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-034_너의 밤이 밝아올 때까지.srt
+곡 그룹ID: songbook:Xnw1UM6S7wo39YaO4pnP
 
 자료 유형: 노래 기록
 곡명: 댄스홀
@@ -9451,6 +10006,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-035_댄스홀.srt
+곡 그룹ID: songbook:DI2pHFfMJGFcAmFby31c
 
 자료 유형: 노래 기록
 곡명: 블루 버드
@@ -9468,6 +10024,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-036_블루 버드.srt
+곡 그룹ID: songbook:3i6sta7lIxSiajXWsrVI
 
 자료 유형: 노래 기록
 곡명: 팬서비스
@@ -9485,6 +10042,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 0
 SRT 파일: SRT/노래기록/2026-10-11_15631910-037_팬서비스.srt
+곡 그룹ID: songbook:Iw9R526XHSC3WyRGdwG5
 
 자료 유형: 원본 타임스탬프
 곡명: -ERROR
@@ -9502,6 +10060,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 30
 SRT 파일: SRT/원본타임스탬프/reference-9aMDJHl7v0mfeYkuefNc_-ERROR.srt
+곡 그룹ID: songbook:9aMDJHl7v0mfeYkuefNc
 
 자료 유형: 원본 타임스탬프
 곡명: 0verf1ow
@@ -9519,6 +10078,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-grHqU41urENIHMh6z4lC_0verf1ow.srt
+곡 그룹ID: songbook:grHqU41urENIHMh6z4lC
 
 자료 유형: 원본 타임스탬프
 곡명: 7 years
@@ -9536,6 +10096,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-QknfdtYM009Ha0zdokAJ_7 years.srt
+곡 그룹ID: songbook:QknfdtYM009Ha0zdokAJ
 
 자료 유형: 원본 타임스탬프
 곡명: again
@@ -9553,6 +10114,7 @@ cue 수: 70
 가사 cue 수: 70
 번역 없는 가사 cue 수: 70
 SRT 파일: SRT/원본타임스탬프/reference-1dIvSBzNYWRqOEVY2t0E_again.srt
+곡 그룹ID: songbook:1dIvSBzNYWRqOEVY2t0E
 
 자료 유형: 원본 타임스탬프
 곡명: AGAIN
@@ -9570,6 +10132,7 @@ cue 수: 97
 가사 cue 수: 97
 번역 없는 가사 cue 수: 97
 SRT 파일: SRT/원본타임스탬프/reference-xXseEtgK2hh1SoEjCKVL_AGAIN.srt
+곡 그룹ID: songbook:xXseEtgK2hh1SoEjCKVL
 
 자료 유형: 원본 타임스탬프
 곡명: Ahoy!! 우리는 호쇼해적단☆
@@ -9587,6 +10150,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-XjhES25W2sX4C0ItKn00_Ahoy!! 우리는 호쇼해적단☆.srt
+곡 그룹ID: songbook:XjhES25W2sX4C0ItKn00
 
 자료 유형: 원본 타임스탬프
 곡명: Alice in N.Y.
@@ -9604,6 +10168,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-xLwBdfl2r8XqnAv6gOHu_Alice in N.Y.srt
+곡 그룹ID: songbook:xLwBdfl2r8XqnAv6gOHu
 
 자료 유형: 원본 타임스탬프
 곡명: All Falls Down
@@ -9621,6 +10186,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-RS9qrRaVT6sGxxHCnTgR_All Falls Down.srt
+곡 그룹ID: songbook:RS9qrRaVT6sGxxHCnTgR
 
 자료 유형: 원본 타임스탬프
 곡명: All Is Found
@@ -9638,6 +10204,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-29X6j1dVNkHfRETABji5_All Is Found.srt
+곡 그룹ID: songbook:29X6j1dVNkHfRETABji5
 
 자료 유형: 원본 타임스탬프
 곡명: ANTI THE∞HOLiC
@@ -9655,6 +10222,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-1ThD3Zl4Myo3tFIAa1gI_ANTI THE∞HOLiC.srt
+곡 그룹ID: songbook:1ThD3Zl4Myo3tFIAa1gI
 
 자료 유형: 원본 타임스탬프
 곡명: Ark
@@ -9672,6 +10240,7 @@ cue 수: 88
 가사 cue 수: 88
 번역 없는 가사 cue 수: 88
 SRT 파일: SRT/원본타임스탬프/reference-0Kuwie6ZpvLDisLoRA0b_Ark.srt
+곡 그룹ID: songbook:0Kuwie6ZpvLDisLoRA0b
 
 자료 유형: 원본 타임스탬프
 곡명: Around The World
@@ -9689,6 +10258,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 75
 SRT 파일: SRT/원본타임스탬프/reference-607cIoqDsHy57JHLdph2_Around The World.srt
+곡 그룹ID: songbook:607cIoqDsHy57JHLdph2
 
 자료 유형: 원본 타임스탬프
 곡명: ATARAXIA
@@ -9706,6 +10276,7 @@ cue 수: 18
 가사 cue 수: 18
 번역 없는 가사 cue 수: 18
 SRT 파일: SRT/원본타임스탬프/reference-37cxUqVeZzmStebZaff1_ATARAXIA.srt
+곡 그룹ID: songbook:37cxUqVeZzmStebZaff1
 
 자료 유형: 원본 타임스탬프
 곡명: BAD APPLE!!!
@@ -9723,6 +10294,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-qIk3sXOGCDpoOMYIinKJ_BAD APPLE!!!.srt
+곡 그룹ID: songbook:qIk3sXOGCDpoOMYIinKJ
 
 자료 유형: 원본 타임스탬프
 곡명: Battle Cry
@@ -9740,6 +10312,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-eBL2STPjtpHDStUO1Qmv_Battle Cry.srt
+곡 그룹ID: songbook:eBL2STPjtpHDStUO1Qmv
 
 자료 유형: 원본 타임스탬프
 곡명: Bling-Bang-Bang-Born
@@ -9757,6 +10330,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 69
 SRT 파일: SRT/원본타임스탬프/reference-de0v1X7ER43c7kixwsxQ_Bling-Bang-Bang-Born.srt
+곡 그룹ID: songbook:de0v1X7ER43c7kixwsxQ
 
 자료 유형: 원본 타임스탬프
 곡명: BLOODY STREAM
@@ -9774,6 +10348,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-4RgBki8xWzl91Oy4xrY8_BLOODY STREAM.srt
+곡 그룹ID: songbook:4RgBki8xWzl91Oy4xrY8
 
 자료 유형: 원본 타임스탬프
 곡명: Build a B*tch
@@ -9791,6 +10366,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-9dGGo4BO2rdNaCG27r8a_Build a B_tch.srt
+곡 그룹ID: songbook:9dGGo4BO2rdNaCG27r8a
 
 자료 유형: 원본 타임스탬프
 곡명: Build Our Machine
@@ -9808,6 +10384,7 @@ cue 수: 84
 가사 cue 수: 84
 번역 없는 가사 cue 수: 84
 SRT 파일: SRT/원본타임스탬프/reference-l7Vx1NNED4u7hoIMwK9w_Build Our Machine.srt
+곡 그룹ID: songbook:l7Vx1NNED4u7hoIMwK9w
 
 자료 유형: 원본 타임스탬프
 곡명: Bunny Girl
@@ -9825,6 +10402,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-ibJy3uUnEO36EuIZHjpA_Bunny Girl.srt
+곡 그룹ID: songbook:ibJy3uUnEO36EuIZHjpA
 
 자료 유형: 원본 타임스탬프
 곡명: Camelia
@@ -9842,6 +10420,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 64
 SRT 파일: SRT/원본타임스탬프/reference-JApPZDhQbhKqCz9A5udW_Camelia.srt
+곡 그룹ID: songbook:JApPZDhQbhKqCz9A5udW
 
 자료 유형: 원본 타임스탬프
 곡명: Caramelldansen
@@ -9859,6 +10438,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 75
 SRT 파일: SRT/원본타임스탬프/reference-jBkz28jyvo2FqzbOeAaB_Caramelldansen.srt
+곡 그룹ID: songbook:jBkz28jyvo2FqzbOeAaB
 
 자료 유형: 원본 타임스탬프
 곡명: Choose me
@@ -9876,6 +10456,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 69
 SRT 파일: SRT/원본타임스탬프/reference-k4tzqMvhypSvrEMeZAEd_Choose me.srt
+곡 그룹ID: songbook:k4tzqMvhypSvrEMeZAEd
 
 자료 유형: 원본 타임스탬프
 곡명: Choose Your Fighter
@@ -9893,6 +10474,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-wm7tkAGWsk5kjtlZm6Wj_Choose Your Fighter.srt
+곡 그룹ID: songbook:wm7tkAGWsk5kjtlZm6Wj
 
 자료 유형: 원본 타임스탬프
 곡명: Confessions of a Rotten Girl
@@ -9910,6 +10492,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-YfhDxKDJl1rDIjZXxe3T_Confessions of a Rotten Girl.srt
+곡 그룹ID: songbook:YfhDxKDJl1rDIjZXxe3T
 
 자료 유형: 원본 타임스탬프
 곡명: Connecting
@@ -9927,6 +10510,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 79
 SRT 파일: SRT/원본타임스탬프/reference-KbqAMDY3xzy3WPzFV3XP_Connecting.srt
+곡 그룹ID: songbook:KbqAMDY3xzy3WPzFV3XP
 
 자료 유형: 원본 타임스탬프
 곡명: Crazy Noisy Bizarre Town (EDM.ver)
@@ -9944,6 +10528,7 @@ cue 수: 18
 가사 cue 수: 18
 번역 없는 가사 cue 수: 18
 SRT 파일: SRT/원본타임스탬프/reference-Tm8SEyhJoJoJ3GgwGEAa_Crazy Noisy Bizarre Town (EDM.ver).srt
+곡 그룹ID: songbook:Tm8SEyhJoJoJ3GgwGEAa
 
 자료 유형: 원본 타임스탬프
 곡명: Crazy∞Night
@@ -9961,6 +10546,7 @@ cue 수: 71
 가사 cue 수: 71
 번역 없는 가사 cue 수: 71
 SRT 파일: SRT/원본타임스탬프/reference-2JV7CsD81DLVUWXVmB4r_Crazy∞Night.srt
+곡 그룹ID: songbook:2JV7CsD81DLVUWXVmB4r
 
 자료 유형: 원본 타임스탬프
 곡명: D/N/A
@@ -9978,6 +10564,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-NChjb4rGnHwDp45yybQN_D_N_A.srt
+곡 그룹ID: songbook:NChjb4rGnHwDp45yybQN
 
 자료 유형: 원본 타임스탬프
 곡명: DADDY! DADDY! DO!
@@ -9995,6 +10582,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-aG6KW7MNpjsNvtDr01fQ_DADDY! DADDY! DO!.srt
+곡 그룹ID: songbook:aG6KW7MNpjsNvtDr01fQ
 
 자료 유형: 원본 타임스탬프
 곡명: Darkside
@@ -10012,6 +10600,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-Jh4Ob1amjxyv8BnI0Gj3_Darkside.srt
+곡 그룹ID: songbook:Jh4Ob1amjxyv8BnI0Gj3
 
 자료 유형: 원본 타임스탬프
 곡명: DAYBREAK FRONTLINE
@@ -10029,6 +10618,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-UBM4KcyFVqVh6FxlObPS_DAYBREAK FRONTLINE.srt
+곡 그룹ID: songbook:UBM4KcyFVqVh6FxlObPS
 
 자료 유형: 원본 타임스탬프
 곡명: Dear Hypnos
@@ -10046,6 +10636,7 @@ cue 수: 69
 가사 cue 수: 69
 번역 없는 가사 cue 수: 69
 SRT 파일: SRT/원본타임스탬프/reference-u6bWuoFpDLnHePXUYxGe_Dear Hypnos.srt
+곡 그룹ID: songbook:u6bWuoFpDLnHePXUYxGe
 
 자료 유형: 원본 타임스탬프
 곡명: Defying Gravity
@@ -10063,6 +10654,7 @@ cue 수: 97
 가사 cue 수: 97
 번역 없는 가사 cue 수: 97
 SRT 파일: SRT/원본타임스탬프/reference-NHEaCfLFWsLHEF3V3SXg_Defying Gravity.srt
+곡 그룹ID: songbook:NHEaCfLFWsLHEF3V3SXg
 
 자료 유형: 원본 타임스탬프
 곡명: Departure!
@@ -10080,6 +10672,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-BtsaE0r9eYhSDH477wY4_Departure!.srt
+곡 그룹ID: songbook:BtsaE0r9eYhSDH477wY4
 
 자료 유형: 원본 타임스탬프
 곡명: Despacito
@@ -10097,6 +10690,7 @@ cue 수: 77
 가사 cue 수: 77
 번역 없는 가사 cue 수: 77
 SRT 파일: SRT/원본타임스탬프/reference-8wH35D3vKHJpN9yBrDOY_Despacito.srt
+곡 그룹ID: songbook:8wH35D3vKHJpN9yBrDOY
 
 자료 유형: 원본 타임스탬프
 곡명: Do You Want to Build a Snowman
@@ -10114,6 +10708,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 31
 SRT 파일: SRT/원본타임스탬프/reference-Ub3RsJVH5vCaJFS2Ag73_Do You Want to Build a Snowman.srt
+곡 그룹ID: songbook:Ub3RsJVH5vCaJFS2Ag73
 
 자료 유형: 원본 타임스탬프
 곡명: Doki Doki Forever
@@ -10131,6 +10726,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-9GzUyIwhEEfflS58GqZN_Doki Doki Forever.srt
+곡 그룹ID: songbook:9GzUyIwhEEfflS58GqZN
 
 자료 유형: 원본 타임스탬프
 곡명: Dolls
@@ -10148,6 +10744,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-BmC0CM0RwAxF94JAPJo5_Dolls.srt
+곡 그룹ID: songbook:BmC0CM0RwAxF94JAPJo5
 
 자료 유형: 원본 타임스탬프
 곡명: Dragon Night
@@ -10165,6 +10762,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-Vt29zvmG3bPNuOaNJ5Ch_Dragon Night.srt
+곡 그룹ID: songbook:Vt29zvmG3bPNuOaNJ5Ch
 
 자료 유형: 원본 타임스탬프
 곡명: Drift Away
@@ -10182,6 +10780,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-3r7yl1tJVbXUiOJl2ZcY_Drift Away.srt
+곡 그룹ID: songbook:3r7yl1tJVbXUiOJl2ZcY
 
 자료 유형: 원본 타임스탬프
 곡명: Drunken Sailor
@@ -10199,6 +10798,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-ohI1o7sEvuZaGrAypYKI_Drunken Sailor.srt
+곡 그룹ID: songbook:ohI1o7sEvuZaGrAypYKI
 
 자료 유형: 원본 타임스탬프
 곡명: ECHO
@@ -10216,6 +10816,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-Ll8SDmfkJLqlHaOr0WY4_ECHO.srt
+곡 그룹ID: songbook:Ll8SDmfkJLqlHaOr0WY4
 
 자료 유형: 원본 타임스탬프
 곡명: Empire
@@ -10233,6 +10834,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-updbiNuy1M6eF0ZRzRVa_Empire.srt
+곡 그룹ID: songbook:updbiNuy1M6eF0ZRzRVa
 
 자료 유형: 원본 타임스탬프
 곡명: End of the World
@@ -10250,6 +10852,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-mQFyUQGoQ5LYdJjBQ5Af_End of the World.srt
+곡 그룹ID: songbook:mQFyUQGoQ5LYdJjBQ5Af
 
 자료 유형: 원본 타임스탬프
 곡명: EZ DO DANCE
@@ -10267,6 +10870,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-EmxfDMXNMQcG0CHZ30f0_EZ DO DANCE.srt
+곡 그룹ID: songbook:EmxfDMXNMQcG0CHZ30f0
 
 자료 유형: 원본 타임스탬프
 곡명: FAKE LAND
@@ -10284,6 +10888,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 72
 SRT 파일: SRT/원본타임스탬프/reference-5IBU8IB0KY3f8NFcP040_FAKE LAND.srt
+곡 그룹ID: songbook:5IBU8IB0KY3f8NFcP040
 
 자료 유형: 원본 타임스탬프
 곡명: For the First Time in Forever
@@ -10301,6 +10906,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-d4cZ7G2Xgpo2RGO8QYek_For the First Time in Forever.srt
+곡 그룹ID: songbook:d4cZ7G2Xgpo2RGO8QYek
 
 자료 유형: 원본 타임스탬프
 곡명: For the First Time in Forever (Reprise)
@@ -10318,6 +10924,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-kvWix35Yu7JQvmAM3jTz_For the First Time in Forever (Reprise).srt
+곡 그룹ID: songbook:kvWix35Yu7JQvmAM3jTz
 
 자료 유형: 원본 타임스탬프
 곡명: FPS
@@ -10335,6 +10942,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-r93JuB3CGo8UPpq9R0QO_FPS.srt
+곡 그룹ID: songbook:r93JuB3CGo8UPpq9R0QO
 
 자료 유형: 원본 타임스탬프
 곡명: FPS
@@ -10352,6 +10960,7 @@ cue 수: 23
 가사 cue 수: 23
 번역 없는 가사 cue 수: 23
 SRT 파일: SRT/원본타임스탬프/reference-sfeY2Qs7qK3zkoC2gVha_FPS.srt
+곡 그룹ID: songbook:sfeY2Qs7qK3zkoC2gVha
 
 자료 유형: 원본 타임스탬프
 곡명: FRIENDS
@@ -10369,6 +10978,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-uO72oHaEclQMA04ywWyr_FRIENDS.srt
+곡 그룹ID: songbook:uO72oHaEclQMA04ywWyr
 
 자료 유형: 원본 타임스탬프
 곡명: Fright Song
@@ -10386,6 +10996,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 73
 SRT 파일: SRT/원본타임스탬프/reference-fp60GKLhkIJJAvhIJnSx_Fright Song.srt
+곡 그룹ID: songbook:fp60GKLhkIJJAvhIJnSx
 
 자료 유형: 원본 타임스탬프
 곡명: Fukouna Girl
@@ -10403,6 +11014,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-dGN8XNaxn4WKnFBPbpAO_Fukouna Girl.srt
+곡 그룹ID: songbook:dGN8XNaxn4WKnFBPbpAO
 
 자료 유형: 원본 타임스탬프
 곡명: Ga1ahad and Scientific Witchery
@@ -10420,6 +11032,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 73
 SRT 파일: SRT/원본타임스탬프/reference-B03QLL73bwseWxiL6FLE_Ga1ahad and Scientific Witchery.srt
+곡 그룹ID: songbook:B03QLL73bwseWxiL6FLE
 
 자료 유형: 원본 타임스탬프
 곡명: GETCHA!
@@ -10437,6 +11050,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 78
 SRT 파일: SRT/원본타임스탬프/reference-xPridEUT6Xi47OYdYnX1_GETCHA!.srt
+곡 그룹ID: songbook:xPridEUT6Xi47OYdYnX1
 
 자료 유형: 원본 타임스탬프
 곡명: God knows...
@@ -10454,6 +11068,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-special_god_knows_haruhi_God knows.srt
+곡 그룹ID: songbook:special_god_knows_haruhi
 
 자료 유형: 원본 타임스탬프
 곡명: GOD REST YE MERRY GENTLEMEN
@@ -10471,6 +11086,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-IQ8qCPIHhNleFoAbSEou_GOD REST YE MERRY GENTLEMEN.srt
+곡 그룹ID: songbook:IQ8qCPIHhNleFoAbSEou
 
 자료 유형: 원본 타임스탬프
 곡명: GODS
@@ -10488,6 +11104,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-72wVzKahoDB2w7ZnVhd8_GODS.srt
+곡 그룹ID: songbook:72wVzKahoDB2w7ZnVhd8
 
 자료 유형: 원본 타임스탬프
 곡명: Golden
@@ -10505,6 +11122,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-jWi7kZq1ZKOa8022a2oB_Golden.srt
+곡 그룹ID: songbook:jWi7kZq1ZKOa8022a2oB
 
 자료 유형: 원본 타임스탬프
 곡명: Good in Goodbye
@@ -10522,6 +11140,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-Yw4CyQ2dHEaEzZJnTeSd_Good in Goodbye.srt
+곡 그룹ID: songbook:Yw4CyQ2dHEaEzZJnTeSd
 
 자료 유형: 원본 타임스탬프
 곡명: Good is the New Bad
@@ -10539,6 +11158,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-dHXlQmUv29NzdXHHSa6Q_Good is the New Bad.srt
+곡 그룹ID: songbook:dHXlQmUv29NzdXHHSa6Q
 
 자료 유형: 원본 타임스탬프
 곡명: Great Days
@@ -10556,6 +11176,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-MsxVd3trvBN0wtvXvhW6_Great Days.srt
+곡 그룹ID: songbook:MsxVd3trvBN0wtvXvhW6
 
 자료 유형: 원본 타임스탬프
 곡명: HAMELN
@@ -10573,6 +11194,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-ppfawuu3KRf4KoUnC7R5_HAMELN.srt
+곡 그룹ID: songbook:ppfawuu3KRf4KoUnC7R5
 
 자료 유형: 원본 타임스탬프
 곡명: Happy
@@ -10590,6 +11212,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-q6sVnxduvl66YD25VmCj_Happy.srt
+곡 그룹ID: songbook:q6sVnxduvl66YD25VmCj
 
 자료 유형: 원본 타임스탬프
 곡명: Happy Halloween
@@ -10607,6 +11230,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-jQmilJlocHGAfGXzGoKX_Happy Halloween.srt
+곡 그룹ID: songbook:jQmilJlocHGAfGXzGoKX
 
 자료 유형: 원본 타임스탬프
 곡명: Hard To Kill
@@ -10624,6 +11248,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-aG9TvnDP0B6UQB6CkLvb_Hard To Kill.srt
+곡 그룹ID: songbook:aG9TvnDP0B6UQB6CkLvb
 
 자료 유형: 원본 타임스탬프
 곡명: He wasn't
@@ -10641,6 +11266,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-kUMkhSvxeVfW9bVXJprW_He wasn't.srt
+곡 그룹ID: songbook:kUMkhSvxeVfW9bVXJprW
 
 자료 유형: 원본 타임스탬프
 곡명: Hell’s Greatest Dad
@@ -10658,6 +11284,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-S9s4udVzXBSmoSBpRbb8_Hell’s Greatest Dad.srt
+곡 그룹ID: songbook:S9s4udVzXBSmoSBpRbb8
 
 자료 유형: 원본 타임스탬프
 곡명: Help me, ERINNNNNN!!
@@ -10675,6 +11302,7 @@ cue 수: 165
 가사 cue 수: 165
 번역 없는 가사 cue 수: 165
 SRT 파일: SRT/원본타임스탬프/reference-DBxt4Cf69XUDHTzBycDK_Help me, ERINNNNNN!!.srt
+곡 그룹ID: songbook:DBxt4Cf69XUDHTzBycDK
 
 자료 유형: 원본 타임스탬프
 곡명: Henceforth
@@ -10692,6 +11320,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-yGG5GSWcAqNfIfBwMH7l_Henceforth.srt
+곡 그룹ID: songbook:yGG5GSWcAqNfIfBwMH7l
 
 자료 유형: 원본 타임스탬프
 곡명: Honey I'm Home
@@ -10709,6 +11338,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-IwPlrt0XZouV1DmJZhoe_Honey I'm Home.srt
+곡 그룹ID: songbook:IwPlrt0XZouV1DmJZhoe
 
 자료 유형: 원본 타임스탬프
 곡명: Hot Limit
@@ -10726,6 +11356,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-l8IvTz4XZe1KUarXUCa7_Hot Limit.srt
+곡 그룹ID: songbook:l8IvTz4XZe1KUarXUCa7
 
 자료 유형: 원본 타임스탬프
 곡명: How Far I_ll Go
@@ -10743,6 +11374,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-O4QZlpg9hBPKrTWXBwE3_How Far I_ll Go.srt
+곡 그룹ID: songbook:O4QZlpg9hBPKrTWXBwE3
 
 자료 유형: 원본 타임스탬프
 곡명: How it's Done
@@ -10760,6 +11392,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-PfkX92HB7ZfwAE40E3ck_How it's Done.srt
+곡 그룹ID: songbook:PfkX92HB7ZfwAE40E3ck
 
 자료 유형: 원본 타임스탬프
 곡명: I Didn't Ask For This
@@ -10777,6 +11410,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 67
 SRT 파일: SRT/원본타임스탬프/reference-n8uvAAcirBtGa07699CH_I Didn't Ask For This.srt
+곡 그룹ID: songbook:n8uvAAcirBtGa07699CH
 
 자료 유형: 원본 타임스탬프
 곡명: I LUV U
@@ -10794,6 +11428,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 30
 SRT 파일: SRT/원본타임스탬프/reference-Xhq4kGd7KHvUeaUrXXL1_I LUV U.srt
+곡 그룹ID: songbook:Xhq4kGd7KHvUeaUrXXL1
 
 자료 유형: 원본 타임스탬프
 곡명: I'm a mess
@@ -10811,6 +11446,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-3IWypehgqOvx807zVJpc_I'm a mess.srt
+곡 그룹ID: songbook:3IWypehgqOvx807zVJpc
 
 자료 유형: 원본 타임스탬프
 곡명: In Hell We Live, Lament
@@ -10828,6 +11464,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-Mi9R2WaPiwsa6hrfDrx1_In Hell We Live, Lament.srt
+곡 그룹ID: songbook:Mi9R2WaPiwsa6hrfDrx1
 
 자료 유형: 원본 타임스탬프
 곡명: INFERNO
@@ -10845,6 +11482,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-nBCkMridmrcdaeeeHzsl_INFERNO.srt
+곡 그룹ID: songbook:nBCkMridmrcdaeeeHzsl
 
 자료 유형: 원본 타임스탬프
 곡명: INSANE
@@ -10862,6 +11500,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-6y9uSV6pppClOompITss_INSANE.srt
+곡 그룹ID: songbook:6y9uSV6pppClOompITss
 
 자료 유형: 원본 타임스탬프
 곡명: INTERNET OVERDOSE
@@ -10879,6 +11518,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-fopeMmuUcFtH38MqYNrk_INTERNET OVERDOSE.srt
+곡 그룹ID: songbook:fopeMmuUcFtH38MqYNrk
 
 자료 유형: 원본 타임스탬프
 곡명: Into the Unknown
@@ -10896,6 +11536,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-2bBhkDen84bUZImNtpiK_Into the Unknown.srt
+곡 그룹ID: songbook:2bBhkDen84bUZImNtpiK
 
 자료 유형: 원본 타임스탬프
 곡명: IRIS OUT
@@ -10913,6 +11554,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-3h8v9BLDtKmeery9FYHa_IRIS OUT.srt
+곡 그룹ID: songbook:3h8v9BLDtKmeery9FYHa
 
 자료 유형: 원본 타임스탬프
 곡명: It's a Dragon Party
@@ -10930,6 +11572,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-TE4Ac7vMDURbklDI9jcE_It's a Dragon Party.srt
+곡 그룹ID: songbook:TE4Ac7vMDURbklDI9jcE
 
 자료 유형: 원본 타임스탬프
 곡명: JANE DOE
@@ -10947,6 +11590,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 21
 SRT 파일: SRT/원본타임스탬프/reference-JBn7wMZVGTwZADIgEtBp_JANE DOE.srt
+곡 그룹ID: songbook:JBn7wMZVGTwZADIgEtBp
 
 자료 유형: 원본 타임스탬프
 곡명: Just Monika
@@ -10964,6 +11608,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-uR3HHzHD3F9Z68Cn6OJh_Just Monika.srt
+곡 그룹ID: songbook:uR3HHzHD3F9Z68Cn6OJh
 
 자료 유형: 원본 타임스탬프
 곡명: Karma
@@ -10981,6 +11626,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-oqzT7Ofneg8eR5ERpeOB_Karma.srt
+곡 그룹ID: songbook:oqzT7Ofneg8eR5ERpeOB
 
 자료 유형: 원본 타임스탬프
 곡명: KICKBACK
@@ -10998,6 +11644,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-1eSQq2InlBYmBLWmDHjZ_KICKBACK.srt
+곡 그룹ID: songbook:1eSQq2InlBYmBLWmDHjZ
 
 자료 유형: 원본 타임스탬프
 곡명: Killer
@@ -11015,6 +11662,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 31
 SRT 파일: SRT/원본타임스탬프/reference-kfGEJwUBJ8QJCwzcYkM5_Killer.srt
+곡 그룹ID: songbook:kfGEJwUBJ8QJCwzcYkM5
 
 자료 유형: 원본 타임스탬프
 곡명: KILLOVE FIREPROOF!
@@ -11032,6 +11680,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-lKyZN3MzzudcZAnB93kP_KILLOVE FIREPROOF!.srt
+곡 그룹ID: songbook:lKyZN3MzzudcZAnB93kP
 
 자료 유형: 원본 타임스탬프
 곡명: KING
@@ -11049,6 +11698,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-3p0rfXfhkK2SCJgY7wdh_KING.srt
+곡 그룹ID: songbook:3p0rfXfhkK2SCJgY7wdh
 
 자료 유형: 원본 타임스탬프
 곡명: Kings & Queens
@@ -11066,6 +11716,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-0vuvHiXRF2VqQyCz5qVq_Kings & Queens.srt
+곡 그룹ID: songbook:0vuvHiXRF2VqQyCz5qVq
 
 자료 유형: 원본 타임스탬프
 곡명: KSGR지옥의 형벌
@@ -11083,6 +11734,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 73
 SRT 파일: SRT/원본타임스탬프/reference-OB4OqWVsAhaJ9phcAlSI_KSGR지옥의 형벌.srt
+곡 그룹ID: songbook:OB4OqWVsAhaJ9phcAlSI
 
 자료 유형: 원본 타임스탬프
 곡명: Lascia chio pianga
@@ -11100,6 +11752,7 @@ cue 수: 9
 가사 cue 수: 9
 번역 없는 가사 cue 수: 9
 SRT 파일: SRT/원본타임스탬프/reference-b43HeCxboN1qwvtOdtAK_Lascia chio pianga.srt
+곡 그룹ID: songbook:b43HeCxboN1qwvtOdtAK
 
 자료 유형: 원본 타임스탬프
 곡명: Last Stardust
@@ -11117,6 +11770,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-ZzitPOP23dCZw2WljnoF_Last Stardust.srt
+곡 그룹ID: songbook:ZzitPOP23dCZw2WljnoF
 
 자료 유형: 원본 타임스탬프
 곡명: Lazenca, Save Us
@@ -11134,6 +11788,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-GJ0qpqnA8kirAWmYx157_Lazenca, Save Us.srt
+곡 그룹ID: songbook:GJ0qpqnA8kirAWmYx157
 
 자료 유형: 원본 타임스탬프
 곡명: Legends Never Die
@@ -11151,6 +11806,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-bHpijLSWu3FSZctmbbTd_Legends Never Die.srt
+곡 그룹ID: songbook:bHpijLSWu3FSZctmbbTd
 
 자료 유형: 원본 타임스탬프
 곡명: Lemon
@@ -11168,6 +11824,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-ntGfgZSTohqATGppqPKQ_Lemon.srt
+곡 그룹ID: songbook:ntGfgZSTohqATGppqPKQ
 
 자료 유형: 원본 타임스탬프
 곡명: Lemon Tree
@@ -11185,6 +11842,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-qGUnUMp4MtZOqSTFC1qE_Lemon Tree.srt
+곡 그룹ID: songbook:qGUnUMp4MtZOqSTFC1qE
 
 자료 유형: 원본 타임스탬프
 곡명: Let it Go
@@ -11202,6 +11860,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-2MJpvpfJrgBWKaQXDIvc_Let it Go.srt
+곡 그룹ID: songbook:2MJpvpfJrgBWKaQXDIvc
 
 자료 유형: 원본 타임스탬프
 곡명: Let Us Adore You(Reprise)
@@ -11219,6 +11878,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-iJCfxHvIfTACwS9HI776_Let Us Adore You(Reprise).srt
+곡 그룹ID: songbook:iJCfxHvIfTACwS9HI776
 
 자료 유형: 원본 타임스탬프
 곡명: Lifelight
@@ -11236,6 +11896,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-V7lPhc8eKNDtBRSQGJDQ_Lifelight.srt
+곡 그룹ID: songbook:V7lPhc8eKNDtBRSQGJDQ
 
 자료 유형: 원본 타임스탬프
 곡명: Love Is an Open Door
@@ -11253,6 +11914,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-JmfdPVrhWbBxG51WXMAw_Love Is an Open Door.srt
+곡 그룹ID: songbook:JmfdPVrhWbBxG51WXMAw
 
 자료 유형: 원본 타임스탬프
 곡명: Machine Gun
@@ -11270,6 +11932,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-CpYjU3MTMVxB3rOBfloe_Machine Gun.srt
+곡 그룹ID: songbook:CpYjU3MTMVxB3rOBfloe
 
 자료 유형: 원본 타임스탬프
 곡명: Magia
@@ -11287,6 +11950,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-RfMMWjCqy51oDnO95Yoh_Magia.srt
+곡 그룹ID: songbook:RfMMWjCqy51oDnO95Yoh
 
 자료 유형: 원본 타임스탬프
 곡명: Magnet
@@ -11304,6 +11968,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-MP7lnoQeRVYHdwx8g0Rb_Magnet.srt
+곡 그룹ID: songbook:MP7lnoQeRVYHdwx8g0Rb
 
 자료 유형: 원본 타임스탬프
 곡명: Master of the Graveyard
@@ -11321,6 +11986,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-lzu71gDu5LeewCCbWtio_Master of the Graveyard.srt
+곡 그룹ID: songbook:lzu71gDu5LeewCCbWtio
 
 자료 유형: 원본 타임스탬프
 곡명: Master of the Heavenly yard
@@ -11338,6 +12004,7 @@ cue 수: 114
 가사 cue 수: 114
 번역 없는 가사 cue 수: 114
 SRT 파일: SRT/원본타임스탬프/reference-Z8QvRDQOGU1XB9Ijj6P0_Master of the Heavenly yard.srt
+곡 그룹ID: songbook:Z8QvRDQOGU1XB9Ijj6P0
 
 자료 유형: 원본 타임스탬프
 곡명: Master of the Hellish Yard
@@ -11355,6 +12022,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-4AIiDI6eszuHYrvOYR1y_Master of the Hellish Yard.srt
+곡 그룹ID: songbook:4AIiDI6eszuHYrvOYR1y
 
 자료 유형: 원본 타임스탬프
 곡명: Mela!
@@ -11372,6 +12040,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-QFkrdyOAkcnmqN15h9uo_Mela!.srt
+곡 그룹ID: songbook:QFkrdyOAkcnmqN15h9uo
 
 자료 유형: 원본 타임스탬프
 곡명: Miraculous
@@ -11389,6 +12058,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-5a0k6cIG2RxB2WxpjcZi_Miraculous.srt
+곡 그룹ID: songbook:5a0k6cIG2RxB2WxpjcZi
 
 자료 유형: 원본 타임스탬프
 곡명: Monster
@@ -11406,6 +12076,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-iN6gBWFKQGJV8CQxL7Lx_Monster.srt
+곡 그룹ID: songbook:iN6gBWFKQGJV8CQxL7Lx
 
 자료 유형: 원본 타임스탬프
 곡명: Monster
@@ -11423,6 +12094,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-JFrAZiEVrq7stIuf834B_Monster.srt
+곡 그룹ID: songbook:JFrAZiEVrq7stIuf834B
 
 자료 유형: 원본 타임스탬프
 곡명: Monster
@@ -11440,6 +12112,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-LbgaWhv6XUi9uFxBEPdo_Monster.srt
+곡 그룹ID: songbook:LbgaWhv6XUi9uFxBEPdo
 
 자료 유형: 원본 타임스탬프
 곡명: MOTTAI
@@ -11457,6 +12130,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 60
 SRT 파일: SRT/원본타임스탬프/reference-1nW0RUnlArH61E5u6AbW_MOTTAI.srt
+곡 그룹ID: songbook:1nW0RUnlArH61E5u6AbW
 
 자료 유형: 원본 타임스탬프
 곡명: Mr. Music
@@ -11474,6 +12148,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-hH4pwwy2YcvQiStxt9TV_Mr. Music.srt
+곡 그룹ID: songbook:hH4pwwy2YcvQiStxt9TV
 
 자료 유형: 원본 타임스탬프
 곡명: Mrs.Pumpkin의 우스꽝스러운 꿈
@@ -11491,6 +12166,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-R4OBnF4zap3VJ0IVxQTZ_Mrs.Pumpkin의 우스꽝스러운 꿈.srt
+곡 그룹ID: songbook:R4OBnF4zap3VJ0IVxQTZ
 
 자료 유형: 원본 타임스탬프
 곡명: Mushrooms
@@ -11508,6 +12184,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-Cy9oWQYMXapnxG29MBMu_Mushrooms.srt
+곡 그룹ID: songbook:Cy9oWQYMXapnxG29MBMu
 
 자료 유형: 원본 타임스탬프
 곡명: Music Wizard of Oz
@@ -11525,6 +12202,7 @@ cue 수: 192
 가사 cue 수: 192
 번역 없는 가사 cue 수: 192
 SRT 파일: SRT/원본타임스탬프/reference-EmMrF4TSBnJKFt7tFbHl_Music Wizard of Oz.srt
+곡 그룹ID: songbook:EmMrF4TSBnJKFt7tFbHl
 
 자료 유형: 원본 타임스탬프
 곡명: Nakakapagpabagabag
@@ -11542,6 +12220,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-krh6Yu4DS4eiR0mvGoAh_Nakakapagpabagabag.srt
+곡 그룹ID: songbook:krh6Yu4DS4eiR0mvGoAh
 
 자료 유형: 원본 타임스탬프
 곡명: Only my railgun
@@ -11559,6 +12238,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-YaFlCc7U1QOzHEgUnPRq_Only my railgun.srt
+곡 그룹ID: songbook:YaFlCc7U1QOzHEgUnPRq
 
 자료 유형: 원본 타임스탬프
 곡명: Other Friends
@@ -11576,6 +12256,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-nsmeKTNwFH3pZVvyP1Uq_Other Friends.srt
+곡 그룹ID: songbook:nsmeKTNwFH3pZVvyP1Uq
 
 자료 유형: 원본 타임스탬프
 곡명: Overdose
@@ -11593,6 +12274,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-gVoXr4nMEZPCZdD3Kh4C_Overdose.srt
+곡 그룹ID: songbook:gVoXr4nMEZPCZdD3Kh4C
 
 자료 유형: 원본 타임스탬프
 곡명: phony
@@ -11610,6 +12292,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-HzC48Nylnfk8mCGXPrl8_phony.srt
+곡 그룹ID: songbook:HzC48Nylnfk8mCGXPrl8
 
 자료 유형: 원본 타임스탬프
 곡명: Piano Man
@@ -11627,6 +12310,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-Fz1ueVryXQ7ojffCDMus_Piano Man.srt
+곡 그룹ID: songbook:Fz1ueVryXQ7ojffCDMus
 
 자료 유형: 원본 타임스탬프
 곡명: Plazma
@@ -11644,6 +12328,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-OyXNEqyl3IMVH645I8HW_Plazma.srt
+곡 그룹ID: songbook:OyXNEqyl3IMVH645I8HW
 
 자료 유형: 원본 타임스탬프
 곡명: Pneumonoultramicroscopicsilicovolcanoconiosis
@@ -11661,6 +12346,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-A2QbWNr06P8i39jUDWvk_Pneumonoultramicroscopicsilicovolcanoconiosis.srt
+곡 그룹ID: songbook:A2QbWNr06P8i39jUDWvk
 
 자료 유형: 원본 타임스탬프
 곡명: Poor Unfortunate Souls (랩.ver)
@@ -11678,6 +12364,7 @@ cue 수: 81
 가사 cue 수: 81
 번역 없는 가사 cue 수: 81
 SRT 파일: SRT/원본타임스탬프/reference-TpE1UKwjAHFRBbJ4jW9g_Poor Unfortunate Souls (랩.ver).srt
+곡 그룹ID: songbook:TpE1UKwjAHFRBbJ4jW9g
 
 자료 유형: 원본 타임스탬프
 곡명: POP IN 2
@@ -11695,6 +12382,7 @@ cue 수: 102
 가사 cue 수: 102
 번역 없는 가사 cue 수: 102
 SRT 파일: SRT/원본타임스탬프/reference-G0KCtvOYDW10qePPXUzj_POP IN 2.srt
+곡 그룹ID: songbook:G0KCtvOYDW10qePPXUzj
 
 자료 유형: 원본 타임스탬프
 곡명: Popular
@@ -11712,6 +12400,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-special_popular_wicked_obc_Popular.srt
+곡 그룹ID: songbook:special_popular_wicked_obc
 
 자료 유형: 원본 타임스탬프
 곡명: Positive ☆ Dance Time
@@ -11729,6 +12418,7 @@ cue 수: 151
 가사 cue 수: 151
 번역 없는 가사 cue 수: 151
 SRT 파일: SRT/원본타임스탬프/reference-NYw9wU3NH7YssZONFxe6_Positive ☆ Dance Time.srt
+곡 그룹ID: songbook:NYw9wU3NH7YssZONFxe6
 
 자료 유형: 원본 타임스탬프
 곡명: potato가 되어가
@@ -11746,6 +12436,7 @@ cue 수: 25
 가사 cue 수: 25
 번역 없는 가사 cue 수: 25
 SRT 파일: SRT/원본타임스탬프/reference-ju4rCfhYLRmYeU6Nj0ri_potato가 되어가.srt
+곡 그룹ID: songbook:ju4rCfhYLRmYeU6Nj0ri
 
 자료 유형: 원본 타임스탬프
 곡명: PPPP
@@ -11763,6 +12454,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-yANeLKDGQBQBUQfkZYQQ_PPPP.srt
+곡 그룹ID: songbook:yANeLKDGQBQBUQfkZYQQ
 
 자료 유형: 원본 타임스탬프
 곡명: Pretender
@@ -11780,6 +12472,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-4FhpW3YP2PQzGXmATCKU_Pretender.srt
+곡 그룹ID: songbook:4FhpW3YP2PQzGXmATCKU
 
 자료 유형: 원본 타임스탬프
 곡명: Prince Ali
@@ -11797,6 +12490,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-GW1lqwJOJ661pklNWyW4_Prince Ali.srt
+곡 그룹ID: songbook:GW1lqwJOJ661pklNWyW4
 
 자료 유형: 원본 타임스탬프
 곡명: Psycho
@@ -11814,6 +12508,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-KeNWtGjkJlQK8tUWCHqb_Psycho.srt
+곡 그룹ID: songbook:KeNWtGjkJlQK8tUWCHqb
 
 자료 유형: 원본 타임스탬프
 곡명: Q
@@ -11831,6 +12526,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 73
 SRT 파일: SRT/원본타임스탬프/reference-KnBuaW8Vn2NFnYnAU0n2_Q.srt
+곡 그룹ID: songbook:KnBuaW8Vn2NFnYnAU0n2
 
 자료 유형: 원본 타임스탬프
 곡명: QUEEN
@@ -11848,6 +12544,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-Btgdr9jdGm6u4c99QSH2_QUEEN.srt
+곡 그룹ID: songbook:Btgdr9jdGm6u4c99QSH2
 
 자료 유형: 원본 타임스탬프
 곡명: Queen of Mean
@@ -11865,6 +12562,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 64
 SRT 파일: SRT/원본타임스탬프/reference-TPzvpBt2P6EgmcIVzh55_Queen of Mean.srt
+곡 그룹ID: songbook:TPzvpBt2P6EgmcIVzh55
 
 자료 유형: 원본 타임스탬프
 곡명: Rain
@@ -11882,6 +12580,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-Tg3pURqbxFXsq4yMdwpS_Rain.srt
+곡 그룹ID: songbook:Tg3pURqbxFXsq4yMdwpS
 
 자료 유형: 원본 타임스탬프
 곡명: Rasputin
@@ -11899,6 +12598,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-yyLLCTMBpMbK4Kp87CAP_Rasputin.srt
+곡 그룹ID: songbook:yyLLCTMBpMbK4Kp87CAP
 
 자료 유형: 원본 타임스탬프
 곡명: REDRED
@@ -11916,6 +12616,7 @@ cue 수: 78
 가사 cue 수: 78
 번역 없는 가사 cue 수: 78
 SRT 파일: SRT/원본타임스탬프/reference-special_redred_cortis_REDRED.srt
+곡 그룹ID: songbook:special_redred_cortis
 
 자료 유형: 원본 타임스탬프
 곡명: Remember
@@ -11933,6 +12634,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-t38Tprun2tqgZM68Fiap_Remember.srt
+곡 그룹ID: songbook:t38Tprun2tqgZM68Fiap
 
 자료 유형: 원본 타임스탬프
 곡명: Rockabye
@@ -11950,6 +12652,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-NGPNye9fJdf0eRlJNJZA_Rockabye.srt
+곡 그룹ID: songbook:NGPNye9fJdf0eRlJNJZA
 
 자료 유형: 원본 타임스탬프
 곡명: Rotten to the Core
@@ -11967,6 +12670,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-QAVjD57UnOAPVVzTi01j_Rotten to the Core.srt
+곡 그룹ID: songbook:QAVjD57UnOAPVVzTi01j
 
 자료 유형: 원본 타임스탬프
 곡명: RTRT
@@ -11984,6 +12688,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-PAqgvKhiUgqxtyGPAj5W_RTRT.srt
+곡 그룹ID: songbook:PAqgvKhiUgqxtyGPAj5W
 
 자료 유형: 원본 타임스탬프
 곡명: Rubia
@@ -12001,6 +12706,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-lZqTBIHNpF52XvqtmxXD_Rubia.srt
+곡 그룹ID: songbook:lZqTBIHNpF52XvqtmxXD
 
 자료 유형: 원본 타임스탬프
 곡명: September
@@ -12018,6 +12724,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-6RIDxBBbf60jZBJeZh9z_September.srt
+곡 그룹ID: songbook:6RIDxBBbf60jZBJeZh9z
 
 자료 유형: 원본 타임스탬프
 곡명: Show Yourself
@@ -12035,6 +12742,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-2PXm7DB2BkWqPSffKRUd_Show Yourself.srt
+곡 그룹ID: songbook:2PXm7DB2BkWqPSffKRUd
 
 자료 유형: 원본 타임스탬프
 곡명: SNOBBISM
@@ -12052,6 +12760,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-ec3RmDRPmdplsCpPz8xV_SNOBBISM.srt
+곡 그룹ID: songbook:ec3RmDRPmdplsCpPz8xV
 
 자료 유형: 원본 타임스탬프
 곡명: Snowman
@@ -12069,6 +12778,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-szsTmalhtPtfJG2ZslnL_Snowman.srt
+곡 그룹ID: songbook:szsTmalhtPtfJG2ZslnL
 
 자료 유형: 원본 타임스탬프
 곡명: Somebody That I Used To Know
@@ -12086,6 +12796,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-kS8oyZF9vi2WIyaiOQrc_Somebody That I Used To Know.srt
+곡 그룹ID: songbook:kS8oyZF9vi2WIyaiOQrc
 
 자료 유형: 원본 타임스탬프
 곡명: Someone like you
@@ -12103,6 +12814,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-oJGvwTQrwIqojIpxefGW_Someone like you.srt
+곡 그룹ID: songbook:oJGvwTQrwIqojIpxefGW
 
 자료 유형: 원본 타임스탬프
 곡명: SOS
@@ -12120,6 +12832,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-special_sos_fuyuko_SOS.srt
+곡 그룹ID: songbook:special_sos_fuyuko
 
 자료 유형: 원본 타임스탬프
 곡명: Speechless
@@ -12137,6 +12850,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-wPXukfI5FRL9HnXAvzcn_Speechless.srt
+곡 그룹ID: songbook:wPXukfI5FRL9HnXAvzcn
 
 자료 유형: 원본 타임스탬프
 곡명: STAND PROUD
@@ -12154,6 +12868,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-vp1YwGXCFtNris12pPAa_STAND PROUD.srt
+곡 그룹ID: songbook:vp1YwGXCFtNris12pPAa
 
 자료 유형: 원본 타임스탬프
 곡명: Stardust
@@ -12171,6 +12886,7 @@ cue 수: 106
 가사 cue 수: 106
 번역 없는 가사 cue 수: 106
 SRT 파일: SRT/원본타임스탬프/reference-lzhdmTMbSBz69WmM9ZdO_Stardust.srt
+곡 그룹ID: songbook:lzhdmTMbSBz69WmM9ZdO
 
 자료 유형: 원본 타임스탬프
 곡명: STAY
@@ -12188,6 +12904,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-gby8DJzA5m8KPP0J6g6C_STAY.srt
+곡 그룹ID: songbook:gby8DJzA5m8KPP0J6g6C
 
 자료 유형: 원본 타임스탬프
 곡명: Stronger than you
@@ -12205,6 +12922,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-lcCJfB08VDF5FLNsu72G_Stronger than you.srt
+곡 그룹ID: songbook:lcCJfB08VDF5FLNsu72G
 
 자료 유형: 원본 타임스탬프
 곡명: Surface Pressure
@@ -12222,6 +12940,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-EXCgZcIdbXFLBUGoQxnK_Surface Pressure.srt
+곡 그룹ID: songbook:EXCgZcIdbXFLBUGoQxnK
 
 자료 유형: 원본 타임스탬프
 곡명: Tears
@@ -12239,6 +12958,7 @@ cue 수: 40
 가사 cue 수: 40
 번역 없는 가사 cue 수: 40
 SRT 파일: SRT/원본타임스탬프/reference-mPPzuOSG7JRCg7LNMCxS_Tears.srt
+곡 그룹ID: songbook:mPPzuOSG7JRCg7LNMCxS
 
 자료 유형: 원본 타임스탬프
 곡명: Teeth
@@ -12256,6 +12976,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-p50vBCSqRcT7HWI2gl6X_Teeth.srt
+곡 그룹ID: songbook:p50vBCSqRcT7HWI2gl6X
 
 자료 유형: 원본 타임스탬프
 곡명: The Court Jester
@@ -12273,6 +12994,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-GDqWXeH8asFRysJ7AyiV_The Court Jester.srt
+곡 그룹ID: songbook:GDqWXeH8asFRysJ7AyiV
 
 자료 유형: 원본 타임스탬프
 곡명: The Devil Doesnt Bargain
@@ -12290,6 +13012,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-0OuR7t3wPaaJajl5wkpD_The Devil Doesnt Bargain.srt
+곡 그룹ID: songbook:0OuR7t3wPaaJajl5wkpD
 
 자료 유형: 원본 타임스탬프
 곡명: The Family Madrigal
@@ -12307,6 +13030,7 @@ cue 수: 90
 가사 cue 수: 90
 번역 없는 가사 cue 수: 90
 SRT 파일: SRT/원본타임스탬프/reference-mjILe0Lx45DhGzITqnHE_The Family Madrigal.srt
+곡 그룹ID: songbook:mjILe0Lx45DhGzITqnHE
 
 자료 유형: 원본 타임스탬프
 곡명: The Next Right Thing
@@ -12324,6 +13048,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-aCFpQik34nm9rXRXztiM_The Next Right Thing.srt
+곡 그룹ID: songbook:aCFpQik34nm9rXRXztiM
 
 자료 유형: 원본 타임스탬프
 곡명: The Other Side
@@ -12341,6 +13066,7 @@ cue 수: 75
 가사 cue 수: 75
 번역 없는 가사 cue 수: 75
 SRT 파일: SRT/원본타임스탬프/reference-uJoDuTEGN17D5FQ7vJo6_The Other Side.srt
+곡 그룹ID: songbook:uJoDuTEGN17D5FQ7vJo6
 
 자료 유형: 원본 타임스탬프
 곡명: They_re Only Human
@@ -12358,6 +13084,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-Kpsyf0e4b0278z166IUB_They_re Only Human.srt
+곡 그룹ID: songbook:Kpsyf0e4b0278z166IUB
 
 자료 유형: 원본 타임스탬프
 곡명: This game
@@ -12375,6 +13102,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-zoCj9mcDb3EbgvbQbtXv_This game.srt
+곡 그룹ID: songbook:zoCj9mcDb3EbgvbQbtXv
 
 자료 유형: 원본 타임스탬프
 곡명: Tot Musica
@@ -12392,6 +13120,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-ztwP9xiRALgmfXCUAyoF_Tot Musica.srt
+곡 그룹ID: songbook:ztwP9xiRALgmfXCUAyoF
 
 자료 유형: 원본 타임스탬프
 곡명: Toxic
@@ -12409,6 +13138,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-IPnH58pheZRBDo97KwF5_Toxic.srt
+곡 그룹ID: songbook:IPnH58pheZRBDo97KwF5
 
 자료 유형: 원본 타임스탬프
 곡명: Trick and Treat
@@ -12426,6 +13156,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-BsIbBI9jXcfR9oa1JXsQ_Trick and Treat.srt
+곡 그룹ID: songbook:BsIbBI9jXcfR9oa1JXsQ
 
 자료 유형: 원본 타임스탬프
 곡명: T씨의 이야기를 믿지 마
@@ -12443,6 +13174,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-Q6lTmbQlwgKwk4dOSlmz_T씨의 이야기를 믿지 마.srt
+곡 그룹ID: songbook:Q6lTmbQlwgKwk4dOSlmz
 
 자료 유형: 원본 타임스탬프
 곡명: Unstoppable
@@ -12460,6 +13192,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 66
 SRT 파일: SRT/원본타임스탬프/reference-Z0V92GcWpcuwP5bEKMYx_Unstoppable.srt
+곡 그룹ID: songbook:Z0V92GcWpcuwP5bEKMYx
 
 자료 유형: 원본 타임스탬프
 곡명: Utopiosphere
@@ -12477,6 +13210,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-FS4dwA0aRENXBhCHDAJ9_Utopiosphere.srt
+곡 그룹ID: songbook:FS4dwA0aRENXBhCHDAJ9
 
 자료 유형: 원본 타임스탬프
 곡명: Vampire’s ∞ pathoS
@@ -12494,6 +13228,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-Y3QerKuLx4XEBWvVxqMD_Vampire’s ∞ pathoS.srt
+곡 그룹ID: songbook:Y3QerKuLx4XEBWvVxqMD
 
 자료 유형: 원본 타임스탬프
 곡명: Victim
@@ -12511,6 +13246,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 26
 SRT 파일: SRT/원본타임스탬프/reference-24D9PDz2zWFn0r9wz0BK_Victim.srt
+곡 그룹ID: songbook:24D9PDz2zWFn0r9wz0BK
 
 자료 유형: 원본 타임스탬프
 곡명: Villian
@@ -12528,6 +13264,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-tp853KGvAW4gK4aYp3uH_Villian.srt
+곡 그룹ID: songbook:tp853KGvAW4gK4aYp3uH
 
 자료 유형: 원본 타임스탬프
 곡명: Viva La Vida
@@ -12545,6 +13282,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-UoLYcOMfVod7FGYUsms4_Viva La Vida.srt
+곡 그룹ID: songbook:UoLYcOMfVod7FGYUsms4
 
 자료 유형: 원본 타임스탬프
 곡명: Waiting in the Wings
@@ -12562,6 +13300,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-oOnTcpSyFiBbal6uL4fz_Waiting in the Wings.srt
+곡 그룹ID: songbook:oOnTcpSyFiBbal6uL4fz
 
 자료 유형: 원본 타임스탬프
 곡명: Warrior
@@ -12579,6 +13318,7 @@ cue 수: 81
 가사 cue 수: 81
 번역 없는 가사 cue 수: 81
 SRT 파일: SRT/원본타임스탬프/reference-BdlOkWSZZcIo1TYG8WIx_Warrior.srt
+곡 그룹ID: songbook:BdlOkWSZZcIo1TYG8WIx
 
 자료 유형: 원본 타임스탬프
 곡명: Ways To Be Wicked
@@ -12596,6 +13336,7 @@ cue 수: 84
 가사 cue 수: 84
 번역 없는 가사 cue 수: 84
 SRT 파일: SRT/원본타임스탬프/reference-cDNNtbxg7fOEN8G5O3d7_Ways To Be Wicked.srt
+곡 그룹ID: songbook:cDNNtbxg7fOEN8G5O3d7
 
 자료 유형: 원본 타임스탬프
 곡명: We are japanese goblin
@@ -12613,6 +13354,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-Ek7QgAQgotUkwlIeoXCl_We are japanese goblin.srt
+곡 그룹ID: songbook:Ek7QgAQgotUkwlIeoXCl
 
 자료 유형: 원본 타임스탬프
 곡명: We Are Number One
@@ -12630,6 +13372,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 29
 SRT 파일: SRT/원본타임스탬프/reference-fTO2urhziF6TJt1JpAQE_We Are Number One.srt
+곡 그룹ID: songbook:fTO2urhziF6TJt1JpAQE
 
 자료 유형: 원본 타임스탬프
 곡명: We Don't Talk About Bruno
@@ -12647,6 +13390,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-bczXWokxMJzaVMYuAZbZ_We Don't Talk About Bruno.srt
+곡 그룹ID: songbook:bczXWokxMJzaVMYuAZbZ
 
 자료 유형: 원본 타임스탬프
 곡명: Wellerman
@@ -12664,6 +13408,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 60
 SRT 파일: SRT/원본타임스탬프/reference-m9dXwFQKDUAjo3knQtQN_Wellerman.srt
+곡 그룹ID: songbook:m9dXwFQKDUAjo3knQtQN
 
 자료 유형: 원본 타임스탬프
 곡명: What Else Can I Do
@@ -12681,6 +13426,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-oeZbUFQ1anOMK4A5S93Z_What Else Can I Do.srt
+곡 그룹ID: songbook:oeZbUFQ1anOMK4A5S93Z
 
 자료 유형: 원본 타임스탬프
 곡명: What's My Name
@@ -12698,6 +13444,7 @@ cue 수: 73
 가사 cue 수: 73
 번역 없는 가사 cue 수: 73
 SRT 파일: SRT/원본타임스탬프/reference-K9QTcPVo4Q5vU6ynHUMA_What's My Name.srt
+곡 그룹ID: songbook:K9QTcPVo4Q5vU6ynHUMA
 
 자료 유형: 원본 타임스탬프
 곡명: What's the Use of Feeling Blue
@@ -12715,6 +13462,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-zcGUdzb1vTNA9EUv1DxJ_What's the Use of Feeling Blue.srt
+곡 그룹ID: songbook:zcGUdzb1vTNA9EUv1DxJ
 
 자료 유형: 원본 타임스탬프
 곡명: When Will My Life Begin
@@ -12732,6 +13480,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-YdefK7qLVQovj17ZvloX_When Will My Life Begin.srt
+곡 그룹ID: songbook:YdefK7qLVQovj17ZvloX
 
 자료 유형: 원본 타임스탬프
 곡명: Whiskey and Morphine
@@ -12749,6 +13498,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-oJgJ4DfEFpzurXSEXS9a_Whiskey and Morphine.srt
+곡 그룹ID: songbook:oJgJ4DfEFpzurXSEXS9a
 
 자료 유형: 원본 타임스탬프
 곡명: Who Killed U.N.Owen
@@ -12766,6 +13516,7 @@ cue 수: 66
 가사 cue 수: 66
 번역 없는 가사 cue 수: 66
 SRT 파일: SRT/원본타임스탬프/reference-DgkRdSYg76DiusLPAKLH_Who Killed U.N.Owen.srt
+곡 그룹ID: songbook:DgkRdSYg76DiusLPAKLH
 
 자료 유형: 원본 타임스탬프
 곡명: world.execute(me);
@@ -12783,6 +13534,7 @@ cue 수: 98
 가사 cue 수: 98
 번역 없는 가사 cue 수: 98
 SRT 파일: SRT/원본타임스탬프/reference-IDAfLBvheAzTO16pS1EG_world.execute(me);.srt
+곡 그룹ID: songbook:IDAfLBvheAzTO16pS1EG
 
 자료 유형: 원본 타임스탬프
 곡명: YELLOW
@@ -12800,6 +13552,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-UKTjlXTyIrEjQfOKcH5O_YELLOW.srt
+곡 그룹ID: songbook:UKTjlXTyIrEjQfOKcH5O
 
 자료 유형: 원본 타임스탬프
 곡명: Yield
@@ -12817,6 +13570,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-0WiQUslCcAGpJh6O424k_Yield.srt
+곡 그룹ID: songbook:0WiQUslCcAGpJh6O424k
 
 자료 유형: 원본 타임스탬프
 곡명: サインはB -New Arrange Ver.-
@@ -12834,6 +13588,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 76
 SRT 파일: SRT/원본타임스탬프/reference-special_sign_is_b_new_arrange_サインはB -New Arrange Ver.-.srt
+곡 그룹ID: songbook:special_sign_is_b_new_arrange
 
 자료 유형: 원본 타임스탬프
 곡명: 愛して愛して愛して
@@ -12851,6 +13606,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 31
 SRT 파일: SRT/원본타임스탬프/reference-special_aishite_aishite_aishite_愛して愛して愛して.srt
+곡 그룹ID: songbook:special_aishite_aishite_aishite
 
 자료 유형: 원본 타임스탬프
 곡명: 色は匂へど散りぬるを
@@ -12868,6 +13624,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 22
 SRT 파일: SRT/원본타임스탬프/reference-special_iroha_nihoedo_chirinuruwo_色は匂へど散りぬるを.srt
+곡 그룹ID: songbook:special_iroha_nihoedo_chirinuruwo
 
 자료 유형: 원본 타임스탬프
 곡명: 감전
@@ -12885,6 +13642,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-3oZGWFc3W6V8mxBoMCXw_감전.srt
+곡 그룹ID: songbook:3oZGWFc3W6V8mxBoMCXw
 
 자료 유형: 원본 타임스탬프
 곡명: 강풍 올백
@@ -12902,6 +13660,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 22
 SRT 파일: SRT/원본타임스탬프/reference-e9JZicRXZVbGpMkIaOxv_강풍 올백.srt
+곡 그룹ID: songbook:e9JZicRXZVbGpMkIaOxv
 
 자료 유형: 원본 타임스탬프
 곡명: 개쓰레기
@@ -12919,6 +13678,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-b2Srhs7ZRkwZsPtTCgdb_개쓰레기.srt
+곡 그룹ID: songbook:b2Srhs7ZRkwZsPtTCgdb
 
 자료 유형: 원본 타임스탬프
 곡명: 계속 함께
@@ -12936,6 +13696,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-Bchoi8dTrHFq79qCJ3Ex_계속 함께.srt
+곡 그룹ID: songbook:Bchoi8dTrHFq79qCJ3Ex
 
 자료 유형: 원본 타임스탬프
 곡명: 고고 유령선
@@ -12953,6 +13714,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-rXsyln94vrxizWNOTDmn_고고 유령선.srt
+곡 그룹ID: songbook:rXsyln94vrxizWNOTDmn
 
 자료 유형: 원본 타임스탬프
 곡명: 고음충 음역 테스트
@@ -12970,6 +13732,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-TFL5PRKOMefkclPcBLKt_고음충 음역 테스트.srt
+곡 그룹ID: songbook:TFL5PRKOMefkclPcBLKt
 
 자료 유형: 원본 타임스탬프
 곡명: 괴도 쿠보조노 치요코는 절대 실수하지 않아
@@ -12987,6 +13750,7 @@ cue 수: 8
 가사 cue 수: 8
 번역 없는 가사 cue 수: 8
 SRT 파일: SRT/원본타임스탬프/reference-k8uLXTOnn5xI8Yt7lvrb_괴도 쿠보조노 치요코는 절대 실수하지 않아.srt
+곡 그룹ID: songbook:k8uLXTOnn5xI8Yt7lvrb
 
 자료 유형: 원본 타임스탬프
 곡명: 괴물
@@ -13004,6 +13768,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-Hz5cwz3y3jyVy6PkZKzQ_괴물.srt
+곡 그룹ID: songbook:Hz5cwz3y3jyVy6PkZKzQ
 
 자료 유형: 원본 타임스탬프
 곡명: 괴수의 꽃노래
@@ -13021,6 +13786,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 72
 SRT 파일: SRT/원본타임스탬프/reference-iQlgMtXo8RjrD44g8xPg_괴수의 꽃노래.srt
+곡 그룹ID: songbook:iQlgMtXo8RjrD44g8xPg
 
 자료 유형: 원본 타임스탬프
 곡명: 군자는 위험하더라도 가까이 오너라
@@ -13038,6 +13804,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-cFE87ghjui0sVZcd7CiL_군자는 위험하더라도 가까이 오너라.srt
+곡 그룹ID: songbook:cFE87ghjui0sVZcd7CiL
 
 자료 유형: 원본 타임스탬프
 곡명: 굿바이 선언
@@ -13055,6 +13822,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-Q7blbLV48EJeAqxTjLqI_굿바이 선언.srt
+곡 그룹ID: songbook:Q7blbLV48EJeAqxTjLqI
 
 자료 유형: 원본 타임스탬프
 곡명: 귀신의 우스갯소리
@@ -13072,6 +13840,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-vZ0yVJQ7lAlvzKj3u2vk_귀신의 우스갯소리.srt
+곡 그룹ID: songbook:vZ0yVJQ7lAlvzKj3u2vk
 
 자료 유형: 원본 타임스탬프
 곡명: 귀신의 잔치
@@ -13089,6 +13858,7 @@ cue 수: 37
 가사 cue 수: 37
 번역 없는 가사 cue 수: 37
 SRT 파일: SRT/원본타임스탬프/reference-D3BjZQwWJFbfP8OXopnI_귀신의 잔치.srt
+곡 그룹ID: songbook:D3BjZQwWJFbfP8OXopnI
 
 자료 유형: 원본 타임스탬프
 곡명: 귀여워서 미안해
@@ -13106,6 +13876,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-DFdLZaDzGzr2QhChF52c_귀여워서 미안해.srt
+곡 그룹ID: songbook:DFdLZaDzGzr2QhChF52c
 
 자료 유형: 원본 타임스탬프
 곡명: 그리즐리에게 습격당한다면♡
@@ -13123,6 +13894,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-7fbanZMeNRol5HbVgRQf_그리즐리에게 습격당한다면♡.srt
+곡 그룹ID: songbook:7fbanZMeNRol5HbVgRQf
 
 자료 유형: 원본 타임스탬프
 곡명: 그저 네게 맑아라
@@ -13140,6 +13912,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-Y0KtrCWJg7Nw4TheIgf5_그저 네게 맑아라.srt
+곡 그룹ID: songbook:Y0KtrCWJg7Nw4TheIgf5
 
 자료 유형: 원본 타임스탬프
 곡명: 그저 목소리 하나
@@ -13157,6 +13930,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 30
 SRT 파일: SRT/원본타임스탬프/reference-BJ5lcI89n2NCLixEsrGj_그저 목소리 하나.srt
+곡 그룹ID: songbook:BJ5lcI89n2NCLixEsrGj
 
 자료 유형: 원본 타임스탬프
 곡명: 긍지 높은 아이돌
@@ -13174,6 +13948,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-Nojh9TaOFwoLFE4eGtp2_긍지 높은 아이돌.srt
+곡 그룹ID: songbook:Nojh9TaOFwoLFE4eGtp2
 
 자료 유형: 원본 타임스탬프
 곡명: 기간틱 O.T.N
@@ -13191,6 +13966,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-ZnEdQj7s13nt6qvIuOJj_기간틱 O.T.N.srt
+곡 그룹ID: songbook:ZnEdQj7s13nt6qvIuOJj
 
 자료 유형: 원본 타임스탬프
 곡명: 기라기라
@@ -13208,6 +13984,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-HMTRIyyVmly3PwVeYyzn_기라기라.srt
+곡 그룹ID: songbook:HMTRIyyVmly3PwVeYyzn
 
 자료 유형: 원본 타임스탬프
 곡명: 꺼・내・줘
@@ -13225,6 +14002,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-ghHiPYspRJ3qCJ5FslCM_꺼・내・줘.srt
+곡 그룹ID: songbook:ghHiPYspRJ3qCJ5FslCM
 
 자료 유형: 원본 타임스탬프
 곡명: 꼬마 마녀 카니발
@@ -13242,6 +14020,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-rmU5GnB8HfRfXzKCRQCL_꼬마 마녀 카니발.srt
+곡 그룹ID: songbook:rmU5GnB8HfRfXzKCRQCL
 
 자료 유형: 원본 타임스탬프
 곡명: 꽃이 되어줘
@@ -13259,6 +14038,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-GQVUCaTP8tAJfL2K4e5E_꽃이 되어줘.srt
+곡 그룹ID: songbook:GQVUCaTP8tAJfL2K4e5E
 
 자료 유형: 원본 타임스탬프
 곡명: 꿈을 이루어줘 도라에몽
@@ -13276,6 +14056,7 @@ cue 수: 81
 가사 cue 수: 81
 번역 없는 가사 cue 수: 81
 SRT 파일: SRT/원본타임스탬프/reference-Ye9sO1jiJxvBpZr0GoLz_꿈을 이루어줘 도라에몽.srt
+곡 그룹ID: songbook:Ye9sO1jiJxvBpZr0GoLz
 
 자료 유형: 원본 타임스탬프
 곡명: 나는 문제작
@@ -13293,6 +14074,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 60
 SRT 파일: SRT/원본타임스탬프/reference-zVTaGuJI7eoVLlRPP7f7_나는 문제작.srt
+곡 그룹ID: songbook:zVTaGuJI7eoVLlRPP7f7
 
 자료 유형: 원본 타임스탬프
 곡명: 나는 최강
@@ -13310,6 +14092,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-ZX7HAgr6p4zEuhBAyYA4_나는 최강.srt
+곡 그룹ID: songbook:ZX7HAgr6p4zEuhBAyYA4
 
 자료 유형: 원본 타임스탬프
 곡명: 나의 가장 귀여운 부분
@@ -13327,6 +14110,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 67
 SRT 파일: SRT/원본타임스탬프/reference-zh03lbGfc6d2nHLdPpdF_나의 가장 귀여운 부분.srt
+곡 그룹ID: songbook:zh03lbGfc6d2nHLdPpdF
 
 자료 유형: 원본 타임스탬프
 곡명: 내가 죽으려고 생각한 것은
@@ -13344,6 +14128,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-SIE2BkMlNfMJwRwqdGtT_내가 죽으려고 생각한 것은.srt
+곡 그룹ID: songbook:SIE2BkMlNfMJwRwqdGtT
 
 자료 유형: 원본 타임스탬프
 곡명: 너무 좋아서 멸망
@@ -13361,6 +14146,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-WTqJSW8dwJUj1Q8OTKTb_너무 좋아서 멸망.srt
+곡 그룹ID: songbook:WTqJSW8dwJUj1Q8OTKTb
 
 자료 유형: 원본 타임스탬프
 곡명: 네 기꺼이
@@ -13378,6 +14164,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-y0BRWGAkf114TLOS0Dke_네 기꺼이.srt
+곡 그룹ID: songbook:y0BRWGAkf114TLOS0Dke
 
 자료 유형: 원본 타임스탬프
 곡명: 네가 있다면
@@ -13395,6 +14182,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 21
 SRT 파일: SRT/원본타임스탬프/reference-5XwVwCrugWABc0TTTM3t_네가 있다면.srt
+곡 그룹ID: songbook:5XwVwCrugWABc0TTTM3t
 
 자료 유형: 원본 타임스탬프
 곡명: 노예들의 영웅 -엘레우세우스-
@@ -13412,6 +14200,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 80
 SRT 파일: SRT/원본타임스탬프/reference-jQAunwGkApZCB3RgQDAZ_노예들의 영웅 -엘레우세우스-.srt
+곡 그룹ID: songbook:jQAunwGkApZCB3RgQDAZ
 
 자료 유형: 원본 타임스탬프
 곡명: 논브레스 오블리쥬
@@ -13429,6 +14218,7 @@ cue 수: 116
 가사 cue 수: 116
 번역 없는 가사 cue 수: 116
 SRT 파일: SRT/원본타임스탬프/reference-u1uN5Cr4cvMG2sBDSXvm_논브레스 오블리쥬.srt
+곡 그룹ID: songbook:u1uN5Cr4cvMG2sBDSXvm
 
 자료 유형: 원본 타임스탬프
 곡명: 누덕누덕 스타카토
@@ -13446,6 +14236,7 @@ cue 수: 13
 가사 cue 수: 13
 번역 없는 가사 cue 수: 13
 SRT 파일: SRT/원본타임스탬프/reference-BpzjMsXCEY5Igr5UEeOF_누덕누덕 스타카토.srt
+곡 그룹ID: songbook:BpzjMsXCEY5Igr5UEeOF
 
 자료 유형: 원본 타임스탬프
 곡명: 니 팔자야
@@ -13463,6 +14254,7 @@ cue 수: 23
 가사 cue 수: 23
 번역 없는 가사 cue 수: 23
 SRT 파일: SRT/원본타임스탬프/reference-BXvkL02Sn2lPM8x54qUY_니 팔자야.srt
+곡 그룹ID: songbook:BXvkL02Sn2lPM8x54qUY
 
 자료 유형: 원본 타임스탬프
 곡명: 닌자의 권유
@@ -13480,6 +14272,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-OWJxm15rKo7txeZZivZM_닌자의 권유.srt
+곡 그룹ID: songbook:OWJxm15rKo7txeZZivZM
 
 자료 유형: 원본 타임스탬프
 곡명: 다다다다다다다다다다
@@ -13497,6 +14290,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-LF9zoi6UaZpZHR2F3Xjq_다다다다다다다다다다.srt
+곡 그룹ID: songbook:LF9zoi6UaZpZHR2F3Xjq
 
 자료 유형: 원본 타임스탬프
 곡명: 단죄 야마자나두!
@@ -13514,6 +14308,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-t7nXYmPL3vANf9Bf5nWx_단죄 야마자나두!.srt
+곡 그룹ID: songbook:t7nXYmPL3vANf9Bf5nWx
 
 자료 유형: 원본 타임스탬프
 곡명: 단죄 야마자나두! PUNK IT!ver
@@ -13531,6 +14326,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-axK8ICuTtQR5IEmxRd4A_단죄 야마자나두! PUNK IT!ver.srt
+곡 그룹ID: songbook:axK8ICuTtQR5IEmxRd4A
 
 자료 유형: 원본 타임스탬프
 곡명: 달링
@@ -13548,6 +14344,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-wulDekeM7Xiw24RFaMjJ_달링.srt
+곡 그룹ID: songbook:wulDekeM7Xiw24RFaMjJ
 
 자료 유형: 원본 타임스탬프
 곡명: 달을 보고 있있어
@@ -13565,6 +14362,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-WnoyzF7OmkEgfZ1QkFad_달을 보고 있있어.srt
+곡 그룹ID: songbook:WnoyzF7OmkEgfZ1QkFad
 
 자료 유형: 원본 타임스탬프
 곡명: 댄스 로봇 댄스
@@ -13582,6 +14380,7 @@ cue 수: 72
 가사 cue 수: 72
 번역 없는 가사 cue 수: 72
 SRT 파일: SRT/원본타임스탬프/reference-lysxbzX1TjWauo83MNdj_댄스 로봇 댄스.srt
+곡 그룹ID: songbook:lysxbzX1TjWauo83MNdj
 
 자료 유형: 원본 타임스탬프
 곡명: 댄스홀
@@ -13599,6 +14398,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-DI2pHFfMJGFcAmFby31c_댄스홀.srt
+곡 그룹ID: songbook:DI2pHFfMJGFcAmFby31c
 
 자료 유형: 원본 타임스탬프
 곡명: 댄싱 사무라이
@@ -13616,6 +14416,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-YPyiJp4pT0BlMAZd8PLg_댄싱 사무라이.srt
+곡 그룹ID: songbook:YPyiJp4pT0BlMAZd8PLg
 
 자료 유형: 원본 타임스탬프
 곡명: 도쿄 샨디 랑데부
@@ -13633,6 +14434,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-HUXaxXjp6sp5WbOw8iGU_도쿄 샨디 랑데부.srt
+곡 그룹ID: songbook:HUXaxXjp6sp5WbOw8iGU
 
 자료 유형: 원본 타임스탬프
 곡명: 도쿄 테디 베어
@@ -13650,6 +14452,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-gZY4Esj0uP7vs9JTGDIP_도쿄 테디 베어.srt
+곡 그룹ID: songbook:gZY4Esj0uP7vs9JTGDIP
 
 자료 유형: 원본 타임스탬프
 곡명: 됐~어 됐~어 됐~어
@@ -13667,6 +14470,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-sGro57Q5PSuYKOKVdhDK_됐~어 됐~어 됐~어.srt
+곡 그룹ID: songbook:sGro57Q5PSuYKOKVdhDK
 
 자료 유형: 원본 타임스탬프
 곡명: 되풀이 한 방울 (어레인지)
@@ -13684,6 +14488,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-M2OyyriNQ4fCwbatw9aU_되풀이 한 방울 (어레인지).srt
+곡 그룹ID: songbook:M2OyyriNQ4fCwbatw9aU
 
 자료 유형: 원본 타임스탬프
 곡명: 두 사람의 기분은 정말로 비밀
@@ -13701,6 +14506,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-vkNk3kL47LnX0pN547V5_두 사람의 기분은 정말로 비밀.srt
+곡 그룹ID: songbook:vkNk3kL47LnX0pN547V5
 
 자료 유형: 원본 타임스탬프
 곡명: 뒈져버리자
@@ -13718,6 +14524,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-Bzw1hnFaq60vVnbnxHsx_뒈져버리자.srt
+곡 그룹ID: songbook:Bzw1hnFaq60vVnbnxHsx
 
 자료 유형: 원본 타임스탬프
 곡명: 디어 마이 프렌드
@@ -13735,6 +14542,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-f9oknG89EWIi8TijEnRM_디어 마이 프렌드.srt
+곡 그룹ID: songbook:f9oknG89EWIi8TijEnRM
 
 자료 유형: 원본 타임스탬프
 곡명: 라시사
@@ -13752,6 +14560,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-MdDUYbM75liGDrF09aCs_라시사.srt
+곡 그룹ID: songbook:MdDUYbM75liGDrF09aCs
 
 자료 유형: 원본 타임스탬프
 곡명: 락스타
@@ -13769,6 +14578,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-33OZCGVZxt8DuSnHvnK3_락스타.srt
+곡 그룹ID: songbook:33OZCGVZxt8DuSnHvnK3
 
 자료 유형: 원본 타임스탬프
 곡명: 레디메이드
@@ -13786,6 +14596,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-hv1M4St06UlQeauv4y8z_레디메이드.srt
+곡 그룹ID: songbook:hv1M4St06UlQeauv4y8z
 
 자료 유형: 원본 타임스탬프
 곡명: 레오
@@ -13803,6 +14614,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-n82yjChnkUQh5EfvHVIN_레오.srt
+곡 그룹ID: songbook:n82yjChnkUQh5EfvHVIN
 
 자료 유형: 원본 타임스탬프
 곡명: 레인
@@ -13820,6 +14632,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-nkWSLFb0wdhbnB5txKyZ_레인.srt
+곡 그룹ID: songbook:nkWSLFb0wdhbnB5txKyZ
 
 자료 유형: 원본 타임스탬프
 곡명: 레인의 세계
@@ -13837,6 +14650,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 64
 SRT 파일: SRT/원본타임스탬프/reference-zd72wU1FgDODA0CKJJs3_레인의 세계.srt
+곡 그룹ID: songbook:zd72wU1FgDODA0CKJJs3
 
 자료 유형: 원본 타임스탬프
 곡명: 레퀴엠
@@ -13854,6 +14668,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-fsCePI8jtTdMf5EYoObM_레퀴엠.srt
+곡 그룹ID: songbook:fsCePI8jtTdMf5EYoObM
 
 자료 유형: 원본 타임스탬프
 곡명: 마리사는 엄청난 것을 훔쳐갔습니다
@@ -13871,6 +14686,7 @@ cue 수: 74
 가사 cue 수: 74
 번역 없는 가사 cue 수: 74
 SRT 파일: SRT/원본타임스탬프/reference-zAAJ1sdnTGaCCsNYpXoe_마리사는 엄청난 것을 훔쳐갔습니다.srt
+곡 그룹ID: songbook:zAAJ1sdnTGaCCsNYpXoe
 
 자료 유형: 원본 타임스탬프
 곡명: 마법사 사라반트
@@ -13888,6 +14704,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-9NnjwGiJMYTtevxuD2fZ_마법사 사라반트.srt
+곡 그룹ID: songbook:9NnjwGiJMYTtevxuD2fZ
 
 자료 유형: 원본 타임스탬프
 곡명: 마법소녀와 초콜렛
@@ -13905,6 +14722,7 @@ cue 수: 70
 가사 cue 수: 70
 번역 없는 가사 cue 수: 70
 SRT 파일: SRT/원본타임스탬프/reference-hqXUppOTJIaBmUg6gpnD_마법소녀와 초콜렛.srt
+곡 그룹ID: songbook:hqXUppOTJIaBmUg6gpnD
 
 자료 유형: 원본 타임스탬프
 곡명: 마셜 맥시마이저
@@ -13922,6 +14740,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-4vqQPCoXzzAEDAuUey7y_마셜 맥시마이저.srt
+곡 그룹ID: songbook:4vqQPCoXzzAEDAuUey7y
 
 자료 유형: 원본 타임스탬프
 곡명: 만찬가
@@ -13939,6 +14758,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-C89StwnlXFvj0XPO4bGW_만찬가.srt
+곡 그룹ID: songbook:C89StwnlXFvj0XPO4bGW
 
 자료 유형: 원본 타임스탬프
 곡명: 망가진 인형의 행진
@@ -13956,6 +14776,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-VubDBUGqXV21YxEluiv5_망가진 인형의 행진.srt
+곡 그룹ID: songbook:VubDBUGqXV21YxEluiv5
 
 자료 유형: 원본 타임스탬프
 곡명: 망했다
@@ -13973,6 +14794,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-GyZQIWmS4BQKcDS01k00_망했다.srt
+곡 그룹ID: songbook:GyZQIWmS4BQKcDS01k00
 
 자료 유형: 원본 타임스탬프
 곡명: 메메시쿠테
@@ -13990,6 +14812,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-XGfa6t9DU0tjGDbbjgxA_메메시쿠테.srt
+곡 그룹ID: songbook:XGfa6t9DU0tjGDbbjgxA
 
 자료 유형: 원본 타임스탬프
 곡명: 메이드 그만둘까요? 인간 그만둘까요?
@@ -14007,6 +14830,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-6ihAqwBeWK8fkBIKdNO1_메이드 그만둘까요_ 인간 그만둘까요_.srt
+곡 그룹ID: songbook:6ihAqwBeWK8fkBIKdNO1
 
 자료 유형: 원본 타임스탬프
 곡명: 메이지 오브 바이올렛
@@ -14024,6 +14848,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-11xbCImMgP3vqp9yKGO4_메이지 오브 바이올렛.srt
+곡 그룹ID: songbook:11xbCImMgP3vqp9yKGO4
 
 자료 유형: 원본 타임스탬프
 곡명: 메피스토
@@ -14041,6 +14866,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-2A3noQoX9OHRQZl4jIry_메피스토.srt
+곡 그룹ID: songbook:2A3noQoX9OHRQZl4jIry
 
 자료 유형: 원본 타임스탬프
 곡명: 명왕 -타나토스-
@@ -14058,6 +14884,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-uS4pip0LZD4Dxc3efIcP_명왕 -타나토스-.srt
+곡 그룹ID: songbook:uS4pip0LZD4Dxc3efIcP
 
 자료 유형: 원본 타임스탬프
 곡명: 모니터링 (베스트 프렌드 리믹스)
@@ -14075,6 +14902,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-MmDoIOwhSr9lkGToZh7G_모니터링 (베스트 프렌드 리믹스).srt
+곡 그룹ID: songbook:MmDoIOwhSr9lkGToZh7G
 
 자료 유형: 원본 타임스탬프
 곡명: 모래의 혹성
@@ -14092,6 +14920,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-lsZEBMdbU5y1IlLPZxdg_모래의 혹성.srt
+곡 그룹ID: songbook:lsZEBMdbU5y1IlLPZxdg
 
 자료 유형: 원본 타임스탬프
 곡명: 모여! 내 사랑
@@ -14109,6 +14938,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 76
 SRT 파일: SRT/원본타임스탬프/reference-azv3Cd5fnU9yRbrmyEzA_모여! 내 사랑.srt
+곡 그룹ID: songbook:azv3Cd5fnU9yRbrmyEzA
 
 자료 유형: 원본 타임스탬프
 곡명: 모자이크 롤 (Reloaded)
@@ -14126,6 +14956,7 @@ cue 수: 15
 가사 cue 수: 15
 번역 없는 가사 cue 수: 15
 SRT 파일: SRT/원본타임스탬프/reference-DUQRDekJJyAroH81p4px_모자이크 롤 (Reloaded).srt
+곡 그룹ID: songbook:DUQRDekJJyAroH81p4px
 
 자료 유형: 원본 타임스탬프
 곡명: 무의식 레퀴엠
@@ -14143,6 +14974,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 67
 SRT 파일: SRT/원본타임스탬프/reference-yXe8M90jGYRM2MDETk1H_무의식 레퀴엠.srt
+곡 그룹ID: songbook:yXe8M90jGYRM2MDETk1H
 
 자료 유형: 원본 타임스탬프
 곡명: 물거품
@@ -14160,6 +14992,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-F13ukibQX93iEDJy7C0R_물거품.srt
+곡 그룹ID: songbook:F13ukibQX93iEDJy7C0R
 
 자료 유형: 원본 타임스탬프
 곡명: 물거품 자장가
@@ -14177,6 +15010,7 @@ cue 수: 52
 가사 cue 수: 52
 번역 없는 가사 cue 수: 52
 SRT 파일: SRT/원본타임스탬프/reference-s6oqpuMtNND72kDo3Itw_물거품 자장가.srt
+곡 그룹ID: songbook:s6oqpuMtNND72kDo3Itw
 
 자료 유형: 원본 타임스탬프
 곡명: 미소녀 무죄♡파이레츠
@@ -14194,6 +15028,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 79
 SRT 파일: SRT/원본타임스탬프/reference-ahMpvCHtMEaEwHjhnIkS_미소녀 무죄♡파이레츠.srt
+곡 그룹ID: songbook:ahMpvCHtMEaEwHjhnIkS
 
 자료 유형: 원본 타임스탬프
 곡명: 반짝반짝 치카치카
@@ -14211,6 +15046,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-VwbKI5Vt4QHEdfQQEklg_반짝반짝 치카치카.srt
+곡 그룹ID: songbook:VwbKI5Vt4QHEdfQQEklg
 
 자료 유형: 원본 타임스탬프
 곡명: 발묘
@@ -14228,6 +15064,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-XvOruNJNgCAiwuuTFNQL_발묘.srt
+곡 그룹ID: songbook:XvOruNJNgCAiwuuTFNQL
 
 자료 유형: 원본 타임스탬프
 곡명: 밤을 달리다
@@ -14245,6 +15082,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-gTd5qnpJgN7hsOky2Qpr_밤을 달리다.srt
+곡 그룹ID: songbook:gTd5qnpJgN7hsOky2Qpr
 
 자료 유형: 원본 타임스탬프
 곡명: 배신자의 레퀴엠
@@ -14262,6 +15100,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 29
 SRT 파일: SRT/원본타임스탬프/reference-VsGxzJseH53aV7KxBIHi_배신자의 레퀴엠.srt
+곡 그룹ID: songbook:VsGxzJseH53aV7KxBIHi
 
 자료 유형: 원본 타임스탬프
 곡명: 백금 디스코
@@ -14279,6 +15118,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-9fBf5W1AR0GQodXwC3BO_백금 디스코.srt
+곡 그룹ID: songbook:9fBf5W1AR0GQodXwC3BO
 
 자료 유형: 원본 타임스탬프
 곡명: 버그
@@ -14296,6 +15136,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-Al5AGzi0teuut7Jo9Qm7_버그.srt
+곡 그룹ID: songbook:Al5AGzi0teuut7Jo9Qm7
 
 자료 유형: 원본 타임스탬프
 곡명: 벌칙 게임
@@ -14313,6 +15154,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-HtC0guSyP7BvX3CpDoSz_벌칙 게임.srt
+곡 그룹ID: songbook:HtC0guSyP7BvX3CpDoSz
 
 자료 유형: 원본 타임스탬프
 곡명: 베텔기우스
@@ -14330,6 +15172,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-mYxDDwkY8Q0EGUIk43dT_베텔기우스.srt
+곡 그룹ID: songbook:mYxDDwkY8Q0EGUIk43dT
 
 자료 유형: 원본 타임스탬프
 곡명: 병명은 사랑이었다
@@ -14347,6 +15190,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-dxF1NE5RuOFrYtWrZUcm_병명은 사랑이었다.srt
+곡 그룹ID: songbook:dxF1NE5RuOFrYtWrZUcm
 
 자료 유형: 원본 타임스탬프
 곡명: 보카 델라 베리타
@@ -14364,6 +15208,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-nYEh2NQhIUUJ2CZoiVRM_보카 델라 베리타.srt
+곡 그룹ID: songbook:nYEh2NQhIUUJ2CZoiVRM
 
 자료 유형: 원본 타임스탬프
 곡명: 부탁해 머슬
@@ -14381,6 +15226,7 @@ cue 수: 110
 가사 cue 수: 110
 번역 없는 가사 cue 수: 110
 SRT 파일: SRT/원본타임스탬프/reference-dvWjfnCpMafoGqtXg9A9_부탁해 머슬.srt
+곡 그룹ID: songbook:dvWjfnCpMafoGqtXg9A9
 
 자료 유형: 원본 타임스탬프
 곡명: 불꽃
@@ -14398,6 +15244,7 @@ cue 수: 67
 가사 cue 수: 67
 번역 없는 가사 cue 수: 67
 SRT 파일: SRT/원본타임스탬프/reference-JKewXSw5ZkaWjz3V4sdR_불꽃.srt
+곡 그룹ID: songbook:JKewXSw5ZkaWjz3V4sdR
 
 자료 유형: 원본 타임스탬프
 곡명: 블루 버드
@@ -14415,6 +15262,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-3i6sta7lIxSiajXWsrVI_블루 버드.srt
+곡 그룹ID: songbook:3i6sta7lIxSiajXWsrVI
 
 자료 유형: 원본 타임스탬프
 곡명: 비바해피 (세계사.ver)
@@ -14432,6 +15280,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-Bs66uV9bW30KY0p7fvMW_비바해피 (세계사.ver).srt
+곡 그룹ID: songbook:Bs66uV9bW30KY0p7fvMW
 
 자료 유형: 원본 타임스탬프
 곡명: 비비데바
@@ -14449,6 +15298,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-lkh8bkatV99bbdTHS9uJ_비비데바.srt
+곡 그룹ID: songbook:lkh8bkatV99bbdTHS9uJ
 
 자료 유형: 원본 타임스탬프
 곡명: 비색의 풍차
@@ -14466,6 +15316,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-ZFconbbxR1YmsuYBbHah_비색의 풍차.srt
+곡 그룹ID: songbook:ZFconbbxR1YmsuYBbHah
 
 자료 유형: 원본 타임스탬프
 곡명: 빙고
@@ -14483,6 +15334,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-mALtVrCwmsDudsP8B4yf_빙고.srt
+곡 그룹ID: songbook:mALtVrCwmsDudsP8B4yf
 
 자료 유형: 원본 타임스탬프
 곡명: 빙글하고・돌아서・일회전
@@ -14500,6 +15352,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-QEsYdEiNtrM7Cd0bYG1N_빙글하고・돌아서・일회전.srt
+곡 그룹ID: songbook:QEsYdEiNtrM7Cd0bYG1N
 
 자료 유형: 원본 타임스탬프
 곡명: 빛과 어둠의 동화
@@ -14517,6 +15370,7 @@ cue 수: 87
 가사 cue 수: 87
 번역 없는 가사 cue 수: 87
 SRT 파일: SRT/원본타임스탬프/reference-nYMz5w7YPocRP0BPFAB6_빛과 어둠의 동화.srt
+곡 그룹ID: songbook:nYMz5w7YPocRP0BPFAB6
 
 자료 유형: 원본 타임스탬프
 곡명: 빛이여
@@ -14534,6 +15388,7 @@ cue 수: 25
 가사 cue 수: 25
 번역 없는 가사 cue 수: 25
 SRT 파일: SRT/원본타임스탬프/reference-JVYWRtqDwE5bryID3Zpg_빛이여.srt
+곡 그룹ID: songbook:JVYWRtqDwE5bryID3Zpg
 
 자료 유형: 원본 타임스탬프
 곡명: 사랑은 혼돈의 노예
@@ -14551,6 +15406,7 @@ cue 수: 70
 가사 cue 수: 70
 번역 없는 가사 cue 수: 70
 SRT 파일: SRT/원본타임스탬프/reference-Uzbimg3dYXpePhYYFkXX_사랑은 혼돈의 노예.srt
+곡 그룹ID: songbook:Uzbimg3dYXpePhYYFkXX
 
 자료 유형: 원본 타임스탬프
 곡명: 사랑이라는 이름의 허물
@@ -14568,6 +15424,7 @@ cue 수: 82
 가사 cue 수: 82
 번역 없는 가사 cue 수: 82
 SRT 파일: SRT/원본타임스탬프/reference-E26rFQOm1Np47TJ9Gu3i_사랑이라는 이름의 허물.srt
+곡 그룹ID: songbook:E26rFQOm1Np47TJ9Gu3i
 
 자료 유형: 원본 타임스탬프
 곡명: 사무라이 하트
@@ -14585,6 +15442,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-fDkAm7vHZe59eiAzGE1E_사무라이 하트.srt
+곡 그룹ID: songbook:fDkAm7vHZe59eiAzGE1E
 
 자료 유형: 원본 타임스탬프
 곡명: 사신
@@ -14602,6 +15460,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-3I2gmGqpTjOKISBVoL95_사신.srt
+곡 그룹ID: songbook:3I2gmGqpTjOKISBVoL95
 
 자료 유형: 원본 타임스탬프
 곡명: 사우다지
@@ -14619,6 +15478,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-D1X99AhgnQsHIy8u0Cxn_사우다지.srt
+곡 그룹ID: songbook:D1X99AhgnQsHIy8u0Cxn
 
 자료 유형: 원본 타임스탬프
 곡명: 삼요정 SAY YA!!!
@@ -14636,6 +15496,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-Zmupm6qscVpcxaysq4mC_삼요정 SAY YA!!!.srt
+곡 그룹ID: songbook:Zmupm6qscVpcxaysq4mC
 
 자료 유형: 원본 타임스탬프
 곡명: 새벽과 반딧불이
@@ -14653,6 +15514,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-yns1rwZPYRmnCpl1GxXh_새벽과 반딧불이.srt
+곡 그룹ID: songbook:yns1rwZPYRmnCpl1GxXh
 
 자료 유형: 원본 타임스탬프
 곡명: 새벽빛의 노래
@@ -14670,6 +15532,7 @@ cue 수: 11
 가사 cue 수: 11
 번역 없는 가사 cue 수: 11
 SRT 파일: SRT/원본타임스탬프/reference-8bcin8AJNNhWLSoX99ea_새벽빛의 노래.srt
+곡 그룹ID: songbook:8bcin8AJNNhWLSoX99ea
 
 자료 유형: 원본 타임스탬프
 곡명: 생명에게 미움받고 있어
@@ -14687,6 +15550,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-pdDc6xmGQOs3AQiUrl5x_생명에게 미움받고 있어.srt
+곡 그룹ID: songbook:pdDc6xmGQOs3AQiUrl5x
 
 자료 유형: 원본 타임스탬프
 곡명: 생명의 유스티티아
@@ -14704,6 +15568,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-bxLf86ciNPstpAQOuoFj_생명의 유스티티아.srt
+곡 그룹ID: songbook:bxLf86ciNPstpAQOuoFj
 
 자료 유형: 원본 타임스탬프
 곡명: 샤를
@@ -14721,6 +15586,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-7O3p0pXuop36UOsYY3C7_샤를.srt
+곡 그룹ID: songbook:7O3p0pXuop36UOsYY3C7
 
 자료 유형: 원본 타임스탬프
 곡명: 서방님과 러브러브 러브송
@@ -14738,6 +15604,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-n1fHCWsT5EXxSIHKAAsM_서방님과 러브러브 러브송.srt
+곡 그룹ID: songbook:n1fHCWsT5EXxSIHKAAsM
 
 자료 유형: 원본 타임스탬프
 곡명: 성스러운 시인의 섬 -레스보스-
@@ -14755,6 +15622,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-Vg9vfn9L6CqvHgl7rx3Q_성스러운 시인의 섬 -레스보스-.srt
+곡 그룹ID: songbook:Vg9vfn9L6CqvHgl7rx3Q
 
 자료 유형: 원본 타임스탬프
 곡명: 성여신의 무녀 -아르테미시아-
@@ -14772,6 +15640,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-EWLxH5EeHsnm5h0LOQ8d_성여신의 무녀 -아르테미시아-.srt
+곡 그룹ID: songbook:EWLxH5EeHsnm5h0LOQ8d
 
 자료 유형: 원본 타임스탬프
 곡명: 세 번째의 탱고
@@ -14789,6 +15658,7 @@ cue 수: 47
 가사 cue 수: 47
 번역 없는 가사 cue 수: 47
 SRT 파일: SRT/원본타임스탬프/reference-FqcEpXlbWggFCz3eC78l_세 번째의 탱고.srt
+곡 그룹ID: songbook:FqcEpXlbWggFCz3eC78l
 
 자료 유형: 원본 타임스탬프
 곡명: 세뇌
@@ -14806,6 +15676,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-5Hf4CSsl6W1NYwGHrQ1e_세뇌.srt
+곡 그룹ID: songbook:5Hf4CSsl6W1NYwGHrQ1e
 
 자료 유형: 원본 타임스탬프
 곡명: 세븐틴
@@ -14823,6 +15694,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-CuunYD9PRO9gmgfyBMWZ_세븐틴.srt
+곡 그룹ID: songbook:CuunYD9PRO9gmgfyBMWZ
 
 자료 유형: 원본 타임스탬프
 곡명: 소년소녀 카멜레온 심프텀
@@ -14840,6 +15712,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-theZ6cgdG0HU0FT2CtwS_소년소녀 카멜레온 심프텀.srt
+곡 그룹ID: songbook:theZ6cgdG0HU0FT2CtwS
 
 자료 유형: 원본 타임스탬프
 곡명: 속이는 사랑
@@ -14857,6 +15730,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-0gQqLkyertrd0MWX9zEX_속이는 사랑.srt
+곡 그룹ID: songbook:0gQqLkyertrd0MWX9zEX
 
 자료 유형: 원본 타임스탬프
 곡명: 숙성 로리신 레퀴엠
@@ -14874,6 +15748,7 @@ cue 수: 86
 가사 cue 수: 86
 번역 없는 가사 cue 수: 86
 SRT 파일: SRT/원본타임스탬프/reference-jD4lMfibJ7ZxUnnm60l3_숙성 로리신 레퀴엠.srt
+곡 그룹ID: songbook:jD4lMfibJ7ZxUnnm60l3
 
 자료 유형: 원본 타임스탬프
 곡명: 스즈메
@@ -14891,6 +15766,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-NLVYrdB5ie5MVaeZwV9z_스즈메.srt
+곡 그룹ID: songbook:NLVYrdB5ie5MVaeZwV9z
 
 자료 유형: 원본 타임스탬프
 곡명: 스칼렛 경찰의 게토 패트롤 24시
@@ -14908,6 +15784,7 @@ cue 수: 119
 가사 cue 수: 119
 번역 없는 가사 cue 수: 119
 SRT 파일: SRT/원본타임스탬프/reference-5RPMy97JUhXLzry5SIf2_스칼렛 경찰의 게토 패트롤 24시.srt
+곡 그룹ID: songbook:5RPMy97JUhXLzry5SIf2
 
 자료 유형: 원본 타임스탬프
 곡명: 스피카
@@ -14925,6 +15802,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-0tWWBwchd4zgYFD7XQb5_스피카.srt
+곡 그룹ID: songbook:0tWWBwchd4zgYFD7XQb5
 
 자료 유형: 원본 타임스탬프
 곡명: 시끄러
@@ -14942,6 +15820,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-7o9fAyqZRSEslHzySibI_시끄러.srt
+곡 그룹ID: songbook:7o9fAyqZRSEslHzySibI
 
 자료 유형: 원본 타임스탬프
 곡명: 시작의 아이 ハジマリのコ (Starting With You)
@@ -14959,6 +15838,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-special_starting_with_you_maktub_시작의 아이 ハジマリのコ (Starting With You).srt
+곡 그룹ID: songbook:special_starting_with_you_maktub
 
 자료 유형: 원본 타임스탬프
 곡명: 신시대
@@ -14976,6 +15856,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-cYBRm3RFKQ7SB11vULnl_신시대.srt
+곡 그룹ID: songbook:cYBRm3RFKQ7SB11vULnl
 
 자료 유형: 원본 타임스탬프
 곡명: 심장을 바쳐라!
@@ -14993,6 +15874,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-zH8XA3lnpLhrFMeqedDv_심장을 바쳐라!.srt
+곡 그룹ID: songbook:zH8XA3lnpLhrFMeqedDv
 
 자료 유형: 원본 타임스탬프
 곡명: 심해소녀
@@ -15010,6 +15892,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-IKbmeFedhFlYmKRKyU7R_심해소녀.srt
+곡 그룹ID: songbook:IKbmeFedhFlYmKRKyU7R
 
 자료 유형: 원본 타임스탬프
 곡명: 아름답고 잔혹한 세계
@@ -15027,6 +15910,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-bKs4Y4yWez4V3DlNEOCz_아름답고 잔혹한 세계.srt
+곡 그룹ID: songbook:bKs4Y4yWez4V3DlNEOCz
 
 자료 유형: 원본 타임스탬프
 곡명: 아수라 쨩
@@ -15044,6 +15928,7 @@ cue 수: 31
 가사 cue 수: 31
 번역 없는 가사 cue 수: 31
 SRT 파일: SRT/원본타임스탬프/reference-IaiEsdSdM3lb3CF0ncIy_아수라 쨩.srt
+곡 그룹ID: songbook:IaiEsdSdM3lb3CF0ncIy
 
 자료 유형: 원본 타임스탬프
 곡명: 아아, 완벽한 고양이의 삶
@@ -15061,6 +15946,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-OW5l5VzV5U4p7rALt5rD_아아, 완벽한 고양이의 삶.srt
+곡 그룹ID: songbook:OW5l5VzV5U4p7rALt5rD
 
 자료 유형: 원본 타임스탬프
 곡명: 아이돌
@@ -15078,6 +15964,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 76
 SRT 파일: SRT/원본타임스탬프/reference-ZAK4zxfD5iZL8wdJGx9a_아이돌.srt
+곡 그룹ID: songbook:ZAK4zxfD5iZL8wdJGx9a
 
 자료 유형: 원본 타임스탬프
 곡명: 아지랑이 데이즈
@@ -15095,6 +15982,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-kzwKhyOschRZa1YonHrF_아지랑이 데이즈.srt
+곡 그룹ID: songbook:kzwKhyOschRZa1YonHrF
 
 자료 유형: 원본 타임스탬프
 곡명: 아침과 밤의 이야기
@@ -15112,6 +16000,7 @@ cue 수: 100
 가사 cue 수: 100
 번역 없는 가사 cue 수: 100
 SRT 파일: SRT/원본타임스탬프/reference-8ob4IjYH4yfPOeg5U4aC_아침과 밤의 이야기.srt
+곡 그룹ID: songbook:8ob4IjYH4yfPOeg5U4aC
 
 자료 유형: 원본 타임스탬프
 곡명: 아포칼립스 나우
@@ -15129,6 +16018,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-jRvX3eZujEDXoasbttG3_아포칼립스 나우.srt
+곡 그룹ID: songbook:jRvX3eZujEDXoasbttG3
 
 자료 유형: 원본 타임스탬프
 곡명: 아픈 거 아픈 거 날아가라
@@ -15146,6 +16036,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 26
 SRT 파일: SRT/원본타임스탬프/reference-5PtrvbYOgloiqdACNn3z_아픈 거 아픈 거 날아가라.srt
+곡 그룹ID: songbook:5PtrvbYOgloiqdACNn3z
 
 자료 유형: 원본 타임스탬프
 곡명: 악덕의 저지먼트
@@ -15163,6 +16054,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-fNz4UGG86fWtUuXBviqb_악덕의 저지먼트.srt
+곡 그룹ID: songbook:fNz4UGG86fWtUuXBviqb
 
 자료 유형: 원본 타임스탬프
 곡명: 악마의 아이
@@ -15180,6 +16072,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-wXCYCkAKxsxQwclLIHPp_악마의 아이.srt
+곡 그룹ID: songbook:wXCYCkAKxsxQwclLIHPp
 
 자료 유형: 원본 타임스탬프
 곡명: 악의 하인
@@ -15197,6 +16090,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-7joJM9PZl2ewskcE92Gh_악의 하인.srt
+곡 그룹ID: songbook:7joJM9PZl2ewskcE92Gh
 
 자료 유형: 원본 타임스탬프
 곡명: 앙헬
@@ -15214,6 +16108,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-clRan1u5H1tzWbvpl7YZ_앙헬.srt
+곡 그룹ID: songbook:clRan1u5H1tzWbvpl7YZ
 
 자료 유형: 원본 타임스탬프
 곡명: 애디포시어
@@ -15231,6 +16126,7 @@ cue 수: 63
 가사 cue 수: 63
 번역 없는 가사 cue 수: 63
 SRT 파일: SRT/원본타임스탬프/reference-00rea8KuEhn7snNvmjVl_애디포시어.srt
+곡 그룹ID: songbook:00rea8KuEhn7snNvmjVl
 
 자료 유형: 원본 타임스탬프
 곡명: 애플 닷컴
@@ -15248,6 +16144,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-hp1JPXyeU3i5uaugCdrv_애플 닷컴.srt
+곡 그룹ID: songbook:hp1JPXyeU3i5uaugCdrv
 
 자료 유형: 원본 타임스탬프
 곡명: 야생화
@@ -15265,6 +16162,7 @@ cue 수: 38
 가사 cue 수: 38
 번역 없는 가사 cue 수: 38
 SRT 파일: SRT/원본타임스탬프/reference-special_wild_flower_park_hyo_shin_야생화.srt
+곡 그룹ID: songbook:special_wild_flower_park_hyo_shin
 
 자료 유형: 원본 타임스탬프
 곡명: 야화
@@ -15282,6 +16180,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 26
 SRT 파일: SRT/원본타임스탬프/reference-special_night_flower_ahn_yeeun_야화.srt
+곡 그룹ID: songbook:special_night_flower_ahn_yeeun
 
 자료 유형: 원본 타임스탬프
 곡명: 약혼전쟁
@@ -15299,6 +16198,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-tJn8bfAXyMd99FcczW6V_약혼전쟁.srt
+곡 그룹ID: songbook:tJn8bfAXyMd99FcczW6V
 
 자료 유형: 원본 타임스탬프
 곡명: 약혼전쟁 (어레인지)
@@ -15316,6 +16216,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-5fC1VvbPYsliYLucf5LT_약혼전쟁 (어레인지).srt
+곡 그룹ID: songbook:5fC1VvbPYsliYLucf5LT
 
 자료 유형: 원본 타임스탬프
 곡명: 언노운 마더 구스
@@ -15333,6 +16234,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 80
 SRT 파일: SRT/원본타임스탬프/reference-0MvCyF5Zwgf9FznBNHQE_언노운 마더 구스.srt
+곡 그룹ID: songbook:0MvCyF5Zwgf9FznBNHQE
 
 자료 유형: 원본 타임스탬프
 곡명: 얼티밋 선배
@@ -15350,6 +16252,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-Rs0Y0yFFapfS8iFxMoYe_얼티밋 선배.srt
+곡 그룹ID: songbook:Rs0Y0yFFapfS8iFxMoYe
 
 자료 유형: 원본 타임스탬프
 곡명: 업스트랙 넌센스
@@ -15367,6 +16270,7 @@ cue 수: 29
 가사 cue 수: 29
 번역 없는 가사 cue 수: 29
 SRT 파일: SRT/원본타임스탬프/reference-QdSSkRNLRmriMwSyGTqY_업스트랙 넌센스.srt
+곡 그룹ID: songbook:QdSSkRNLRmriMwSyGTqY
 
 자료 유형: 원본 타임스탬프
 곡명: 에고 록
@@ -15384,6 +16288,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-1DdSnh38E237hpQCywAY_에고 록.srt
+곡 그룹ID: songbook:1DdSnh38E237hpQCywAY
 
 자료 유형: 원본 타임스탬프
 곡명: 에일리언 에일리언
@@ -15401,6 +16306,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-jgJ87moTOTdCLB9sOTwq_에일리언 에일리언.srt
+곡 그룹ID: songbook:jgJ87moTOTdCLB9sOTwq
 
 자료 유형: 원본 타임스탬프
 곡명: 엘의 그림책【마녀와 라프렌체】
@@ -15418,6 +16324,7 @@ cue 수: 116
 가사 cue 수: 116
 번역 없는 가사 cue 수: 116
 SRT 파일: SRT/원본타임스탬프/reference-fSNb8JC59UJogkd3evJp_엘의 그림책【마녀와 라프렌체】.srt
+곡 그룹ID: songbook:fSNb8JC59UJogkd3evJp
 
 자료 유형: 원본 타임스탬프
 곡명: 엘의 낙원 [→ side_E →]
@@ -15435,6 +16342,7 @@ cue 수: 86
 가사 cue 수: 86
 번역 없는 가사 cue 수: 86
 SRT 파일: SRT/원본타임스탬프/reference-aBHSAiymeaGIZdup47Rb_엘의 낙원 [→ side_E →].srt
+곡 그룹ID: songbook:aBHSAiymeaGIZdup47Rb
 
 자료 유형: 원본 타임스탬프
 곡명: 엘프
@@ -15452,6 +16360,7 @@ cue 수: 27
 가사 cue 수: 27
 번역 없는 가사 cue 수: 27
 SRT 파일: SRT/원본타임스탬프/reference-vqlykfsilvbtqz6CuwBn_엘프.srt
+곡 그룹ID: songbook:vqlykfsilvbtqz6CuwBn
 
 자료 유형: 원본 타임스탬프
 곡명: 역광
@@ -15469,6 +16378,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-UF0toMBWlsUfOzpqqsjy_역광.srt
+곡 그룹ID: songbook:UF0toMBWlsUfOzpqqsjy
 
 자료 유형: 원본 타임스탬프
 곡명: 연애 서큘레이션
@@ -15486,6 +16396,7 @@ cue 수: 76
 가사 cue 수: 76
 번역 없는 가사 cue 수: 76
 SRT 파일: SRT/원본타임스탬프/reference-4KztSVesD6bTZGPShPZF_연애 서큘레이션.srt
+곡 그룹ID: songbook:4KztSVesD6bTZGPShPZF
 
 자료 유형: 원본 타임스탬프
 곡명: 열등상등
@@ -15503,6 +16414,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-SVsndw6RLHkWAOmeF91O_열등상등.srt
+곡 그룹ID: songbook:SVsndw6RLHkWAOmeF91O
 
 자료 유형: 원본 타임스탬프
 곡명: 열이상
@@ -15520,6 +16432,7 @@ cue 수: 126
 가사 cue 수: 126
 번역 없는 가사 cue 수: 126
 SRT 파일: SRT/원본타임스탬프/reference-jPB5rJjTOPRQWtKidMPp_열이상.srt
+곡 그룹ID: songbook:jPB5rJjTOPRQWtKidMPp
 
 자료 유형: 원본 타임스탬프
 곡명: 오도 (춤)
@@ -15537,6 +16450,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-RfOstxVuM58HDmrWMMOn_오도 (춤).srt
+곡 그룹ID: songbook:RfOstxVuM58HDmrWMMOn
 
 자료 유형: 원본 타임스탬프
 곡명: 오렌지
@@ -15554,6 +16468,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-dqbYH347EQN3HQGOP8i1_오렌지.srt
+곡 그룹ID: songbook:dqbYH347EQN3HQGOP8i1
 
 자료 유형: 원본 타임스탬프
 곡명: 완전감각Dreamer
@@ -15571,6 +16486,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-A9MAVQQvRUJTtyViZlJ1_완전감각Dreamer.srt
+곡 그룹ID: songbook:A9MAVQQvRUJTtyViZlJ1
 
 자료 유형: 원본 타임스탬프
 곡명: 용사
@@ -15588,6 +16504,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-yw755lIlv1Bj1y8Ge60j_용사.srt
+곡 그룹ID: songbook:yw755lIlv1Bj1y8Ge60j
 
 자료 유형: 원본 타임스탬프
 곡명: 우견의 나비 (린.ver)
@@ -15605,6 +16522,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-ujywf76lxfJGs8K9s9ju_우견의 나비 (린.ver).srt
+곡 그룹ID: songbook:ujywf76lxfJGs8K9s9ju
 
 자료 유형: 원본 타임스탬프
 곡명: 우이 광선
@@ -15622,6 +16540,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-VeXMugPLJIXsMZ4P7y2o_우이 광선.srt
+곡 그룹ID: songbook:VeXMugPLJIXsMZ4P7y2o
 
 자료 유형: 원본 타임스탬프
 곡명: 우이 밀밭의 파수꾼
@@ -15639,6 +16558,7 @@ cue 수: 86
 가사 cue 수: 86
 번역 없는 가사 cue 수: 86
 SRT 파일: SRT/원본타임스탬프/reference-557n9UqQ9Byl8TxFPnwg_우이 밀밭의 파수꾼.srt
+곡 그룹ID: songbook:557n9UqQ9Byl8TxFPnwg
 
 자료 유형: 원본 타임스탬프
 곡명: 유레카
@@ -15656,6 +16576,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-fRZuaZfZY0zn4uxcT0RJ_유레카.srt
+곡 그룹ID: songbook:fRZuaZfZY0zn4uxcT0RJ
 
 자료 유형: 원본 타임스탬프
 곡명: 윤회사과
@@ -15673,6 +16594,7 @@ cue 수: 60
 가사 cue 수: 60
 번역 없는 가사 cue 수: 60
 SRT 파일: SRT/원본타임스탬프/reference-Tz1sweAEItN2ozvfXMAg_윤회사과.srt
+곡 그룹ID: songbook:Tz1sweAEItN2ozvfXMAg
 
 자료 유형: 원본 타임스탬프
 곡명: 윤회전생
@@ -15690,6 +16612,7 @@ cue 수: 51
 가사 cue 수: 51
 번역 없는 가사 cue 수: 51
 SRT 파일: SRT/원본타임스탬프/reference-9eUDbdo0m9PGkwrpg8SA_윤회전생.srt
+곡 그룹ID: songbook:9eUDbdo0m9PGkwrpg8SA
 
 자료 유형: 원본 타임스탬프
 곡명: 이 실없이 멋진 세계는 날 위해 있어
@@ -15707,6 +16630,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-Liq3fMoy7EC6PXmT0G3G_이 실없이 멋진 세계는 날 위해 있어.srt
+곡 그룹ID: songbook:Liq3fMoy7EC6PXmT0G3G
 
 자료 유형: 원본 타임스탬프
 곡명: 이게 무슨 일이야
@@ -15724,6 +16648,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-hkc727CaVn67A5E60EDS_이게 무슨 일이야.srt
+곡 그룹ID: songbook:hkc727CaVn67A5E60EDS
 
 자료 유형: 원본 타임스탬프
 곡명: 인도어계라면 트랙메이커
@@ -15741,6 +16666,7 @@ cue 수: 59
 가사 cue 수: 59
 번역 없는 가사 cue 수: 59
 SRT 파일: SRT/원본타임스탬프/reference-808qbzF49bCyxgA0JYHv_인도어계라면 트랙메이커.srt
+곡 그룹ID: songbook:808qbzF49bCyxgA0JYHv
 
 자료 유형: 원본 타임스탬프
 곡명: 인터넷 서바이버
@@ -15758,6 +16684,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-drePXriBe73Uk2a0Fzkj_인터넷 서바이버.srt
+곡 그룹ID: songbook:drePXriBe73Uk2a0Fzkj
 
 자료 유형: 원본 타임스탬프
 곡명: 일렉트릭 엔젤
@@ -15775,6 +16702,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-M3TlfgBwSMusHMUdiKrx_일렉트릭 엔젤.srt
+곡 그룹ID: songbook:M3TlfgBwSMusHMUdiKrx
 
 자료 유형: 원본 타임스탬프
 곡명: 일렉트릭 엔젤 (어레인지)
@@ -15792,6 +16720,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-ppVjZoUaPNEIKIvBCdLl_일렉트릭 엔젤 (어레인지).srt
+곡 그룹ID: songbook:ppVjZoUaPNEIKIvBCdLl
 
 자료 유형: 원본 타임스탬프
 곡명: 있지 윌리엄 (어레인지)
@@ -15809,6 +16738,7 @@ cue 수: 22
 가사 cue 수: 22
 번역 없는 가사 cue 수: 22
 SRT 파일: SRT/원본타임스탬프/reference-j4l0DulOpePbP4D0JYP1_있지 윌리엄 (어레인지).srt
+곡 그룹ID: songbook:j4l0DulOpePbP4D0JYP1
 
 자료 유형: 원본 타임스탬프
 곡명: 있지 있지 있지
@@ -15826,6 +16756,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-0Fo8WquFq7Z1kdmCmGo1_있지 있지 있지.srt
+곡 그룹ID: songbook:0Fo8WquFq7Z1kdmCmGo1
 
 자료 유형: 원본 타임스탬프
 곡명: 자살충동
@@ -15843,6 +16774,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-xufgKEHMpUn9RESjQOqE_자살충동.srt
+곡 그룹ID: songbook:xufgKEHMpUn9RESjQOqE
 
 자료 유형: 원본 타임스탬프
 곡명: 잔향산가
@@ -15860,6 +16792,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-ykDU8E3MLOSVxcdIpO2S_잔향산가.srt
+곡 그룹ID: songbook:ykDU8E3MLOSVxcdIpO2S
 
 자료 유형: 원본 타임스탬프
 곡명: 잔혹한 천사의 테제
@@ -15877,6 +16810,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-eU4TTAaulge5K3FNtSYO_잔혹한 천사의 테제.srt
+곡 그룹ID: songbook:eU4TTAaulge5K3FNtSYO
 
 자료 유형: 원본 타임스탬프
 곡명: 잘못된 만남
@@ -15894,6 +16828,7 @@ cue 수: 32
 가사 cue 수: 32
 번역 없는 가사 cue 수: 32
 SRT 파일: SRT/원본타임스탬프/reference-0n8AaRXsH6Rt5o10G7X9_잘못된 만남.srt
+곡 그룹ID: songbook:0n8AaRXsH6Rt5o10G7X9
 
 자료 유형: 원본 타임스탬프
 곡명: 잘자 울음소리, 안녕 가희
@@ -15911,6 +16846,7 @@ cue 수: 20
 가사 cue 수: 20
 번역 없는 가사 cue 수: 20
 SRT 파일: SRT/원본타임스탬프/reference-wG8PPaqdt2LAUUaQ1ORU_잘자 울음소리, 안녕 가희.srt
+곡 그룹ID: songbook:wG8PPaqdt2LAUUaQ1ORU
 
 자료 유형: 원본 타임스탬프
 곡명: 장난 센세이션
@@ -15928,6 +16864,7 @@ cue 수: 99
 가사 cue 수: 99
 번역 없는 가사 cue 수: 99
 SRT 파일: SRT/원본타임스탬프/reference-5S23Cj8ItBPl3BzwiwpH_장난 센세이션.srt
+곡 그룹ID: songbook:5S23Cj8ItBPl3BzwiwpH
 
 자료 유형: 원본 타임스탬프
 곡명: 장난기 기능
@@ -15945,6 +16882,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-WeWYMmlI5l48eZwy1TPH_장난기 기능.srt
+곡 그룹ID: songbook:WeWYMmlI5l48eZwy1TPH
 
 자료 유형: 원본 타임스탬프
 곡명: 재교육
@@ -15962,6 +16900,7 @@ cue 수: 44
 가사 cue 수: 44
 번역 없는 가사 cue 수: 44
 SRT 파일: SRT/원본타임스탬프/reference-xXMAMPAxFsPCH00XFcl8_재교육.srt
+곡 그룹ID: songbook:xXMAMPAxFsPCH00XFcl8
 
 자료 유형: 원본 타임스탬프
 곡명: 저주받은 보석
@@ -15979,6 +16918,7 @@ cue 수: 108
 가사 cue 수: 108
 번역 없는 가사 cue 수: 108
 SRT 파일: SRT/원본타임스탬프/reference-6r4JtjrAzLUXfaa40DZI_저주받은 보석.srt
+곡 그룹ID: songbook:6r4JtjrAzLUXfaa40DZI
 
 자료 유형: 원본 타임스탬프
 곡명: 전쟁의 계보
@@ -15996,6 +16936,7 @@ cue 수: 141
 가사 cue 수: 141
 번역 없는 가사 cue 수: 141
 SRT 파일: SRT/원본타임스탬프/reference-iQpSjXYhu5KD0gTK1NRy_전쟁의 계보.srt
+곡 그룹ID: songbook:iQpSjXYhu5KD0gTK1NRy
 
 자료 유형: 원본 타임스탬프
 곡명: 점묘의 노래
@@ -16013,6 +16954,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-CWrHowEiLo4ZEA6LdGWr_점묘의 노래.srt
+곡 그룹ID: songbook:CWrHowEiLo4ZEA6LdGWr
 
 자료 유형: 원본 타임스탬프
 곡명: 점점 높아져
@@ -16030,6 +16972,7 @@ cue 수: 46
 가사 cue 수: 46
 번역 없는 가사 cue 수: 46
 SRT 파일: SRT/원본타임스탬프/reference-izef7P0QxYxLPCRyJCAm_점점 높아져.srt
+곡 그룹ID: songbook:izef7P0QxYxLPCRyJCAm
 
 자료 유형: 원본 타임스탬프
 곡명: 정말정말정말정말정말싫어
@@ -16047,6 +16990,7 @@ cue 수: 61
 가사 cue 수: 61
 번역 없는 가사 cue 수: 61
 SRT 파일: SRT/원본타임스탬프/reference-P5TxteplYJrMkIdYYEmV_정말정말정말정말정말싫어.srt
+곡 그룹ID: songbook:P5TxteplYJrMkIdYYEmV
 
 자료 유형: 원본 타임스탬프
 곡명: 좀먹은 사이키델리즘
@@ -16064,6 +17008,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-woux3p5FShJ9qZ3IGIxw_좀먹은 사이키델리즘.srt
+곡 그룹ID: songbook:woux3p5FShJ9qZ3IGIxw
 
 자료 유형: 원본 타임스탬프
 곡명: 좌우맹
@@ -16081,6 +17026,7 @@ cue 수: 45
 가사 cue 수: 45
 번역 없는 가사 cue 수: 45
 SRT 파일: SRT/원본타임스탬프/reference-KIotrYsq70pnmsOWVMgF_좌우맹.srt
+곡 그룹ID: songbook:KIotrYsq70pnmsOWVMgF
 
 자료 유형: 원본 타임스탬프
 곡명: 죠죠 ~그 피의 운명~
@@ -16098,6 +17044,7 @@ cue 수: 35
 가사 cue 수: 35
 번역 없는 가사 cue 수: 35
 SRT 파일: SRT/원본타임스탬프/reference-oidnNwPYLKHX1nYNxpT4_죠죠 ~그 피의 운명~.srt
+곡 그룹ID: songbook:oidnNwPYLKHX1nYNxpT4
 
 자료 유형: 원본 타임스탬프
 곡명: 죠죠 그 피의 기억~end of THE WORLD〜
@@ -16115,6 +17062,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-QmTenuFXZDD9PlnwKVd5_죠죠 그 피의 기억~end of THE WORLD〜.srt
+곡 그룹ID: songbook:QmTenuFXZDD9PlnwKVd5
 
 자료 유형: 원본 타임스탬프
 곡명: 죽은 영웅들의 싸움 -이로마키아-
@@ -16132,6 +17080,7 @@ cue 수: 84
 가사 cue 수: 84
 번역 없는 가사 cue 수: 84
 SRT 파일: SRT/원본타임스탬프/reference-LABXfXX1NfsF0rTYHTKd_죽은 영웅들의 싸움 -이로마키아-.srt
+곡 그룹ID: songbook:LABXfXX1NfsF0rTYHTKd
 
 자료 유형: 원본 타임스탬프
 곡명: 죽은 자들의 이야기 -이스토리아-
@@ -16149,6 +17098,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 64
 SRT 파일: SRT/원본타임스탬프/reference-Asl4yHd38HSdTRkL7ybg_죽은 자들의 이야기 -이스토리아-.srt
+곡 그룹ID: songbook:Asl4yHd38HSdTRkL7ybg
 
 자료 유형: 원본 타임스탬프
 곡명: 즉... 빛조차도 놓치지 않는 암흑의 초중력
@@ -16166,6 +17116,7 @@ cue 수: 10
 가사 cue 수: 10
 번역 없는 가사 cue 수: 10
 SRT 파일: SRT/원본타임스탬프/reference-yPBOYjJ59SvB2Bf75B71_즉... 빛조차도 놓치지 않는 암흑의 초중력.srt
+곡 그룹ID: songbook:yPBOYjJ59SvB2Bf75B71
 
 자료 유형: 원본 타임스탬프
 곡명: 지켜줘 루나이트
@@ -16183,6 +17134,7 @@ cue 수: 64
 가사 cue 수: 64
 번역 없는 가사 cue 수: 64
 SRT 파일: SRT/원본타임스탬프/reference-z7tsAGjwEwqXeuSxhBhQ_지켜줘 루나이트.srt
+곡 그룹ID: songbook:z7tsAGjwEwqXeuSxhBhQ
 
 자료 유형: 원본 타임스탬프
 곡명: 창성의 아쿠에리온
@@ -16200,6 +17152,7 @@ cue 수: 41
 가사 cue 수: 41
 번역 없는 가사 cue 수: 41
 SRT 파일: SRT/원본타임스탬프/reference-BUKZqdLPtx8JHK1yx0oN_창성의 아쿠에리온.srt
+곡 그룹ID: songbook:BUKZqdLPtx8JHK1yx0oN
 
 자료 유형: 원본 타임스탬프
 곡명: 처단하겠다AAAAA아!
@@ -16217,6 +17170,7 @@ cue 수: 98
 가사 cue 수: 98
 번역 없는 가사 cue 수: 98
 SRT 파일: SRT/원본타임스탬프/reference-mMq9hGayAozy7JOdyihu_처단하겠다AAAAA아!.srt
+곡 그룹ID: songbook:mMq9hGayAozy7JOdyihu
 
 자료 유형: 원본 타임스탬프
 곡명: 천성의 약함
@@ -16234,6 +17188,7 @@ cue 수: 30
 가사 cue 수: 30
 번역 없는 가사 cue 수: 30
 SRT 파일: SRT/원본타임스탬프/reference-tuGH4GOVQbe4d7Mdv7kf_천성의 약함.srt
+곡 그룹ID: songbook:tuGH4GOVQbe4d7Mdv7kf
 
 자료 유형: 원본 타임스탬프
 곡명: 천천천국지옥국
@@ -16251,6 +17206,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-1oU3hty7BeiQhcegUr2F_천천천국지옥국.srt
+곡 그룹ID: songbook:1oU3hty7BeiQhcegUr2F
 
 자료 유형: 원본 타임스탬프
 곡명: 초저녁의 노래
@@ -16268,6 +17224,7 @@ cue 수: 143
 가사 cue 수: 143
 번역 없는 가사 cue 수: 143
 SRT 파일: SRT/원본타임스탬프/reference-QlMYHFeI14Rfs5h0ly9e_초저녁의 노래.srt
+곡 그룹ID: songbook:QlMYHFeI14Rfs5h0ly9e
 
 자료 유형: 원본 타임스탬프
 곡명: 초주인공
@@ -16285,6 +17242,7 @@ cue 수: 65
 가사 cue 수: 65
 번역 없는 가사 cue 수: 65
 SRT 파일: SRT/원본타임스탬프/reference-liEtHkPXOwe31udTHypV_초주인공.srt
+곡 그룹ID: songbook:liEtHkPXOwe31udTHypV
 
 자료 유형: 원본 타임스탬프
 곡명: 최고의 우정
@@ -16302,6 +17260,7 @@ cue 수: 90
 가사 cue 수: 90
 번역 없는 가사 cue 수: 90
 SRT 파일: SRT/원본타임스탬프/reference-Dovdl3ScCRlhNLECWoKy_최고의 우정.srt
+곡 그룹ID: songbook:Dovdl3ScCRlhNLECWoKy
 
 자료 유형: 원본 타임스탬프
 곡명: 추형공포증
@@ -16319,6 +17278,7 @@ cue 수: 42
 가사 cue 수: 42
 번역 없는 가사 cue 수: 42
 SRT 파일: SRT/원본타임스탬프/reference-ns3b4cQMZlZec6KAgKV7_추형공포증.srt
+곡 그룹ID: songbook:ns3b4cQMZlZec6KAgKV7
 
 자료 유형: 원본 타임스탬프
 곡명: 취한 줄을 모르고
@@ -16336,6 +17296,7 @@ cue 수: 28
 가사 cue 수: 28
 번역 없는 가사 cue 수: 28
 SRT 파일: SRT/원본타임스탬프/reference-yDUCm4Lc3hlN6j4FBOZX_취한 줄을 모르고.srt
+곡 그룹ID: songbook:yDUCm4Lc3hlN6j4FBOZX
 
 자료 유형: 원본 타임스탬프
 곡명: 츄루리라 츄루리라 닷닷다
@@ -16353,6 +17314,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-FgKNsNu37gyWHu548dq6_츄루리라 츄루리라 닷닷다.srt
+곡 그룹ID: songbook:FgKNsNu37gyWHu548dq6
 
 자료 유형: 원본 타임스탬프
 곡명: 츠키요미
@@ -16370,6 +17332,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-ZbPxEEBZTgGDzfpKGTsT_츠키요미.srt
+곡 그룹ID: songbook:ZbPxEEBZTgGDzfpKGTsT
 
 자료 유형: 원본 타임스탬프
 곡명: 치르노의 퍼펙트 산수교실
@@ -16387,6 +17350,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 80
 SRT 파일: SRT/원본타임스탬프/reference-ZKlT65oRK4nS1K8BiqDx_치르노의 퍼펙트 산수교실.srt
+곡 그룹ID: songbook:ZKlT65oRK4nS1K8BiqDx
 
 자료 유형: 원본 타임스탬프
 곡명: 치르노의 퍼펙트 산수교실 ⑨주년 리믹스
@@ -16404,6 +17368,7 @@ cue 수: 120
 가사 cue 수: 120
 번역 없는 가사 cue 수: 120
 SRT 파일: SRT/원본타임스탬프/reference-h5yvZxdadObtn4MCGMmd_치르노의 퍼펙트 산수교실 ⑨주년 리믹스.srt
+곡 그룹ID: songbook:h5yvZxdadObtn4MCGMmd
 
 자료 유형: 원본 타임스탬프
 곡명: 치르밀 치르노
@@ -16421,6 +17386,7 @@ cue 수: 129
 가사 cue 수: 129
 번역 없는 가사 cue 수: 129
 SRT 파일: SRT/원본타임스탬프/reference-bRcqhh2HhvZwiQUIdQdQ_치르밀 치르노.srt
+곡 그룹ID: songbook:bRcqhh2HhvZwiQUIdQdQ
 
 자료 유형: 원본 타임스탬프
 곡명: 침략하는 자 당하는 자
@@ -16438,6 +17404,7 @@ cue 수: 83
 가사 cue 수: 83
 번역 없는 가사 cue 수: 83
 SRT 파일: SRT/원본타임스탬프/reference-W6KSYaXq52VtgGZ9PeOQ_침략하는 자 당하는 자.srt
+곡 그룹ID: songbook:W6KSYaXq52VtgGZ9PeOQ
 
 자료 유형: 원본 타임스탬프
 곡명: 카사네 테토는 이런 파티를 둘이서 빠져나올 수 있을까
@@ -16455,6 +17422,7 @@ cue 수: 80
 가사 cue 수: 80
 번역 없는 가사 cue 수: 80
 SRT 파일: SRT/원본타임스탬프/reference-VuGxGq8EmdtsHcepLa8g_카사네 테토는 이런 파티를 둘이서 빠져나올 수 있을까.srt
+곡 그룹ID: songbook:VuGxGq8EmdtsHcepLa8g
 
 자료 유형: 원본 타임스탬프
 곡명: 카툰 걸
@@ -16472,6 +17440,7 @@ cue 수: 24
 가사 cue 수: 24
 번역 없는 가사 cue 수: 24
 SRT 파일: SRT/원본타임스탬프/reference-sMnsN262OGFOWiUME32I_카툰 걸.srt
+곡 그룹ID: songbook:sMnsN262OGFOWiUME32I
 
 자료 유형: 원본 타임스탬프
 곡명: 칸타렐라
@@ -16489,6 +17458,7 @@ cue 수: 17
 가사 cue 수: 17
 번역 없는 가사 cue 수: 17
 SRT 파일: SRT/원본타임스탬프/reference-RHHta5fSHht8PkOVPiAz_칸타렐라.srt
+곡 그룹ID: songbook:RHHta5fSHht8PkOVPiAz
 
 자료 유형: 원본 타임스탬프
 곡명: 켓카 오라이
@@ -16506,6 +17476,7 @@ cue 수: 83
 가사 cue 수: 83
 번역 없는 가사 cue 수: 83
 SRT 파일: SRT/원본타임스탬프/reference-ovswoge5wdMq9QFTIUh5_켓카 오라이.srt
+곡 그룹ID: songbook:ovswoge5wdMq9QFTIUh5
 
 자료 유형: 원본 타임스탬프
 곡명: 코코로 오도루
@@ -16523,6 +17494,7 @@ cue 수: 79
 가사 cue 수: 79
 번역 없는 가사 cue 수: 79
 SRT 파일: SRT/원본타임스탬프/reference-S9LfbzA1nk81jIWAsvzk_코코로 오도루.srt
+곡 그룹ID: songbook:S9LfbzA1nk81jIWAsvzk
 
 자료 유형: 원본 타임스탬프
 곡명: 코코로 죠죠루 (5부)
@@ -16540,6 +17512,7 @@ cue 수: 142
 가사 cue 수: 142
 번역 없는 가사 cue 수: 142
 SRT 파일: SRT/원본타임스탬프/reference-df8szcmIG5E927JD9QUb_코코로 죠죠루 (5부).srt
+곡 그룹ID: songbook:df8szcmIG5E927JD9QUb
 
 자료 유형: 원본 타임스탬프
 곡명: 코코로 죠죠루 (6부)
@@ -16557,6 +17530,7 @@ cue 수: 176
 가사 cue 수: 176
 번역 없는 가사 cue 수: 176
 SRT 파일: SRT/원본타임스탬프/reference-szOzKvcsR2xc94rLaTQ4_코코로 죠죠루 (6부).srt
+곡 그룹ID: songbook:szOzKvcsR2xc94rLaTQ4
 
 자료 유형: 원본 타임스탬프
 곡명: 큐트한 여친
@@ -16574,6 +17548,7 @@ cue 수: 39
 가사 cue 수: 39
 번역 없는 가사 cue 수: 39
 SRT 파일: SRT/원본타임스탬프/reference-0cYVgWTZNpeqJi0S8Hu0_큐트한 여친.srt
+곡 그룹ID: songbook:0cYVgWTZNpeqJi0S8Hu0
 
 자료 유형: 원본 타임스탬프
 곡명: 큐티 허니
@@ -16591,6 +17566,7 @@ cue 수: 26
 가사 cue 수: 26
 번역 없는 가사 cue 수: 26
 SRT 파일: SRT/원본타임스탬프/reference-Q2QdceEJ4ayLgYZtzMep_큐티 허니.srt
+곡 그룹ID: songbook:Q2QdceEJ4ayLgYZtzMep
 
 자료 유형: 원본 타임스탬프
 곡명: 타상연화
@@ -16608,6 +17584,7 @@ cue 수: 53
 가사 cue 수: 53
 번역 없는 가사 cue 수: 53
 SRT 파일: SRT/원본타임스탬프/reference-mCfsVhrMmvjpRcn9dONk_타상연화.srt
+곡 그룹ID: songbook:mCfsVhrMmvjpRcn9dONk
 
 자료 유형: 원본 타임스탬프
 곡명: 탈옥
@@ -16625,6 +17602,7 @@ cue 수: 55
 가사 cue 수: 55
 번역 없는 가사 cue 수: 55
 SRT 파일: SRT/원본타임스탬프/reference-oELY8RkmZAANzjmU8g0I_탈옥.srt
+곡 그룹ID: songbook:oELY8RkmZAANzjmU8g0I
 
 자료 유형: 원본 타임스탬프
 곡명: 테러
@@ -16642,6 +17620,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-Ynst7rG8ZHGzHr2nxxy0_테러.srt
+곡 그룹ID: songbook:Ynst7rG8ZHGzHr2nxxy0
 
 자료 유형: 원본 타임스탬프
 곡명: 트리플 바카
@@ -16659,6 +17638,7 @@ cue 수: 48
 가사 cue 수: 48
 번역 없는 가사 cue 수: 48
 SRT 파일: SRT/원본타임스탬프/reference-XRqNLfkrE3zG2999NXF3_트리플 바카.srt
+곡 그룹ID: songbook:XRqNLfkrE3zG2999NXF3
 
 자료 유형: 원본 타임스탬프
 곡명: 패배의 소년
@@ -16676,6 +17656,7 @@ cue 수: 33
 가사 cue 수: 33
 번역 없는 가사 cue 수: 33
 SRT 파일: SRT/원본타임스탬프/reference-HQf78IigApVqQiNVjrNq_패배의 소년.srt
+곡 그룹ID: songbook:HQf78IigApVqQiNVjrNq
 
 자료 유형: 원본 타임스탬프
 곡명: 푸른 하늘의 랩소디
@@ -16693,6 +17674,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-F1srILtY4e6uwA1kXEuW_푸른 하늘의 랩소디.srt
+곡 그룹ID: songbook:F1srILtY4e6uwA1kXEuW
 
 자료 유형: 원본 타임스탬프
 곡명: 프러포즈
@@ -16710,6 +17692,7 @@ cue 수: 57
 가사 cue 수: 57
 번역 없는 가사 cue 수: 57
 SRT 파일: SRT/원본타임스탬프/reference-AiUo7pgnIaA7bWQfYoj8_프러포즈.srt
+곡 그룹ID: songbook:AiUo7pgnIaA7bWQfYoj8
 
 자료 유형: 원본 타임스탬프
 곡명: 프로포즈
@@ -16727,6 +17710,7 @@ cue 수: 49
 가사 cue 수: 49
 번역 없는 가사 cue 수: 49
 SRT 파일: SRT/원본타임스탬프/reference-3vOogwB4KsxlqYzib7Wt_프로포즈.srt
+곡 그룹ID: songbook:3vOogwB4KsxlqYzib7Wt
 
 자료 유형: 원본 타임스탬프
 곡명: 필라델피아
@@ -16744,6 +17728,7 @@ cue 수: 68
 가사 cue 수: 68
 번역 없는 가사 cue 수: 68
 SRT 파일: SRT/원본타임스탬프/reference-RPsVy2Nhl7bldlZKzGTg_필라델피아.srt
+곡 그룹ID: songbook:RPsVy2Nhl7bldlZKzGTg
 
 자료 유형: 원본 타임스탬프
 곡명: 하우 투 세계정복
@@ -16761,6 +17746,7 @@ cue 수: 21
 가사 cue 수: 21
 번역 없는 가사 cue 수: 21
 SRT 파일: SRT/원본타임스탬프/reference-58IS6F3RfEvELExPW47D_하우 투 세계정복.srt
+곡 그룹ID: songbook:58IS6F3RfEvELExPW47D
 
 자료 유형: 원본 타임스탬프
 곡명: 하츠네 미쿠의 소실
@@ -16778,6 +17764,7 @@ cue 수: 95
 가사 cue 수: 95
 번역 없는 가사 cue 수: 95
 SRT 파일: SRT/원본타임스탬프/reference-kAIKmQEZ4GlwjBxoRuoj_하츠네 미쿠의 소실.srt
+곡 그룹ID: songbook:kAIKmQEZ4GlwjBxoRuoj
 
 자료 유형: 원본 타임스탬프
 곡명: 한국을 빛낸 100명의 위인들
@@ -16795,6 +17782,7 @@ cue 수: 62
 가사 cue 수: 62
 번역 없는 가사 cue 수: 62
 SRT 파일: SRT/원본타임스탬프/reference-1kUzDeF4G10QwLzArCKi_한국을 빛낸 100명의 위인들.srt
+곡 그룹ID: songbook:1kUzDeF4G10QwLzArCKi
 
 자료 유형: 원본 타임스탬프
 곡명: 해피 신디사이저
@@ -16812,6 +17800,7 @@ cue 수: 50
 가사 cue 수: 50
 번역 없는 가사 cue 수: 50
 SRT 파일: SRT/원본타임스탬프/reference-zMS6IEEtt0fEcMXDLuHb_해피 신디사이저.srt
+곡 그룹ID: songbook:zMS6IEEtt0fEcMXDLuHb
 
 자료 유형: 원본 타임스탬프
 곡명: 호랑수월가
@@ -16829,6 +17818,7 @@ cue 수: 54
 가사 cue 수: 54
 번역 없는 가사 cue 수: 54
 SRT 파일: SRT/원본타임스탬프/reference-5uihNz5yLQwo8rL8jZCa_호랑수월가.srt
+곡 그룹ID: songbook:5uihNz5yLQwo8rL8jZCa
 
 자료 유형: 원본 타임스탬프
 곡명: 호랑풍류가
@@ -16846,6 +17836,7 @@ cue 수: 58
 가사 cue 수: 58
 번역 없는 가사 cue 수: 58
 SRT 파일: SRT/원본타임스탬프/reference-X1Z6SfxCnLGeauoI5RjG_호랑풍류가.srt
+곡 그룹ID: songbook:X1Z6SfxCnLGeauoI5RjG
 
 자료 유형: 원본 타임스탬프
 곡명: 호시아이
@@ -16863,6 +17854,7 @@ cue 수: 36
 가사 cue 수: 36
 번역 없는 가사 cue 수: 36
 SRT 파일: SRT/원본타임스탬프/reference-bTs5HKTIo4vKfJJseFqs_호시아이.srt
+곡 그룹ID: songbook:bTs5HKTIo4vKfJJseFqs
 
 자료 유형: 원본 타임스탬프
 곡명: 홍련의 화살
@@ -16880,6 +17872,7 @@ cue 수: 43
 가사 cue 수: 43
 번역 없는 가사 cue 수: 43
 SRT 파일: SRT/원본타임스탬프/reference-u269FmTaKWjhdPZt9Dxc_홍련의 화살.srt
+곡 그룹ID: songbook:u269FmTaKWjhdPZt9Dxc
 
 자료 유형: 원본 타임스탬프
 곡명: 홍연
@@ -16897,6 +17890,7 @@ cue 수: 34
 가사 cue 수: 34
 번역 없는 가사 cue 수: 34
 SRT 파일: SRT/원본타임스탬프/reference-NO2Dfk90fv85sQovdx4r_홍연.srt
+곡 그룹ID: songbook:NO2Dfk90fv85sQovdx4r
 
 자료 유형: 원본 타임스탬프
 곡명: 환부에서 멈춰서 바로 녹는다~광기의 우동게인
@@ -16914,6 +17908,7 @@ cue 수: 56
 가사 cue 수: 56
 번역 없는 가사 cue 수: 56
 SRT 파일: SRT/원본타임스탬프/reference-7YoRBdzNAlbXOi3HtVVC_환부에서 멈춰서 바로 녹는다~광기의 우동게인.srt
+곡 그룹ID: songbook:7YoRBdzNAlbXOi3HtVVC
 
 자료 유형: 원본 타임스탬프
 곡명: 휴루리라팟파
@@ -16931,3 +17926,4 @@ cue 수: 82
 가사 cue 수: 82
 번역 없는 가사 cue 수: 82
 SRT 파일: SRT/원본타임스탬프/reference-9lQjgyE4S9LgxzYEVDpj_휴루리라팟파.srt
+곡 그룹ID: songbook:9lQjgyE4S9LgxzYEVDpj
