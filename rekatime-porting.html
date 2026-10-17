@@ -432,7 +432,7 @@
     color: #fff; font: inherit; font-size: 20px; line-height: 1; cursor: pointer;
   }
   .inline-player-close:focus-visible { outline: 2px solid var(--eureka-yellow); outline-offset: 2px; }
-  
+
   /* 컨테이너 전체화면 모드 스타일 */
   .player-frame:fullscreen,
   .player-frame:-webkit-full-screen {
@@ -771,7 +771,7 @@
     <p class="pt-note">현재 큐를 붙여넣은 자막으로 교체합니다. 시작 시각과 빈 가사 구간을 유지하고 2초 미만의 가사 공백을 연결하며, 연결된 MR은 유지합니다. </p>
     <button id="pt-apply-srt" type="button">SRT 분석해서 배치</button>
   </details></div>
-<div id="pt-panel-timestamps" class="pt-setup-panel" role="tabpanel" aria-labelledby="pt-tab-timestamps" hidden><p class="pt-warning">(주의) 노래와 함께 타이밍 검증되지 않았음</p><h2>타임스탬프 확보 곡</h2><p class="pt-note">현재 가창 목록에서 이력을 찾지 못한 곡입니다. 원곡 참조 시각이며 연결한 Inst의 오프셋·판본·가사 종료와 간주는 직접 확인하세요.</p><label>곡 찾기<input id="pt-timestamp-search" type="search" placeholder="곡명 또는 원곡자" autocomplete="off"></label><label>타임스탬프 곡 선택<select id="pt-timestamp-song"><option value="">목록을 불러오는 중…</option></select></label><p id="pt-timestamp-count" class="pt-note" role="status"></p>  
+<div id="pt-panel-timestamps" class="pt-setup-panel" role="tabpanel" aria-labelledby="pt-tab-timestamps" hidden><p class="pt-warning">(주의) 노래와 함께 타이밍 검증되지 않았음</p><h2>타임스탬프 확보 곡</h2><p class="pt-note">현재 가창 목록에서 이력을 찾지 못한 곡입니다. 원곡 참조 시각이며 연결한 Inst의 오프셋·판본·가사 종료와 간주는 직접 확인하세요.</p><label>곡 찾기<input id="pt-timestamp-search" type="search" placeholder="곡명 또는 원곡자" autocomplete="off"></label><label>타임스탬프 곡 선택<select id="pt-timestamp-song"><option value="">목록을 불러오는 중…</option></select></label><p id="pt-timestamp-count" class="pt-note" role="status"></p>
 </div>
 <p id="pt-setup-status" class="pt-setup-status" role="status">Inst를 연결하고 자막을 지정하세요.</p><p id="pt-reference-warning" class="pt-warning" hidden>(주의) 노래와 함께 타이밍 검증되지 않았음</p></section>
   <fieldset id="pt-editor" class="pt-editor" disabled><legend class="sr-only">연결한 Inst와 자막 편집</legend><div class="pt-workspace">
