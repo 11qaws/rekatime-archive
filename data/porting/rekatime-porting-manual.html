@@ -1,4 +1,4 @@
-<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>사용 매뉴얼 · REKATIME PORTING</title><style>body{margin:0;background:#f7faf9;color:#182b25;font:15px/1.8 system-ui,sans-serif}main{max-width:900px;margin:auto;padding:28px 24px 60px}nav{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:20px}a,.kicker{color:#00765a}a:focus-visible{outline:2px solid #00765a;outline-offset:3px}.kicker{font-size:13px;font-weight:700;letter-spacing:.12em}h1{font-size:28px;line-height:1.4;margin:8px 0 18px}h2{font-size:20px;border-top:1px solid #cadbd5;padding-top:24px;margin-top:32px}p{white-space:pre-wrap;overflow-wrap:anywhere;margin:14px 0}</style><main><div class="kicker">REKATIME PORTING</div><nav><a href="../../rekatime-porting.html">편집 페이지로</a><a href="rekatime-porting-guide.txt" download>설명서 TXT</a><a href="rekatime-subtitles-status.csv" download>자료별 상태표</a><a href="rekatime-subtitles-coverage.csv" download>곡별 커버리지</a></nav><h1>REKATIME PORTING 사용설명서</h1><p>2026-10-18 · 1.1.125
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>사용 매뉴얼 · REKATIME PORTING</title><style>body{margin:0;background:#f7faf9;color:#182b25;font:15px/1.8 system-ui,sans-serif}main{max-width:900px;margin:auto;padding:28px 24px 60px}nav{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:20px}a,.kicker{color:#00765a}a:focus-visible{outline:2px solid #00765a;outline-offset:3px}.kicker{font-size:13px;font-weight:700;letter-spacing:.12em}h1{font-size:28px;line-height:1.4;margin:8px 0 18px}h2{font-size:20px;border-top:1px solid #cadbd5;padding-top:24px;margin-top:32px}p{white-space:pre-wrap;overflow-wrap:anywhere;margin:14px 0}</style><main><div class="kicker">REKATIME PORTING</div><nav><a href="../../rekatime-porting.html">편집 페이지로</a><a href="rekatime-porting-guide.txt" download>설명서 TXT</a><a href="rekatime-subtitles-status.csv" download>자료별 상태표</a><a href="rekatime-subtitles-coverage.csv" download>곡별 커버리지</a></nav><h1>REKATIME PORTING 사용설명서</h1><p>2026-10-18 · 1.1.126
 https://rekatime.pages.dev/rekatime-porting.html</p><h2>1. 수록 자료</h2><p>총 558곡, 996개 SRT를 담았습니다.
 - 노래 기록: 334곡의 SRT 558개
 - 원본 타임스탬프: 438곡의 SRT 438개
@@ -8,7 +8,7 @@ https://rekatime.pages.dev/rekatime-porting.html</p><h2>1. 수록 자료</h2><p>
 노래기록 + inst 연결: 곡명·날짜로 기록 선택 → Inst 연결.
 이력없음 + inst 연결: 미가창 전용 178건에서 선택 → Inst 연결.
 SRT + inst 연결: SRT 텍스트 붙여넣기 → &#x27;SRT 분석해서 배치&#x27; → Inst 연결.
-검색 결과의 섬네일은 새 탭 확인, 제목은 Inst 연결입니다.</p><h2>3. 시간 조절</h2><p>전체 오프셋: 초 단위 입력 후 적용. +1은 1초 늦추기, -1은 1초 앞당기기입니다. 값은 전체 보정량입니다.
+검색 결과의 섬네일을 통해 새 탭으로 유튜브 확인, 제목은 Inst 연결입니다.</p><h2>3. 시간 조절</h2><p>전체 오프셋: 초 단위 입력 후 적용. +1은 1초 늦추기, -1은 1초 앞당기기입니다. 값은 전체 보정량입니다.
 개별 cue: 일시정지 → 큐 블록/우측 행 선택 → 시작·종료 시각 입력 또는 &#x27;현재 시각으로&#x27;.
 드래그: 전환점 타임스탬프를 좌우로 끌어 조정합니다. 공통 전환점은 앞 cue 끝과 다음 cue 시작이 함께 움직입니다.
 타임라인 배경 드래그는 재생 위치를 탐색합니다.
