@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-19T02:46:08.369170+00:00",
+  "generated_at": "2026-10-19T02:50:07.385290+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
   "managed_song_count": 637,
@@ -369,12 +369,6 @@
     {
       "youtube_job": "chzzk-14411850",
       "source_job": "chzzk-14411850",
-      "sequence": 28,
-      "error": "Approved archive cue binding is stale: chzzk-14411850:028"
-    },
-    {
-      "youtube_job": "chzzk-14411850",
-      "source_job": "chzzk-14411850",
       "sequence": 3,
       "error": "Approved archive cue binding is stale: chzzk-14411850:003"
     },
@@ -467,6 +461,12 @@
       "source_job": "chzzk-14411850",
       "sequence": 23,
       "error": "Approved archive cue binding is stale: chzzk-14411850:023"
+    },
+    {
+      "youtube_job": "chzzk-14411850",
+      "source_job": "chzzk-14411850",
+      "sequence": 28,
+      "error": "Approved archive cue binding is stale: chzzk-14411850:028"
     },
     {
       "youtube_job": "chzzk-15631910",
@@ -735,6 +735,12 @@
     {
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
+      "sequence": 12,
+      "error": "archive classification is not audited: 14524675"
+    },
+    {
+      "youtube_job": "chzzk-14524675",
+      "source_job": "chzzk-14524675",
       "sequence": 17,
       "error": "archive classification is not audited: 14524675"
     },
@@ -760,6 +766,12 @@
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 41,
+      "error": "archive classification is not audited: 14524675"
+    },
+    {
+      "youtube_job": "chzzk-14524675",
+      "source_job": "chzzk-14524675",
+      "sequence": 46,
       "error": "archive classification is not audited: 14524675"
     },
     {
@@ -802,12 +814,6 @@
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 10,
-      "error": "archive classification is not audited: 14524675"
-    },
-    {
-      "youtube_job": "chzzk-14524675",
-      "source_job": "chzzk-14524675",
-      "sequence": 12,
       "error": "archive classification is not audited: 14524675"
     },
     {
@@ -874,12 +880,6 @@
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 45,
-      "error": "archive classification is not audited: 14524675"
-    },
-    {
-      "youtube_job": "chzzk-14524675",
-      "source_job": "chzzk-14524675",
-      "sequence": 46,
       "error": "archive classification is not audited: 14524675"
     },
     {
