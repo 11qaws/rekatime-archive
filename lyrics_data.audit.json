@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-21T12:22:23.567471+00:00",
+  "generated_at": "2026-10-21T12:27:19.477404+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
   "managed_song_count": 637,
@@ -301,34 +301,10 @@
       "error": "Approved archive cue binding is stale: chzzk-15509266:005"
     },
     {
-      "youtube_job": "chzzk-15069207",
-      "source_job": "chzzk-15069207",
-      "sequence": 13,
-      "error": "Approved archive cue binding is stale: chzzk-15069207:013"
-    },
-    {
-      "youtube_job": "chzzk-15069207",
-      "source_job": "chzzk-15069207",
-      "sequence": 10,
-      "error": "Approved archive cue binding is stale: chzzk-15069207:010"
-    },
-    {
-      "youtube_job": "chzzk-15069207",
-      "source_job": "chzzk-15069207",
-      "sequence": 11,
-      "error": "Approved archive cue binding is stale: chzzk-15069207:011"
-    },
-    {
       "youtube_job": "chzzk-15051325",
       "source_job": "chzzk-15051325",
       "sequence": 19,
       "error": "Approved archive cue binding is stale: chzzk-15051325:019"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 24,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:024"
     },
     {
       "youtube_job": "chzzk-15051325",
@@ -365,6 +341,30 @@
       "source_job": "chzzk-15051325",
       "sequence": 13,
       "error": "Approved archive cue binding is stale: chzzk-15051325:013"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 24,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:024"
+    },
+    {
+      "youtube_job": "chzzk-15069207",
+      "source_job": "chzzk-15069207",
+      "sequence": 13,
+      "error": "Approved archive cue binding is stale: chzzk-15069207:013"
+    },
+    {
+      "youtube_job": "chzzk-15069207",
+      "source_job": "chzzk-15069207",
+      "sequence": 10,
+      "error": "Approved archive cue binding is stale: chzzk-15069207:010"
+    },
+    {
+      "youtube_job": "chzzk-15069207",
+      "source_job": "chzzk-15069207",
+      "sequence": 11,
+      "error": "Approved archive cue binding is stale: chzzk-15069207:011"
     },
     {
       "youtube_job": "chzzk-15691598",
