@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-23T12:16:53.355051+00:00",
+  "generated_at": "2026-10-23T17:06:45.156737+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
   "managed_song_count": 637,
@@ -199,6 +199,54 @@
       "error": "Approved archive cue binding is stale: chzzk-14953860:006"
     },
     {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 19,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:019"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 24,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:024"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 2,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:002"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 12,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:012"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 16,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:016"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 4,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:004"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 13,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:013"
+    },
+    {
+      "youtube_job": "chzzk-15051325",
+      "source_job": "chzzk-15051325",
+      "sequence": 18,
+      "error": "Approved archive cue binding is stale: chzzk-15051325:018"
+    },
+    {
       "youtube_job": "chzzk-14756908",
       "source_job": "chzzk-14756908",
       "sequence": 1,
@@ -241,6 +289,42 @@
       "error": "archive classification is not audited: 14756908"
     },
     {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 4,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:004"
+    },
+    {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 10,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:010"
+    },
+    {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 12,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:012"
+    },
+    {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 26,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:026"
+    },
+    {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 11,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:011"
+    },
+    {
+      "youtube_job": "chzzk-14805053",
+      "source_job": "chzzk-14805053",
+      "sequence": 28,
+      "error": "Approved archive cue binding is stale: chzzk-14805053:028"
+    },
+    {
       "youtube_job": "chzzk-15134820",
       "source_job": "chzzk-15134820",
       "sequence": 5,
@@ -275,90 +359,6 @@
       "source_job": "chzzk-15509266",
       "sequence": 5,
       "error": "Approved archive cue binding is stale: chzzk-15509266:005"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 19,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:019"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 4,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:004"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 24,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:024"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 2,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:002"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 12,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:012"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 16,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:016"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 13,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:013"
-    },
-    {
-      "youtube_job": "chzzk-15051325",
-      "source_job": "chzzk-15051325",
-      "sequence": 18,
-      "error": "Approved archive cue binding is stale: chzzk-15051325:018"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 4,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:004"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 10,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:010"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 12,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:012"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 28,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:028"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 26,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:026"
-    },
-    {
-      "youtube_job": "chzzk-14805053",
-      "source_job": "chzzk-14805053",
-      "sequence": 11,
-      "error": "Approved archive cue binding is stale: chzzk-14805053:011"
     },
     {
       "youtube_job": "chzzk-15691598",
@@ -771,12 +771,6 @@
     {
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
-      "sequence": 1,
-      "error": "archive classification is not audited: 14524675"
-    },
-    {
-      "youtube_job": "chzzk-14524675",
-      "source_job": "chzzk-14524675",
       "sequence": 19,
       "error": "archive classification is not audited: 14524675"
     },
@@ -898,6 +892,12 @@
       "youtube_job": "chzzk-14524675",
       "source_job": "chzzk-14524675",
       "sequence": 58,
+      "error": "archive classification is not audited: 14524675"
+    },
+    {
+      "youtube_job": "chzzk-14524675",
+      "source_job": "chzzk-14524675",
+      "sequence": 1,
       "error": "archive classification is not audited: 14524675"
     },
     {
