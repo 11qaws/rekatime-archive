@@ -1,7 +1,7 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-10-23T18:21:36.858290+00:00",
+  "generated_at": "2026-10-23T20:41:44.787222+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
   "managed_song_count": 637,
@@ -669,12 +669,6 @@
     {
       "youtube_job": "chzzk-15631910",
       "source_job": "chzzk-15631910",
-      "sequence": 23,
-      "error": "Approved archive cue binding is stale: chzzk-15631910:023"
-    },
-    {
-      "youtube_job": "chzzk-15631910",
-      "source_job": "chzzk-15631910",
       "sequence": 28,
       "error": "Approved archive cue binding is stale: chzzk-15631910:028"
     },
@@ -717,6 +711,12 @@
     {
       "youtube_job": "chzzk-15631910",
       "source_job": "chzzk-15631910",
+      "sequence": 30,
+      "error": "Approved archive cue binding is stale: chzzk-15631910:030"
+    },
+    {
+      "youtube_job": "chzzk-15631910",
+      "source_job": "chzzk-15631910",
       "sequence": 9,
       "error": "Approved archive cue binding is stale: chzzk-15631910:009"
     },
@@ -735,8 +735,8 @@
     {
       "youtube_job": "chzzk-15631910",
       "source_job": "chzzk-15631910",
-      "sequence": 30,
-      "error": "Approved archive cue binding is stale: chzzk-15631910:030"
+      "sequence": 23,
+      "error": "Approved archive cue binding is stale: chzzk-15631910:023"
     },
     {
       "youtube_job": "chzzk-15631910",
@@ -955,30 +955,6 @@
       "error": "Approved archive cue binding is stale: YzJm-mk52WM:029"
     },
     {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
-      "sequence": 21,
-      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:021"
-    },
-    {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
-      "sequence": 41,
-      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:041"
-    },
-    {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
-      "sequence": 43,
-      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:043"
-    },
-    {
-      "youtube_job": "ZFMg5irJJU8",
-      "source_job": "ZFMg5irJJU8",
-      "sequence": 1,
-      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:001"
-    },
-    {
       "youtube_job": "chzzk-15728020",
       "source_job": "chzzk-15728020",
       "sequence": 35,
@@ -1041,12 +1017,6 @@
     {
       "youtube_job": "chzzk-15728020",
       "source_job": "chzzk-15728020",
-      "sequence": 56,
-      "error": "Approved archive cue binding is stale: chzzk-15728020:056"
-    },
-    {
-      "youtube_job": "chzzk-15728020",
-      "source_job": "chzzk-15728020",
       "sequence": 50,
       "error": "Approved archive cue binding is stale: chzzk-15728020:050"
     },
@@ -1077,8 +1047,38 @@
     {
       "youtube_job": "chzzk-15728020",
       "source_job": "chzzk-15728020",
+      "sequence": 56,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:056"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
       "sequence": 58,
       "error": "Approved archive cue binding is stale: chzzk-15728020:058"
+    },
+    {
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
+      "sequence": 21,
+      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:021"
+    },
+    {
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
+      "sequence": 41,
+      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:041"
+    },
+    {
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
+      "sequence": 43,
+      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:043"
+    },
+    {
+      "youtube_job": "ZFMg5irJJU8",
+      "source_job": "ZFMg5irJJU8",
+      "sequence": 1,
+      "error": "Approved archive cue binding is stale: ZFMg5irJJU8:001"
     }
   ],
   "removed_stale_duplicates": []
