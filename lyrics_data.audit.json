@@ -1,10 +1,10 @@
 {
   "version": 1,
   "status": "pending",
-  "generated_at": "2026-11-11T07:40:48.536410+00:00",
+  "generated_at": "2026-11-15T17:37:03.749674+00:00",
   "lyrics_data_path": "H:\\Rekatime\\Agents\\rekatime-clips\\Codex\\workspace\\lyrics_data.json",
   "lyrics_data_sha256": "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f",
-  "managed_song_count": 818,
+  "managed_song_count": 824,
   "synced_verified_song_count": 0,
   "excluded_archive_song_count": 22,
   "excluded_archive_broadcasts": [
@@ -483,6 +483,30 @@
     {
       "youtube_job": "chzzk-14411850",
       "source_job": "chzzk-14411850",
+      "sequence": 1,
+      "error": "Approved archive cue binding is stale: chzzk-14411850:001"
+    },
+    {
+      "youtube_job": "chzzk-14411850",
+      "source_job": "chzzk-14411850",
+      "sequence": 2,
+      "error": "Approved archive cue binding is stale: chzzk-14411850:002"
+    },
+    {
+      "youtube_job": "chzzk-14411850",
+      "source_job": "chzzk-14411850",
+      "sequence": 14,
+      "error": "Approved archive cue binding is stale: chzzk-14411850:014"
+    },
+    {
+      "youtube_job": "chzzk-14411850",
+      "source_job": "chzzk-14411850",
+      "sequence": 18,
+      "error": "Approved archive cue binding is stale: chzzk-14411850:018"
+    },
+    {
+      "youtube_job": "chzzk-14411850",
+      "source_job": "chzzk-14411850",
       "sequence": 3,
       "error": "Approved archive cue binding is stale: chzzk-14411850:003"
     },
@@ -719,6 +743,30 @@
       "source_job": "chzzk-14489268",
       "sequence": 43,
       "error": "Approved archive cue binding is stale: chzzk-14489268:043"
+    },
+    {
+      "youtube_job": "chzzk-14489268",
+      "source_job": "chzzk-14489268",
+      "sequence": 9,
+      "error": "Approved archive cue binding is stale: chzzk-14489268:009"
+    },
+    {
+      "youtube_job": "chzzk-14489268",
+      "source_job": "chzzk-14489268",
+      "sequence": 11,
+      "error": "Approved archive cue binding is stale: chzzk-14489268:011"
+    },
+    {
+      "youtube_job": "chzzk-14489268",
+      "source_job": "chzzk-14489268",
+      "sequence": 15,
+      "error": "Approved archive cue binding is stale: chzzk-14489268:015"
+    },
+    {
+      "youtube_job": "chzzk-14489268",
+      "source_job": "chzzk-14489268",
+      "sequence": 26,
+      "error": "Approved archive cue binding is stale: chzzk-14489268:026"
     },
     {
       "youtube_job": "chzzk-14489268",
@@ -1065,6 +1113,54 @@
     {
       "youtube_job": "chzzk-15728020",
       "source_job": "chzzk-15728020",
+      "sequence": 5,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:005"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 21,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:021"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 28,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:028"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 41,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:041"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 46,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:046"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 47,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:047"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 49,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:049"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
+      "sequence": 59,
+      "error": "Approved archive cue binding is stale: chzzk-15728020:059"
+    },
+    {
+      "youtube_job": "chzzk-15728020",
+      "source_job": "chzzk-15728020",
       "sequence": 9,
       "error": "Approved archive cue binding is stale: chzzk-15728020:009"
     },
@@ -1109,6 +1205,84 @@
       "source_job": "ZFMg5irJJU8",
       "sequence": 1,
       "error": "Approved archive cue binding is stale: ZFMg5irJJU8:001"
+    },
+    {
+      "youtube_job": "UBCB2e0Aik4",
+      "source_job": "UBCB2e0Aik4",
+      "sequence": 2,
+      "error": "Approved archive cue binding is stale: UBCB2e0Aik4:002"
+    },
+    {
+      "youtube_job": "UBCB2e0Aik4",
+      "source_job": "UBCB2e0Aik4",
+      "sequence": 3,
+      "error": "Approved archive cue binding is stale: UBCB2e0Aik4:003"
+    },
+    {
+      "youtube_job": "UBCB2e0Aik4",
+      "source_job": "UBCB2e0Aik4",
+      "sequence": 24,
+      "error": "Approved archive cue binding is stale: UBCB2e0Aik4:024"
+    },
+    {
+      "youtube_job": "UBCB2e0Aik4",
+      "source_job": "UBCB2e0Aik4",
+      "sequence": 36,
+      "error": "Approved archive cue binding is stale: UBCB2e0Aik4:036"
+    },
+    {
+      "youtube_job": "chzzk-15522591",
+      "source_job": "chzzk-15522591",
+      "sequence": 1,
+      "error": "Approved archive cue binding is stale: chzzk-15522591:001"
+    },
+    {
+      "youtube_job": "chzzk-15856482",
+      "source_job": "chzzk-15856482",
+      "sequence": 3,
+      "error": "Approved archive cue binding is stale: chzzk-15856482:003"
+    },
+    {
+      "youtube_job": "chzzk-15856482",
+      "source_job": "chzzk-15856482",
+      "sequence": 4,
+      "error": "Approved archive cue binding is stale: chzzk-15856482:004"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 3,
+      "error": "ambiguous archive performance: 15954222:003 고고 유령선"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 6,
+      "error": "ambiguous archive performance: 15954222:006 Mrs.Pumpkin의 우스꽝스러운 꿈"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 10,
+      "error": "ambiguous archive performance: 15954222:010 Trick and Treat"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 15,
+      "error": "ambiguous archive performance: 15954222:015 캔디 쿠키 초콜렛"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 16,
+      "error": "ambiguous archive performance: 15954222:016 데몬 로드"
+    },
+    {
+      "youtube_job": "chzzk-15954222",
+      "source_job": "chzzk-15954222",
+      "sequence": 18,
+      "error": "ambiguous archive performance: 15954222:018 마녀"
     }
   ],
   "removed_stale_duplicates": []
