@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T22:36:49.153021+00:00",
- "source_revision": "cb31b3ee2c452cfb",
+ "generated_at": "2026-11-20T22:38:47.622479+00:00",
+ "source_revision": "1bb677334857dc81",
  "annotation_revision": "e600bff17d161753",
  "main": {
   "book": [
@@ -8484,7 +8484,7 @@
     "id": "jD4lMfibJ7ZxUnnm60l3",
     "t": "숙성 로리신 레퀴엠",
     "a": "IOSYS",
-    "g": "J-POP/애니",
+    "g": "OTHERS/기타",
     "k": [
      "시구레 우이"
     ],
@@ -10425,7 +10425,7 @@
    },
    {
     "id": "toppyng-cmup2wkkw01ss3jpfb2nzcjmi",
-    "t": "익명M (유레카.ver)",
+    "t": "익명 M (유레카.ver)",
     "a": "피노키오",
     "g": "VOCALOID",
     "k": [],
@@ -23673,7 +23673,7 @@
     "song_id": "jD4lMfibJ7ZxUnnm60l3",
     "title": "숙성 로리신 레퀴엠",
     "artist": "IOSYS",
-    "genre": "J-POP/애니",
+    "genre": "OTHERS/기타",
     "tags": [
      "시구레 우이"
     ],
@@ -42901,10 +42901,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "cb31b3ee2c452cfb",
+   "source_revision": "1bb677334857dc81",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:36:49.153021+00:00",
+   "generated_at": "2026-11-20T22:38:47.622479+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -103703,7 +103703,7 @@
     "id": "jD4lMfibJ7ZxUnnm60l3",
     "t": "숙성 로리신 레퀴엠",
     "a": "IOSYS",
-    "g": "J-POP/애니",
+    "g": "OTHERS/기타",
     "k": [
      "시구레 우이"
     ],
@@ -105644,7 +105644,7 @@
    },
    {
     "id": "toppyng-cmup2wkkw01ss3jpfb2nzcjmi",
-    "t": "익명M (유레카.ver)",
+    "t": "익명 M (유레카.ver)",
     "a": "피노키오",
     "g": "VOCALOID",
     "k": [],
@@ -107234,10 +107234,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "cb31b3ee2c452cfb",
+   "source_revision": "1bb677334857dc81",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:36:49.153021+00:00",
+   "generated_at": "2026-11-20T22:38:47.622479+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -107285,12 +107285,12 @@
    {
     "genre": "J-POP/애니",
     "color": "#4dd8ff",
-    "catalog_count": 289,
-    "catalog_share": 0.2842,
+    "catalog_count": 288,
+    "catalog_share": 0.2832,
     "performed_count": 336,
     "performed_share": 0.35,
     "unique_songs": 169,
-    "coverage": 0.5848
+    "coverage": 0.5868
    },
    {
     "genre": "ENGLISH/영어",
@@ -107305,12 +107305,12 @@
    {
     "genre": "OTHERS/기타",
     "color": "#94a3b8",
-    "catalog_count": 47,
-    "catalog_share": 0.0462,
+    "catalog_count": 48,
+    "catalog_share": 0.0472,
     "performed_count": 46,
     "performed_share": 0.0479,
     "unique_songs": 22,
-    "coverage": 0.4681
+    "coverage": 0.4583
    },
    {
     "genre": "KOREAN/한국어",
@@ -115124,7 +115124,7 @@
     "song_id": "jD4lMfibJ7ZxUnnm60l3",
     "title": "숙성 로리신 레퀴엠",
     "artist": "IOSYS",
-    "genre": "J-POP/애니",
+    "genre": "OTHERS/기타",
     "tags": [
      "시구레 우이"
     ],
@@ -133809,10 +133809,10 @@
   "meta": {
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "cb31b3ee2c452cfb",
+   "source_revision": "1bb677334857dc81",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:36:49.153021+00:00",
+   "generated_at": "2026-11-20T22:38:47.622479+00:00",
    "sessions": 37,
    "performances": 966,
    "songs": 1034,
