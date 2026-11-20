@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T22:34:50.402179+00:00",
- "source_revision": "a3fa608ed82a783a",
+ "generated_at": "2026-11-20T22:36:49.153021+00:00",
+ "source_revision": "cb31b3ee2c452cfb",
  "annotation_revision": "e600bff17d161753",
  "main": {
   "book": [
@@ -2920,7 +2920,7 @@
     "id": "Fr7Qt7VpA6LCcdGoiq1H",
     "t": "자그마한 나",
     "a": "마사라다",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [
      "카사네 테토"
     ],
@@ -9229,7 +9229,7 @@
     "id": "mMq9hGayAozy7JOdyihu",
     "t": "처단하겠다AAAAA아!",
     "a": "WONDERFUL★OPPORTUNITY!",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [
      "카가미네 린",
      "카가미네 렌"
@@ -10817,7 +10817,7 @@
     "id": "toppyng-cmwl7uvwi000107qcxvp9vamd",
     "t": "익명 M (유메카.ver)",
     "a": "피노키오",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 0,
     "added_at": "2026-11-18",
@@ -31881,7 +31881,7 @@
     "song_id": "mMq9hGayAozy7JOdyihu",
     "title": "처단하겠다AAAAA아!",
     "artist": "WONDERFUL★OPPORTUNITY!",
-    "genre": "VOCALOID",
+    "genre": "OTHERS/기타",
     "tags": [
      "카가미네 린",
      "카가미네 렌"
@@ -42901,10 +42901,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "a3fa608ed82a783a",
+   "source_revision": "cb31b3ee2c452cfb",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:34:50.402179+00:00",
+   "generated_at": "2026-11-20T22:36:49.153021+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -98139,7 +98139,7 @@
     "id": "Fr7Qt7VpA6LCcdGoiq1H",
     "t": "자그마한 나",
     "a": "마사라다",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [
      "카사네 테토"
     ],
@@ -104448,7 +104448,7 @@
     "id": "mMq9hGayAozy7JOdyihu",
     "t": "처단하겠다AAAAA아!",
     "a": "WONDERFUL★OPPORTUNITY!",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [
      "카가미네 린",
      "카가미네 렌"
@@ -106036,7 +106036,7 @@
     "id": "toppyng-cmwl7uvwi000107qcxvp9vamd",
     "t": "익명 M (유메카.ver)",
     "a": "피노키오",
-    "g": "VOCALOID",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 0,
     "added_at": "2026-11-18",
@@ -107234,10 +107234,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "a3fa608ed82a783a",
+   "source_revision": "cb31b3ee2c452cfb",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:34:50.402179+00:00",
+   "generated_at": "2026-11-20T22:36:49.153021+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -107275,12 +107275,12 @@
    {
     "genre": "VOCALOID",
     "color": "#00ffa3",
-    "catalog_count": 510,
-    "catalog_share": 0.5015,
+    "catalog_count": 507,
+    "catalog_share": 0.4985,
     "performed_count": 393,
     "performed_share": 0.4094,
     "unique_songs": 225,
-    "coverage": 0.4412
+    "coverage": 0.4438
    },
    {
     "genre": "J-POP/애니",
@@ -107305,12 +107305,12 @@
    {
     "genre": "OTHERS/기타",
     "color": "#94a3b8",
-    "catalog_count": 44,
-    "catalog_share": 0.0433,
+    "catalog_count": 47,
+    "catalog_share": 0.0462,
     "performed_count": 46,
     "performed_share": 0.0479,
     "unique_songs": 22,
-    "coverage": 0.5
+    "coverage": 0.4681
    },
    {
     "genre": "KOREAN/한국어",
@@ -122436,7 +122436,7 @@
     "song_id": "mMq9hGayAozy7JOdyihu",
     "title": "처단하겠다AAAAA아!",
     "artist": "WONDERFUL★OPPORTUNITY!",
-    "genre": "VOCALOID",
+    "genre": "OTHERS/기타",
     "tags": [
      "카가미네 린",
      "카가미네 렌"
@@ -133809,10 +133809,10 @@
   "meta": {
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "a3fa608ed82a783a",
+   "source_revision": "cb31b3ee2c452cfb",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:34:50.402179+00:00",
+   "generated_at": "2026-11-20T22:36:49.153021+00:00",
    "sessions": 37,
    "performances": 966,
    "songs": 1034,
