@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T22:38:47.622479+00:00",
- "source_revision": "1bb677334857dc81",
+ "generated_at": "2026-11-22T06:49:02.176999+00:00",
+ "source_revision": "f3472f19fbe20bc1",
  "annotation_revision": "e600bff17d161753",
  "main": {
   "book": [
@@ -10417,7 +10417,7 @@
     "id": "toppyng-cmup2wk1s01nw3jpfzkcahmss",
     "t": "스칼렛 경찰의 게토 패트롤 24 24시",
     "a": "IOSYS",
-    "g": "J-POP/애니",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 0,
     "added_at": "2026-10-25",
@@ -42901,10 +42901,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "1bb677334857dc81",
+   "source_revision": "f3472f19fbe20bc1",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:38:47.622479+00:00",
+   "generated_at": "2026-11-22T06:49:02.176999+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -105636,7 +105636,7 @@
     "id": "toppyng-cmup2wk1s01nw3jpfzkcahmss",
     "t": "스칼렛 경찰의 게토 패트롤 24 24시",
     "a": "IOSYS",
-    "g": "J-POP/애니",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 0,
     "added_at": "2026-10-25",
@@ -107234,10 +107234,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "1bb677334857dc81",
+   "source_revision": "f3472f19fbe20bc1",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:38:47.622479+00:00",
+   "generated_at": "2026-11-22T06:49:02.176999+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -107285,12 +107285,12 @@
    {
     "genre": "J-POP/애니",
     "color": "#4dd8ff",
-    "catalog_count": 288,
-    "catalog_share": 0.2832,
+    "catalog_count": 287,
+    "catalog_share": 0.2822,
     "performed_count": 336,
     "performed_share": 0.35,
     "unique_songs": 169,
-    "coverage": 0.5868
+    "coverage": 0.5889
    },
    {
     "genre": "ENGLISH/영어",
@@ -107305,12 +107305,12 @@
    {
     "genre": "OTHERS/기타",
     "color": "#94a3b8",
-    "catalog_count": 48,
-    "catalog_share": 0.0472,
+    "catalog_count": 49,
+    "catalog_share": 0.0482,
     "performed_count": 46,
     "performed_share": 0.0479,
     "unique_songs": 22,
-    "coverage": 0.4583
+    "coverage": 0.449
    },
    {
     "genre": "KOREAN/한국어",
@@ -133809,10 +133809,10 @@
   "meta": {
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "1bb677334857dc81",
+   "source_revision": "f3472f19fbe20bc1",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-20T22:38:47.622479+00:00",
+   "generated_at": "2026-11-22T06:49:02.176999+00:00",
    "sessions": 37,
    "performances": 966,
    "songs": 1034,
