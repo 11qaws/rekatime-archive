@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T06:49:02.176999+00:00",
- "source_revision": "f3472f19fbe20bc1",
+ "generated_at": "2026-11-22T09:00:57.658403+00:00",
+ "source_revision": "180f5edbc40bcc71",
  "annotation_revision": "e600bff17d161753",
  "main": {
   "book": [
@@ -3037,7 +3037,7 @@
     "id": "Gi1LuFy97nniVMnNcVei",
     "t": "잊혀지지 못할 언어 (영어)",
     "a": "미래고대악단",
-    "g": "ENGLISH/영어",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 4,
     "added_at": "2026-08-12",
@@ -17713,7 +17713,7 @@
     "song_id": "Gi1LuFy97nniVMnNcVei",
     "title": "잊혀지지 못할 언어 (영어)",
     "artist": "미래고대악단",
-    "genre": "ENGLISH/영어",
+    "genre": "OTHERS/기타",
     "tags": [],
     "takes": [
      {
@@ -42901,10 +42901,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "f3472f19fbe20bc1",
+   "source_revision": "180f5edbc40bcc71",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T06:49:02.176999+00:00",
+   "generated_at": "2026-11-22T09:00:57.658403+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -98256,7 +98256,7 @@
     "id": "Gi1LuFy97nniVMnNcVei",
     "t": "잊혀지지 못할 언어 (영어)",
     "a": "미래고대악단",
-    "g": "ENGLISH/영어",
+    "g": "OTHERS/기타",
     "k": [],
     "n": 4,
     "added_at": "2026-08-12",
@@ -107234,10 +107234,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "f3472f19fbe20bc1",
+   "source_revision": "180f5edbc40bcc71",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T06:49:02.176999+00:00",
+   "generated_at": "2026-11-22T09:00:57.658403+00:00",
    "performances": 966,
    "songs": 1034,
    "articles": 20,
@@ -107295,22 +107295,22 @@
    {
     "genre": "ENGLISH/영어",
     "color": "#c08cff",
-    "catalog_count": 150,
-    "catalog_share": 0.1475,
+    "catalog_count": 149,
+    "catalog_share": 0.1465,
     "performed_count": 137,
     "performed_share": 0.1427,
     "unique_songs": 76,
-    "coverage": 0.5067
+    "coverage": 0.5101
    },
    {
     "genre": "OTHERS/기타",
     "color": "#94a3b8",
-    "catalog_count": 49,
-    "catalog_share": 0.0482,
+    "catalog_count": 50,
+    "catalog_share": 0.0492,
     "performed_count": 46,
     "performed_share": 0.0479,
     "unique_songs": 22,
-    "coverage": 0.449
+    "coverage": 0.44
    },
    {
     "genre": "KOREAN/한국어",
@@ -110423,7 +110423,7 @@
     "song_id": "Gi1LuFy97nniVMnNcVei",
     "title": "잊혀지지 못할 언어 (영어)",
     "artist": "미래고대악단",
-    "genre": "ENGLISH/영어",
+    "genre": "OTHERS/기타",
     "tags": [],
     "count": 4,
     "first_date": "2026-08-09",
@@ -133809,10 +133809,10 @@
   "meta": {
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "f3472f19fbe20bc1",
+   "source_revision": "180f5edbc40bcc71",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T06:49:02.176999+00:00",
+   "generated_at": "2026-11-22T09:00:57.658403+00:00",
    "sessions": 37,
    "performances": 966,
    "songs": 1034,
