@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T11:14:07.975615+00:00",
- "source_revision": "85af716370d833a1",
+ "generated_at": "2026-11-22T11:23:57.191971+00:00",
+ "source_revision": "793535216c498ce2",
  "annotation_revision": "e600bff17d161753",
  "main": {
   "book": [
@@ -10827,7 +10827,7 @@
     "id": "toppyng-cmwrqnjtf001109pebmn7osx7",
     "t": "Eclipse Parade",
     "a": "하츠키 유라",
-    "g": "OTHERS/기타",
+    "g": "J-POP/애니",
     "k": [],
     "n": 0,
     "added_at": "2026-11-22",
@@ -42911,10 +42911,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "85af716370d833a1",
+   "source_revision": "793535216c498ce2",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T11:14:07.975615+00:00",
+   "generated_at": "2026-11-22T11:23:57.191971+00:00",
    "performances": 966,
    "songs": 1035,
    "articles": 20,
@@ -106056,7 +106056,7 @@
     "id": "toppyng-cmwrqnjtf001109pebmn7osx7",
     "t": "Eclipse Parade",
     "a": "하츠키 유라",
-    "g": "OTHERS/기타",
+    "g": "J-POP/애니",
     "k": [],
     "n": 0,
     "added_at": "2026-11-22",
@@ -107254,10 +107254,10 @@
    "stats_url": "stats.html",
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "85af716370d833a1",
+   "source_revision": "793535216c498ce2",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T11:14:07.975615+00:00",
+   "generated_at": "2026-11-22T11:23:57.191971+00:00",
    "performances": 966,
    "songs": 1035,
    "articles": 20,
@@ -107305,12 +107305,12 @@
    {
     "genre": "J-POP/애니",
     "color": "#4dd8ff",
-    "catalog_count": 287,
-    "catalog_share": 0.2819,
+    "catalog_count": 288,
+    "catalog_share": 0.2829,
     "performed_count": 336,
     "performed_share": 0.35,
     "unique_songs": 169,
-    "coverage": 0.5889
+    "coverage": 0.5868
    },
    {
     "genre": "ENGLISH/영어",
@@ -107325,12 +107325,12 @@
    {
     "genre": "OTHERS/기타",
     "color": "#94a3b8",
-    "catalog_count": 51,
-    "catalog_share": 0.0501,
+    "catalog_count": 50,
+    "catalog_share": 0.0491,
     "performed_count": 46,
     "performed_share": 0.0479,
     "unique_songs": 22,
-    "coverage": 0.4314
+    "coverage": 0.44
    },
    {
     "genre": "KOREAN/한국어",
@@ -133829,10 +133829,10 @@
   "meta": {
    "schema_version": 2,
    "source": "rekatime",
-   "source_revision": "85af716370d833a1",
+   "source_revision": "793535216c498ce2",
    "annotation_revision": "e600bff17d161753",
    "playback_status_revision": "1bd9ae828ce49a4b",
-   "generated_at": "2026-11-22T11:14:07.975615+00:00",
+   "generated_at": "2026-11-22T11:23:57.191971+00:00",
    "sessions": 37,
    "performances": 966,
    "songs": 1034,
